@@ -1,0 +1,146 @@
+.profile-upgrade {
+  grid-column: 1 / -1;
+  display: grid;
+  gap: 10px;
+}
+
+.profile-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.influencer-card .profile-actions a {
+  grid-column: auto;
+  margin-top: 0;
+  width: auto;
+  color: #00150b;
+  background: var(--green);
+  border: 1px solid var(--green);
+  box-shadow: 3px 3px 0 #00ff8840;
+}
+
+.influencer-card .profile-actions a:nth-child(2) {
+  color: var(--green);
+  background: #020604;
+  border-color: var(--line2);
+}
+
+.power-console {
+  border: 1px solid #00ff8866;
+  background:
+    linear-gradient(180deg, #00ff880d, transparent 45%),
+    repeating-linear-gradient(0deg, #00ff8808 0 1px, transparent 1px 8px),
+    #020604;
+  padding: 10px;
+  box-shadow: inset 0 0 0 1px #000, 0 0 18px #00ff8814;
+}
+
+.power-console summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  color: var(--white);
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.power-console summary::-webkit-details-marker {
+  display: none;
+}
+
+.power-console summary span:before {
+  content: "▸ ";
+  color: var(--green);
+}
+
+.power-console[open] summary span:before {
+  content: "▾ ";
+}
+
+.power-console summary b {
+  color: #00150b;
+  background: var(--yellow);
+  padding: 3px 6px;
+  font-size: 11px;
+  box-shadow: 2px 2px 0 #fff3;
+}
+
+.console-role {
+  color: var(--green2);
+  border-top: 1px dashed #00ff8833;
+  margin-top: 10px;
+  padding-top: 10px;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.power-row {
+  display: grid;
+  grid-template-columns: 82px 1fr 34px;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.power-row span {
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.power-row b {
+  color: var(--yellow);
+  font-size: 12px;
+}
+
+.power-track {
+  height: 12px;
+  border: 1px solid #194f36;
+  background: #000;
+  image-rendering: pixelated;
+  box-shadow: inset 0 0 0 2px #03130c;
+}
+
+.power-track i {
+  display: block;
+  height: 100%;
+  background:
+    repeating-linear-gradient(90deg, #00ff88 0 8px, #0ccc76 8px 11px, #eaff54 11px 14px);
+  box-shadow: 0 0 12px #00ff8877;
+}
+
+.power-console p {
+  color: var(--muted);
+  margin: 10px 0 0;
+  line-height: 1.4;
+}
+
+.radar-topic-links {
+  border-top: 1px dashed #00ff8833;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+
+.radar-topic-links small {
+  display: block;
+  color: var(--green2);
+  margin-bottom: 8px;
+}
+
+.radar-topic-links a {
+  color: var(--white);
+  background: #050706;
+  border: 1px solid #1f3b31;
+  margin: 0 6px 6px 0;
+  padding: 6px 8px;
+  width: auto;
+}
+
+.radar-topic-links a:hover {
+  color: #00150b;
+  background: var(--green);
+}
