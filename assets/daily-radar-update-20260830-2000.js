@@ -1,6 +1,6 @@
 (function () {
   const update = {
-    stamp: '30 AGO 2026 · 20:00 BRT',
+    stamp: '31 AGO 2026 · 01:25 BRT',
     sensor: 'GitHub API ao vivo + busca pública + agents-radar local como sensor auxiliar',
     top: [
       {
@@ -9,9 +9,9 @@
         type: 'Repositório',
         score: 100,
         status: 'Gravar agora',
-        since: '28-30 AGO',
+        since: '30-31 AGO',
         why: 'Continua acelerando no mesmo dia e tem o melhor pacote para vídeo curto: antes/depois visual, demo oficial, arquitetura animada e promessa simples de entender.',
-        facts: '34.365 stars · 2.183 forks · JavaScript · push em 30 AGO · +343 stars desde 16:24 BRT',
+        facts: '35.408 stars · 2.264 forks · JavaScript · push em 30 AGO · métrica verificada via GitHub API',
         hook: 'Esse repo transforma arquitetura de software em vídeo explicável.',
         broll: 'GitHub top, demo oficial, galeria/proof, tela de renderização HTML/SVG.',
         links: [
@@ -29,7 +29,7 @@
         status: 'Gravar agora',
         since: '28-30 AGO',
         why: 'Mantém hype com crescimento real e mudança de narrativa: skills científicas deixam agentes menos genéricos e mais úteis em pesquisa verificável.',
-        facts: '39.148 stars · 3.653 forks · Python · push em 29 AGO · +189 stars desde 16:24 BRT',
+        facts: '39.572 stars · 3.682 forks · Python · push em 29 AGO · métrica verificada via GitHub API',
         hook: 'A IA não quer só responder perguntas. Ela quer fazer ciência.',
         broll: 'GitHub top, diretório de skills, página K-Dense, prova de 190k cientistas citada no README.',
         links: [
@@ -47,7 +47,7 @@
         status: 'Monitorar hoje',
         since: 'mantém hype',
         why: 'A tese ganhou força porque memória persistente virou assunto de produto e também dor prática de agentes. Bom para vídeo comparando “agente que esquece” versus “agente que aprende”.',
-        facts: 'claude-mem: 92.660 stars · 8.155 forks · JavaScript · push em 30 AGO · Wired publicou tema de agente persistente há 3 dias',
+        facts: 'claude-mem: 92.660 stars · 8.155 forks · JavaScript · push em 30 AGO · valor mantido no snapshot anterior; revalidar antes de publicar',
         hook: 'O próximo salto dos agentes não é pensar mais. É lembrar melhor.',
         broll: 'README do claude-mem, fluxo de contexto, notícia sobre agentes persistentes, comparação com TencentDB Agent Memory.',
         links: [
@@ -65,7 +65,7 @@
         status: 'Usar como comparação',
         since: 'mantém hype',
         why: 'Segue como referência do tema “agente com olhos”. Não teve push novo hoje, mas ainda ganhou stars e permanece útil para comparar pesquisa web/social dentro de agentes.',
-        facts: '76.767 stars · 6.573 forks · Python · push em 25 AGO · +30 stars desde 16:24 BRT',
+        facts: '76.767 stars · 6.573 forks · Python · push em 25 AGO · valor mantido no snapshot anterior; revalidar antes de publicar',
         hook: 'O agente que não navega está cego.',
         broll: 'README, lista de plataformas suportadas, exemplos de YouTube/GitHub/Reddit/X.',
         links: [
@@ -82,7 +82,7 @@
         status: 'Monitorar hoje',
         since: 'mantém hype',
         why: 'Não é o repo mais novo da lista, mas segue relevante porque o Trendshift ainda indexa o projeto e a tese conversa diretamente com produção de vídeos por agentes.',
-        facts: '54.617 stars · 6.794 forks · Python · último push em 22 AGO · +47 stars desde 16:24 BRT',
+        facts: '54.700 stars · 6.813 forks · Python · último push em 22 AGO · métrica verificada via GitHub API',
         hook: 'E se um agente montasse o vídeo inteiro antes de você abrir o editor?',
         broll: 'GitHub top, página OpenMontage, Trendshift, pipeline de vídeo e issues/tutoriais.',
         links: [
@@ -97,13 +97,13 @@
       {
         repo: 'Panniantong/Agent-Reach',
         status: 'Ativo no radar',
-        facts: '76.767 stars · 6.573 forks · 110 issues · último push 25 AGO',
+        facts: '76.767 stars · 6.573 forks · 110 issues · último push 25 AGO · snapshot mantido; revalidar antes de publicar',
         action: 'Usar como comparativo em pautas de agente navegando internet e social listening.'
       },
       {
         repo: 'TencentCloud/TencentDB-Agent-Memory',
         status: 'Ativo no radar',
-        facts: '25.270 stars · 2.358 forks · 752 issues · último push 27 AGO',
+        facts: '25.270 stars · 2.358 forks · 752 issues · último push 27 AGO · snapshot mantido; revalidar antes de publicar',
         action: 'Usar em pauta de memória compartilhada, LLM-Wiki, code graph e governança de contexto.'
       },
       {
@@ -162,7 +162,7 @@
     section.innerHTML = `
       <div class="daily-radar-header">
         <div>
-          <span class="daily-chip">◉ Atualização das 20:00</span>
+          <span class="daily-chip">◉ Atualização das 01:25</span>
           <h2>Radar revalidado para pauta de vídeo</h2>
         </div>
         <div class="daily-meta">
