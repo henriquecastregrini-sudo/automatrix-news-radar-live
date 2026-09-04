@@ -1,0 +1,9 @@
+{
+  "name": "automatrix-news-radar-live",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node scripts/collect-radar.mjs",
+    "check": "node --check scripts/collect-radar.mjs && node --check assets/radar-live-ui.js"
+  }
+}

@@ -1,0 +1,28 @@
+name: Refresh Automatrix Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 11 * * *'
+    - cron: '0 17 * * *'
+    - cron: '0 23 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/collect-radar.mjs
+      - name: Commit fresh radar data
+        run: |
+          git config user.name "automatrix-radar-bot"
+          git config user.email "automatrix-radar-bot@users.noreply.github.com"
+          git add data/radar.json
+          git diff --cached --quiet || git commit -m "Refresh radar data"
+          git push
