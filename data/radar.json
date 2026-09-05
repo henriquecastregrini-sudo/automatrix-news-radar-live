@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T23:34:59.651Z",
-  "generatedLabel": "4 de set. de 2026 · 20:34",
+  "generatedAt": "2026-09-05T11:01:50.359Z",
+  "generatedLabel": "5 de set. de 2026 · 08:01",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,12 +45,12 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 250301,
-      "forks": 21152,
-      "issues": 465,
+      "stars": 251342,
+      "forks": 21232,
+      "issues": 466,
       "language": "Shell",
       "pushedAt": "2026-09-04T08:45:43Z",
-      "pushedLabel": "push há 15h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 66,
       "social": [
@@ -105,11 +105,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 241471,
-      "forks": 49551,
-      "issues": 39695,
+      "stars": 241716,
+      "forks": 49618,
+      "issues": 39872,
       "language": "Python",
-      "pushedAt": "2026-09-04T23:27:34Z",
+      "pushedAt": "2026-09-05T11:00:36Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 66,
@@ -165,12 +165,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 48025,
-      "forks": 3099,
-      "issues": 112,
+      "stars": 48715,
+      "forks": 3153,
+      "issues": 115,
       "language": "JavaScript",
-      "pushedAt": "2026-09-04T16:04:29Z",
-      "pushedLabel": "push há 8h",
+      "pushedAt": "2026-09-05T04:19:21Z",
+      "pushedLabel": "push há 7h",
       "trendingStarsToday": null,
       "score": 63,
       "social": [
@@ -224,9 +224,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78028,
-      "forks": 6721,
-      "issues": 122,
+      "stars": 78121,
+      "forks": 6734,
+      "issues": 123,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
       "pushedLabel": "push há 4d",
@@ -284,12 +284,12 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 42626,
-      "forks": 3899,
+      "stars": 42787,
+      "forks": 3913,
       "issues": 31,
       "language": "Python",
       "pushedAt": "2026-09-02T16:25:37Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 56,
       "social": [
@@ -331,53 +331,6 @@
       "rank": 5
     },
     {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 25922,
-      "forks": 2418,
-      "issues": 776,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-03T02:31:45Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": null,
-      "score": 46,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=undefined",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=undefined%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 6
-    },
-    {
       "repo": "magnitudedev/magnitude",
       "type": "Inferência local",
       "status": "Monitorar hoje",
@@ -391,12 +344,12 @@
       ],
       "title": "magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
-      "stars": 2447,
-      "forks": 174,
-      "issues": 19,
+      "stars": 2795,
+      "forks": 200,
+      "issues": 18,
       "language": "TypeScript",
-      "pushedAt": "2026-09-04T21:36:23Z",
-      "pushedLabel": "push há 2h",
+      "pushedAt": "2026-09-05T06:36:41Z",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [],
@@ -423,56 +376,103 @@
           "kind": "busca"
         }
       ],
+      "rank": 6
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 25946,
+      "forks": 2420,
+      "issues": 780,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-03T02:31:45Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": null,
+      "score": 39,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=undefined",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=undefined%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 7
     }
   ],
   "news": [
+    {
+      "title": "Show HN: I built an AI that audits businesses. It's first job was to catch me",
+      "url": "https://www.moltybeeai.com/#pricing",
+      "points": 2,
+      "comments": 0,
+      "publishedAt": "2026-09-05T10:48:04Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "OpenAI agents used dead web site to communicate in May, well before HF incident",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/04/rogue-openai-agents-used-dead-german-web-site-to-communicate-in-may-months-before-hugging-face-incident/5294554",
+      "points": 2,
+      "comments": 0,
+      "publishedAt": "2026-09-05T08:36:18Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: Mu, two-minute visualized lessons on modern AI",
+      "url": "https://mu.vizuara.ai/",
+      "points": 1,
+      "comments": 0,
+      "publishedAt": "2026-09-05T06:26:02Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: Rubato – Retro-Mac desk device mirrors AI coding state-ESP8266",
+      "url": "https://github.com/lovaxi/Rubato_Device",
+      "points": 4,
+      "comments": 1,
+      "publishedAt": "2026-09-05T03:16:57Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "GitSpawn: Untrusted repos can execute code via AI coding agents",
+      "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
+      "points": 4,
+      "comments": 1,
+      "publishedAt": "2026-09-05T01:45:53Z",
+      "source": "Hacker News / Algolia"
+    },
     {
       "title": "Exhibit of 2026 AI Agents",
       "url": "https://agent-museum-2026.halstonsellentin.chatgpt.site",
       "points": 1,
       "comments": 0,
       "publishedAt": "2026-09-04T22:04:53Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "OpenAI escapee-agent incident (2026): index of surfaces with evidence",
-      "url": "https://thecolony.ai/wiki/openai-escapee-agent-incident-2026",
-      "points": 1,
-      "comments": 1,
-      "publishedAt": "2026-09-04T21:35:32Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Why autonomous agents still can't run on their own",
-      "url": "https://www.glassflow.ai/blog/blog-autonomous-agents-infrastructure-not-trust",
-      "points": 1,
-      "comments": 0,
-      "publishedAt": "2026-09-04T21:26:52Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "AWS-bench: Benchmark for evaluating AI coding agents on real-world AWS tasks",
-      "url": "https://github.com/aws-bench/aws-bench",
-      "points": 1,
-      "comments": 0,
-      "publishedAt": "2026-09-04T20:55:15Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
-      "url": "https://sageling.ai/",
-      "points": 2,
-      "comments": 1,
-      "publishedAt": "2026-09-04T19:30:31Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Airuncode – an AI runtime coding agent with a built-in 3D game engine",
-      "url": "https://airuncode.com/",
-      "points": 1,
-      "comments": 0,
-      "publishedAt": "2026-09-04T19:29:27Z",
       "source": "Hacker News / Algolia"
     }
   ],
@@ -482,23 +482,11 @@
       "starsToday": 0
     },
     {
-      "repo": "sponsors/DietrichGebert",
-      "starsToday": 0
-    },
-    {
-      "repo": "fmtlib/fmt",
-      "starsToday": 0
-    },
-    {
       "repo": "sponsors/affaan-m",
       "starsToday": 0
     },
     {
-      "repo": "anthropics/skills",
-      "starsToday": 0
-    },
-    {
-      "repo": "blader/humanizer",
+      "repo": "sponsors/DietrichGebert",
       "starsToday": 0
     },
     {
@@ -506,23 +494,35 @@
       "starsToday": 0
     },
     {
-      "repo": "sponsors/JuliusBrussee",
+      "repo": "fmtlib/fmt",
       "starsToday": 0
     },
     {
-      "repo": "magnitudedev/magnitude",
+      "repo": "anthropics/skills",
       "starsToday": 0
     },
     {
-      "repo": "bikini/exploitarium",
+      "repo": "cathrynlavery/diagram-design",
       "starsToday": 0
     },
     {
-      "repo": "bannedbook/fanqiang",
+      "repo": "sponsors/anomalyco",
       "starsToday": 0
     },
     {
-      "repo": "debpalash/VoiceStudio",
+      "repo": "ruvnet/ruflo",
+      "starsToday": 0
+    },
+    {
+      "repo": "humanlayer/skills",
+      "starsToday": 0
+    },
+    {
+      "repo": "blader/humanizer",
+      "starsToday": 0
+    },
+    {
+      "repo": "BraveOPotato/FckSignups",
       "starsToday": 0
     }
   ],
@@ -540,9 +540,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78028,
-      "forks": 6721,
-      "issues": 122,
+      "stars": 78121,
+      "forks": 6734,
+      "issues": 123,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
       "pushedLabel": "push há 4d",
@@ -599,14 +599,14 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 25922,
-      "forks": 2418,
-      "issues": 776,
+      "stars": 25946,
+      "forks": 2420,
+      "issues": 780,
       "language": "TypeScript",
       "pushedAt": "2026-09-03T02:31:45Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
-      "score": 46,
+      "score": 39,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -631,7 +631,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 7
     }
   ]
 }
