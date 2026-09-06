@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T13:50:23.925Z",
-  "generatedLabel": "6 de set. de 2026 · 10:50",
+  "generatedAt": "2026-09-06T18:50:12.392Z",
+  "generatedLabel": "6 de set. de 2026 · 15:50",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,12 +45,12 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 242289,
-      "forks": 49801,
-      "issues": 40233,
+      "stars": 242428,
+      "forks": 49840,
+      "issues": 40316,
       "language": "Python",
-      "pushedAt": "2026-09-06T13:19:13Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-09-06T18:46:43Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 66,
       "social": [
@@ -105,12 +105,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 50267,
-      "forks": 3261,
-      "issues": 119,
+      "stars": 50577,
+      "forks": 3287,
+      "issues": 122,
       "language": "JavaScript",
       "pushedAt": "2026-09-06T08:38:31Z",
-      "pushedLabel": "push há 5h",
+      "pushedLabel": "push há 10h",
       "trendingStarsToday": null,
       "score": 63,
       "social": [
@@ -165,9 +165,9 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 253809,
-      "forks": 21422,
-      "issues": 466,
+      "stars": 254221,
+      "forks": 21448,
+      "issues": 468,
       "language": "Shell",
       "pushedAt": "2026-09-04T08:45:43Z",
       "pushedLabel": "push há 2d",
@@ -224,8 +224,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78351,
-      "forks": 6754,
+      "stars": 78407,
+      "forks": 6756,
       "issues": 124,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -284,8 +284,8 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 43181,
-      "forks": 3937,
+      "stars": 43250,
+      "forks": 3942,
       "issues": 32,
       "language": "Python",
       "pushedAt": "2026-09-02T16:25:37Z",
@@ -344,12 +344,12 @@
       ],
       "title": "magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
-      "stars": 3465,
-      "forks": 249,
-      "issues": 17,
+      "stars": 3589,
+      "forks": 256,
+      "issues": 21,
       "language": "TypeScript",
-      "pushedAt": "2026-09-06T07:15:54Z",
-      "pushedLabel": "push há 7h",
+      "pushedAt": "2026-09-06T17:05:17Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [],
@@ -391,12 +391,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 25993,
+      "stars": 26010,
       "forks": 2425,
       "issues": 787,
       "language": "TypeScript",
       "pushedAt": "2026-09-03T02:31:45Z",
-      "pushedLabel": "push há 3d",
+      "pushedLabel": "push há 4d",
       "trendingStarsToday": null,
       "score": 39,
       "social": [],
@@ -428,6 +428,38 @@
   ],
   "news": [
     {
+      "title": "Show HN: Ontoplano, FOSS Life Management desktop and mobile app with MCP server",
+      "url": "https://github.com/ontoplano/ontoplano",
+      "points": 1,
+      "comments": 0,
+      "publishedAt": "2026-09-06T17:07:03Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "AI agents aren't safe from prompt injection, and spreadsheets prove it",
+      "url": "https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/",
+      "points": 3,
+      "comments": 1,
+      "publishedAt": "2026-09-06T16:17:36Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Mdmanager.ai – Manage your Claude.md and AGENTS.md across machines and runtimes",
+      "url": "https://github.com/manuelschipper/mdmanager",
+      "points": 3,
+      "comments": 4,
+      "publishedAt": "2026-09-06T16:03:28Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: Automatically Save 60% on Amazon",
+      "url": "https://chromewebstore.google.com/detail/findcheap/fpghkhnkfjlenapcdahgaafenfaopidn",
+      "points": 1,
+      "comments": 0,
+      "publishedAt": "2026-09-06T14:10:50Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
       "title": "AI coding agents forget the codebase between sessions",
       "url": "https://github.com/thecolourfoundation/rune",
       "points": 3,
@@ -442,63 +474,15 @@
       "comments": 0,
       "publishedAt": "2026-09-06T08:49:24Z",
       "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "I gave my AI agent a sleep cycle – it dreams about its errors and fixes them",
-      "url": "https://github.com/openamer/openamer",
-      "points": 1,
-      "comments": 0,
-      "publishedAt": "2026-09-06T08:06:37Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Nimvarya – Let AI coding agents control Chrome without stealing focus",
-      "url": "https://github.com/Basiliskin/nimvarya",
-      "points": 1,
-      "comments": 0,
-      "publishedAt": "2026-09-06T08:00:17Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Handoru: AI customer conversation agents for service businesses",
-      "url": "https://handoru.ai/",
-      "points": 1,
-      "comments": 1,
-      "publishedAt": "2026-09-06T07:43:26Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "interpretation to AI agents",
-      "url": "https://ag3497120.github.io/call-me-vera/",
-      "points": 2,
-      "comments": 0,
-      "publishedAt": "2026-09-06T05:47:22Z",
-      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
-    {
-      "repo": "sponsors/mattpocock",
-      "starsToday": 0
-    },
     {
       "repo": "sponsors/affaan-m",
       "starsToday": 0
     },
     {
-      "repo": "sponsors/DietrichGebert",
-      "starsToday": 0
-    },
-    {
-      "repo": "NousResearch/hermes-agent",
-      "starsToday": 0
-    },
-    {
-      "repo": "fmtlib/fmt",
-      "starsToday": 0
-    },
-    {
-      "repo": "anthropics/skills",
+      "repo": "sponsors/mattpocock",
       "starsToday": 0
     },
     {
@@ -506,7 +490,27 @@
       "starsToday": 0
     },
     {
+      "repo": "NousResearch/hermes-agent",
+      "starsToday": 0
+    },
+    {
+      "repo": "openai/skills",
+      "starsToday": 0
+    },
+    {
       "repo": "sponsors/anomalyco",
+      "starsToday": 0
+    },
+    {
+      "repo": "blader/humanizer",
+      "starsToday": 0
+    },
+    {
+      "repo": "sponsors/llvm",
+      "starsToday": 0
+    },
+    {
+      "repo": "sponsors/DietrichGebert",
       "starsToday": 0
     },
     {
@@ -514,11 +518,7 @@
       "starsToday": 0
     },
     {
-      "repo": "humanlayer/skills",
-      "starsToday": 0
-    },
-    {
-      "repo": "blader/humanizer",
+      "repo": "magnitudedev/magnitude",
       "starsToday": 0
     },
     {
@@ -540,8 +540,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78351,
-      "forks": 6754,
+      "stars": 78407,
+      "forks": 6756,
       "issues": 124,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -599,12 +599,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 25993,
+      "stars": 26010,
       "forks": 2425,
       "issues": 787,
       "language": "TypeScript",
       "pushedAt": "2026-09-03T02:31:45Z",
-      "pushedLabel": "push há 3d",
+      "pushedLabel": "push há 4d",
       "trendingStarsToday": null,
       "score": 39,
       "social": [],
