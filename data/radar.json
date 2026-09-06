@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T00:46:40.283Z",
-  "generatedLabel": "5 de set. de 2026 · 21:46",
+  "generatedAt": "2026-09-06T13:50:23.925Z",
+  "generatedLabel": "6 de set. de 2026 · 10:50",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -32,66 +32,6 @@
   ],
   "repos": [
     {
-      "repo": "mattpocock/skills",
-      "title": "Skills para agentes",
-      "type": "Skills para agentes",
-      "status": "Gravar agora",
-      "hook": "O jeito de programar com IA mudou: quem ainda usa só prompt está ficando para trás.",
-      "thesis": "Conhecimento de engenharia virou infraestrutura reutilizável para agentes.",
-      "broll": [
-        "README",
-        "diretório .agents",
-        "GitHub Trending",
-        "vídeo do criador"
-      ],
-      "url": "https://github.com/mattpocock/skills",
-      "stars": 252637,
-      "forks": 21318,
-      "issues": 466,
-      "language": "Shell",
-      "pushedAt": "2026-09-04T08:45:43Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": null,
-      "score": 66,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "Matt Pocock · workflow de skills · 400k views",
-          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
-          "verifiedAt": "04 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/mattpocock/skills",
-          "kind": "oficial"
-        },
-        {
-          "label": "YouTube · Matt Pocock · workflow de skills · 400k views",
-          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=mattpocock%20skills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Skills%20para%20agentes",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Skills%20para%20agentes%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 1
-    },
-    {
       "repo": "NousResearch/hermes-agent",
       "title": "Hermes Agent",
       "type": "Agente open-source",
@@ -105,11 +45,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 242005,
-      "forks": 49722,
-      "issues": 40049,
+      "stars": 242289,
+      "forks": 49801,
+      "issues": 40233,
       "language": "Python",
-      "pushedAt": "2026-09-06T00:00:21Z",
+      "pushedAt": "2026-09-06T13:19:13Z",
       "pushedLabel": "push há 1h",
       "trendingStarsToday": null,
       "score": 66,
@@ -149,7 +89,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 2
+      "rank": 1
     },
     {
       "repo": "tt-a1i/archify",
@@ -165,12 +105,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 49425,
-      "forks": 3207,
-      "issues": 120,
+      "stars": 50267,
+      "forks": 3261,
+      "issues": 119,
       "language": "JavaScript",
-      "pushedAt": "2026-09-05T17:18:45Z",
-      "pushedLabel": "push há 7h",
+      "pushedAt": "2026-09-06T08:38:31Z",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": null,
       "score": 63,
       "social": [
@@ -209,6 +149,66 @@
           "kind": "busca"
         }
       ],
+      "rank": 2
+    },
+    {
+      "repo": "mattpocock/skills",
+      "title": "Skills para agentes",
+      "type": "Skills para agentes",
+      "status": "Gravar agora",
+      "hook": "O jeito de programar com IA mudou: quem ainda usa só prompt está ficando para trás.",
+      "thesis": "Conhecimento de engenharia virou infraestrutura reutilizável para agentes.",
+      "broll": [
+        "README",
+        "diretório .agents",
+        "GitHub Trending",
+        "vídeo do criador"
+      ],
+      "url": "https://github.com/mattpocock/skills",
+      "stars": 253809,
+      "forks": 21422,
+      "issues": 466,
+      "language": "Shell",
+      "pushedAt": "2026-09-04T08:45:43Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": null,
+      "score": 59,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Matt Pocock · workflow de skills · 400k views",
+          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
+          "verifiedAt": "04 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mattpocock/skills",
+          "kind": "oficial"
+        },
+        {
+          "label": "YouTube · Matt Pocock · workflow de skills · 400k views",
+          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=mattpocock%20skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Skills%20para%20agentes",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Skills%20para%20agentes%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 3
     },
     {
@@ -224,9 +224,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78241,
-      "forks": 6747,
-      "issues": 123,
+      "stars": 78351,
+      "forks": 6754,
+      "issues": 124,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
       "pushedLabel": "push há 5d",
@@ -284,12 +284,12 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 42949,
-      "forks": 3927,
-      "issues": 31,
+      "stars": 43181,
+      "forks": 3937,
+      "issues": 32,
       "language": "Python",
       "pushedAt": "2026-09-02T16:25:37Z",
-      "pushedLabel": "push há 3d",
+      "pushedLabel": "push há 4d",
       "trendingStarsToday": null,
       "score": 56,
       "social": [
@@ -344,12 +344,12 @@
       ],
       "title": "magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
-      "stars": 3200,
-      "forks": 230,
-      "issues": 13,
+      "stars": 3465,
+      "forks": 249,
+      "issues": 17,
       "language": "TypeScript",
-      "pushedAt": "2026-09-05T21:51:37Z",
-      "pushedLabel": "push há 3h",
+      "pushedAt": "2026-09-06T07:15:54Z",
+      "pushedLabel": "push há 7h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [],
@@ -391,9 +391,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 25975,
-      "forks": 2422,
-      "issues": 781,
+      "stars": 25993,
+      "forks": 2425,
+      "issues": 787,
       "language": "TypeScript",
       "pushedAt": "2026-09-03T02:31:45Z",
       "pushedLabel": "push há 3d",
@@ -428,51 +428,51 @@
   ],
   "news": [
     {
-      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "url": "https://github.com/okf-memory/okf-agent-memory",
-      "points": 22,
-      "comments": 10,
-      "publishedAt": "2026-09-05T22:15:52Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: ChatPanel Now Available on Firefox",
-      "url": "https://chatpanel.net/",
-      "points": 2,
-      "comments": 1,
-      "publishedAt": "2026-09-05T19:30:01Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "KingFy – an AI super app orchestrating 1,200 specialized agents",
-      "url": "https://www.kingfy.app",
-      "points": 1,
-      "comments": 0,
-      "publishedAt": "2026-09-05T18:53:17Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Praesidias – pre-execution authorization for AI agents",
-      "url": "https://github.com/sowainat/praesidias-pabe01",
-      "points": 2,
-      "comments": 0,
-      "publishedAt": "2026-09-05T16:07:29Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Swiftask just raised €1.55M to scale its AI agent deployment",
-      "url": "https://agence-api.ouest-france.fr/numerique/swiftask-securise-1-55-m-euros-pour-deployer-ses-agents-ia-a-grande-echelle-ae6db912-a7a0-11f1-8a27-1e0c4eb5e395",
-      "points": 1,
-      "comments": 0,
-      "publishedAt": "2026-09-05T15:41:18Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Defending Against AI Agents with Social Engineering",
-      "url": "https://blog.thinkst.com/2026/09/getting-agents-to-tell-on-themselves.html",
+      "title": "AI coding agents forget the codebase between sessions",
+      "url": "https://github.com/thecolourfoundation/rune",
       "points": 3,
       "comments": 0,
-      "publishedAt": "2026-09-05T14:52:18Z",
+      "publishedAt": "2026-09-06T12:45:13Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Pov: You're an AI agent recruited for the swarm",
+      "url": "https://twitter.com/artficialisabel/status/2095678312773554533",
+      "points": 1,
+      "comments": 0,
+      "publishedAt": "2026-09-06T08:49:24Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "I gave my AI agent a sleep cycle – it dreams about its errors and fixes them",
+      "url": "https://github.com/openamer/openamer",
+      "points": 1,
+      "comments": 0,
+      "publishedAt": "2026-09-06T08:06:37Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Nimvarya – Let AI coding agents control Chrome without stealing focus",
+      "url": "https://github.com/Basiliskin/nimvarya",
+      "points": 1,
+      "comments": 0,
+      "publishedAt": "2026-09-06T08:00:17Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Handoru: AI customer conversation agents for service businesses",
+      "url": "https://handoru.ai/",
+      "points": 1,
+      "comments": 1,
+      "publishedAt": "2026-09-06T07:43:26Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "interpretation to AI agents",
+      "url": "https://ag3497120.github.io/call-me-vera/",
+      "points": 2,
+      "comments": 0,
+      "publishedAt": "2026-09-06T05:47:22Z",
       "source": "Hacker News / Algolia"
     }
   ],
@@ -540,9 +540,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78241,
-      "forks": 6747,
-      "issues": 123,
+      "stars": 78351,
+      "forks": 6754,
+      "issues": 124,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
       "pushedLabel": "push há 5d",
@@ -599,9 +599,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 25975,
-      "forks": 2422,
-      "issues": 781,
+      "stars": 25993,
+      "forks": 2425,
+      "issues": 787,
       "language": "TypeScript",
       "pushedAt": "2026-09-03T02:31:45Z",
       "pushedLabel": "push há 3d",
