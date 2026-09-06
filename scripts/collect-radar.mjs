@@ -19,12 +19,12 @@ const tracked = [
 ];
 
 const socialReferences = {
-  'mattpocock/skills': [{ platform: 'YouTube', label: 'Matt Pocock · workflow de skills · 400k views', url: 'https://www.youtube.com/watch?v=M6mYodf0dJM', verifiedAt: '04 SET 2026' }],
-  'tt-a1i/archify': [{ platform: 'YouTube', label: 'Better Stack · arquitetura com Claude · 22k views', url: 'https://www.youtube.com/watch?v=iuJszJuiuSg', verifiedAt: '04 SET 2026' }],
-  'NousResearch/hermes-agent': [{ platform: 'YouTube', label: 'CodeHead · Hermes explicado · 229k views', url: 'https://www.youtube.com/watch?v=9GpWELm3_XI', verifiedAt: '04 SET 2026' }],
+  'mattpocock/skills': [{ platform: 'YouTube', label: 'Matt Pocock · workflow completo · 421k views · publicado 16 JUL', url: 'https://www.youtube.com/watch?v=M6mYodf0dJM', verifiedAt: '06 SET 2026' }],
+  'tt-a1i/archify': [{ platform: 'YouTube', label: 'The Next New Thing · Archify entre os repos em alta · 92k views · publicado 04 SET', url: 'https://www.youtube.com/watch?v=AWzzmrCPe-A', verifiedAt: '06 SET 2026' }],
+  'NousResearch/hermes-agent': [{ platform: 'YouTube', label: 'Metics Media · tutorial completo · 217k views · publicado 31 AGO', url: 'https://www.youtube.com/watch?v=DYdvJCxWd6M', verifiedAt: '06 SET 2026' }],
   'magnitudedev/magnitude': [],
   'K-Dense-AI/scientific-agent-skills': [{ platform: 'YouTube', label: 'K-Dense · skills científicas · 13k views', url: 'https://www.youtube.com/watch?v=ZxbnDaD_FVg', verifiedAt: '04 SET 2026' }],
-  'Panniantong/Agent-Reach': [{ platform: 'YouTube', label: 'Better Stack · agente com acesso web · 15k views', url: 'https://www.youtube.com/watch?v=aanqEqQwjNU', verifiedAt: '04 SET 2026' }],
+  'Panniantong/Agent-Reach': [{ platform: 'YouTube', label: 'Better Stack · agente com acesso web · 16k views · publicado 18 JUN', url: 'https://www.youtube.com/watch?v=aanqEqQwjNU', verifiedAt: '06 SET 2026' }],
   'TencentCloud/TencentDB-Agent-Memory': [],
 };
 

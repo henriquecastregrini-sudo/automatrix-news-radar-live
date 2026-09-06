@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T21:25:33.824Z",
-  "generatedLabel": "6 de set. de 2026 · 18:25",
+  "generatedAt": "2026-09-06T23:04:52.367Z",
+  "generatedLabel": "6 de set. de 2026 · 20:04",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,8 +45,8 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 254373,
-      "forks": 21453,
+      "stars": 254457,
+      "forks": 21460,
       "issues": 469,
       "language": "Shell",
       "pushedAt": "2026-09-04T08:45:43Z",
@@ -56,9 +56,9 @@
       "social": [
         {
           "platform": "YouTube",
-          "label": "Matt Pocock · workflow de skills · 400k views",
+          "label": "Matt Pocock · workflow completo · 421k views · publicado 16 JUL",
           "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
-          "verifiedAt": "04 SET 2026"
+          "verifiedAt": "06 SET 2026"
         }
       ],
       "socialStatus": "referência direta verificada",
@@ -74,7 +74,7 @@
           "kind": "tendência"
         },
         {
-          "label": "YouTube · Matt Pocock · workflow de skills · 400k views",
+          "label": "YouTube · Matt Pocock · workflow completo · 421k views · publicado 16 JUL",
           "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
           "kind": "social"
         },
@@ -110,20 +110,20 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 242495,
-      "forks": 49860,
-      "issues": 40316,
+      "stars": 242516,
+      "forks": 49872,
+      "issues": 40342,
       "language": "Python",
       "pushedAt": "2026-09-06T21:20:46Z",
-      "pushedLabel": "push há 0h",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": 520,
       "score": 94,
       "social": [
         {
           "platform": "YouTube",
-          "label": "CodeHead · Hermes explicado · 229k views",
-          "url": "https://www.youtube.com/watch?v=9GpWELm3_XI",
-          "verifiedAt": "04 SET 2026"
+          "label": "Metics Media · tutorial completo · 217k views · publicado 31 AGO",
+          "url": "https://www.youtube.com/watch?v=DYdvJCxWd6M",
+          "verifiedAt": "06 SET 2026"
         }
       ],
       "socialStatus": "referência direta verificada",
@@ -139,8 +139,8 @@
           "kind": "tendência"
         },
         {
-          "label": "YouTube · CodeHead · Hermes explicado · 229k views",
-          "url": "https://www.youtube.com/watch?v=9GpWELm3_XI",
+          "label": "YouTube · Metics Media · tutorial completo · 217k views · publicado 31 AGO",
+          "url": "https://www.youtube.com/watch?v=DYdvJCxWd6M",
           "kind": "social"
         },
         {
@@ -175,12 +175,12 @@
       ],
       "title": "magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
-      "stars": 3637,
-      "forks": 257,
-      "issues": 21,
+      "stars": 3651,
+      "forks": 258,
+      "issues": 20,
       "language": "TypeScript",
-      "pushedAt": "2026-09-06T20:36:18Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-09-06T22:37:26Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 604,
       "score": 72,
       "social": [],
@@ -228,20 +228,20 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 50666,
-      "forks": 3296,
+      "stars": 50718,
+      "forks": 3301,
       "issues": 123,
       "language": "JavaScript",
       "pushedAt": "2026-09-06T08:38:31Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 14h",
       "trendingStarsToday": null,
       "score": 63,
       "social": [
         {
           "platform": "YouTube",
-          "label": "Better Stack · arquitetura com Claude · 22k views",
-          "url": "https://www.youtube.com/watch?v=iuJszJuiuSg",
-          "verifiedAt": "04 SET 2026"
+          "label": "The Next New Thing · Archify entre os repos em alta · 92k views · publicado 04 SET",
+          "url": "https://www.youtube.com/watch?v=AWzzmrCPe-A",
+          "verifiedAt": "06 SET 2026"
         }
       ],
       "socialStatus": "referência direta verificada",
@@ -252,8 +252,8 @@
           "kind": "oficial"
         },
         {
-          "label": "YouTube · Better Stack · arquitetura com Claude · 22k views",
-          "url": "https://www.youtube.com/watch?v=iuJszJuiuSg",
+          "label": "YouTube · The Next New Thing · Archify entre os repos em alta · 92k views · publicado 04 SET",
+          "url": "https://www.youtube.com/watch?v=AWzzmrCPe-A",
           "kind": "social"
         },
         {
@@ -287,8 +287,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78427,
-      "forks": 6756,
+      "stars": 78439,
+      "forks": 6758,
       "issues": 124,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -298,9 +298,9 @@
       "social": [
         {
           "platform": "YouTube",
-          "label": "Better Stack · agente com acesso web · 15k views",
+          "label": "Better Stack · agente com acesso web · 16k views · publicado 18 JUN",
           "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
-          "verifiedAt": "04 SET 2026"
+          "verifiedAt": "06 SET 2026"
         }
       ],
       "socialStatus": "referência direta verificada",
@@ -311,7 +311,7 @@
           "kind": "oficial"
         },
         {
-          "label": "YouTube · Better Stack · agente com acesso web · 15k views",
+          "label": "YouTube · Better Stack · agente com acesso web · 16k views · publicado 18 JUN",
           "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
           "kind": "social"
         },
@@ -347,7 +347,7 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 43266,
+      "stars": 43272,
       "forks": 3942,
       "issues": 32,
       "language": "Python",
@@ -406,8 +406,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26008,
-      "forks": 2426,
+      "stars": 26011,
+      "forks": 2427,
       "issues": 787,
       "language": "TypeScript",
       "pushedAt": "2026-09-03T02:31:45Z",
@@ -555,8 +555,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78427,
-      "forks": 6756,
+      "stars": 78439,
+      "forks": 6758,
       "issues": 124,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -566,9 +566,9 @@
       "social": [
         {
           "platform": "YouTube",
-          "label": "Better Stack · agente com acesso web · 15k views",
+          "label": "Better Stack · agente com acesso web · 16k views · publicado 18 JUN",
           "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
-          "verifiedAt": "04 SET 2026"
+          "verifiedAt": "06 SET 2026"
         }
       ],
       "socialStatus": "referência direta verificada",
@@ -579,7 +579,7 @@
           "kind": "oficial"
         },
         {
-          "label": "YouTube · Better Stack · agente com acesso web · 15k views",
+          "label": "YouTube · Better Stack · agente com acesso web · 16k views · publicado 18 JUN",
           "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
           "kind": "social"
         },
@@ -614,8 +614,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26008,
-      "forks": 2426,
+      "stars": 26011,
+      "forks": 2427,
       "issues": 787,
       "language": "TypeScript",
       "pushedAt": "2026-09-03T02:31:45Z",
