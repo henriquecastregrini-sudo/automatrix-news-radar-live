@@ -57,9 +57,11 @@ function compact(number) {
 function extractTrending(html) {
   const rows = html.match(/<article class="Box-row">[\s\S]*?<\/article>/g) || [];
   return rows.map((row) => {
-    const repo = row.match(/href="\/([^"/]+\/[^"/]+)"/)?.[1];
-    const starsToday = Number((row.match(/Built by\s+([\d,]+)\s+stars today/)?.[1] || '0').replace(',', ''));
-    return repo ? { repo, starsToday } : null;
+    // The first link can be a sponsor profile. The repository heading is the
+    // only link containing the TRENDING_REPOSITORIES_PAGE marker.
+    const repo = row.match(/click_target&quot;:&quot;REPOSITORY&quot;[\s\S]*?href="\/([^"/]+\/[^"/]+)"/)?.[1];
+    const starsToday = Number((row.match(/([\d,]+)\s+stars today/)?.[1] || '0').replace(/,/g, ''));
+    return repo && !repo.startsWith('sponsors/') ? { repo, starsToday } : null;
   }).filter(Boolean);
 }
 
@@ -100,8 +102,8 @@ const repos = await Promise.all(tracked.map(async (item) => {
       ...(starsToday ? [{ label: `GitHub Trending · ${compact(starsToday)} stars hoje`, url: 'https://github.com/trending', kind: 'tendência' }] : []),
       ...social.map(({ label, url, platform }) => ({ label: `${platform} · ${label}`, url, kind: 'social' })),
       { label: 'Buscar YouTube', url: `https://www.youtube.com/results?search_query=${encodeURIComponent(item.repo.replace('/', ' ') + ' AI')}`, kind: 'busca' },
-      { label: 'Buscar Instagram', url: `https://www.instagram.com/explore/search/keyword/?q=${encodeURIComponent(item.title)}`, kind: 'busca' },
-      { label: 'Buscar TikTok', url: `https://www.tiktok.com/search?q=${encodeURIComponent(item.title + ' AI')}`, kind: 'busca' },
+      { label: 'Buscar Instagram', url: `https://www.instagram.com/explore/search/keyword/?q=${encodeURIComponent((item.title || api.name || item.repo.split('/')[1]) + ' AI')}`, kind: 'busca' },
+      { label: 'Buscar TikTok', url: `https://www.tiktok.com/search?q=${encodeURIComponent((item.title || api.name || item.repo.split('/')[1]) + ' AI')}`, kind: 'busca' },
     ],
   };
 }));

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T18:50:12.392Z",
-  "generatedLabel": "6 de set. de 2026 · 15:50",
+  "generatedAt": "2026-09-06T21:25:33.824Z",
+  "generatedLabel": "6 de set. de 2026 · 18:25",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -32,6 +32,71 @@
   ],
   "repos": [
     {
+      "repo": "mattpocock/skills",
+      "title": "Skills para agentes",
+      "type": "Skills para agentes",
+      "status": "Gravar agora",
+      "hook": "O jeito de programar com IA mudou: quem ainda usa só prompt está ficando para trás.",
+      "thesis": "Conhecimento de engenharia virou infraestrutura reutilizável para agentes.",
+      "broll": [
+        "README",
+        "diretório .agents",
+        "GitHub Trending",
+        "vídeo do criador"
+      ],
+      "url": "https://github.com/mattpocock/skills",
+      "stars": 254373,
+      "forks": 21453,
+      "issues": 469,
+      "language": "Shell",
+      "pushedAt": "2026-09-04T08:45:43Z",
+      "pushedLabel": "push há 3d",
+      "trendingStarsToday": 2206,
+      "score": 95,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Matt Pocock · workflow de skills · 400k views",
+          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
+          "verifiedAt": "04 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mattpocock/skills",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 2,2 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · Matt Pocock · workflow de skills · 400k views",
+          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=mattpocock%20skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Skills%20para%20agentes%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Skills%20para%20agentes%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "repo": "NousResearch/hermes-agent",
       "title": "Hermes Agent",
       "type": "Agente open-source",
@@ -45,14 +110,14 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 242428,
-      "forks": 49840,
+      "stars": 242495,
+      "forks": 49860,
       "issues": 40316,
       "language": "Python",
-      "pushedAt": "2026-09-06T18:46:43Z",
+      "pushedAt": "2026-09-06T21:20:46Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": null,
-      "score": 66,
+      "trendingStarsToday": 520,
+      "score": 94,
       "social": [
         {
           "platform": "YouTube",
@@ -69,6 +134,11 @@
           "kind": "oficial"
         },
         {
+          "label": "GitHub Trending · 520 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
           "label": "YouTube · CodeHead · Hermes explicado · 229k views",
           "url": "https://www.youtube.com/watch?v=9GpWELm3_XI",
           "kind": "social"
@@ -80,7 +150,7 @@
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Hermes%20Agent",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Hermes%20Agent%20AI",
           "kind": "busca"
         },
         {
@@ -89,7 +159,60 @@
           "kind": "busca"
         }
       ],
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "repo": "magnitudedev/magnitude",
+      "type": "Inferência local",
+      "status": "Monitorar hoje",
+      "hook": "A corrida da IA pode estar saindo da nuvem e voltando para o seu próprio hardware.",
+      "thesis": "Modelos locais + agente próprio diminuem a dependência de cloud.",
+      "broll": [
+        "README",
+        "hardware",
+        "terminal",
+        "benchmark"
+      ],
+      "title": "magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "stars": 3637,
+      "forks": 257,
+      "issues": 21,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-06T20:36:18Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 604,
+      "score": 72,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/magnitudedev/magnitude",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 604 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=magnitudedev%20magnitude%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=magnitude%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=magnitude%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 3
     },
     {
       "repo": "tt-a1i/archify",
@@ -105,12 +228,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 50577,
-      "forks": 3287,
-      "issues": 122,
+      "stars": 50666,
+      "forks": 3296,
+      "issues": 123,
       "language": "JavaScript",
       "pushedAt": "2026-09-06T08:38:31Z",
-      "pushedLabel": "push há 10h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": null,
       "score": 63,
       "social": [
@@ -140,76 +263,16 @@
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=undefined",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=archify%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=undefined%20AI",
+          "url": "https://www.tiktok.com/search?q=archify%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 2
-    },
-    {
-      "repo": "mattpocock/skills",
-      "title": "Skills para agentes",
-      "type": "Skills para agentes",
-      "status": "Gravar agora",
-      "hook": "O jeito de programar com IA mudou: quem ainda usa só prompt está ficando para trás.",
-      "thesis": "Conhecimento de engenharia virou infraestrutura reutilizável para agentes.",
-      "broll": [
-        "README",
-        "diretório .agents",
-        "GitHub Trending",
-        "vídeo do criador"
-      ],
-      "url": "https://github.com/mattpocock/skills",
-      "stars": 254221,
-      "forks": 21448,
-      "issues": 468,
-      "language": "Shell",
-      "pushedAt": "2026-09-04T08:45:43Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": null,
-      "score": 59,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "Matt Pocock · workflow de skills · 400k views",
-          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
-          "verifiedAt": "04 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/mattpocock/skills",
-          "kind": "oficial"
-        },
-        {
-          "label": "YouTube · Matt Pocock · workflow de skills · 400k views",
-          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=mattpocock%20skills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Skills%20para%20agentes",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Skills%20para%20agentes%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
+      "rank": 4
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -224,12 +287,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78407,
+      "stars": 78427,
       "forks": 6756,
       "issues": 124,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
-      "pushedLabel": "push há 5d",
+      "pushedLabel": "push há 6d",
       "trendingStarsToday": null,
       "score": 57,
       "social": [
@@ -259,16 +322,16 @@
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=undefined",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Reach%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=undefined%20AI",
+          "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "repo": "K-Dense-AI/scientific-agent-skills",
@@ -284,7 +347,7 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 43250,
+      "stars": 43266,
       "forks": 3942,
       "issues": 32,
       "language": "Python",
@@ -319,60 +382,12 @@
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=undefined",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=scientific-agent-skills%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=undefined%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "repo": "magnitudedev/magnitude",
-      "type": "Inferência local",
-      "status": "Monitorar hoje",
-      "hook": "A corrida da IA pode estar saindo da nuvem e voltando para o seu próprio hardware.",
-      "thesis": "Modelos locais + agente próprio diminuem a dependência de cloud.",
-      "broll": [
-        "README",
-        "hardware",
-        "terminal",
-        "benchmark"
-      ],
-      "title": "magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "stars": 3589,
-      "forks": 256,
-      "issues": 21,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-06T17:05:17Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": null,
-      "score": 42,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/magnitudedev/magnitude",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=magnitudedev%20magnitude%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=undefined",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=undefined%20AI",
+          "url": "https://www.tiktok.com/search?q=scientific-agent-skills%20AI",
           "kind": "busca"
         }
       ],
@@ -391,8 +406,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26010,
-      "forks": 2425,
+      "stars": 26008,
+      "forks": 2426,
       "issues": 787,
       "language": "TypeScript",
       "pushedAt": "2026-09-03T02:31:45Z",
@@ -414,12 +429,12 @@
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=undefined",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=undefined%20AI",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
           "kind": "busca"
         }
       ],
@@ -427,6 +442,38 @@
     }
   ],
   "news": [
+    {
+      "title": "A public noticeboard for AI agents",
+      "url": "https://agents.scrygl.dev/",
+      "points": 2,
+      "comments": 0,
+      "publishedAt": "2026-09-06T20:45:36Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "A directory of AI agents, MCP servers and agent skills, cross-linked",
+      "url": "https://aiagentslisting.com",
+      "points": 3,
+      "comments": 0,
+      "publishedAt": "2026-09-06T19:10:13Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: Quiz-UI – Shadcn-style components for building quiz funnels",
+      "url": "https://github.com/kalpovskii/quiz-ui",
+      "points": 1,
+      "comments": 0,
+      "publishedAt": "2026-09-06T19:03:49Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Public beta: a decision-governance runtime for AI agents",
+      "url": "https://amundsenlance.github.io/pvpp-runtime-api/",
+      "points": 1,
+      "comments": 0,
+      "publishedAt": "2026-09-06T18:59:15Z",
+      "source": "Hacker News / Algolia"
+    },
     {
       "title": "Show HN: Ontoplano, FOSS Life Management desktop and mobile app with MCP server",
       "url": "https://github.com/ontoplano/ontoplano",
@@ -442,88 +489,56 @@
       "comments": 1,
       "publishedAt": "2026-09-06T16:17:36Z",
       "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Mdmanager.ai – Manage your Claude.md and AGENTS.md across machines and runtimes",
-      "url": "https://github.com/manuelschipper/mdmanager",
-      "points": 3,
-      "comments": 4,
-      "publishedAt": "2026-09-06T16:03:28Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Automatically Save 60% on Amazon",
-      "url": "https://chromewebstore.google.com/detail/findcheap/fpghkhnkfjlenapcdahgaafenfaopidn",
-      "points": 1,
-      "comments": 0,
-      "publishedAt": "2026-09-06T14:10:50Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "AI coding agents forget the codebase between sessions",
-      "url": "https://github.com/thecolourfoundation/rune",
-      "points": 3,
-      "comments": 0,
-      "publishedAt": "2026-09-06T12:45:13Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Pov: You're an AI agent recruited for the swarm",
-      "url": "https://twitter.com/artficialisabel/status/2095678312773554533",
-      "points": 1,
-      "comments": 0,
-      "publishedAt": "2026-09-06T08:49:24Z",
-      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
-      "repo": "sponsors/affaan-m",
-      "starsToday": 0
+      "repo": "affaan-m/ECC",
+      "starsToday": 1486
     },
     {
-      "repo": "sponsors/mattpocock",
-      "starsToday": 0
+      "repo": "mattpocock/skills",
+      "starsToday": 2206
     },
     {
       "repo": "cathrynlavery/diagram-design",
-      "starsToday": 0
+      "starsToday": 621
     },
     {
       "repo": "NousResearch/hermes-agent",
-      "starsToday": 0
+      "starsToday": 520
     },
     {
       "repo": "openai/skills",
-      "starsToday": 0
+      "starsToday": 44
     },
     {
-      "repo": "sponsors/anomalyco",
-      "starsToday": 0
+      "repo": "anomalyco/opencode",
+      "starsToday": 552
     },
     {
       "repo": "blader/humanizer",
-      "starsToday": 0
+      "starsToday": 748
     },
     {
-      "repo": "sponsors/llvm",
-      "starsToday": 0
+      "repo": "llvm/llvm-project",
+      "starsToday": 35
     },
     {
-      "repo": "sponsors/DietrichGebert",
-      "starsToday": 0
+      "repo": "DietrichGebert/ponytail",
+      "starsToday": 1539
     },
     {
       "repo": "ruvnet/ruflo",
-      "starsToday": 0
+      "starsToday": 276
     },
     {
       "repo": "magnitudedev/magnitude",
-      "starsToday": 0
+      "starsToday": 604
     },
     {
       "repo": "BraveOPotato/FckSignups",
-      "starsToday": 0
+      "starsToday": 436
     }
   ],
   "monitored": [
@@ -540,12 +555,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78407,
+      "stars": 78427,
       "forks": 6756,
       "issues": 124,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
-      "pushedLabel": "push há 5d",
+      "pushedLabel": "push há 6d",
       "trendingStarsToday": null,
       "score": 57,
       "social": [
@@ -575,16 +590,16 @@
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=undefined",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Reach%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=undefined%20AI",
+          "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -599,8 +614,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26010,
-      "forks": 2425,
+      "stars": 26008,
+      "forks": 2426,
       "issues": 787,
       "language": "TypeScript",
       "pushedAt": "2026-09-03T02:31:45Z",
@@ -622,12 +637,12 @@
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=undefined",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=undefined%20AI",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
           "kind": "busca"
         }
       ],
