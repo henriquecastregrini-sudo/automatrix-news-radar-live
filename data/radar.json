@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T23:04:52.367Z",
-  "generatedLabel": "6 de set. de 2026 · 20:04",
+  "generatedAt": "2026-09-07T00:49:14.840Z",
+  "generatedLabel": "6 de set. de 2026 · 21:49",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,13 +45,13 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 254457,
-      "forks": 21460,
+      "stars": 254552,
+      "forks": 21468,
       "issues": 469,
       "language": "Shell",
       "pushedAt": "2026-09-04T08:45:43Z",
       "pushedLabel": "push há 3d",
-      "trendingStarsToday": 2206,
+      "trendingStarsToday": 2207,
       "score": 95,
       "social": [
         {
@@ -110,12 +110,12 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 242516,
-      "forks": 49872,
-      "issues": 40342,
+      "stars": 242546,
+      "forks": 49886,
+      "issues": 40378,
       "language": "Python",
-      "pushedAt": "2026-09-06T21:20:46Z",
-      "pushedLabel": "push há 2h",
+      "pushedAt": "2026-09-07T00:17:01Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 520,
       "score": 94,
       "social": [
@@ -175,12 +175,12 @@
       ],
       "title": "magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
-      "stars": 3651,
-      "forks": 258,
+      "stars": 3667,
+      "forks": 260,
       "issues": 20,
       "language": "TypeScript",
-      "pushedAt": "2026-09-06T22:37:26Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-09-06T23:28:31Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 604,
       "score": 72,
       "social": [],
@@ -228,12 +228,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 50718,
-      "forks": 3301,
-      "issues": 123,
+      "stars": 50791,
+      "forks": 3309,
+      "issues": 125,
       "language": "JavaScript",
       "pushedAt": "2026-09-06T08:38:31Z",
-      "pushedLabel": "push há 14h",
+      "pushedLabel": "push há 16h",
       "trendingStarsToday": null,
       "score": 63,
       "social": [
@@ -287,7 +287,7 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78439,
+      "stars": 78450,
       "forks": 6758,
       "issues": 124,
       "language": "Python",
@@ -347,8 +347,8 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 43272,
-      "forks": 3942,
+      "stars": 43288,
+      "forks": 3945,
       "issues": 32,
       "language": "Python",
       "pushedAt": "2026-09-02T16:25:37Z",
@@ -443,6 +443,30 @@
   ],
   "news": [
     {
+      "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
+      "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
+      "points": 1,
+      "comments": 0,
+      "publishedAt": "2026-09-07T00:46:01Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Prediction of maternal and infant outcomes with a Mother-Child AI agent",
+      "url": "https://doi.org/10.1038/s41591-026-04694-y",
+      "points": 1,
+      "comments": 0,
+      "publishedAt": "2026-09-07T00:07:08Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: Chrome-bridge – let any AI agent drive your real logged-in Chrome",
+      "url": "https://github.com/siropkin/chrome-bridge",
+      "points": 1,
+      "comments": 0,
+      "publishedAt": "2026-09-06T23:07:19Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
       "title": "A public noticeboard for AI agents",
       "url": "https://agents.scrygl.dev/",
       "points": 2,
@@ -465,44 +489,20 @@
       "comments": 0,
       "publishedAt": "2026-09-06T19:03:49Z",
       "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Public beta: a decision-governance runtime for AI agents",
-      "url": "https://amundsenlance.github.io/pvpp-runtime-api/",
-      "points": 1,
-      "comments": 0,
-      "publishedAt": "2026-09-06T18:59:15Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Ontoplano, FOSS Life Management desktop and mobile app with MCP server",
-      "url": "https://github.com/ontoplano/ontoplano",
-      "points": 1,
-      "comments": 0,
-      "publishedAt": "2026-09-06T17:07:03Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "AI agents aren't safe from prompt injection, and spreadsheets prove it",
-      "url": "https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/",
-      "points": 3,
-      "comments": 1,
-      "publishedAt": "2026-09-06T16:17:36Z",
-      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "affaan-m/ECC",
-      "starsToday": 1486
+      "starsToday": 1485
     },
     {
       "repo": "mattpocock/skills",
-      "starsToday": 2206
+      "starsToday": 2207
     },
     {
       "repo": "cathrynlavery/diagram-design",
-      "starsToday": 621
+      "starsToday": 620
     },
     {
       "repo": "NousResearch/hermes-agent",
@@ -510,11 +510,11 @@
     },
     {
       "repo": "openai/skills",
-      "starsToday": 44
+      "starsToday": 46
     },
     {
       "repo": "anomalyco/opencode",
-      "starsToday": 552
+      "starsToday": 551
     },
     {
       "repo": "blader/humanizer",
@@ -522,7 +522,7 @@
     },
     {
       "repo": "llvm/llvm-project",
-      "starsToday": 35
+      "starsToday": 23
     },
     {
       "repo": "DietrichGebert/ponytail",
@@ -555,7 +555,7 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78439,
+      "stars": 78450,
       "forks": 6758,
       "issues": 124,
       "language": "Python",
