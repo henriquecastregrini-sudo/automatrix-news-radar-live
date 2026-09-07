@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T11:12:31.841Z",
-  "generatedLabel": "7 de set. de 2026 · 08:12",
+  "generatedAt": "2026-09-07T11:18:41.193Z",
+  "generatedLabel": "7 de set. de 2026 · 08:18",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,11 +45,11 @@
         "comparação de agentes"
       ],
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 252246,
-      "forks": 37863,
+      "stars": 252254,
+      "forks": 37862,
       "issues": 176,
       "language": "JavaScript",
-      "pushedAt": "2026-09-07T11:04:42Z",
+      "pushedAt": "2026-09-07T11:17:03Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 1485,
       "score": 95,
@@ -100,28 +100,37 @@
     },
     {
       "repo": "heygen-com/hyperframes",
-      "title": "hyperframes",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 220 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Write HTML. Render video. Built for agents.",
+      "title": "Hyperframes",
+      "type": "Vídeo programável para agentes",
+      "status": "Gravar agora",
+      "hook": "Agora um agente pode escrever HTML e transformar esse código em um vídeo renderizado.",
+      "thesis": "A edição de vídeo está virando uma tarefa programável e operável por agentes.",
       "broll": [
-        "GitHub Trending",
-        "README",
         "demo oficial",
-        "histórico do projeto"
+        "HTML virando vídeo",
+        "timeline programática",
+        "GitHub Trending"
       ],
       "url": "https://github.com/heygen-com/hyperframes",
-      "stars": 44582,
+      "stars": 44585,
       "forks": 4259,
       "issues": 173,
       "language": "TypeScript",
       "pushedAt": "2026-09-07T06:34:53Z",
       "pushedLabel": "push há 5h",
       "trendingStarsToday": 220,
-      "score": 70,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "score": 82,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "HeyGen · fluxo de agentes com Hyperframes · 10,9k views · publicado 22 MAI",
+          "url": "https://www.youtube.com/watch?v=9yx8Ja1gztI",
+          "views": 10925,
+          "publishedAt": "2026-05-22",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
       "sources": [
         {
           "label": "GitHub",
@@ -134,18 +143,23 @@
           "kind": "tendência"
         },
         {
+          "label": "YouTube · HeyGen · fluxo de agentes com Hyperframes · 10,9k views · publicado 22 MAI",
+          "url": "https://www.youtube.com/watch?v=9yx8Ja1gztI",
+          "kind": "social"
+        },
+        {
           "label": "Buscar YouTube",
           "url": "https://www.youtube.com/results?search_query=heygen-com%20hyperframes%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=hyperframes%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Hyperframes%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=hyperframes%20AI",
+          "url": "https://www.tiktok.com/search?q=Hyperframes%20AI",
           "kind": "busca"
         }
       ],
@@ -153,28 +167,37 @@
     },
     {
       "repo": "coreyhaines31/marketingskills",
-      "title": "marketingskills",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 329 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "title": "Marketing Skills",
+      "type": "Skills de marketing",
+      "status": "Gravar agora",
+      "hook": "Este repo transforma copy, SEO, CRO e analytics em habilidades reutilizáveis por agentes.",
+      "thesis": "Times de marketing estão começando a ser empacotados como infraestrutura para agentes.",
       "broll": [
-        "GitHub Trending",
+        "diretório de skills",
         "README",
-        "demo oficial",
-        "histórico do projeto"
+        "exemplos de copy e CRO",
+        "GitHub Trending"
       ],
       "url": "https://github.com/coreyhaines31/marketingskills",
-      "stars": 47799,
+      "stars": 47800,
       "forks": 7409,
       "issues": 106,
       "language": "JavaScript",
       "pushedAt": "2026-09-05T04:48:10Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": 329,
-      "score": 65,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "score": 79,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "The Next New Thing · skills para Claude · 53k views · publicado 11 FEV",
+          "url": "https://www.youtube.com/watch?v=YajqB9RDdzI",
+          "views": 53347,
+          "publishedAt": "2026-02-11",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
       "sources": [
         {
           "label": "GitHub",
@@ -187,22 +210,94 @@
           "kind": "tendência"
         },
         {
+          "label": "YouTube · The Next New Thing · skills para Claude · 53k views · publicado 11 FEV",
+          "url": "https://www.youtube.com/watch?v=YajqB9RDdzI",
+          "kind": "social"
+        },
+        {
           "label": "Buscar YouTube",
           "url": "https://www.youtube.com/results?search_query=coreyhaines31%20marketingskills%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=marketingskills%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Marketing%20Skills%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=marketingskills%20AI",
+          "url": "https://www.tiktok.com/search?q=Marketing%20Skills%20AI",
           "kind": "busca"
         }
       ],
       "rank": 3
+    },
+    {
+      "repo": "jo-inc/camofox-browser",
+      "title": "CamoFox Browser",
+      "type": "Navegador para agentes",
+      "status": "Monitorar hoje",
+      "hook": "Este navegador headless foi criado para agentes acessarem páginas que bloqueiam automação comum.",
+      "thesis": "A guerra entre agentes navegadores e sistemas antibot está criando uma nova camada de infraestrutura.",
+      "broll": [
+        "terminal",
+        "README",
+        "demo de navegação",
+        "comparação com Playwright"
+      ],
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "stars": 9275,
+      "forks": 1003,
+      "issues": 123,
+      "language": "JavaScript",
+      "pushedAt": "2026-09-06T03:30:20Z",
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 117,
+      "score": 73,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Build Things With AI · CamoFox entre repos em alta · 1,8k views · publicado 02 MAI",
+          "url": "https://www.youtube.com/watch?v=Hs-xdoaGH5o",
+          "views": 1855,
+          "publishedAt": "2026-05-02",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/jo-inc/camofox-browser",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 117 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · Build Things With AI · CamoFox entre repos em alta · 1,8k views · publicado 02 MAI",
+          "url": "https://www.youtube.com/watch?v=Hs-xdoaGH5o",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=jo-inc%20camofox-browser%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=CamoFox%20Browser%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=CamoFox%20Browser%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
     },
     {
       "repo": "NousResearch/hermes-agent",
@@ -218,11 +313,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 242848,
+      "stars": 242849,
       "forks": 49948,
-      "issues": 40575,
+      "issues": 40574,
       "language": "Python",
-      "pushedAt": "2026-09-07T11:02:50Z",
+      "pushedAt": "2026-09-07T11:17:45Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -264,59 +359,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
-    },
-    {
-      "repo": "jo-inc/camofox-browser",
-      "title": "camofox-browser",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 117 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/jo-inc/camofox-browser",
-      "stars": 9270,
-      "forks": 1003,
-      "issues": 123,
-      "language": "JavaScript",
-      "pushedAt": "2026-09-06T03:30:20Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 117,
-      "score": 63,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/jo-inc/camofox-browser",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 117 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=jo-inc%20camofox-browser%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=camofox-browser%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=camofox-browser%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 5
     },
     {
@@ -333,7 +375,7 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mksglu/context-mode",
-      "stars": 20516,
+      "stars": 20517,
       "forks": 1512,
       "issues": 213,
       "language": "TypeScript",
@@ -386,8 +428,8 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 51768,
-      "forks": 3383,
+      "stars": 51776,
+      "forks": 3384,
       "issues": 133,
       "language": "JavaScript",
       "pushedAt": "2026-09-07T04:41:40Z",
@@ -448,8 +490,8 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 255660,
-      "forks": 21533,
+      "stars": 255669,
+      "forks": 21534,
       "issues": 469,
       "language": "Shell",
       "pushedAt": "2026-09-04T08:45:43Z",
@@ -572,7 +614,7 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-      "stars": 4977,
+      "stars": 4980,
       "forks": 788,
       "issues": 18,
       "language": "Python",
@@ -748,7 +790,7 @@
     {
       "title": "ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo",
       "url": "https://github.com/redhat-et/ripwire",
-      "points": 13,
+      "points": 14,
       "comments": 8,
       "publishedAt": "2026-09-07T02:11:40Z",
       "source": "Hacker News / Algolia"
@@ -759,14 +801,6 @@
       "points": 1,
       "comments": 0,
       "publishedAt": "2026-09-07T01:43:53Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
-      "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
-      "points": 15,
-      "comments": 0,
-      "publishedAt": "2026-09-07T00:46:01Z",
       "source": "Hacker News / Algolia"
     }
   ],

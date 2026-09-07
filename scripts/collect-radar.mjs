@@ -4,6 +4,14 @@ import { dirname, resolve } from 'node:path';
 const root = resolve(import.meta.dirname, '..');
 const output = resolve(root, 'data', 'radar.json');
 const githubApi = 'https://api.github.com';
+const githubToken = process.env.GITHUB_TOKEN || process.env.GH_TOKEN || '';
+let previousData = { repos: [], news: [], trending: [] };
+try {
+  previousData = JSON.parse(await readFile(output, 'utf8'));
+} catch {
+  // First run: there is no prior snapshot to preserve.
+}
+const previousRepoMap = new Map((previousData.repos || []).map((repo) => [repo.repo.toLowerCase(), repo]));
 const today = new Intl.DateTimeFormat('pt-BR', {
   timeZone: 'America/Sao_Paulo', dateStyle: 'medium', timeStyle: 'short', hour12: false,
 }).format(new Date()).replace(',', ' ·');
@@ -25,6 +33,9 @@ const editorialOverrides = {
   'cathrynlavery/diagram-design': { title: 'Diagram Design', type: 'Visual para agentes', status: 'Gravar agora', hook: 'Uma coleção de skills está ensinando agentes a criar diagramas editoriais sem o visual genérico de IA.', thesis: 'Design visual está virando uma habilidade reutilizável por agentes de código.', broll: ['galeria de diagramas', 'HTML e SVG', 'README', 'GitHub Trending'] },
   'anomalyco/opencode': { title: 'OpenCode', type: 'Agente de código open-source', status: 'Monitorar hoje', hook: 'O agente de código open-source que quer competir diretamente com as ferramentas fechadas.', thesis: 'A disputa por coding agents está migrando para ecossistemas abertos e executáveis localmente.', broll: ['terminal', 'README', 'demo', 'comparação com agentes fechados'] },
   'ruvnet/ruflo': { title: 'Ruflo', type: 'Orquestração multiagente', status: 'Monitorar hoje', hook: 'Este meta-harness coordena enxames de agentes, memória e fluxos autônomos no mesmo sistema.', thesis: 'O mercado está saindo do agente isolado para equipes de agentes coordenados.', broll: ['arquitetura', 'terminal', 'swarm demo', 'README'] },
+  'heygen-com/hyperframes': { title: 'Hyperframes', type: 'Vídeo programável para agentes', status: 'Gravar agora', hook: 'Agora um agente pode escrever HTML e transformar esse código em um vídeo renderizado.', thesis: 'A edição de vídeo está virando uma tarefa programável e operável por agentes.', broll: ['demo oficial', 'HTML virando vídeo', 'timeline programática', 'GitHub Trending'] },
+  'coreyhaines31/marketingskills': { title: 'Marketing Skills', type: 'Skills de marketing', status: 'Gravar agora', hook: 'Este repo transforma copy, SEO, CRO e analytics em habilidades reutilizáveis por agentes.', thesis: 'Times de marketing estão começando a ser empacotados como infraestrutura para agentes.', broll: ['diretório de skills', 'README', 'exemplos de copy e CRO', 'GitHub Trending'] },
+  'jo-inc/camofox-browser': { title: 'CamoFox Browser', type: 'Navegador para agentes', status: 'Monitorar hoje', hook: 'Este navegador headless foi criado para agentes acessarem páginas que bloqueiam automação comum.', thesis: 'A guerra entre agentes navegadores e sistemas antibot está criando uma nova camada de infraestrutura.', broll: ['terminal', 'README', 'demo de navegação', 'comparação com Playwright'] },
 };
 
 const socialReferences = {
@@ -35,6 +46,9 @@ const socialReferences = {
   'blader/humanizer': [{ platform: 'YouTube', label: 'Superbash · Humanizer Skill · 7,5k views · publicado 03 AGO', url: 'https://www.youtube.com/watch?v=ZCQhyS2Ad9U', views: 7482, publishedAt: '2026-08-03', verifiedAt: '07 SET 2026' }],
   'anomalyco/opencode': [{ platform: 'YouTube', label: 'Leon van Zyl · tutorial OpenCode · 208k views · publicado 05 MAI', url: 'https://www.youtube.com/watch?v=uZGDO0L-Dr4', views: 208689, publishedAt: '2026-05-05', verifiedAt: '07 SET 2026' }],
   'DietrichGebert/ponytail': [{ platform: 'YouTube', label: 'Better Stack · Ponytail escreve 94% menos código · 254k views · publicado 20 JUN', url: 'https://www.youtube.com/watch?v=2xuFcmUAQUc', views: 254926, publishedAt: '2026-06-20', verifiedAt: '07 SET 2026' }],
+  'heygen-com/hyperframes': [{ platform: 'YouTube', label: 'HeyGen · fluxo de agentes com Hyperframes · 10,9k views · publicado 22 MAI', url: 'https://www.youtube.com/watch?v=9yx8Ja1gztI', views: 10925, publishedAt: '2026-05-22', verifiedAt: '07 SET 2026' }],
+  'coreyhaines31/marketingskills': [{ platform: 'YouTube', label: 'The Next New Thing · skills para Claude · 53k views · publicado 11 FEV', url: 'https://www.youtube.com/watch?v=YajqB9RDdzI', views: 53347, publishedAt: '2026-02-11', verifiedAt: '07 SET 2026' }],
+  'jo-inc/camofox-browser': [{ platform: 'YouTube', label: 'Build Things With AI · CamoFox entre repos em alta · 1,8k views · publicado 02 MAI', url: 'https://www.youtube.com/watch?v=Hs-xdoaGH5o', views: 1855, publishedAt: '2026-05-02', verifiedAt: '07 SET 2026' }],
   'magnitudedev/magnitude': [],
   'K-Dense-AI/scientific-agent-skills': [{ platform: 'YouTube', label: 'K-Dense · skills científicas · 13,5k views · publicado 18 FEV', url: 'https://www.youtube.com/watch?v=ZxbnDaD_FVg', views: 13534, publishedAt: '2026-02-18', verifiedAt: '07 SET 2026' }],
   'Panniantong/Agent-Reach': [{ platform: 'YouTube', label: 'Better Stack · agente com acesso web · 16k views · publicado 18 JUN', url: 'https://www.youtube.com/watch?v=aanqEqQwjNU', views: 16050, publishedAt: '2026-06-18', verifiedAt: '06 SET 2026' }],
@@ -43,13 +57,32 @@ const socialReferences = {
 
 async function getJson(url, fallback) {
   try {
-    const response = await fetch(url, { headers: { Accept: 'application/vnd.github+json', 'User-Agent': 'automatrix-news-radar' } });
+    const headers = { Accept: 'application/vnd.github+json', 'User-Agent': 'automatrix-news-radar' };
+    if (githubToken && url.startsWith(githubApi)) headers.Authorization = `Bearer ${githubToken}`;
+    const response = await fetch(url, { headers });
     if (!response.ok) throw new Error(`${response.status}`);
     return await response.json();
   } catch (error) {
     console.warn(`Falha em ${url}: ${error.message}`);
     return fallback;
   }
+}
+
+function previousApiFallback(repo) {
+  const previous = previousRepoMap.get(repo.toLowerCase());
+  if (!previous) return {};
+  return {
+    name: previous.title || repo.split('/')[1],
+    full_name: previous.repo,
+    html_url: previous.url || `https://github.com/${repo}`,
+    description: previous.thesis || '',
+    stargazers_count: previous.stars,
+    forks_count: previous.forks,
+    open_issues_count: previous.issues,
+    language: previous.language,
+    pushed_at: previous.pushedAt,
+    topics: [],
+  };
 }
 
 async function getText(url, fallback = '') {
@@ -89,12 +122,12 @@ const trendingMap = new Map(trending.map((item) => [item.repo.toLowerCase(), ite
 const coreNames = new Set(tracked.map((item) => item.repo.toLowerCase()));
 const trendingDetails = await Promise.all(trending.slice(0, 12).filter((item) => !coreNames.has(item.repo.toLowerCase())).map(async (trend) => ({
   trend,
-  api: await getJson(`${githubApi}/repos/${trend.repo}`, {}),
+  api: await getJson(`${githubApi}/repos/${trend.repo}`, previousApiFallback(trend.repo)),
 })));
 const relevancePattern = /(^|\W)(ai|agent|agents|agentic|llm|mcp|claude|codex|coding|developer|devtool|automation|skill|skills|prompt|terminal|cli|software)(\W|$)/i;
 const dynamicTracked = trendingDetails.filter(({ api }) => {
   const searchable = [api.name, api.description, ...(api.topics || [])].filter(Boolean).join(' ');
-  return api.full_name && relevancePattern.test(searchable);
+  return api.full_name && (previousRepoMap.has(api.full_name.toLowerCase()) || relevancePattern.test(searchable));
 }).slice(0, 6).map(({ trend, api }) => ({
   repo: trend.repo,
   title: editorialOverrides[trend.repo]?.title || api.name || trend.repo.split('/')[1],
@@ -107,7 +140,7 @@ const dynamicTracked = trendingDetails.filter(({ api }) => {
 }));
 const runTracked = [...tracked, ...dynamicTracked];
 const collectedRepos = await Promise.all(runTracked.map(async (item) => {
-  const api = item._api || await getJson(`${githubApi}/repos/${item.repo}`, {});
+  const api = item._api || await getJson(`${githubApi}/repos/${item.repo}`, previousApiFallback(item.repo));
   const { _api, ...editorial } = item;
   const starsToday = trendingMap.get(item.repo.toLowerCase()) || 0;
   const social = socialReferences[item.repo] || [];
