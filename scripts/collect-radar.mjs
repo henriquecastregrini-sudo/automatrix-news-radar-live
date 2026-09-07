@@ -18,13 +18,26 @@ const tracked = [
   { repo: 'TencentCloud/TencentDB-Agent-Memory', type: 'Memória de agentes', status: 'Usar como comparação', hook: 'O próximo salto dos agentes não é pensar mais. É lembrar melhor.', thesis: 'Memória compartilhada é a camada que torna agentes úteis por mais tempo.', broll: ['README', 'arquitetura de memória', 'code graph'] },
 ];
 
+const editorialOverrides = {
+  'affaan-m/ECC': { title: 'ECC', type: 'Otimização de agentes', status: 'Gravar agora', hook: 'Este sistema promete deixar Claude, Codex e outros agentes mais rápidos, seguros e consistentes.', thesis: 'O próximo salto dos agentes pode vir do harness ao redor do modelo, não de um modelo maior.', broll: ['GitHub Trending', 'README', 'skills e memória', 'comparação de agentes'] },
+  'DietrichGebert/ponytail': { title: 'Ponytail', type: 'Skill para agentes', status: 'Gravar agora', hook: 'Um repo está ensinando agentes a pensar como o desenvolvedor sênior mais preguiçoso da equipe.', thesis: 'A habilidade mais valiosa de um agente pode ser evitar código desnecessário.', broll: ['GitHub Trending', 'README', 'exemplos YAGNI', 'antes e depois do código'] },
+  'blader/humanizer': { title: 'Humanizer', type: 'Escrita com IA', status: 'Gravar agora', hook: 'Este repo tenta apagar os sinais que denunciam um texto escrito por IA.', thesis: 'Quanto mais conteúdo a IA produz, mais valiosas ficam as ferramentas que devolvem voz humana.', broll: ['README', 'texto antes e depois', 'regras da skill', 'GitHub Trending'] },
+  'cathrynlavery/diagram-design': { title: 'Diagram Design', type: 'Visual para agentes', status: 'Gravar agora', hook: 'Uma coleção de skills está ensinando agentes a criar diagramas editoriais sem o visual genérico de IA.', thesis: 'Design visual está virando uma habilidade reutilizável por agentes de código.', broll: ['galeria de diagramas', 'HTML e SVG', 'README', 'GitHub Trending'] },
+  'anomalyco/opencode': { title: 'OpenCode', type: 'Agente de código open-source', status: 'Monitorar hoje', hook: 'O agente de código open-source que quer competir diretamente com as ferramentas fechadas.', thesis: 'A disputa por coding agents está migrando para ecossistemas abertos e executáveis localmente.', broll: ['terminal', 'README', 'demo', 'comparação com agentes fechados'] },
+  'ruvnet/ruflo': { title: 'Ruflo', type: 'Orquestração multiagente', status: 'Monitorar hoje', hook: 'Este meta-harness coordena enxames de agentes, memória e fluxos autônomos no mesmo sistema.', thesis: 'O mercado está saindo do agente isolado para equipes de agentes coordenados.', broll: ['arquitetura', 'terminal', 'swarm demo', 'README'] },
+};
+
 const socialReferences = {
-  'mattpocock/skills': [{ platform: 'YouTube', label: 'Matt Pocock · workflow completo · 421k views · publicado 16 JUL', url: 'https://www.youtube.com/watch?v=M6mYodf0dJM', verifiedAt: '06 SET 2026' }],
-  'tt-a1i/archify': [{ platform: 'YouTube', label: 'The Next New Thing · Archify entre os repos em alta · 92k views · publicado 04 SET', url: 'https://www.youtube.com/watch?v=AWzzmrCPe-A', verifiedAt: '06 SET 2026' }],
-  'NousResearch/hermes-agent': [{ platform: 'YouTube', label: 'Metics Media · tutorial completo · 217k views · publicado 31 AGO', url: 'https://www.youtube.com/watch?v=DYdvJCxWd6M', verifiedAt: '06 SET 2026' }],
+  'mattpocock/skills': [{ platform: 'YouTube', label: 'Matt Pocock · workflow completo · 424k views · publicado 16 JUL', url: 'https://www.youtube.com/watch?v=M6mYodf0dJM', views: 424060, publishedAt: '2026-07-16', verifiedAt: '07 SET 2026' }],
+  'tt-a1i/archify': [{ platform: 'YouTube', label: 'The Next New Thing · Archify entre os repos em alta · 111k views · publicado 04 SET', url: 'https://www.youtube.com/watch?v=AWzzmrCPe-A', views: 111709, publishedAt: '2026-09-04', verifiedAt: '07 SET 2026' }],
+  'NousResearch/hermes-agent': [{ platform: 'YouTube', label: 'Metics Media · tutorial completo · 225k views · publicado 31 AGO', url: 'https://www.youtube.com/watch?v=DYdvJCxWd6M', views: 225904, publishedAt: '2026-08-31', verifiedAt: '07 SET 2026' }],
+  'affaan-m/ECC': [{ platform: 'YouTube', label: 'DevsKingdom · ECC Agent Harness · 1k views · publicado 27 AGO', url: 'https://www.youtube.com/watch?v=5ZgBoOBhHzo', views: 1062, publishedAt: '2026-08-27', verifiedAt: '07 SET 2026' }],
+  'blader/humanizer': [{ platform: 'YouTube', label: 'Superbash · Humanizer Skill · 7,5k views · publicado 03 AGO', url: 'https://www.youtube.com/watch?v=ZCQhyS2Ad9U', views: 7482, publishedAt: '2026-08-03', verifiedAt: '07 SET 2026' }],
+  'anomalyco/opencode': [{ platform: 'YouTube', label: 'Leon van Zyl · tutorial OpenCode · 208k views · publicado 05 MAI', url: 'https://www.youtube.com/watch?v=uZGDO0L-Dr4', views: 208689, publishedAt: '2026-05-05', verifiedAt: '07 SET 2026' }],
+  'DietrichGebert/ponytail': [{ platform: 'YouTube', label: 'Better Stack · Ponytail escreve 94% menos código · 254k views · publicado 20 JUN', url: 'https://www.youtube.com/watch?v=2xuFcmUAQUc', views: 254926, publishedAt: '2026-06-20', verifiedAt: '07 SET 2026' }],
   'magnitudedev/magnitude': [],
-  'K-Dense-AI/scientific-agent-skills': [{ platform: 'YouTube', label: 'K-Dense · skills científicas · 13k views', url: 'https://www.youtube.com/watch?v=ZxbnDaD_FVg', verifiedAt: '04 SET 2026' }],
-  'Panniantong/Agent-Reach': [{ platform: 'YouTube', label: 'Better Stack · agente com acesso web · 16k views · publicado 18 JUN', url: 'https://www.youtube.com/watch?v=aanqEqQwjNU', verifiedAt: '06 SET 2026' }],
+  'K-Dense-AI/scientific-agent-skills': [{ platform: 'YouTube', label: 'K-Dense · skills científicas · 13,5k views · publicado 18 FEV', url: 'https://www.youtube.com/watch?v=ZxbnDaD_FVg', views: 13534, publishedAt: '2026-02-18', verifiedAt: '07 SET 2026' }],
+  'Panniantong/Agent-Reach': [{ platform: 'YouTube', label: 'Better Stack · agente com acesso web · 16k views · publicado 18 JUN', url: 'https://www.youtube.com/watch?v=aanqEqQwjNU', views: 16050, publishedAt: '2026-06-18', verifiedAt: '06 SET 2026' }],
   'TencentCloud/TencentDB-Agent-Memory': [],
 };
 
@@ -73,18 +86,41 @@ function ageLabel(date) {
 
 const trending = extractTrending(await getText('https://github.com/trending?since=daily'));
 const trendingMap = new Map(trending.map((item) => [item.repo.toLowerCase(), item.starsToday]));
-const repos = await Promise.all(tracked.map(async (item) => {
-  const api = await getJson(`${githubApi}/repos/${item.repo}`, {});
+const coreNames = new Set(tracked.map((item) => item.repo.toLowerCase()));
+const trendingDetails = await Promise.all(trending.slice(0, 12).filter((item) => !coreNames.has(item.repo.toLowerCase())).map(async (trend) => ({
+  trend,
+  api: await getJson(`${githubApi}/repos/${trend.repo}`, {}),
+})));
+const relevancePattern = /(^|\W)(ai|agent|agents|agentic|llm|mcp|claude|codex|coding|developer|devtool|automation|skill|skills|prompt|terminal|cli|software)(\W|$)/i;
+const dynamicTracked = trendingDetails.filter(({ api }) => {
+  const searchable = [api.name, api.description, ...(api.topics || [])].filter(Boolean).join(' ');
+  return api.full_name && relevancePattern.test(searchable);
+}).slice(0, 6).map(({ trend, api }) => ({
+  repo: trend.repo,
+  title: editorialOverrides[trend.repo]?.title || api.name || trend.repo.split('/')[1],
+  type: editorialOverrides[trend.repo]?.type || 'Novo no GitHub Trending',
+  status: editorialOverrides[trend.repo]?.status || (trend.starsToday >= 500 ? 'Gravar agora' : 'Monitorar hoje'),
+  hook: editorialOverrides[trend.repo]?.hook || `Este repositório ganhou ${compact(trend.starsToday)} estrelas hoje e entrou no radar dos desenvolvedores.`,
+  thesis: editorialOverrides[trend.repo]?.thesis || api.description || 'Tendência técnica recente que precisa de validação editorial.',
+  broll: editorialOverrides[trend.repo]?.broll || ['GitHub Trending', 'README', 'demo oficial', 'histórico do projeto'],
+  _api: api,
+}));
+const runTracked = [...tracked, ...dynamicTracked];
+const collectedRepos = await Promise.all(runTracked.map(async (item) => {
+  const api = item._api || await getJson(`${githubApi}/repos/${item.repo}`, {});
+  const { _api, ...editorial } = item;
   const starsToday = trendingMap.get(item.repo.toLowerCase()) || 0;
   const social = socialReferences[item.repo] || [];
+  const socialViews = Math.max(0, ...social.map((reference) => reference.views || 0));
+  const socialScore = social.length ? Math.min(22, 8 + Math.log10(socialViews + 1) * 2.5) : 6;
   const score = Math.min(100, Math.round(
     (starsToday ? Math.min(48, Math.log10(starsToday + 1) * 15) : 12) +
     Math.min(22, Math.log10((api.stargazers_count || 1) + 1) * 4) +
-    (social.length ? 22 : 6) +
+    socialScore +
     (api.pushed_at && Date.now() - new Date(api.pushed_at).getTime() < 1728e5 ? 10 : 3)
   ));
   return {
-    ...item,
+    ...editorial,
     title: item.title || api.name || item.repo.split('/')[1],
     url: api.html_url || `https://github.com/${item.repo}`,
     stars: api.stargazers_count || null,
@@ -108,7 +144,14 @@ const repos = await Promise.all(tracked.map(async (item) => {
   };
 }));
 
-repos.sort((a, b) => b.score - a.score || (b.stars || 0) - (a.stars || 0));
+const monitoredNames = new Set(['Panniantong/Agent-Reach', 'TencentCloud/TencentDB-Agent-Memory']);
+const editorialRepos = collectedRepos
+  .filter((repo) => !monitoredNames.has(repo.repo))
+  .filter((repo) => repo.trendingStarsToday || (repo.pushedAt && Date.now() - new Date(repo.pushedAt).getTime() < 7 * 864e5))
+  .sort((a, b) => b.score - a.score || (b.trendingStarsToday || 0) - (a.trendingStarsToday || 0) || (b.stars || 0) - (a.stars || 0))
+  .slice(0, 10);
+const repos = [...editorialRepos, ...collectedRepos.filter((repo) => monitoredNames.has(repo.repo))];
+repos.sort((a, b) => b.score - a.score || (b.trendingStarsToday || 0) - (a.trendingStarsToday || 0) || (b.stars || 0) - (a.stars || 0));
 repos.forEach((repo, index) => { repo.rank = index + 1; });
 
 const hn = await getJson('https://hn.algolia.com/api/v1/search_by_date?query=AI%20agent&tags=story&hitsPerPage=8', { hits: [] });
