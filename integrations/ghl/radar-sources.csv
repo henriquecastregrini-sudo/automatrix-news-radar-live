@@ -1,0 +1,6 @@
+"name","url","status"
+"GitHub API","https://docs.github.com/rest","ativo"
+"GitHub Trending","https://github.com/trending","ativo"
+"Hacker News / Algolia","https://hn.algolia.com","ativo"
+"Trendshift","https://trendshift.io/","verificação manual"
+"YouTube / Instagram / TikTok","https://www.youtube.com/","links diretos ou busca; métricas exigem post público verificável"

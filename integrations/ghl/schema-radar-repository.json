@@ -1,0 +1,14 @@
+{
+  "labels": {
+    "singular": "Radar Repository",
+    "plural": "Radar Repositories"
+  },
+  "key": "custom_objects.radar_repository",
+  "description": "GitHub repositories ranked by the Automatrix editorial radar, with factual metrics, viral thesis, social proof and recommended action.",
+  "locationId": "n9t85IRP5gN1w0PH48wK",
+  "primaryDisplayPropertyDetails": {
+    "key": "custom_objects.radar_repository.repository",
+    "name": "Repository",
+    "dataType": "TEXT"
+  }
+}

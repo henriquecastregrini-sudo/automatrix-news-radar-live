@@ -1,0 +1,14 @@
+{
+  "labels": {
+    "singular": "Radar News",
+    "plural": "Radar News"
+  },
+  "key": "custom_objects.radar_news",
+  "description": "External news and discussions collected by the Automatrix editorial radar.",
+  "locationId": "n9t85IRP5gN1w0PH48wK",
+  "primaryDisplayPropertyDetails": {
+    "key": "custom_objects.radar_news.title",
+    "name": "Title",
+    "dataType": "TEXT"
+  }
+}

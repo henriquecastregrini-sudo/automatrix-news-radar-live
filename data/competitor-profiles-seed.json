@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-07T00:00:00-03:00",
+  "source": "Automatrix historical planning report from 2026-08-24",
+  "profiles": [
+    {"name":"Alura","category":"competitor","platforms":"Meta, Google, YouTube, LinkedIn","angle":"Educacao tech com captacao forte no Brasil","profileStatus":"official URLs pending"},
+    {"name":"Rocketseat","category":"competitor","platforms":"Meta, Google, YouTube, LinkedIn","angle":"Dev education, launches and community","profileStatus":"official URLs pending"},
+    {"name":"DIO","category":"competitor","platforms":"Meta, Google, LinkedIn","angle":"Bootcamps, B2C/B2B leads and developer content","profileStatus":"official URLs pending"},
+    {"name":"Hashtag Treinamentos","category":"competitor","platforms":"Meta, Google, YouTube","angle":"Strong course funnels and free classes","profileStatus":"official URLs pending"},
+    {"name":"EBAC","category":"competitor","platforms":"Meta, Google, TikTok","angle":"Digital courses with recurring paid traffic","profileStatus":"official URLs pending"},
+    {"name":"Curso em Video","category":"competitor","platforms":"YouTube, Google","angle":"Developer education with strong organic authority","profileStatus":"official URLs pending"},
+    {"name":"Data Science Academy","category":"competitor","platforms":"Google, LinkedIn, Meta","angle":"AI/data lead magnets and courses","profileStatus":"official URLs pending"},
+    {"name":"Trybe","category":"competitor","platforms":"Meta, Google, LinkedIn","angle":"Technology education and employability","profileStatus":"official URLs pending"},
+    {"name":"B7Web","category":"competitor","platforms":"Meta, Google, YouTube","angle":"Full-stack education with direct acquisition","profileStatus":"official URLs pending"},
+    {"name":"DevMedia","category":"competitor","platforms":"Google, Meta","angle":"Developer content, subscriptions and courses","profileStatus":"official URLs pending"},
+    {"name":"Fireship","category":"creator","platforms":"YouTube Long/Short","angle":"Repositories, developer tools and AI coding in a fast format","profileStatus":"official URLs pending"},
+    {"name":"NetworkChuck","category":"creator","platforms":"YouTube Long/Short","angle":"Practical tutorials, automation and local AI","profileStatus":"official URLs pending"},
+    {"name":"Cole Medin","category":"creator","platforms":"YouTube Long","angle":"Vibe coding, Cursor, Claude Code, MCP and agents","profileStatus":"official URLs pending"},
+    {"name":"AI Jason","category":"creator","platforms":"YouTube Long/Short","angle":"Agents, RAG, automation and AI tools","profileStatus":"official URLs pending"},
+    {"name":"Matt Wolfe","category":"creator","platforms":"YouTube, Instagram, TikTok","angle":"New AI tools, reviews and comparisons","profileStatus":"official URLs pending"},
+    {"name":"Traversy Media","category":"creator","platforms":"YouTube Long","angle":"Complete AI projects for web development","profileStatus":"official URLs pending"},
+    {"name":"Web Dev Simplified","category":"creator","platforms":"YouTube Long/Short","angle":"React, Node and TypeScript workflows with AI","profileStatus":"official URLs pending"},
+    {"name":"Code With Harry","category":"creator","platforms":"YouTube Long/Short","angle":"AI coding for beginners and mass audiences","profileStatus":"official URLs pending"},
+    {"name":"Bro Code","category":"creator","platforms":"YouTube Long/Short","angle":"Programming fundamentals and AI coding","profileStatus":"official URLs pending"},
+    {"name":"The Coding Train","category":"creator","platforms":"YouTube Long/Short","angle":"Creative coding and AI experiments","profileStatus":"official URLs pending"},
+    {"name":"drcintas","category":"reference","platforms":"Instagram","angle":"Direct creative reference for Anime Builder, Claude and Higgsfield MCP","profileStatus":"one post verified","profileUrl":"https://www.instagram.com/drcintas/","referencePostUrl":"https://www.instagram.com/reels/Da6pU8MNaqV/","snapshotLikes":269,"snapshotComments":312}
+  ]
+}

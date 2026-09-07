@@ -1,0 +1,975 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-07T20:21:21.356Z",
+  "generatedLabel": "7 de set. de 2026 · 17:21",
+  "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
+  "sources": [
+    {
+      "name": "GitHub API",
+      "url": "https://docs.github.com/rest",
+      "status": "ativo"
+    },
+    {
+      "name": "GitHub Trending",
+      "url": "https://github.com/trending",
+      "status": "ativo"
+    },
+    {
+      "name": "Hacker News / Algolia",
+      "url": "https://hn.algolia.com",
+      "status": "ativo"
+    },
+    {
+      "name": "Trendshift",
+      "url": "https://trendshift.io/",
+      "status": "verificação manual"
+    },
+    {
+      "name": "YouTube / Instagram / TikTok",
+      "url": "https://www.youtube.com/",
+      "status": "links diretos ou busca; métricas exigem post público verificável"
+    }
+  ],
+  "repos": [
+    {
+      "repo": "affaan-m/ECC",
+      "title": "ECC",
+      "type": "Otimização de agentes",
+      "status": "Gravar agora",
+      "hook": "Este sistema promete deixar Claude, Codex e outros agentes mais rápidos, seguros e consistentes.",
+      "thesis": "O próximo salto dos agentes pode vir do harness ao redor do modelo, não de um modelo maior.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "skills e memória",
+        "comparação de agentes"
+      ],
+      "url": "https://github.com/affaan-m/ECC",
+      "stars": 252667,
+      "forks": 37907,
+      "issues": 177,
+      "language": "JavaScript",
+      "pushedAt": "2026-09-07T12:14:52Z",
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 1905,
+      "score": 95,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "DevsKingdom · ECC Agent Harness · 1k views · publicado 27 AGO",
+          "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
+          "views": 1062,
+          "publishedAt": "2026-08-27",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/affaan-m/ECC",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,9 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · DevsKingdom · ECC Agent Harness · 1k views · publicado 27 AGO",
+          "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=affaan-m%20ECC%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=ECC%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=ECC%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "title": "Hyperframes",
+      "type": "Vídeo programável para agentes",
+      "status": "Gravar agora",
+      "hook": "Agora um agente pode escrever HTML e transformar esse código em um vídeo renderizado.",
+      "thesis": "A edição de vídeo está virando uma tarefa programável e operável por agentes.",
+      "broll": [
+        "demo oficial",
+        "HTML virando vídeo",
+        "timeline programática",
+        "GitHub Trending"
+      ],
+      "url": "https://github.com/heygen-com/hyperframes",
+      "stars": 45592,
+      "forks": 4301,
+      "issues": 171,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-07T20:07:55Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 734,
+      "score": 90,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "HeyGen · fluxo de agentes com Hyperframes · 10,9k views · publicado 22 MAI",
+          "url": "https://www.youtube.com/watch?v=9yx8Ja1gztI",
+          "views": 10925,
+          "publishedAt": "2026-05-22",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 734 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · HeyGen · fluxo de agentes com Hyperframes · 10,9k views · publicado 22 MAI",
+          "url": "https://www.youtube.com/watch?v=9yx8Ja1gztI",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=heygen-com%20hyperframes%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Hyperframes%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Hyperframes%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "title": "Marketing Skills",
+      "type": "Skills de marketing",
+      "status": "Gravar agora",
+      "hook": "Este repo transforma copy, SEO, CRO e analytics em habilidades reutilizáveis por agentes.",
+      "thesis": "Times de marketing estão começando a ser empacotados como infraestrutura para agentes.",
+      "broll": [
+        "diretório de skills",
+        "README",
+        "exemplos de copy e CRO",
+        "GitHub Trending"
+      ],
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "stars": 48036,
+      "forks": 7425,
+      "issues": 106,
+      "language": "JavaScript",
+      "pushedAt": "2026-09-05T04:48:10Z",
+      "pushedLabel": "push há 3d",
+      "trendingStarsToday": 602,
+      "score": 83,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "The Next New Thing · skills para Claude · 53k views · publicado 11 FEV",
+          "url": "https://www.youtube.com/watch?v=YajqB9RDdzI",
+          "views": 53347,
+          "publishedAt": "2026-02-11",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 602 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · The Next New Thing · skills para Claude · 53k views · publicado 11 FEV",
+          "url": "https://www.youtube.com/watch?v=YajqB9RDdzI",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=coreyhaines31%20marketingskills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Marketing%20Skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Marketing%20Skills%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "repo": "jo-inc/camofox-browser",
+      "title": "CamoFox Browser",
+      "type": "Navegador para agentes",
+      "status": "Monitorar hoje",
+      "hook": "Este navegador headless foi criado para agentes acessarem páginas que bloqueiam automação comum.",
+      "thesis": "A guerra entre agentes navegadores e sistemas antibot está criando uma nova camada de infraestrutura.",
+      "broll": [
+        "terminal",
+        "README",
+        "demo de navegação",
+        "comparação com Playwright"
+      ],
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "stars": 9575,
+      "forks": 1011,
+      "issues": 125,
+      "language": "JavaScript",
+      "pushedAt": "2026-09-06T03:30:20Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 285,
+      "score": 79,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Build Things With AI · CamoFox entre repos em alta · 1,8k views · publicado 02 MAI",
+          "url": "https://www.youtube.com/watch?v=Hs-xdoaGH5o",
+          "views": 1855,
+          "publishedAt": "2026-05-02",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/jo-inc/camofox-browser",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 285 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · Build Things With AI · CamoFox entre repos em alta · 1,8k views · publicado 02 MAI",
+          "url": "https://www.youtube.com/watch?v=Hs-xdoaGH5o",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=jo-inc%20camofox-browser%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=CamoFox%20Browser%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=CamoFox%20Browser%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "title": "context-mode",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 147 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/mksglu/context-mode",
+      "stars": 20746,
+      "forks": 1517,
+      "issues": 213,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-07T12:06:52Z",
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 147,
+      "score": 66,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mksglu/context-mode",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 147 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=mksglu%20context-mode%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=context-mode%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=context-mode%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "repo": "The-Swarm-Corporation/AutoHedge",
+      "title": "AutoHedge",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 541 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "stars": 5183,
+      "forks": 798,
+      "issues": 18,
+      "language": "Python",
+      "pushedAt": "2026-05-11T05:44:09Z",
+      "pushedLabel": "push há 120d",
+      "trendingStarsToday": 541,
+      "score": 65,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 541 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=The-Swarm-Corporation%20AutoHedge%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=AutoHedge%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=AutoHedge%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "title": "Hermes Agent",
+      "type": "Agente open-source",
+      "status": "Gravar agora",
+      "hook": "Enquanto todo mundo usa chatbot, esse agente open-source aprende a trabalhar com você.",
+      "thesis": "Agentes autônomos abertos desafiam o assistente fechado.",
+      "broll": [
+        "GitHub",
+        "terminal",
+        "tutorial",
+        "exemplos de automação"
+      ],
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "stars": 243005,
+      "forks": 50016,
+      "issues": 40540,
+      "language": "Python",
+      "pushedAt": "2026-09-07T20:20:31Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": null,
+      "score": 65,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Metics Media · tutorial completo · 225k views · publicado 31 AGO",
+          "url": "https://www.youtube.com/watch?v=DYdvJCxWd6M",
+          "views": 225904,
+          "publishedAt": "2026-08-31",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "kind": "oficial"
+        },
+        {
+          "label": "YouTube · Metics Media · tutorial completo · 225k views · publicado 31 AGO",
+          "url": "https://www.youtube.com/watch?v=DYdvJCxWd6M",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=NousResearch%20hermes-agent%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Hermes%20Agent%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Hermes%20Agent%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "repo": "tt-a1i/archify",
+      "type": "Ferramenta visual para dev",
+      "status": "Gravar agora",
+      "hook": "Esse repo lê seu código e desenha a arquitetura inteira sozinho.",
+      "thesis": "A IA deixa de explicar código e passa a torná-lo visual.",
+      "broll": [
+        "demo oficial",
+        "mapa interativo",
+        "README",
+        "código virando diagrama"
+      ],
+      "title": "archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "stars": 52623,
+      "forks": 3438,
+      "issues": 131,
+      "language": "JavaScript",
+      "pushedAt": "2026-09-07T12:34:58Z",
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": null,
+      "score": 62,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "The Next New Thing · Archify entre os repos em alta · 111k views · publicado 04 SET",
+          "url": "https://www.youtube.com/watch?v=AWzzmrCPe-A",
+          "views": 111709,
+          "publishedAt": "2026-09-04",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/tt-a1i/archify",
+          "kind": "oficial"
+        },
+        {
+          "label": "YouTube · The Next New Thing · Archify entre os repos em alta · 111k views · publicado 04 SET",
+          "url": "https://www.youtube.com/watch?v=AWzzmrCPe-A",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=tt-a1i%20archify%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=archify%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=archify%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "repo": "mattpocock/skills",
+      "title": "Skills para agentes",
+      "type": "Skills para agentes",
+      "status": "Gravar agora",
+      "hook": "O jeito de programar com IA mudou: quem ainda usa só prompt está ficando para trás.",
+      "thesis": "Conhecimento de engenharia virou infraestrutura reutilizável para agentes.",
+      "broll": [
+        "README",
+        "diretório .agents",
+        "GitHub Trending",
+        "vídeo do criador"
+      ],
+      "url": "https://github.com/mattpocock/skills",
+      "stars": 256007,
+      "forks": 21557,
+      "issues": 471,
+      "language": "Shell",
+      "pushedAt": "2026-09-04T08:45:43Z",
+      "pushedLabel": "push há 4d",
+      "trendingStarsToday": null,
+      "score": 59,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Matt Pocock · workflow completo · 424k views · publicado 16 JUL",
+          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
+          "views": 424060,
+          "publishedAt": "2026-07-16",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mattpocock/skills",
+          "kind": "oficial"
+        },
+        {
+          "label": "YouTube · Matt Pocock · workflow completo · 424k views · publicado 16 JUL",
+          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=mattpocock%20skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Skills%20para%20agentes%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Skills%20para%20agentes%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "type": "Agentes científicos",
+      "status": "Usar como comparação",
+      "hook": "A próxima geração de cientistas talvez seja uma coleção de skills.",
+      "thesis": "Skills especializadas transformam agentes em operadores de pesquisa.",
+      "broll": [
+        "diretório de skills",
+        "K-Dense",
+        "paper",
+        "demo"
+      ],
+      "title": "scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "stars": 43600,
+      "forks": 3969,
+      "issues": 32,
+      "language": "Python",
+      "pushedAt": "2026-09-07T09:35:27Z",
+      "pushedLabel": "push há 11h",
+      "trendingStarsToday": null,
+      "score": 59,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "K-Dense · skills científicas · 13,5k views · publicado 18 FEV",
+          "url": "https://www.youtube.com/watch?v=ZxbnDaD_FVg",
+          "views": 13534,
+          "publishedAt": "2026-02-18",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "kind": "oficial"
+        },
+        {
+          "label": "YouTube · K-Dense · skills científicas · 13,5k views · publicado 18 FEV",
+          "url": "https://www.youtube.com/watch?v=ZxbnDaD_FVg",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=K-Dense-AI%20scientific-agent-skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=scientific-agent-skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=scientific-agent-skills%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "type": "Repo monitorado",
+      "status": "Monitorar hoje",
+      "hook": "O agente que não navega está cego.",
+      "thesis": "Agentes com acesso à web ampliam pesquisa e automação.",
+      "broll": [
+        "README",
+        "lista de plataformas",
+        "exemplos web"
+      ],
+      "title": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars": 78592,
+      "forks": 6770,
+      "issues": 125,
+      "language": "Python",
+      "pushedAt": "2026-09-01T08:09:58Z",
+      "pushedLabel": "push há 7d",
+      "trendingStarsToday": null,
+      "score": 53,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Better Stack · agente com acesso web · 16k views · publicado 18 JUN",
+          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
+          "views": 16050,
+          "publishedAt": "2026-06-18",
+          "verifiedAt": "06 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "kind": "oficial"
+        },
+        {
+          "label": "YouTube · Better Stack · agente com acesso web · 16k views · publicado 18 JUN",
+          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=Panniantong%20Agent-Reach%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Reach%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 26071,
+      "forks": 2437,
+      "issues": 794,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-07T12:30:36Z",
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": null,
+      "score": 46,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 12
+    }
+  ],
+  "news": [
+    {
+      "title": "An AI agent bought a physical t-shirt over HTTP 402 with USDC, no human involved",
+      "url": "https://forgemesh.io/blog/first-x402-physical-order-bought-with-curl",
+      "points": 3,
+      "comments": 0,
+      "publishedAt": "2026-09-07T19:43:34Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Secret Collusion Among AI Agents",
+      "url": "https://arxiv.org/abs/2402.07510",
+      "points": 2,
+      "comments": 0,
+      "publishedAt": "2026-09-07T18:57:17Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "One place to build, run and govern your company's AI agents",
+      "url": "https://github.com/vstorm-co/agenticos",
+      "points": 1,
+      "comments": 0,
+      "publishedAt": "2026-09-07T18:05:28Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Where every AI coding tool keeps its config",
+      "url": "https://github.com/moneytool/agentmeld/blob/main/docs/where-ai-coding-tools-keep-their-config.md",
+      "points": 2,
+      "comments": 0,
+      "publishedAt": "2026-09-07T16:19:09Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: Benzi – Code Intelligence Infrastructure for Frontier AI Models",
+      "url": "https://github.com/oooscoos/Benzi",
+      "points": 3,
+      "comments": 0,
+      "publishedAt": "2026-09-07T16:05:58Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: A local visual tool cli/mcp for agents to propose architecture changes",
+      "url": "https://github.com/luiscleto/WorkBraid",
+      "points": 1,
+      "comments": 0,
+      "publishedAt": "2026-09-07T14:19:29Z",
+      "source": "Hacker News / Algolia"
+    }
+  ],
+  "trending": [
+    {
+      "repo": "heygen-com/hyperframes",
+      "starsToday": 734
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "starsToday": 771
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "starsToday": 147
+    },
+    {
+      "repo": "jo-inc/camofox-browser",
+      "starsToday": 285
+    },
+    {
+      "repo": "MoonTechLab/LunaTV",
+      "starsToday": 171
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "starsToday": 1905
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "starsToday": 602
+    },
+    {
+      "repo": "The-Swarm-Corporation/AutoHedge",
+      "starsToday": 541
+    },
+    {
+      "repo": "BraveOPotato/FckSignups",
+      "starsToday": 497
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "starsToday": 188
+    },
+    {
+      "repo": "openai/skills",
+      "starsToday": 372
+    },
+    {
+      "repo": "lightpanda-io/browser",
+      "starsToday": 116
+    }
+  ],
+  "monitored": [
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "type": "Repo monitorado",
+      "status": "Monitorar hoje",
+      "hook": "O agente que não navega está cego.",
+      "thesis": "Agentes com acesso à web ampliam pesquisa e automação.",
+      "broll": [
+        "README",
+        "lista de plataformas",
+        "exemplos web"
+      ],
+      "title": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars": 78592,
+      "forks": 6770,
+      "issues": 125,
+      "language": "Python",
+      "pushedAt": "2026-09-01T08:09:58Z",
+      "pushedLabel": "push há 7d",
+      "trendingStarsToday": null,
+      "score": 53,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Better Stack · agente com acesso web · 16k views · publicado 18 JUN",
+          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
+          "views": 16050,
+          "publishedAt": "2026-06-18",
+          "verifiedAt": "06 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "kind": "oficial"
+        },
+        {
+          "label": "YouTube · Better Stack · agente com acesso web · 16k views · publicado 18 JUN",
+          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=Panniantong%20Agent-Reach%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Reach%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 26071,
+      "forks": 2437,
+      "issues": 794,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-07T12:30:36Z",
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": null,
+      "score": 46,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 12
+    }
+  ]
+}

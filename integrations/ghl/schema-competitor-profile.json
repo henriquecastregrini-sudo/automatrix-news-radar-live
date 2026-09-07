@@ -1,0 +1,14 @@
+{
+  "labels": {
+    "singular": "Competitor Profile",
+    "plural": "Competitor Profiles"
+  },
+  "key": "custom_objects.competitor_profile",
+  "description": "Historical and active competitor/creator profiles monitored by the Automatrix social radar.",
+  "locationId": "n9t85IRP5gN1w0PH48wK",
+  "primaryDisplayPropertyDetails": {
+    "key": "custom_objects.competitor_profile.name",
+    "name": "Name",
+    "dataType": "TEXT"
+  }
+}
