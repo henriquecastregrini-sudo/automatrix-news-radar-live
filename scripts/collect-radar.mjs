@@ -187,15 +187,22 @@ const repos = [...editorialRepos, ...collectedRepos.filter((repo) => monitoredNa
 repos.sort((a, b) => b.score - a.score || (b.trendingStarsToday || 0) - (a.trendingStarsToday || 0) || (b.stars || 0) - (a.stars || 0));
 repos.forEach((repo, index) => { repo.rank = index + 1; });
 
-const hn = await getJson('https://hn.algolia.com/api/v1/search_by_date?query=AI%20agent&tags=story&hitsPerPage=8', { hits: [] });
-const news = (hn.hits || []).filter((item) => item.url || item.story_url).slice(0, 6).map((item) => ({
+const hn = await getJson('https://hn.algolia.com/api/v1/search_by_date?query=AI%20agent&tags=story&hitsPerPage=50', { hits: [] });
+const newsCutoff = Date.now() - 48 * 36e5;
+const newsRelevance = /(^|\W)(ai|agent|agents|agentic|llm|mcp|model|models|github|coding|code|inference|open.?source|robot|prompt)(\W|$)/i;
+const news = (hn.hits || [])
+  .filter((item) => item.url || item.story_url)
+  .filter((item) => new Date(item.created_at || 0).getTime() >= newsCutoff)
+  .filter((item) => newsRelevance.test(item.title || item.story_title || ''))
+  .sort((a, b) => ((b.points || 0) + (b.num_comments || 0) * 2) - ((a.points || 0) + (a.num_comments || 0) * 2) || new Date(b.created_at || 0) - new Date(a.created_at || 0))
+  .slice(0, 6).map((item) => ({
   title: item.title || item.story_title,
   url: item.url || item.story_url || `https://news.ycombinator.com/item?id=${item.objectID}`,
   points: item.points ?? null,
   comments: item.num_comments ?? null,
   publishedAt: item.created_at || null,
   source: 'Hacker News / Algolia',
-}));
+  }));
 
 const data = {
   schemaVersion: 1,
