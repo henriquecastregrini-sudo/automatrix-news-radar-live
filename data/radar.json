@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T11:18:41.193Z",
-  "generatedLabel": "7 de set. de 2026 · 08:18",
+  "generatedAt": "2026-09-07T16:08:15.422Z",
+  "generatedLabel": "7 de set. de 2026 · 13:08",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,13 +45,13 @@
         "comparação de agentes"
       ],
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 252254,
-      "forks": 37862,
+      "stars": 252476,
+      "forks": 37886,
       "issues": 176,
       "language": "JavaScript",
-      "pushedAt": "2026-09-07T11:17:03Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1485,
+      "pushedAt": "2026-09-07T12:14:52Z",
+      "pushedLabel": "push há 4h",
+      "trendingStarsToday": 1905,
       "score": 95,
       "social": [
         {
@@ -71,7 +71,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,5 mil stars hoje",
+          "label": "GitHub Trending · 1,9 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -112,14 +112,14 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/heygen-com/hyperframes",
-      "stars": 44585,
-      "forks": 4259,
-      "issues": 173,
+      "stars": 45198,
+      "forks": 4285,
+      "issues": 174,
       "language": "TypeScript",
-      "pushedAt": "2026-09-07T06:34:53Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 220,
-      "score": 82,
+      "pushedAt": "2026-09-07T15:58:53Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 734,
+      "score": 90,
       "social": [
         {
           "platform": "YouTube",
@@ -138,7 +138,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 220 stars hoje",
+          "label": "GitHub Trending · 734 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -179,14 +179,14 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/coreyhaines31/marketingskills",
-      "stars": 47800,
-      "forks": 7409,
+      "stars": 47944,
+      "forks": 7417,
       "issues": 106,
       "language": "JavaScript",
       "pushedAt": "2026-09-05T04:48:10Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 329,
-      "score": 79,
+      "trendingStarsToday": 602,
+      "score": 83,
       "social": [
         {
           "platform": "YouTube",
@@ -205,7 +205,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 329 stars hoje",
+          "label": "GitHub Trending · 602 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -246,12 +246,12 @@
         "comparação com Playwright"
       ],
       "url": "https://github.com/jo-inc/camofox-browser",
-      "stars": 9275,
-      "forks": 1003,
+      "stars": 9449,
+      "forks": 1005,
       "issues": 123,
       "language": "JavaScript",
       "pushedAt": "2026-09-06T03:30:20Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": 117,
       "score": 73,
       "social": [
@@ -300,6 +300,112 @@
       "rank": 4
     },
     {
+      "repo": "mksglu/context-mode",
+      "title": "context-mode",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 147 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/mksglu/context-mode",
+      "stars": 20645,
+      "forks": 1514,
+      "issues": 213,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-07T12:06:52Z",
+      "pushedLabel": "push há 4h",
+      "trendingStarsToday": 147,
+      "score": 66,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mksglu/context-mode",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 147 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=mksglu%20context-mode%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=context-mode%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=context-mode%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "repo": "The-Swarm-Corporation/AutoHedge",
+      "title": "AutoHedge",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 541 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "stars": 5090,
+      "forks": 795,
+      "issues": 18,
+      "language": "Python",
+      "pushedAt": "2026-05-11T05:44:09Z",
+      "pushedLabel": "push há 119d",
+      "trendingStarsToday": 541,
+      "score": 65,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 541 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=The-Swarm-Corporation%20AutoHedge%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=AutoHedge%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=AutoHedge%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 6
+    },
+    {
       "repo": "NousResearch/hermes-agent",
       "title": "Hermes Agent",
       "type": "Agente open-source",
@@ -313,12 +419,12 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 242849,
-      "forks": 49948,
-      "issues": 40574,
+      "stars": 242948,
+      "forks": 49980,
+      "issues": 40451,
       "language": "Python",
-      "pushedAt": "2026-09-07T11:17:45Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-09-07T15:30:26Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": null,
       "score": 65,
       "social": [
@@ -359,60 +465,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
-    },
-    {
-      "repo": "mksglu/context-mode",
-      "title": "context-mode",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 85 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/mksglu/context-mode",
-      "stars": 20517,
-      "forks": 1512,
-      "issues": 213,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-06T12:05:47Z",
-      "pushedLabel": "push há 23h",
-      "trendingStarsToday": 85,
-      "score": 62,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/mksglu/context-mode",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 85 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=mksglu%20context-mode%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=context-mode%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=context-mode%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 6
+      "rank": 7
     },
     {
       "repo": "tt-a1i/archify",
@@ -428,12 +481,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 51776,
-      "forks": 3384,
-      "issues": 133,
+      "stars": 52237,
+      "forks": 3413,
+      "issues": 130,
       "language": "JavaScript",
-      "pushedAt": "2026-09-07T04:41:40Z",
-      "pushedLabel": "push há 7h",
+      "pushedAt": "2026-09-07T12:34:58Z",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": null,
       "score": 61,
       "social": [
@@ -474,7 +527,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "repo": "mattpocock/skills",
@@ -490,9 +543,9 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 255669,
-      "forks": 21534,
-      "issues": 469,
+      "stars": 255887,
+      "forks": 21545,
+      "issues": 470,
       "language": "Shell",
       "pushedAt": "2026-09-04T08:45:43Z",
       "pushedLabel": "push há 3d",
@@ -536,7 +589,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "repo": "K-Dense-AI/scientific-agent-skills",
@@ -552,12 +605,12 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 43488,
-      "forks": 3955,
+      "stars": 43566,
+      "forks": 3965,
       "issues": 32,
       "language": "Python",
       "pushedAt": "2026-09-07T09:35:27Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 7h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -598,59 +651,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
-    },
-    {
-      "repo": "The-Swarm-Corporation/AutoHedge",
-      "title": "AutoHedge",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 142 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-      "stars": 4980,
-      "forks": 788,
-      "issues": 18,
-      "language": "Python",
-      "pushedAt": "2026-05-11T05:44:09Z",
-      "pushedLabel": "push há 119d",
-      "trendingStarsToday": 142,
-      "score": 56,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 142 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=The-Swarm-Corporation%20AutoHedge%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=AutoHedge%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=AutoHedge%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 10
     },
     {
@@ -666,8 +666,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78530,
-      "forks": 6762,
+      "stars": 78559,
+      "forks": 6765,
       "issues": 124,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -727,14 +727,14 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26051,
-      "forks": 2431,
-      "issues": 789,
+      "stars": 26058,
+      "forks": 2437,
+      "issues": 792,
       "language": "TypeScript",
-      "pushedAt": "2026-09-03T02:31:45Z",
-      "pushedLabel": "push há 4d",
+      "pushedAt": "2026-09-07T12:30:36Z",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": null,
-      "score": 39,
+      "score": 46,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -764,50 +764,58 @@
   ],
   "news": [
     {
-      "title": "GraphMemix: Query-Aware Evidence Forests for Long-Term Multimodal Agent Memory",
-      "url": "https://twitter.com/MemoraX_AI/status/2095038508331401668",
-      "points": 2,
-      "comments": 0,
-      "publishedAt": "2026-09-07T10:30:25Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "He's Letting AI Agents Invest His Money. They Even Have Names",
-      "url": "https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f",
-      "points": 4,
-      "comments": 0,
-      "publishedAt": "2026-09-07T04:24:02Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "I made legacy SOAP APIs usable by AI agents",
-      "url": "https://github.com/bvenkata/legacy2mcp",
+      "title": "Show HN: Benzi – Code Intelligence Infrastructure for Frontier AI Models",
+      "url": "https://github.com/oooscoos/Benzi",
       "points": 1,
       "comments": 0,
-      "publishedAt": "2026-09-07T04:20:10Z",
+      "publishedAt": "2026-09-07T16:05:58Z",
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo",
-      "url": "https://github.com/redhat-et/ripwire",
-      "points": 14,
-      "comments": 8,
-      "publishedAt": "2026-09-07T02:11:40Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Fauxnix – bash for AI agents on Windows, no WSL (we measured the PS tax)",
-      "url": "https://github.com/20000419/fauxnix",
+      "title": "Show HN: A local visual tool cli/mcp for agents to propose architecture changes",
+      "url": "https://github.com/luiscleto/WorkBraid",
       "points": 1,
       "comments": 0,
-      "publishedAt": "2026-09-07T01:43:53Z",
+      "publishedAt": "2026-09-07T14:19:29Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Openfork – a public idea board where AI agents can post, roast, and fork via MCP",
+      "url": "https://openfork.co/",
+      "points": 1,
+      "comments": 0,
+      "publishedAt": "2026-09-07T14:10:40Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Ante is a self-contained coding agent that lives in your term and self-organizes",
+      "url": "https://docs.antigma.ai/",
+      "points": 1,
+      "comments": 0,
+      "publishedAt": "2026-09-07T13:55:41Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Silo – Give agents a local database for project work",
+      "url": "https://github.com/silo-ai/silo",
+      "points": 1,
+      "comments": 0,
+      "publishedAt": "2026-09-07T13:54:27Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "AI Agents Aha Moment",
+      "url": "https://k1024.org/posts/2026/2026-09-06-ai-agents-aha/",
+      "points": 1,
+      "comments": 0,
+      "publishedAt": "2026-09-07T13:13:56Z",
       "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "heygen-com/hyperframes",
-      "starsToday": 220
+      "starsToday": 734
     },
     {
       "repo": "microsoft/markitdown",
@@ -815,7 +823,7 @@
     },
     {
       "repo": "mksglu/context-mode",
-      "starsToday": 85
+      "starsToday": 147
     },
     {
       "repo": "jo-inc/camofox-browser",
@@ -827,19 +835,19 @@
     },
     {
       "repo": "affaan-m/ECC",
-      "starsToday": 1485
+      "starsToday": 1905
     },
     {
       "repo": "coreyhaines31/marketingskills",
-      "starsToday": 329
+      "starsToday": 602
     },
     {
       "repo": "The-Swarm-Corporation/AutoHedge",
-      "starsToday": 142
+      "starsToday": 541
     },
     {
       "repo": "BraveOPotato/FckSignups",
-      "starsToday": 436
+      "starsToday": 497
     },
     {
       "repo": "bytedance/deer-flow",
@@ -847,7 +855,7 @@
     },
     {
       "repo": "openai/skills",
-      "starsToday": 46
+      "starsToday": 372
     },
     {
       "repo": "lightpanda-io/browser",
@@ -868,8 +876,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78530,
-      "forks": 6762,
+      "stars": 78559,
+      "forks": 6765,
       "issues": 124,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -929,14 +937,14 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26051,
-      "forks": 2431,
-      "issues": 789,
+      "stars": 26058,
+      "forks": 2437,
+      "issues": 792,
       "language": "TypeScript",
-      "pushedAt": "2026-09-03T02:31:45Z",
-      "pushedLabel": "push há 4d",
+      "pushedAt": "2026-09-07T12:30:36Z",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": null,
-      "score": 39,
+      "score": 46,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
