@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T01:04:35.859Z",
-  "generatedLabel": "7 de set. de 2026 · 22:04",
+  "generatedAt": "2026-09-08T11:06:53.582Z",
+  "generatedLabel": "8 de set. de 2026 · 08:06",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,22 +45,22 @@
         "comparação de agentes"
       ],
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 252855,
-      "forks": 37932,
-      "issues": 167,
+      "stars": 253566,
+      "forks": 38031,
+      "issues": 176,
       "language": "JavaScript",
       "pushedAt": "2026-09-07T22:36:32Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": 1897,
       "score": 95,
       "social": [
         {
           "platform": "YouTube",
-          "label": "DevsKingdom · ECC Agent Harness · 1k views · publicado 27 AGO",
+          "label": "DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO",
           "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
-          "views": 1062,
+          "views": 1139,
           "publishedAt": "2026-08-27",
-          "verifiedAt": "07 SET 2026"
+          "verifiedAt": "08 SET 2026"
         }
       ],
       "socialStatus": "referência direta verificada",
@@ -76,7 +76,7 @@
           "kind": "tendência"
         },
         {
-          "label": "YouTube · DevsKingdom · ECC Agent Harness · 1k views · publicado 27 AGO",
+          "label": "YouTube · DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO",
           "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
           "kind": "social"
         },
@@ -99,6 +99,73 @@
       "rank": 1
     },
     {
+      "repo": "cathrynlavery/diagram-design",
+      "title": "Diagram Design",
+      "type": "Visual para agentes",
+      "status": "Gravar agora",
+      "hook": "Uma coleção de skills está ensinando agentes a criar diagramas editoriais sem o visual genérico de IA.",
+      "thesis": "Design visual está virando uma habilidade reutilizável por agentes de código.",
+      "broll": [
+        "galeria de diagramas",
+        "HTML e SVG",
+        "README",
+        "GitHub Trending"
+      ],
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars": 33610,
+      "forks": 2147,
+      "issues": 35,
+      "language": "HTML",
+      "pushedAt": "2026-09-07T04:39:11Z",
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 1070,
+      "score": 92,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "YAHA · Diagram Design em primeiro no GitHub · 20,9k views · publicado 03 SET",
+          "url": "https://www.youtube.com/watch?v=rq4EHbqaaAk",
+          "views": 20919,
+          "publishedAt": "2026-09-03",
+          "verifiedAt": "08 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,1 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · YAHA · Diagram Design em primeiro no GitHub · 20,9k views · publicado 03 SET",
+          "url": "https://www.youtube.com/watch?v=rq4EHbqaaAk",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=cathrynlavery%20diagram-design%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Diagram%20Design%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Diagram%20Design%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "repo": "heygen-com/hyperframes",
       "title": "Hyperframes",
       "type": "Vídeo programável para agentes",
@@ -112,12 +179,12 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/heygen-com/hyperframes",
-      "stars": 45955,
-      "forks": 4314,
-      "issues": 174,
+      "stars": 47287,
+      "forks": 4370,
+      "issues": 182,
       "language": "TypeScript",
-      "pushedAt": "2026-09-08T01:01:45Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-09-08T08:04:36Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": 474,
       "score": 87,
       "social": [
@@ -125,9 +192,9 @@
           "platform": "YouTube",
           "label": "HeyGen · fluxo de agentes com Hyperframes · 10,9k views · publicado 22 MAI",
           "url": "https://www.youtube.com/watch?v=9yx8Ja1gztI",
-          "views": 10925,
+          "views": 10956,
           "publishedAt": "2026-05-22",
-          "verifiedAt": "07 SET 2026"
+          "verifiedAt": "08 SET 2026"
         }
       ],
       "socialStatus": "referência direta verificada",
@@ -163,7 +230,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "repo": "coreyhaines31/marketingskills",
@@ -179,8 +246,8 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/coreyhaines31/marketingskills",
-      "stars": 48136,
-      "forks": 7439,
+      "stars": 48456,
+      "forks": 7465,
       "issues": 106,
       "language": "JavaScript",
       "pushedAt": "2026-09-05T04:48:10Z",
@@ -190,11 +257,11 @@
       "social": [
         {
           "platform": "YouTube",
-          "label": "The Next New Thing · skills para Claude · 53k views · publicado 11 FEV",
+          "label": "The Next New Thing · skills para Claude · 53,4k views · publicado 11 FEV",
           "url": "https://www.youtube.com/watch?v=YajqB9RDdzI",
-          "views": 53347,
+          "views": 53450,
           "publishedAt": "2026-02-11",
-          "verifiedAt": "07 SET 2026"
+          "verifiedAt": "08 SET 2026"
         }
       ],
       "socialStatus": "referência direta verificada",
@@ -210,7 +277,7 @@
           "kind": "tendência"
         },
         {
-          "label": "YouTube · The Next New Thing · skills para Claude · 53k views · publicado 11 FEV",
+          "label": "YouTube · The Next New Thing · skills para Claude · 53,4k views · publicado 11 FEV",
           "url": "https://www.youtube.com/watch?v=YajqB9RDdzI",
           "kind": "social"
         },
@@ -230,127 +297,127 @@
           "kind": "busca"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
-      "repo": "jo-inc/camofox-browser",
-      "title": "CamoFox Browser",
-      "type": "Navegador para agentes",
-      "status": "Monitorar hoje",
-      "hook": "Este navegador headless foi criado para agentes acessarem páginas que bloqueiam automação comum.",
-      "thesis": "A guerra entre agentes navegadores e sistemas antibot está criando uma nova camada de infraestrutura.",
+      "repo": "ayghri/i-have-adhd",
+      "title": "I Have ADHD",
+      "type": "Acessibilidade para agentes",
+      "status": "Gravar agora",
+      "hook": "Esta skill obriga o agente de código a parar de esconder a resposta em textos enormes.",
+      "thesis": "A próxima evolução dos agentes pode ser adaptar a comunicação ao cérebro de cada usuário.",
       "broll": [
-        "terminal",
+        "resposta antes e depois",
         "README",
-        "demo de navegação",
-        "comparação com Playwright"
+        "instalação da skill",
+        "comparação de tokens"
       ],
-      "url": "https://github.com/jo-inc/camofox-browser",
-      "stars": 9706,
-      "forks": 1019,
-      "issues": 125,
-      "language": "JavaScript",
-      "pushedAt": "2026-09-06T03:30:20Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 135,
-      "score": 74,
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "stars": 27989,
+      "forks": 1752,
+      "issues": 28,
+      "language": "Python",
+      "pushedAt": "2026-09-01T20:49:17Z",
+      "pushedLabel": "push há 7d",
+      "trendingStarsToday": 422,
+      "score": 76,
       "social": [
         {
           "platform": "YouTube",
-          "label": "Build Things With AI · CamoFox entre repos em alta · 1,8k views · publicado 02 MAI",
-          "url": "https://www.youtube.com/watch?v=Hs-xdoaGH5o",
-          "views": 1855,
-          "publishedAt": "2026-05-02",
-          "verifiedAt": "07 SET 2026"
+          "label": "AI Stack Engineer · I Have ADHD Skill · 1,7k views · publicado 08 AGO",
+          "url": "https://www.youtube.com/watch?v=Wu_Vos03Uxg",
+          "views": 1719,
+          "publishedAt": "2026-08-08",
+          "verifiedAt": "08 SET 2026"
         }
       ],
       "socialStatus": "referência direta verificada",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/jo-inc/camofox-browser",
+          "url": "https://github.com/ayghri/i-have-adhd",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 135 stars hoje",
+          "label": "GitHub Trending · 422 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "YouTube · Build Things With AI · CamoFox entre repos em alta · 1,8k views · publicado 02 MAI",
-          "url": "https://www.youtube.com/watch?v=Hs-xdoaGH5o",
+          "label": "YouTube · AI Stack Engineer · I Have ADHD Skill · 1,7k views · publicado 08 AGO",
+          "url": "https://www.youtube.com/watch?v=Wu_Vos03Uxg",
           "kind": "social"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=jo-inc%20camofox-browser%20AI",
+          "url": "https://www.youtube.com/results?search_query=ayghri%20i-have-adhd%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=CamoFox%20Browser%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=I%20Have%20ADHD%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=CamoFox%20Browser%20AI",
+          "url": "https://www.tiktok.com/search?q=I%20Have%20ADHD%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
-      "repo": "The-Swarm-Corporation/AutoHedge",
-      "title": "AutoHedge",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 517 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "repo": "openai/skills",
+      "title": "OpenAI Skills",
+      "type": "Catálogo oficial de skills",
+      "status": "Monitorar hoje",
+      "hook": "A OpenAI agora organiza habilidades reutilizáveis para transformar o Codex em ferramentas especializadas.",
+      "thesis": "Skills estão virando a nova unidade de distribuição de conhecimento para agentes.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "repositório oficial",
+        "catálogo de skills",
+        "estrutura dos arquivos",
+        "exemplo no Codex"
       ],
-      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-      "stars": 5259,
-      "forks": 804,
-      "issues": 18,
+      "url": "https://github.com/openai/skills",
+      "stars": 26274,
+      "forks": 1760,
+      "issues": 292,
       "language": "Python",
-      "pushedAt": "2026-05-11T05:44:09Z",
-      "pushedLabel": "push há 120d",
-      "trendingStarsToday": 517,
+      "pushedAt": "2026-07-14T16:47:46Z",
+      "pushedLabel": "push há 56d",
+      "trendingStarsToday": 351,
       "score": 65,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+          "url": "https://github.com/openai/skills",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 517 stars hoje",
+          "label": "GitHub Trending · 351 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=The-Swarm-Corporation%20AutoHedge%20AI",
+          "url": "https://www.youtube.com/results?search_query=openai%20skills%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=AutoHedge%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=OpenAI%20Skills%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=AutoHedge%20AI",
+          "url": "https://www.tiktok.com/search?q=OpenAI%20Skills%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "repo": "NousResearch/hermes-agent",
@@ -366,11 +433,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 243048,
-      "forks": 50046,
-      "issues": 40585,
+      "stars": 243227,
+      "forks": 50116,
+      "issues": 40774,
       "language": "Python",
-      "pushedAt": "2026-09-08T00:38:51Z",
+      "pushedAt": "2026-09-08T11:06:34Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -412,59 +479,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
-    },
-    {
-      "repo": "mksglu/context-mode",
-      "title": "context-mode",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 96 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/mksglu/context-mode",
-      "stars": 20835,
-      "forks": 1520,
-      "issues": 214,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-07T12:06:52Z",
-      "pushedLabel": "push há 13h",
-      "trendingStarsToday": 96,
-      "score": 63,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/mksglu/context-mode",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 96 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=mksglu%20context-mode%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=context-mode%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=context-mode%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 7
     },
     {
@@ -481,12 +495,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 52944,
-      "forks": 3462,
-      "issues": 136,
+      "stars": 53988,
+      "forks": 3536,
+      "issues": 133,
       "language": "JavaScript",
-      "pushedAt": "2026-09-08T00:34:57Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-09-08T09:29:02Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -543,9 +557,9 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 256091,
-      "forks": 21568,
-      "issues": 471,
+      "stars": 256543,
+      "forks": 21613,
+      "issues": 475,
       "language": "Shell",
       "pushedAt": "2026-09-04T08:45:43Z",
       "pushedLabel": "push há 4d",
@@ -605,12 +619,12 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 43628,
-      "forks": 3970,
+      "stars": 43764,
+      "forks": 3978,
       "issues": 32,
       "language": "Python",
       "pushedAt": "2026-09-07T09:35:27Z",
-      "pushedLabel": "push há 15h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -666,9 +680,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78631,
-      "forks": 6773,
-      "issues": 125,
+      "stars": 78752,
+      "forks": 6787,
+      "issues": 127,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
       "pushedLabel": "push há 7d",
@@ -727,12 +741,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26098,
-      "forks": 2439,
-      "issues": 793,
+      "stars": 26155,
+      "forks": 2449,
+      "issues": 801,
       "language": "TypeScript",
-      "pushedAt": "2026-09-07T12:30:36Z",
-      "pushedLabel": "push há 13h",
+      "pushedAt": "2026-09-08T07:23:15Z",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -767,7 +781,7 @@
       "title": "ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo",
       "url": "https://github.com/redhat-et/ripwire",
       "points": 19,
-      "comments": 11,
+      "comments": 12,
       "publishedAt": "2026-09-07T02:11:40Z",
       "source": "Hacker News / Algolia"
     },
@@ -788,19 +802,19 @@
       "source": "Hacker News / Algolia"
     },
     {
+      "title": "Secure temporary file sharing for AI agents and humans",
+      "url": "https://github.com/aispace-sh/aispace-client",
+      "points": 12,
+      "comments": 3,
+      "publishedAt": "2026-09-07T23:59:58Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
       "title": "Mdmanager.ai – Manage your Claude.md and AGENTS.md across machines and runtimes",
       "url": "https://github.com/manuelschipper/mdmanager",
       "points": 3,
       "comments": 7,
       "publishedAt": "2026-09-06T16:03:28Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Secure temporary file sharing for AI agents and humans",
-      "url": "https://github.com/aispace-sh/aispace-client",
-      "points": 7,
-      "comments": 1,
-      "publishedAt": "2026-09-07T23:59:58Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -814,16 +828,40 @@
   ],
   "trending": [
     {
+      "repo": "ayghri/i-have-adhd",
+      "starsToday": 422
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "starsToday": 1070
+    },
+    {
+      "repo": "openai/skills",
+      "starsToday": 351
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "starsToday": 1897
+    },
+    {
       "repo": "heygen-com/hyperframes",
       "starsToday": 474
     },
     {
-      "repo": "microsoft/markitdown",
-      "starsToday": 886
+      "repo": "coreyhaines31/marketingskills",
+      "starsToday": 580
     },
     {
-      "repo": "mksglu/context-mode",
-      "starsToday": 96
+      "repo": "obra/superpowers",
+      "starsToday": 446
+    },
+    {
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "starsToday": 325
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "starsToday": 886
     },
     {
       "repo": "jo-inc/camofox-browser",
@@ -834,32 +872,8 @@
       "starsToday": 197
     },
     {
-      "repo": "affaan-m/ECC",
-      "starsToday": 1897
-    },
-    {
-      "repo": "coreyhaines31/marketingskills",
-      "starsToday": 580
-    },
-    {
-      "repo": "The-Swarm-Corporation/AutoHedge",
-      "starsToday": 517
-    },
-    {
-      "repo": "BraveOPotato/FckSignups",
-      "starsToday": 501
-    },
-    {
-      "repo": "bytedance/deer-flow",
-      "starsToday": 195
-    },
-    {
-      "repo": "openai/skills",
-      "starsToday": 351
-    },
-    {
-      "repo": "lightpanda-io/browser",
-      "starsToday": 58
+      "repo": "browser-use/browser-use",
+      "starsToday": 330
     }
   ],
   "monitored": [
@@ -876,9 +890,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78631,
-      "forks": 6773,
-      "issues": 125,
+      "stars": 78752,
+      "forks": 6787,
+      "issues": 127,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
       "pushedLabel": "push há 7d",
@@ -937,12 +951,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26098,
-      "forks": 2439,
-      "issues": 793,
+      "stars": 26155,
+      "forks": 2449,
+      "issues": 801,
       "language": "TypeScript",
-      "pushedAt": "2026-09-07T12:30:36Z",
-      "pushedLabel": "push há 13h",
+      "pushedAt": "2026-09-08T07:23:15Z",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
