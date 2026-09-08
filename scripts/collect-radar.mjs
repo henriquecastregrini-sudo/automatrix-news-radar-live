@@ -191,7 +191,7 @@ const repos = [...editorialRepos, ...collectedRepos.filter((repo) => monitoredNa
 repos.sort((a, b) => b.score - a.score || (b.trendingStarsToday || 0) - (a.trendingStarsToday || 0) || (b.stars || 0) - (a.stars || 0));
 repos.forEach((repo, index) => { repo.rank = index + 1; });
 
-const hn = await getJson('https://hn.algolia.com/api/v1/search_by_date?query=AI%20agent&tags=story&hitsPerPage=50', { hits: [] });
+const hn = await getJson('https://hn.algolia.com/api/v1/search_by_date?query=AI%20agent&tags=story&hitsPerPage=100', { hits: [] });
 const newsCutoff = Date.now() - 48 * 36e5;
 const newsRelevance = /(^|\W)(ai|agent|agents|agentic|llm|mcp|model|models|github|coding|code|inference|open.?source|robot|prompt)(\W|$)/i;
 const news = (hn.hits || [])

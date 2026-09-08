@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T14:48:07.187Z",
-  "generatedLabel": "8 de set. de 2026 · 11:48",
+  "generatedAt": "2026-09-08T17:04:23.956Z",
+  "generatedLabel": "8 de set. de 2026 · 14:04",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,12 +45,12 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/heygen-com/hyperframes",
-      "stars": 47441,
-      "forks": 4377,
+      "stars": 47533,
+      "forks": 4381,
       "issues": 184,
       "language": "TypeScript",
-      "pushedAt": "2026-09-08T13:18:58Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-09-08T17:03:28Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 2628,
       "score": 95,
       "social": [
@@ -112,12 +112,12 @@
         "comparação de agentes"
       ],
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 253837,
-      "forks": 38064,
+      "stars": 253961,
+      "forks": 38081,
       "issues": 178,
       "language": "JavaScript",
       "pushedAt": "2026-09-07T22:36:32Z",
-      "pushedLabel": "push há 16h",
+      "pushedLabel": "push há 18h",
       "trendingStarsToday": 1426,
       "score": 95,
       "social": [
@@ -179,13 +179,13 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 34048,
-      "forks": 2169,
+      "stars": 34257,
+      "forks": 2182,
       "issues": 36,
       "language": "HTML",
       "pushedAt": "2026-09-07T04:39:11Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 1070,
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 1020,
       "score": 92,
       "social": [
         {
@@ -205,7 +205,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,1 mil stars hoje",
+          "label": "GitHub Trending · 1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -246,12 +246,12 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/coreyhaines31/marketingskills",
-      "stars": 48557,
-      "forks": 7477,
+      "stars": 48642,
+      "forks": 7483,
       "issues": 107,
       "language": "JavaScript",
       "pushedAt": "2026-09-05T04:48:10Z",
-      "pushedLabel": "push há 3d",
+      "pushedLabel": "push há 4d",
       "trendingStarsToday": 666,
       "score": 84,
       "social": [
@@ -313,8 +313,8 @@
         "comparação de tokens"
       ],
       "url": "https://github.com/ayghri/i-have-adhd",
-      "stars": 28637,
-      "forks": 1782,
+      "stars": 29131,
+      "forks": 1807,
       "issues": 29,
       "language": "Python",
       "pushedAt": "2026-09-01T20:49:17Z",
@@ -380,8 +380,8 @@
         "exemplo no Codex"
       ],
       "url": "https://github.com/openai/skills",
-      "stars": 26344,
-      "forks": 1767,
+      "stars": 26400,
+      "forks": 1771,
       "issues": 293,
       "language": "Python",
       "pushedAt": "2026-07-14T16:47:46Z",
@@ -433,11 +433,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 243290,
-      "forks": 50138,
-      "issues": 40821,
+      "stars": 243345,
+      "forks": 50155,
+      "issues": 40838,
       "language": "Python",
-      "pushedAt": "2026-09-08T14:38:25Z",
+      "pushedAt": "2026-09-08T17:02:17Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -495,12 +495,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 54252,
-      "forks": 3560,
-      "issues": 135,
+      "stars": 54388,
+      "forks": 3569,
+      "issues": 139,
       "language": "JavaScript",
-      "pushedAt": "2026-09-08T11:41:36Z",
-      "pushedLabel": "push há 3h",
+      "pushedAt": "2026-09-08T16:50:06Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -557,8 +557,8 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 256705,
-      "forks": 21621,
+      "stars": 256787,
+      "forks": 21627,
       "issues": 475,
       "language": "Shell",
       "pushedAt": "2026-09-04T08:45:43Z",
@@ -619,8 +619,8 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 43810,
-      "forks": 3983,
+      "stars": 43837,
+      "forks": 3986,
       "issues": 31,
       "language": "Python",
       "pushedAt": "2026-09-07T09:35:27Z",
@@ -680,8 +680,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78789,
-      "forks": 6791,
+      "stars": 78811,
+      "forks": 6792,
       "issues": 128,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -741,12 +741,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26163,
-      "forks": 2451,
-      "issues": 796,
+      "stars": 26168,
+      "forks": 2452,
+      "issues": 802,
       "language": "TypeScript",
       "pushedAt": "2026-09-08T13:38:00Z",
-      "pushedLabel": "push há 1h",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -796,7 +796,7 @@
     {
       "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
       "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
-      "points": 17,
+      "points": 18,
       "comments": 1,
       "publishedAt": "2026-09-07T00:46:01Z",
       "source": "Hacker News / Algolia"
@@ -810,19 +810,19 @@
       "source": "Hacker News / Algolia"
     },
     {
+      "title": "Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI",
+      "url": "https://sparrow2.tavuslabs.org/",
+      "points": 6,
+      "comments": 0,
+      "publishedAt": "2026-09-08T16:16:58Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
       "title": "Show HN: NoMac.App – iOS CI/CD pipeline built for AI agents",
       "url": "https://nomac.app",
       "points": 6,
       "comments": 0,
       "publishedAt": "2026-09-07T12:29:17Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Grith – syscall-level supervision for AI agents",
-      "url": "https://github.com/grith-ai/grith",
-      "points": 3,
-      "comments": 1,
-      "publishedAt": "2026-09-08T13:22:25Z",
       "source": "Hacker News / Algolia"
     }
   ],
@@ -833,7 +833,7 @@
     },
     {
       "repo": "cathrynlavery/diagram-design",
-      "starsToday": 1070
+      "starsToday": 1020
     },
     {
       "repo": "openai/skills",
@@ -873,7 +873,7 @@
     },
     {
       "repo": "browser-use/browser-use",
-      "starsToday": 330
+      "starsToday": 320
     }
   ],
   "monitored": [
@@ -890,8 +890,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78789,
-      "forks": 6791,
+      "stars": 78811,
+      "forks": 6792,
       "issues": 128,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -951,12 +951,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26163,
-      "forks": 2451,
-      "issues": 796,
+      "stars": 26168,
+      "forks": 2452,
+      "issues": 802,
       "language": "TypeScript",
       "pushedAt": "2026-09-08T13:38:00Z",
-      "pushedLabel": "push há 1h",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
