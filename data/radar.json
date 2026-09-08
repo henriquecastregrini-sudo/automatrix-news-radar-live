@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T23:03:49.415Z",
-  "generatedLabel": "7 de set. de 2026 · 20:03",
+  "generatedAt": "2026-09-08T01:04:35.859Z",
+  "generatedLabel": "7 de set. de 2026 · 22:04",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,13 +45,13 @@
         "comparação de agentes"
       ],
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 252779,
-      "forks": 37921,
+      "stars": 252855,
+      "forks": 37932,
       "issues": 167,
       "language": "JavaScript",
       "pushedAt": "2026-09-07T22:36:32Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1905,
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 1897,
       "score": 95,
       "social": [
         {
@@ -112,14 +112,14 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/heygen-com/hyperframes",
-      "stars": 45777,
-      "forks": 4303,
-      "issues": 172,
+      "stars": 45955,
+      "forks": 4314,
+      "issues": 174,
       "language": "TypeScript",
-      "pushedAt": "2026-09-07T20:07:55Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 734,
-      "score": 90,
+      "pushedAt": "2026-09-08T01:01:45Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 474,
+      "score": 87,
       "social": [
         {
           "platform": "YouTube",
@@ -138,7 +138,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 734 stars hoje",
+          "label": "GitHub Trending · 474 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -179,13 +179,13 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/coreyhaines31/marketingskills",
-      "stars": 48087,
-      "forks": 7434,
+      "stars": 48136,
+      "forks": 7439,
       "issues": 106,
       "language": "JavaScript",
       "pushedAt": "2026-09-05T04:48:10Z",
       "pushedLabel": "push há 3d",
-      "trendingStarsToday": 602,
+      "trendingStarsToday": 580,
       "score": 83,
       "social": [
         {
@@ -205,7 +205,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 602 stars hoje",
+          "label": "GitHub Trending · 580 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -246,14 +246,14 @@
         "comparação com Playwright"
       ],
       "url": "https://github.com/jo-inc/camofox-browser",
-      "stars": 9645,
-      "forks": 1012,
+      "stars": 9706,
+      "forks": 1019,
       "issues": 125,
       "language": "JavaScript",
       "pushedAt": "2026-09-06T03:30:20Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 285,
-      "score": 79,
+      "trendingStarsToday": 135,
+      "score": 74,
       "social": [
         {
           "platform": "YouTube",
@@ -272,7 +272,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 285 stars hoje",
+          "label": "GitHub Trending · 135 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -300,64 +300,11 @@
       "rank": 4
     },
     {
-      "repo": "mksglu/context-mode",
-      "title": "context-mode",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 147 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/mksglu/context-mode",
-      "stars": 20793,
-      "forks": 1518,
-      "issues": 213,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-07T12:06:52Z",
-      "pushedLabel": "push há 11h",
-      "trendingStarsToday": 147,
-      "score": 66,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/mksglu/context-mode",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 147 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=mksglu%20context-mode%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=context-mode%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=context-mode%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 5
-    },
-    {
       "repo": "The-Swarm-Corporation/AutoHedge",
       "title": "AutoHedge",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 541 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 517 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
       "broll": [
         "GitHub Trending",
@@ -366,13 +313,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-      "stars": 5229,
-      "forks": 799,
+      "stars": 5259,
+      "forks": 804,
       "issues": 18,
       "language": "Python",
       "pushedAt": "2026-05-11T05:44:09Z",
       "pushedLabel": "push há 120d",
-      "trendingStarsToday": 541,
+      "trendingStarsToday": 517,
       "score": 65,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -383,7 +330,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 541 stars hoje",
+          "label": "GitHub Trending · 517 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -403,7 +350,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "repo": "NousResearch/hermes-agent",
@@ -419,11 +366,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 243034,
-      "forks": 50031,
-      "issues": 40546,
+      "stars": 243048,
+      "forks": 50046,
+      "issues": 40585,
       "language": "Python",
-      "pushedAt": "2026-09-07T22:57:02Z",
+      "pushedAt": "2026-09-08T00:38:51Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -465,6 +412,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 6
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "title": "context-mode",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 96 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/mksglu/context-mode",
+      "stars": 20835,
+      "forks": 1520,
+      "issues": 214,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-07T12:06:52Z",
+      "pushedLabel": "push há 13h",
+      "trendingStarsToday": 96,
+      "score": 63,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mksglu/context-mode",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 96 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=mksglu%20context-mode%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=context-mode%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=context-mode%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 7
     },
     {
@@ -481,12 +481,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 52801,
-      "forks": 3448,
-      "issues": 131,
+      "stars": 52944,
+      "forks": 3462,
+      "issues": 136,
       "language": "JavaScript",
-      "pushedAt": "2026-09-07T12:34:58Z",
-      "pushedLabel": "push há 10h",
+      "pushedAt": "2026-09-08T00:34:57Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -543,8 +543,8 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 256048,
-      "forks": 21563,
+      "stars": 256091,
+      "forks": 21568,
       "issues": 471,
       "language": "Shell",
       "pushedAt": "2026-09-04T08:45:43Z",
@@ -605,12 +605,12 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 43611,
-      "forks": 3968,
+      "stars": 43628,
+      "forks": 3970,
       "issues": 32,
       "language": "Python",
       "pushedAt": "2026-09-07T09:35:27Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -666,8 +666,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78615,
-      "forks": 6770,
+      "stars": 78631,
+      "forks": 6773,
       "issues": 125,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -727,12 +727,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26078,
-      "forks": 2437,
+      "stars": 26098,
+      "forks": 2439,
       "issues": 793,
       "language": "TypeScript",
       "pushedAt": "2026-09-07T12:30:36Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -767,7 +767,7 @@
       "title": "ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo",
       "url": "https://github.com/redhat-et/ripwire",
       "points": 19,
-      "comments": 10,
+      "comments": 11,
       "publishedAt": "2026-09-07T02:11:40Z",
       "source": "Hacker News / Algolia"
     },
@@ -796,70 +796,70 @@
       "source": "Hacker News / Algolia"
     },
     {
+      "title": "Secure temporary file sharing for AI agents and humans",
+      "url": "https://github.com/aispace-sh/aispace-client",
+      "points": 7,
+      "comments": 1,
+      "publishedAt": "2026-09-07T23:59:58Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
       "title": "Show HN: NoMac.App – iOS CI/CD pipeline built for AI agents",
       "url": "https://nomac.app",
       "points": 6,
       "comments": 0,
       "publishedAt": "2026-09-07T12:29:17Z",
       "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "AI agents aren't safe from prompt injection, and spreadsheets prove it",
-      "url": "https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/",
-      "points": 3,
-      "comments": 1,
-      "publishedAt": "2026-09-06T16:17:36Z",
-      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "heygen-com/hyperframes",
-      "starsToday": 734
+      "starsToday": 474
     },
     {
       "repo": "microsoft/markitdown",
-      "starsToday": 771
+      "starsToday": 886
     },
     {
       "repo": "mksglu/context-mode",
-      "starsToday": 147
+      "starsToday": 96
     },
     {
       "repo": "jo-inc/camofox-browser",
-      "starsToday": 285
+      "starsToday": 135
     },
     {
       "repo": "MoonTechLab/LunaTV",
-      "starsToday": 171
+      "starsToday": 197
     },
     {
       "repo": "affaan-m/ECC",
-      "starsToday": 1905
+      "starsToday": 1897
     },
     {
       "repo": "coreyhaines31/marketingskills",
-      "starsToday": 602
+      "starsToday": 580
     },
     {
       "repo": "The-Swarm-Corporation/AutoHedge",
-      "starsToday": 541
+      "starsToday": 517
     },
     {
       "repo": "BraveOPotato/FckSignups",
-      "starsToday": 497
+      "starsToday": 501
     },
     {
       "repo": "bytedance/deer-flow",
-      "starsToday": 188
+      "starsToday": 195
     },
     {
       "repo": "openai/skills",
-      "starsToday": 372
+      "starsToday": 351
     },
     {
       "repo": "lightpanda-io/browser",
-      "starsToday": 116
+      "starsToday": 58
     }
   ],
   "monitored": [
@@ -876,8 +876,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78615,
-      "forks": 6770,
+      "stars": 78631,
+      "forks": 6773,
       "issues": 125,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -937,12 +937,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26078,
-      "forks": 2437,
+      "stars": 26098,
+      "forks": 2439,
       "issues": 793,
       "language": "TypeScript",
       "pushedAt": "2026-09-07T12:30:36Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
