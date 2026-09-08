@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T11:06:53.582Z",
-  "generatedLabel": "8 de set. de 2026 · 08:06",
+  "generatedAt": "2026-09-08T14:48:07.187Z",
+  "generatedLabel": "8 de set. de 2026 · 11:48",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -32,6 +32,73 @@
   ],
   "repos": [
     {
+      "repo": "heygen-com/hyperframes",
+      "title": "Hyperframes",
+      "type": "Vídeo programável para agentes",
+      "status": "Gravar agora",
+      "hook": "Agora um agente pode escrever HTML e transformar esse código em um vídeo renderizado.",
+      "thesis": "A edição de vídeo está virando uma tarefa programável e operável por agentes.",
+      "broll": [
+        "demo oficial",
+        "HTML virando vídeo",
+        "timeline programática",
+        "GitHub Trending"
+      ],
+      "url": "https://github.com/heygen-com/hyperframes",
+      "stars": 47441,
+      "forks": 4377,
+      "issues": 184,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-08T13:18:58Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 2628,
+      "score": 95,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "HeyGen · fluxo de agentes com Hyperframes · 10,9k views · publicado 22 MAI",
+          "url": "https://www.youtube.com/watch?v=9yx8Ja1gztI",
+          "views": 10956,
+          "publishedAt": "2026-05-22",
+          "verifiedAt": "08 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 2,6 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · HeyGen · fluxo de agentes com Hyperframes · 10,9k views · publicado 22 MAI",
+          "url": "https://www.youtube.com/watch?v=9yx8Ja1gztI",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=heygen-com%20hyperframes%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Hyperframes%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Hyperframes%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "repo": "affaan-m/ECC",
       "title": "ECC",
       "type": "Otimização de agentes",
@@ -45,13 +112,13 @@
         "comparação de agentes"
       ],
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 253566,
-      "forks": 38031,
-      "issues": 176,
+      "stars": 253837,
+      "forks": 38064,
+      "issues": 178,
       "language": "JavaScript",
       "pushedAt": "2026-09-07T22:36:32Z",
-      "pushedLabel": "push há 13h",
-      "trendingStarsToday": 1897,
+      "pushedLabel": "push há 16h",
+      "trendingStarsToday": 1426,
       "score": 95,
       "social": [
         {
@@ -71,7 +138,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,9 mil stars hoje",
+          "label": "GitHub Trending · 1,4 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -96,7 +163,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "repo": "cathrynlavery/diagram-design",
@@ -112,9 +179,9 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 33610,
-      "forks": 2147,
-      "issues": 35,
+      "stars": 34048,
+      "forks": 2169,
+      "issues": 36,
       "language": "HTML",
       "pushedAt": "2026-09-07T04:39:11Z",
       "pushedLabel": "push há 1d",
@@ -163,73 +230,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 2
-    },
-    {
-      "repo": "heygen-com/hyperframes",
-      "title": "Hyperframes",
-      "type": "Vídeo programável para agentes",
-      "status": "Gravar agora",
-      "hook": "Agora um agente pode escrever HTML e transformar esse código em um vídeo renderizado.",
-      "thesis": "A edição de vídeo está virando uma tarefa programável e operável por agentes.",
-      "broll": [
-        "demo oficial",
-        "HTML virando vídeo",
-        "timeline programática",
-        "GitHub Trending"
-      ],
-      "url": "https://github.com/heygen-com/hyperframes",
-      "stars": 47287,
-      "forks": 4370,
-      "issues": 182,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-08T08:04:36Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 474,
-      "score": 87,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "HeyGen · fluxo de agentes com Hyperframes · 10,9k views · publicado 22 MAI",
-          "url": "https://www.youtube.com/watch?v=9yx8Ja1gztI",
-          "views": 10956,
-          "publishedAt": "2026-05-22",
-          "verifiedAt": "08 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/heygen-com/hyperframes",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 474 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · HeyGen · fluxo de agentes com Hyperframes · 10,9k views · publicado 22 MAI",
-          "url": "https://www.youtube.com/watch?v=9yx8Ja1gztI",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=heygen-com%20hyperframes%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Hyperframes%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Hyperframes%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 3
     },
     {
@@ -246,14 +246,14 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/coreyhaines31/marketingskills",
-      "stars": 48456,
-      "forks": 7465,
-      "issues": 106,
+      "stars": 48557,
+      "forks": 7477,
+      "issues": 107,
       "language": "JavaScript",
       "pushedAt": "2026-09-05T04:48:10Z",
       "pushedLabel": "push há 3d",
-      "trendingStarsToday": 580,
-      "score": 83,
+      "trendingStarsToday": 666,
+      "score": 84,
       "social": [
         {
           "platform": "YouTube",
@@ -272,7 +272,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 580 stars hoje",
+          "label": "GitHub Trending · 666 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -313,9 +313,9 @@
         "comparação de tokens"
       ],
       "url": "https://github.com/ayghri/i-have-adhd",
-      "stars": 27989,
-      "forks": 1752,
-      "issues": 28,
+      "stars": 28637,
+      "forks": 1782,
+      "issues": 29,
       "language": "Python",
       "pushedAt": "2026-09-01T20:49:17Z",
       "pushedLabel": "push há 7d",
@@ -380,14 +380,14 @@
         "exemplo no Codex"
       ],
       "url": "https://github.com/openai/skills",
-      "stars": 26274,
-      "forks": 1760,
-      "issues": 292,
+      "stars": 26344,
+      "forks": 1767,
+      "issues": 293,
       "language": "Python",
       "pushedAt": "2026-07-14T16:47:46Z",
       "pushedLabel": "push há 56d",
-      "trendingStarsToday": 351,
-      "score": 65,
+      "trendingStarsToday": 490,
+      "score": 67,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -397,7 +397,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 351 stars hoje",
+          "label": "GitHub Trending · 490 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -433,11 +433,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 243227,
-      "forks": 50116,
-      "issues": 40774,
+      "stars": 243290,
+      "forks": 50138,
+      "issues": 40821,
       "language": "Python",
-      "pushedAt": "2026-09-08T11:06:34Z",
+      "pushedAt": "2026-09-08T14:38:25Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -495,12 +495,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 53988,
-      "forks": 3536,
-      "issues": 133,
+      "stars": 54252,
+      "forks": 3560,
+      "issues": 135,
       "language": "JavaScript",
-      "pushedAt": "2026-09-08T09:29:02Z",
-      "pushedLabel": "push há 2h",
+      "pushedAt": "2026-09-08T11:41:36Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -557,8 +557,8 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 256543,
-      "forks": 21613,
+      "stars": 256705,
+      "forks": 21621,
       "issues": 475,
       "language": "Shell",
       "pushedAt": "2026-09-04T08:45:43Z",
@@ -619,9 +619,9 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 43764,
-      "forks": 3978,
-      "issues": 32,
+      "stars": 43810,
+      "forks": 3983,
+      "issues": 31,
       "language": "Python",
       "pushedAt": "2026-09-07T09:35:27Z",
       "pushedLabel": "push há 1d",
@@ -680,9 +680,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78752,
-      "forks": 6787,
-      "issues": 127,
+      "stars": 78789,
+      "forks": 6791,
+      "issues": 128,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
       "pushedLabel": "push há 7d",
@@ -741,12 +741,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26155,
-      "forks": 2449,
-      "issues": 801,
+      "stars": 26163,
+      "forks": 2451,
+      "issues": 796,
       "language": "TypeScript",
-      "pushedAt": "2026-09-08T07:23:15Z",
-      "pushedLabel": "push há 4h",
+      "pushedAt": "2026-09-08T13:38:00Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -781,7 +781,7 @@
       "title": "ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo",
       "url": "https://github.com/redhat-et/ripwire",
       "points": 19,
-      "comments": 12,
+      "comments": 14,
       "publishedAt": "2026-09-07T02:11:40Z",
       "source": "Hacker News / Algolia"
     },
@@ -810,19 +810,19 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Mdmanager.ai – Manage your Claude.md and AGENTS.md across machines and runtimes",
-      "url": "https://github.com/manuelschipper/mdmanager",
-      "points": 3,
-      "comments": 7,
-      "publishedAt": "2026-09-06T16:03:28Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
       "title": "Show HN: NoMac.App – iOS CI/CD pipeline built for AI agents",
       "url": "https://nomac.app",
       "points": 6,
       "comments": 0,
       "publishedAt": "2026-09-07T12:29:17Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: Grith – syscall-level supervision for AI agents",
+      "url": "https://github.com/grith-ai/grith",
+      "points": 3,
+      "comments": 1,
+      "publishedAt": "2026-09-08T13:22:25Z",
       "source": "Hacker News / Algolia"
     }
   ],
@@ -837,19 +837,19 @@
     },
     {
       "repo": "openai/skills",
-      "starsToday": 351
+      "starsToday": 490
     },
     {
       "repo": "affaan-m/ECC",
-      "starsToday": 1897
+      "starsToday": 1426
     },
     {
       "repo": "heygen-com/hyperframes",
-      "starsToday": 474
+      "starsToday": 2628
     },
     {
       "repo": "coreyhaines31/marketingskills",
-      "starsToday": 580
+      "starsToday": 666
     },
     {
       "repo": "obra/superpowers",
@@ -861,15 +861,15 @@
     },
     {
       "repo": "microsoft/markitdown",
-      "starsToday": 886
+      "starsToday": 2045
     },
     {
       "repo": "jo-inc/camofox-browser",
-      "starsToday": 135
+      "starsToday": 872
     },
     {
       "repo": "MoonTechLab/LunaTV",
-      "starsToday": 197
+      "starsToday": 505
     },
     {
       "repo": "browser-use/browser-use",
@@ -890,9 +890,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78752,
-      "forks": 6787,
-      "issues": 127,
+      "stars": 78789,
+      "forks": 6791,
+      "issues": 128,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
       "pushedLabel": "push há 7d",
@@ -951,12 +951,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26155,
-      "forks": 2449,
-      "issues": 801,
+      "stars": 26163,
+      "forks": 2451,
+      "issues": 796,
       "language": "TypeScript",
-      "pushedAt": "2026-09-08T07:23:15Z",
-      "pushedLabel": "push há 4h",
+      "pushedAt": "2026-09-08T13:38:00Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
