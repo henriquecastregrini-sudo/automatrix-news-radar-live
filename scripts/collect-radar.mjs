@@ -37,6 +37,10 @@ const editorialOverrides = {
   'coreyhaines31/marketingskills': { title: 'Marketing Skills', type: 'Skills de marketing', status: 'Gravar agora', hook: 'Este repo transforma copy, SEO, CRO e analytics em habilidades reutilizáveis por agentes.', thesis: 'Times de marketing estão começando a ser empacotados como infraestrutura para agentes.', broll: ['diretório de skills', 'README', 'exemplos de copy e CRO', 'GitHub Trending'] },
   'jo-inc/camofox-browser': { title: 'CamoFox Browser', type: 'Navegador para agentes', status: 'Monitorar hoje', hook: 'Este navegador headless foi criado para agentes acessarem páginas que bloqueiam automação comum.', thesis: 'A guerra entre agentes navegadores e sistemas antibot está criando uma nova camada de infraestrutura.', broll: ['terminal', 'README', 'demo de navegação', 'comparação com Playwright'] },
   'ayghri/i-have-adhd': { title: 'I Have ADHD', type: 'Acessibilidade para agentes', status: 'Gravar agora', hook: 'Esta skill obriga o agente de código a parar de esconder a resposta em textos enormes.', thesis: 'A próxima evolução dos agentes pode ser adaptar a comunicação ao cérebro de cada usuário.', broll: ['resposta antes e depois', 'README', 'instalação da skill', 'comparação de tokens'] },
+  'obra/superpowers': { title: 'Superpowers', type: 'Metodologia para agentes', status: 'Gravar agora', hook: 'Este projeto tenta acabar com o vibe coding: o agente precisa planejar, testar e revisar antes de dizer que terminou.', thesis: 'Skills em Markdown estão virando uma camada de engenharia reutilizável entre Claude, Codex, Cursor e outros agentes.', broll: ['fluxo brainstorming → plano → TDD', 'lista de skills', 'README', 'vídeo demonstrativo'] },
+  'Tencent/teamai-cli': { title: 'TeamAI CLI', type: 'Infraestrutura para equipes de IA', status: 'Gravar agora', hook: 'A Tencent colocou regras, skills e memória de vários agentes dentro de um único fluxo versionado no Git.', thesis: 'Equipes que usam vários agentes estão tratando contexto e conhecimento como infraestrutura revisável.', broll: ['diagrama push → review → pull', 'comandos no terminal', 'README', 'release mais recente'] },
+  'pascalorg/editor': { title: 'Pascal Editor', type: 'Arquitetura 3D + agentes', status: 'Monitorar hoje', hook: 'Este editor 3D deixa agentes de IA criar e alterar projetos arquitetônicos por MCP.', thesis: 'Ferramentas criativas estão expondo cenas e objetos como interfaces controláveis por agentes.', broll: ['vídeo oficial pascal_editor.mp4', 'editor 3D no navegador', 'documentação MCP', 'README'] },
+  'earthtojake/text-to-cad': { title: 'Text to CAD', type: 'CAD para agentes', status: 'Monitorar hoje', hook: 'Uma biblioteca de skills quer transformar instruções de texto em tarefas de CAD, CAE e CAM.', thesis: 'Agentes estão saindo do código e entrando em fluxos de engenharia e fabricação.', broll: ['skills CAD/CAE/CAM', 'modelos 3D', 'README', 'GitHub Trending'] },
   'openai/skills': { title: 'OpenAI Skills', type: 'Catálogo oficial de skills', status: 'Monitorar hoje', hook: 'A OpenAI agora organiza habilidades reutilizáveis para transformar o Codex em ferramentas especializadas.', thesis: 'Skills estão virando a nova unidade de distribuição de conhecimento para agentes.', broll: ['repositório oficial', 'catálogo de skills', 'estrutura dos arquivos', 'exemplo no Codex'] },
 };
 
@@ -53,6 +57,8 @@ const socialReferences = {
   'jo-inc/camofox-browser': [{ platform: 'YouTube', label: 'Build Things With AI · CamoFox entre repos em alta · 1,8k views · publicado 02 MAI', url: 'https://www.youtube.com/watch?v=Hs-xdoaGH5o', views: 1855, publishedAt: '2026-05-02', verifiedAt: '07 SET 2026' }],
   'cathrynlavery/diagram-design': [{ platform: 'YouTube', label: 'YAHA · Diagram Design em primeiro no GitHub · 20,9k views · publicado 03 SET', url: 'https://www.youtube.com/watch?v=rq4EHbqaaAk', views: 20919, publishedAt: '2026-09-03', verifiedAt: '08 SET 2026' }],
   'ayghri/i-have-adhd': [{ platform: 'YouTube', label: 'AI Stack Engineer · I Have ADHD Skill · 1,7k views · publicado 08 AGO', url: 'https://www.youtube.com/watch?v=Wu_Vos03Uxg', views: 1719, publishedAt: '2026-08-08', verifiedAt: '08 SET 2026' }],
+  'obra/superpowers': [{ platform: 'Bilibili', label: 'Guia completo do workflow Superpowers · 17k views · publicado 04 MAR', url: 'https://www.bilibili.com/video/BV1w2PPzGENp/', views: 17000, publishedAt: '2026-03-04', verifiedAt: '09 SET 2026' }],
+  'Tencent/teamai-cli': [{ platform: 'Reddit', label: 'r/aicuriosity · lançamento open-source · 11 votos públicos · publicado 07 SET', url: 'https://www.reddit.com/r/aicuriosity/comments/1w9ujgn/tencent_open_sources_teamaicli_for_shared_team/', engagement: 11, publishedAt: '2026-09-07', verifiedAt: '09 SET 2026' }],
   'magnitudedev/magnitude': [],
   'K-Dense-AI/scientific-agent-skills': [{ platform: 'YouTube', label: 'K-Dense · skills científicas · 13,5k views · publicado 18 FEV', url: 'https://www.youtube.com/watch?v=ZxbnDaD_FVg', views: 13534, publishedAt: '2026-02-18', verifiedAt: '07 SET 2026' }],
   'Panniantong/Agent-Reach': [{ platform: 'YouTube', label: 'Better Stack · agente com acesso web · 16k views · publicado 18 JUN', url: 'https://www.youtube.com/watch?v=aanqEqQwjNU', views: 16050, publishedAt: '2026-06-18', verifiedAt: '06 SET 2026' }],
@@ -148,8 +154,15 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
   const { _api, ...editorial } = item;
   const starsToday = trendingMap.get(item.repo.toLowerCase()) || 0;
   const social = socialReferences[item.repo] || [];
-  const socialViews = Math.max(0, ...social.map((reference) => reference.views || 0));
-  const socialScore = social.length ? Math.min(22, 8 + Math.log10(socialViews + 1) * 2.5) : 6;
+  const socialSignal = Math.max(0, ...social.map((reference) => {
+    const metric = reference.views || reference.engagement || 0;
+    const ageDays = reference.publishedAt
+      ? Math.max(0, (Date.now() - new Date(`${reference.publishedAt}T12:00:00Z`).getTime()) / 864e5)
+      : 365;
+    const freshnessWeight = ageDays <= 30 ? 1 : ageDays <= 90 ? 0.5 : 0.1;
+    return metric * freshnessWeight;
+  }));
+  const socialScore = social.length ? Math.min(22, 8 + Math.log10(socialSignal + 1) * 2.5) : 6;
   const score = Math.min(100, Math.round(
     (starsToday ? Math.min(48, Math.log10(starsToday + 1) * 15) : 12) +
     Math.min(22, Math.log10((api.stargazers_count || 1) + 1) * 4) +

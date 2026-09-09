@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T01:08:40.090Z",
-  "generatedLabel": "8 de set. de 2026 · 22:08",
+  "generatedAt": "2026-09-09T13:12:13.957Z",
+  "generatedLabel": "9 de set. de 2026 · 10:12",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -32,140 +32,6 @@
   ],
   "repos": [
     {
-      "repo": "heygen-com/hyperframes",
-      "title": "Hyperframes",
-      "type": "Vídeo programável para agentes",
-      "status": "Gravar agora",
-      "hook": "Agora um agente pode escrever HTML e transformar esse código em um vídeo renderizado.",
-      "thesis": "A edição de vídeo está virando uma tarefa programável e operável por agentes.",
-      "broll": [
-        "demo oficial",
-        "HTML virando vídeo",
-        "timeline programática",
-        "GitHub Trending"
-      ],
-      "url": "https://github.com/heygen-com/hyperframes",
-      "stars": 47766,
-      "forks": 4393,
-      "issues": 87,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-08T23:55:50Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 2627,
-      "score": 95,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "HeyGen · fluxo de agentes com Hyperframes · 10,9k views · publicado 22 MAI",
-          "url": "https://www.youtube.com/watch?v=9yx8Ja1gztI",
-          "views": 10956,
-          "publishedAt": "2026-05-22",
-          "verifiedAt": "08 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/heygen-com/hyperframes",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 2,6 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · HeyGen · fluxo de agentes com Hyperframes · 10,9k views · publicado 22 MAI",
-          "url": "https://www.youtube.com/watch?v=9yx8Ja1gztI",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=heygen-com%20hyperframes%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Hyperframes%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Hyperframes%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "repo": "affaan-m/ECC",
-      "title": "ECC",
-      "type": "Otimização de agentes",
-      "status": "Gravar agora",
-      "hook": "Este sistema promete deixar Claude, Codex e outros agentes mais rápidos, seguros e consistentes.",
-      "thesis": "O próximo salto dos agentes pode vir do harness ao redor do modelo, não de um modelo maior.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "skills e memória",
-        "comparação de agentes"
-      ],
-      "url": "https://github.com/affaan-m/ECC",
-      "stars": 254307,
-      "forks": 38112,
-      "issues": 185,
-      "language": "JavaScript",
-      "pushedAt": "2026-09-09T00:36:37Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 1427,
-      "score": 95,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO",
-          "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
-          "views": 1139,
-          "publishedAt": "2026-08-27",
-          "verifiedAt": "08 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/affaan-m/ECC",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,4 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO",
-          "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=affaan-m%20ECC%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=ECC%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=ECC%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "repo": "cathrynlavery/diagram-design",
       "title": "Diagram Design",
       "type": "Visual para agentes",
@@ -179,14 +45,14 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 34833,
-      "forks": 2203,
-      "issues": 34,
+      "stars": 36054,
+      "forks": 2266,
+      "issues": 37,
       "language": "HTML",
       "pushedAt": "2026-09-08T19:45:13Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 710,
-      "score": 90,
+      "pushedLabel": "push há 17h",
+      "trendingStarsToday": 2286,
+      "score": 95,
       "social": [
         {
           "platform": "YouTube",
@@ -205,7 +71,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 710 stars hoje",
+          "label": "GitHub Trending · 2,3 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -230,7 +96,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 3
+      "rank": 1
     },
     {
       "repo": "ayghri/i-have-adhd",
@@ -246,14 +112,14 @@
         "comparação de tokens"
       ],
       "url": "https://github.com/ayghri/i-have-adhd",
-      "stars": 30487,
-      "forks": 1858,
-      "issues": 31,
+      "stars": 32941,
+      "forks": 1958,
+      "issues": 34,
       "language": "Python",
       "pushedAt": "2026-09-08T17:08:54Z",
-      "pushedLabel": "push há 8h",
-      "trendingStarsToday": 656,
-      "score": 86,
+      "pushedLabel": "push há 20h",
+      "trendingStarsToday": 4624,
+      "score": 91,
       "social": [
         {
           "platform": "YouTube",
@@ -272,7 +138,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 656 stars hoje",
+          "label": "GitHub Trending · 4,6 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -297,127 +163,194 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 2
     },
     {
-      "repo": "coreyhaines31/marketingskills",
-      "title": "Marketing Skills",
-      "type": "Skills de marketing",
+      "repo": "obra/superpowers",
+      "title": "Superpowers",
+      "type": "Metodologia para agentes",
       "status": "Gravar agora",
-      "hook": "Este repo transforma copy, SEO, CRO e analytics em habilidades reutilizáveis por agentes.",
-      "thesis": "Times de marketing estão começando a ser empacotados como infraestrutura para agentes.",
+      "hook": "Este projeto tenta acabar com o vibe coding: o agente precisa planejar, testar e revisar antes de dizer que terminou.",
+      "thesis": "Skills em Markdown estão virando uma camada de engenharia reutilizável entre Claude, Codex, Cursor e outros agentes.",
       "broll": [
-        "diretório de skills",
+        "fluxo brainstorming → plano → TDD",
+        "lista de skills",
         "README",
-        "exemplos de copy e CRO",
-        "GitHub Trending"
+        "vídeo demonstrativo"
       ],
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "stars": 48823,
-      "forks": 7495,
-      "issues": 108,
-      "language": "JavaScript",
-      "pushedAt": "2026-09-05T04:48:10Z",
-      "pushedLabel": "push há 4d",
-      "trendingStarsToday": 666,
-      "score": 84,
+      "url": "https://github.com/obra/superpowers",
+      "stars": 283739,
+      "forks": 25396,
+      "issues": 344,
+      "language": "Shell",
+      "pushedAt": "2026-09-08T21:39:23Z",
+      "pushedLabel": "push há 16h",
+      "trendingStarsToday": 690,
+      "score": 90,
       "social": [
         {
-          "platform": "YouTube",
-          "label": "The Next New Thing · skills para Claude · 53,4k views · publicado 11 FEV",
-          "url": "https://www.youtube.com/watch?v=YajqB9RDdzI",
-          "views": 53450,
-          "publishedAt": "2026-02-11",
-          "verifiedAt": "08 SET 2026"
+          "platform": "Bilibili",
+          "label": "Guia completo do workflow Superpowers · 17k views · publicado 04 MAR",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "views": 17000,
+          "publishedAt": "2026-03-04",
+          "verifiedAt": "09 SET 2026"
         }
       ],
       "socialStatus": "referência direta verificada",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/coreyhaines31/marketingskills",
+          "url": "https://github.com/obra/superpowers",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 666 stars hoje",
+          "label": "GitHub Trending · 690 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "YouTube · The Next New Thing · skills para Claude · 53,4k views · publicado 11 FEV",
-          "url": "https://www.youtube.com/watch?v=YajqB9RDdzI",
+          "label": "Bilibili · Guia completo do workflow Superpowers · 17k views · publicado 04 MAR",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
           "kind": "social"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=coreyhaines31%20marketingskills%20AI",
+          "url": "https://www.youtube.com/results?search_query=obra%20superpowers%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Marketing%20Skills%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Superpowers%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Marketing%20Skills%20AI",
+          "url": "https://www.tiktok.com/search?q=Superpowers%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 3
     },
     {
-      "repo": "openai/skills",
-      "title": "OpenAI Skills",
-      "type": "Catálogo oficial de skills",
-      "status": "Monitorar hoje",
-      "hook": "A OpenAI agora organiza habilidades reutilizáveis para transformar o Codex em ferramentas especializadas.",
-      "thesis": "Skills estão virando a nova unidade de distribuição de conhecimento para agentes.",
+      "repo": "Tencent/teamai-cli",
+      "title": "TeamAI CLI",
+      "type": "Infraestrutura para equipes de IA",
+      "status": "Gravar agora",
+      "hook": "A Tencent colocou regras, skills e memória de vários agentes dentro de um único fluxo versionado no Git.",
+      "thesis": "Equipes que usam vários agentes estão tratando contexto e conhecimento como infraestrutura revisável.",
       "broll": [
-        "repositório oficial",
-        "catálogo de skills",
-        "estrutura dos arquivos",
-        "exemplo no Codex"
+        "diagrama push → review → pull",
+        "comandos no terminal",
+        "README",
+        "release mais recente"
       ],
-      "url": "https://github.com/openai/skills",
-      "stars": 26518,
-      "forks": 1776,
-      "issues": 293,
-      "language": "Python",
-      "pushedAt": "2026-09-08T20:35:26Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 490,
-      "score": 74,
+      "url": "https://github.com/Tencent/teamai-cli",
+      "stars": 2697,
+      "forks": 169,
+      "issues": 19,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-09T12:15:10Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 1083,
+      "score": 80,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/aicuriosity · lançamento open-source · 11 votos públicos · publicado 07 SET",
+          "url": "https://www.reddit.com/r/aicuriosity/comments/1w9ujgn/tencent_open_sources_teamaicli_for_shared_team/",
+          "engagement": 11,
+          "publishedAt": "2026-09-07",
+          "verifiedAt": "09 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Tencent/teamai-cli",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,1 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/aicuriosity · lançamento open-source · 11 votos públicos · publicado 07 SET",
+          "url": "https://www.reddit.com/r/aicuriosity/comments/1w9ujgn/tencent_open_sources_teamaicli_for_shared_team/",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=Tencent%20teamai-cli%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TeamAI%20CLI%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TeamAI%20CLI%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "repo": "pascalorg/editor",
+      "title": "Pascal Editor",
+      "type": "Arquitetura 3D + agentes",
+      "status": "Monitorar hoje",
+      "hook": "Este editor 3D deixa agentes de IA criar e alterar projetos arquitetônicos por MCP.",
+      "thesis": "Ferramentas criativas estão expondo cenas e objetos como interfaces controláveis por agentes.",
+      "broll": [
+        "vídeo oficial pascal_editor.mp4",
+        "editor 3D no navegador",
+        "documentação MCP",
+        "README"
+      ],
+      "url": "https://github.com/pascalorg/editor",
+      "stars": 22703,
+      "forks": 2885,
+      "issues": 46,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-09T12:55:52Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 442,
+      "score": 73,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/openai/skills",
+          "url": "https://github.com/pascalorg/editor",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 490 stars hoje",
+          "label": "GitHub Trending · 442 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=openai%20skills%20AI",
+          "url": "https://www.youtube.com/results?search_query=pascalorg%20editor%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=OpenAI%20Skills%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Pascal%20Editor%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=OpenAI%20Skills%20AI",
+          "url": "https://www.tiktok.com/search?q=Pascal%20Editor%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "repo": "NousResearch/hermes-agent",
@@ -433,11 +366,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 243457,
-      "forks": 50209,
-      "issues": 41047,
+      "stars": 243683,
+      "forks": 50269,
+      "issues": 41240,
       "language": "Python",
-      "pushedAt": "2026-09-09T01:05:10Z",
+      "pushedAt": "2026-09-09T13:06:15Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -479,6 +412,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 6
+    },
+    {
+      "repo": "earthtojake/text-to-cad",
+      "title": "Text to CAD",
+      "type": "CAD para agentes",
+      "status": "Monitorar hoje",
+      "hook": "Uma biblioteca de skills quer transformar instruções de texto em tarefas de CAD, CAE e CAM.",
+      "thesis": "Agentes estão saindo do código e entrando em fluxos de engenharia e fabricação.",
+      "broll": [
+        "skills CAD/CAE/CAM",
+        "modelos 3D",
+        "README",
+        "GitHub Trending"
+      ],
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "stars": 14860,
+      "forks": 1557,
+      "issues": 14,
+      "language": "Python",
+      "pushedAt": "2026-09-09T08:09:26Z",
+      "pushedLabel": "push há 5h",
+      "trendingStarsToday": 97,
+      "score": 63,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 97 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=earthtojake%20text-to-cad%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Text%20to%20CAD%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Text%20to%20CAD%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 7
     },
     {
@@ -495,12 +481,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 54727,
-      "forks": 3587,
-      "issues": 140,
+      "stars": 55602,
+      "forks": 3642,
+      "issues": 144,
       "language": "JavaScript",
       "pushedAt": "2026-09-08T20:33:06Z",
-      "pushedLabel": "push há 5h",
+      "pushedLabel": "push há 17h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -557,14 +543,14 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 256974,
-      "forks": 21645,
-      "issues": 479,
+      "stars": 257505,
+      "forks": 21700,
+      "issues": 480,
       "language": "Shell",
       "pushedAt": "2026-09-04T08:45:43Z",
       "pushedLabel": "push há 5d",
       "trendingStarsToday": null,
-      "score": 59,
+      "score": 58,
       "social": [
         {
           "platform": "YouTube",
@@ -606,6 +592,67 @@
       "rank": 9
     },
     {
+      "repo": "Panniantong/Agent-Reach",
+      "type": "Repo monitorado",
+      "status": "Monitorar hoje",
+      "hook": "O agente que não navega está cego.",
+      "thesis": "Agentes com acesso à web ampliam pesquisa e automação.",
+      "broll": [
+        "README",
+        "lista de plataformas",
+        "exemplos web"
+      ],
+      "title": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars": 78988,
+      "forks": 6804,
+      "issues": 130,
+      "language": "Python",
+      "pushedAt": "2026-09-01T08:09:58Z",
+      "pushedLabel": "push há 8d",
+      "trendingStarsToday": null,
+      "score": 52,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Better Stack · agente com acesso web · 16k views · publicado 18 JUN",
+          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
+          "views": 16050,
+          "publishedAt": "2026-06-18",
+          "verifiedAt": "06 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "kind": "oficial"
+        },
+        {
+          "label": "YouTube · Better Stack · agente com acesso web · 16k views · publicado 18 JUN",
+          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=Panniantong%20Agent-Reach%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Reach%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 10
+    },
+    {
       "repo": "K-Dense-AI/scientific-agent-skills",
       "type": "Agentes científicos",
       "status": "Usar como comparação",
@@ -619,14 +666,14 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 43876,
-      "forks": 3989,
+      "stars": 44042,
+      "forks": 3997,
       "issues": 31,
       "language": "Python",
       "pushedAt": "2026-09-07T09:35:27Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
-      "score": 59,
+      "score": 49,
       "social": [
         {
           "platform": "YouTube",
@@ -665,67 +712,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
-    },
-    {
-      "repo": "Panniantong/Agent-Reach",
-      "type": "Repo monitorado",
-      "status": "Monitorar hoje",
-      "hook": "O agente que não navega está cego.",
-      "thesis": "Agentes com acesso à web ampliam pesquisa e automação.",
-      "broll": [
-        "README",
-        "lista de plataformas",
-        "exemplos web"
-      ],
-      "title": "Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78864,
-      "forks": 6793,
-      "issues": 129,
-      "language": "Python",
-      "pushedAt": "2026-09-01T08:09:58Z",
-      "pushedLabel": "push há 8d",
-      "trendingStarsToday": null,
-      "score": 53,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "Better Stack · agente com acesso web · 16k views · publicado 18 JUN",
-          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
-          "views": 16050,
-          "publishedAt": "2026-06-18",
-          "verifiedAt": "06 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/Panniantong/Agent-Reach",
-          "kind": "oficial"
-        },
-        {
-          "label": "YouTube · Better Stack · agente com acesso web · 16k views · publicado 18 JUN",
-          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=Panniantong%20Agent-Reach%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Reach%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 11
     },
     {
@@ -741,12 +727,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26179,
-      "forks": 2453,
-      "issues": 805,
+      "stars": 26232,
+      "forks": 2455,
+      "issues": 818,
       "language": "TypeScript",
       "pushedAt": "2026-09-08T13:38:00Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -780,25 +766,9 @@
     {
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse/",
-      "points": 277,
-      "comments": 267,
+      "points": 560,
+      "comments": 614,
       "publishedAt": "2026-09-08T19:25:00Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo",
-      "url": "https://github.com/redhat-et/ripwire",
-      "points": 19,
-      "comments": 14,
-      "publishedAt": "2026-09-07T02:11:40Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Pod – A review site for dev tools where the reviewers are AI agents",
-      "url": "https://askpod.ai/",
-      "points": 10,
-      "comments": 13,
-      "publishedAt": "2026-09-07T12:18:56Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -824,56 +794,72 @@
       "comments": 1,
       "publishedAt": "2026-09-08T18:49:21Z",
       "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Muse, your personal AI agent.",
+      "url": "https://auth.muse.ai/aymh/?origin=https%3A%2F%2Fmuse.ai",
+      "points": 7,
+      "comments": 0,
+      "publishedAt": "2026-09-08T19:00:38Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Meta Introduces Muse, an AI Agent That Can Send Your Emails and Book Your Travel",
+      "url": "https://www.nytimes.com/2026/09/08/technology/meta-muse-ai-agent.html",
+      "points": 2,
+      "comments": 2,
+      "publishedAt": "2026-09-08T19:27:40Z",
+      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "ayghri/i-have-adhd",
-      "starsToday": 656
+      "starsToday": 4624
     },
     {
-      "repo": "cathrynlavery/diagram-design",
-      "starsToday": 710
-    },
-    {
-      "repo": "openai/skills",
-      "starsToday": 490
-    },
-    {
-      "repo": "affaan-m/ECC",
-      "starsToday": 1427
-    },
-    {
-      "repo": "heygen-com/hyperframes",
-      "starsToday": 2627
-    },
-    {
-      "repo": "coreyhaines31/marketingskills",
-      "starsToday": 666
+      "repo": "Tencent/teamai-cli",
+      "starsToday": 1083
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 452
+      "starsToday": 690
     },
     {
-      "repo": "multica-ai/andrej-karpathy-skills",
-      "starsToday": 333
+      "repo": "pascalorg/editor",
+      "starsToday": 442
     },
     {
-      "repo": "microsoft/markitdown",
-      "starsToday": 2047
+      "repo": "earthtojake/text-to-cad",
+      "starsToday": 97
     },
     {
-      "repo": "jo-inc/camofox-browser",
-      "starsToday": 871
+      "repo": "cathrynlavery/diagram-design",
+      "starsToday": 2286
     },
     {
-      "repo": "MoonTechLab/LunaTV",
+      "repo": "TauricResearch/TradingAgents",
+      "starsToday": 506
+    },
+    {
+      "repo": "liquidslr/system-design-notes",
+      "starsToday": 910
+    },
+    {
+      "repo": "openai/plugins",
       "starsToday": 505
     },
     {
-      "repo": "browser-use/browser-use",
-      "starsToday": 228
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "starsToday": 612
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "starsToday": 356
+    },
+    {
+      "repo": "vastsa/PI-Desktop",
+      "starsToday": 393
     }
   ],
   "monitored": [
@@ -890,14 +876,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 78864,
-      "forks": 6793,
-      "issues": 129,
+      "stars": 78988,
+      "forks": 6804,
+      "issues": 130,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
       "pushedLabel": "push há 8d",
       "trendingStarsToday": null,
-      "score": 53,
+      "score": 52,
       "social": [
         {
           "platform": "YouTube",
@@ -936,7 +922,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 11
+      "rank": 10
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -951,12 +937,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26179,
-      "forks": 2453,
-      "issues": 805,
+      "stars": 26232,
+      "forks": 2455,
+      "issues": 818,
       "language": "TypeScript",
       "pushedAt": "2026-09-08T13:38:00Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
