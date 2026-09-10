@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T14:40:49.766Z",
-  "generatedLabel": "10 de set. de 2026 · 11:40",
+  "generatedAt": "2026-09-10T15:27:30.690Z",
+  "generatedLabel": "10 de set. de 2026 · 12:27",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,12 +45,12 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 37401,
-      "forks": 2376,
+      "stars": 37436,
+      "forks": 2377,
       "issues": 41,
       "language": "HTML",
       "pushedAt": "2026-09-10T04:26:30Z",
-      "pushedLabel": "push há 10h",
+      "pushedLabel": "push há 11h",
       "trendingStarsToday": 1287,
       "score": 94,
       "social": [
@@ -112,12 +112,12 @@
         "comparação de tokens"
       ],
       "url": "https://github.com/ayghri/i-have-adhd",
-      "stars": 37039,
-      "forks": 2154,
-      "issues": 45,
+      "stars": 37177,
+      "forks": 2162,
+      "issues": 46,
       "language": "Python",
       "pushedAt": "2026-09-10T13:35:35Z",
-      "pushedLabel": "push há 1h",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": 3854,
       "score": 92,
       "social": [
@@ -179,12 +179,12 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 284470,
-      "forks": 25439,
+      "stars": 284498,
+      "forks": 25445,
       "issues": 348,
       "language": "Shell",
       "pushedAt": "2026-09-10T06:44:12Z",
-      "pushedLabel": "push há 8h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": 731,
       "score": 91,
       "social": [
@@ -233,6 +233,75 @@
       "rank": 3
     },
     {
+      "repo": "AlexsJones/llmfit",
+      "title": "LLMfit",
+      "type": "IA local + hardware",
+      "status": "Gravar agora",
+      "hook": "Este repo descobre qual modelo de IA realmente cabe e roda bem no seu computador antes de você baixar dezenas de gigabytes.",
+      "thesis": "IA local fica muito mais acessível quando hardware, quantização, contexto e velocidade viram uma recomendação automática.",
+      "broll": [
+        "TUI detectando GPU e RAM",
+        "ranking de modelos",
+        "benchmark de tokens por segundo",
+        "vídeo do Better Stack"
+      ],
+      "url": "https://github.com/AlexsJones/llmfit",
+      "stars": 35578,
+      "forks": 2259,
+      "issues": 64,
+      "language": "Rust",
+      "pushedAt": "2026-09-10T13:47:15Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 247,
+      "score": 83,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Better Stack · modelo ideal para seu hardware · 26,2k views · 588 likes · publicado 26 AGO",
+          "url": "https://www.youtube.com/watch?v=zf8jpD77sKY",
+          "views": 26240,
+          "likes": 588,
+          "comments": 29,
+          "publishedAt": "2026-08-26",
+          "verifiedAt": "10 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 247 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · Better Stack · modelo ideal para seu hardware · 26,2k views · 588 likes · publicado 26 AGO",
+          "url": "https://www.youtube.com/watch?v=zf8jpD77sKY",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=AlexsJones%20llmfit%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=LLMfit%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=LLMfit%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
       "repo": "Tencent/teamai-cli",
       "title": "TeamAI CLI",
       "type": "Infraestrutura para equipes de IA",
@@ -246,12 +315,12 @@
         "release mais recente"
       ],
       "url": "https://github.com/Tencent/teamai-cli",
-      "stars": 3587,
-      "forks": 227,
-      "issues": 29,
+      "stars": 3607,
+      "forks": 230,
+      "issues": 28,
       "language": "TypeScript",
       "pushedAt": "2026-09-10T09:35:29Z",
-      "pushedLabel": "push há 5h",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": 837,
       "score": 79,
       "social": [
@@ -297,59 +366,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
-    },
-    {
-      "repo": "AlexsJones/llmfit",
-      "title": "llmfit",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 247 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/AlexsJones/llmfit",
-      "stars": 35561,
-      "forks": 2259,
-      "issues": 64,
-      "language": "Rust",
-      "pushedAt": "2026-09-10T13:47:15Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 247,
-      "score": 70,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/AlexsJones/llmfit",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 247 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=AlexsJones%20llmfit%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=llmfit%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=llmfit%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 5
     },
     {
@@ -366,11 +382,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 244107,
-      "forks": 50460,
-      "issues": 41525,
+      "stars": 244124,
+      "forks": 50465,
+      "issues": 41544,
       "language": "Python",
-      "pushedAt": "2026-09-10T14:37:46Z",
+      "pushedAt": "2026-09-10T15:26:19Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -428,12 +444,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 56980,
-      "forks": 3715,
+      "stars": 57035,
+      "forks": 3720,
       "issues": 148,
       "language": "JavaScript",
       "pushedAt": "2026-09-10T08:39:41Z",
-      "pushedLabel": "push há 6h",
+      "pushedLabel": "push há 7h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -479,18 +495,18 @@
     {
       "repo": "alsk1992/CloddsBot",
       "title": "CloddsBot",
-      "type": "Novo no GitHub Trending",
+      "type": "Agente de trading open-source",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 299 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "hook": "Um agente open-source promete operar autonomamente em mercados de previsão, cripto e DEXs enquanto gerencia risco.",
+      "thesis": "Agentes autônomos estão saindo da demonstração e entrando em mercados com dinheiro real — junto com riscos muito maiores.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "dashboard de mercados",
+        "terminal do agente",
+        "README e integrações",
+        "alerta de risco"
       ],
       "url": "https://github.com/alsk1992/CloddsBot",
-      "stars": 1398,
+      "stars": 1417,
       "forks": 245,
       "issues": 32,
       "language": "TypeScript",
@@ -543,8 +559,8 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 258505,
-      "forks": 21775,
+      "stars": 258543,
+      "forks": 21781,
       "issues": 484,
       "language": "Shell",
       "pushedAt": "2026-09-04T08:45:43Z",
@@ -604,7 +620,7 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 79185,
+      "stars": 79197,
       "forks": 6816,
       "issues": 130,
       "language": "Python",
@@ -666,7 +682,7 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 44240,
+      "stars": 44247,
       "forks": 4019,
       "issues": 33,
       "language": "Python",
@@ -727,12 +743,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26295,
+      "stars": 26296,
       "forks": 2469,
       "issues": 747,
       "language": "TypeScript",
       "pushedAt": "2026-09-10T12:37:42Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -767,7 +783,7 @@
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse/",
       "points": 648,
-      "comments": 725,
+      "comments": 726,
       "publishedAt": "2026-09-08T19:25:00Z",
       "source": "Hacker News / Algolia"
     },
@@ -782,7 +798,7 @@
     {
       "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
       "url": "https://github.com/Atomburstofficial/geiger",
-      "points": 45,
+      "points": 46,
       "comments": 24,
       "publishedAt": "2026-09-09T14:54:49Z",
       "source": "Hacker News / Algolia"
@@ -876,7 +892,7 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 79185,
+      "stars": 79197,
       "forks": 6816,
       "issues": 130,
       "language": "Python",
@@ -937,12 +953,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26295,
+      "stars": 26296,
       "forks": 2469,
       "issues": 747,
       "language": "TypeScript",
       "pushedAt": "2026-09-10T12:37:42Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
