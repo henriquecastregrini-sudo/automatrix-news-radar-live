@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T23:01:48.044Z",
-  "generatedLabel": "9 de set. de 2026 · 20:01",
+  "generatedAt": "2026-09-10T00:57:12.679Z",
+  "generatedLabel": "9 de set. de 2026 · 21:57",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,13 +45,13 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 36522,
-      "forks": 2306,
-      "issues": 39,
+      "stars": 36591,
+      "forks": 2318,
+      "issues": 35,
       "language": "HTML",
-      "pushedAt": "2026-09-08T19:45:13Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 2286,
+      "pushedAt": "2026-09-10T00:32:25Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 2249,
       "score": 95,
       "social": [
         {
@@ -71,7 +71,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,3 mil stars hoje",
+          "label": "GitHub Trending · 2,2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -112,13 +112,13 @@
         "comparação de tokens"
       ],
       "url": "https://github.com/ayghri/i-have-adhd",
-      "stars": 34437,
-      "forks": 2019,
-      "issues": 36,
+      "stars": 34624,
+      "forks": 2028,
+      "issues": 34,
       "language": "Python",
-      "pushedAt": "2026-09-08T17:08:54Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 4624,
+      "pushedAt": "2026-09-10T00:47:20Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 4650,
       "score": 91,
       "social": [
         {
@@ -138,7 +138,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 4,6 mil stars hoje",
+          "label": "GitHub Trending · 4,7 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -179,13 +179,13 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 283992,
-      "forks": 25412,
+      "stars": 284027,
+      "forks": 25413,
       "issues": 345,
       "language": "Shell",
       "pushedAt": "2026-09-08T21:39:23Z",
       "pushedLabel": "push há 1d",
-      "trendingStarsToday": 690,
+      "trendingStarsToday": 688,
       "score": 90,
       "social": [
         {
@@ -205,7 +205,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 690 stars hoje",
+          "label": "GitHub Trending · 688 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -246,13 +246,13 @@
         "release mais recente"
       ],
       "url": "https://github.com/Tencent/teamai-cli",
-      "stars": 2932,
-      "forks": 182,
-      "issues": 23,
+      "stars": 2979,
+      "forks": 185,
+      "issues": 24,
       "language": "TypeScript",
       "pushedAt": "2026-09-09T14:12:35Z",
-      "pushedLabel": "push há 9h",
-      "trendingStarsToday": 563,
+      "pushedLabel": "push há 11h",
+      "trendingStarsToday": 556,
       "score": 76,
       "social": [
         {
@@ -272,7 +272,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 563 stars hoje",
+          "label": "GitHub Trending · 556 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -300,59 +300,6 @@
       "rank": 4
     },
     {
-      "repo": "pascalorg/editor",
-      "title": "Pascal Editor",
-      "type": "Arquitetura 3D + agentes",
-      "status": "Monitorar hoje",
-      "hook": "Este editor 3D deixa agentes de IA criar e alterar projetos arquitetônicos por MCP.",
-      "thesis": "Ferramentas criativas estão expondo cenas e objetos como interfaces controláveis por agentes.",
-      "broll": [
-        "vídeo oficial pascal_editor.mp4",
-        "editor 3D no navegador",
-        "documentação MCP",
-        "README"
-      ],
-      "url": "https://github.com/pascalorg/editor",
-      "stars": 22875,
-      "forks": 2893,
-      "issues": 48,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-09T22:44:14Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 171,
-      "score": 67,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/pascalorg/editor",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 171 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=pascalorg%20editor%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Pascal%20Editor%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Pascal%20Editor%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 5
-    },
-    {
       "repo": "NousResearch/hermes-agent",
       "title": "Hermes Agent",
       "type": "Agente open-source",
@@ -366,12 +313,12 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 243843,
-      "forks": 50333,
-      "issues": 41244,
+      "stars": 243861,
+      "forks": 50342,
+      "issues": 41278,
       "language": "Python",
-      "pushedAt": "2026-09-09T22:20:16Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-09-10T00:50:50Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
       "social": [
@@ -412,7 +359,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "repo": "earthtojake/text-to-cad",
@@ -428,14 +375,14 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/earthtojake/text-to-cad",
-      "stars": 15011,
-      "forks": 1560,
+      "stars": 15031,
+      "forks": 1561,
       "issues": 14,
       "language": "Python",
       "pushedAt": "2026-09-09T21:41:16Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 97,
-      "score": 63,
+      "pushedLabel": "push há 3h",
+      "trendingStarsToday": 124,
+      "score": 64,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -445,7 +392,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 97 stars hoje",
+          "label": "GitHub Trending · 124 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -465,6 +412,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 6
+    },
+    {
+      "repo": "pascalorg/editor",
+      "title": "Pascal Editor",
+      "type": "Arquitetura 3D + agentes",
+      "status": "Monitorar hoje",
+      "hook": "Este editor 3D deixa agentes de IA criar e alterar projetos arquitetônicos por MCP.",
+      "thesis": "Ferramentas criativas estão expondo cenas e objetos como interfaces controláveis por agentes.",
+      "broll": [
+        "vídeo oficial pascal_editor.mp4",
+        "editor 3D no navegador",
+        "documentação MCP",
+        "README"
+      ],
+      "url": "https://github.com/pascalorg/editor",
+      "stars": 22922,
+      "forks": 2896,
+      "issues": 48,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-10T00:54:24Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 107,
+      "score": 64,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/pascalorg/editor",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 107 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=pascalorg%20editor%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Pascal%20Editor%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Pascal%20Editor%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 7
     },
     {
@@ -481,9 +481,9 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 56024,
-      "forks": 3655,
-      "issues": 146,
+      "stars": 56089,
+      "forks": 3660,
+      "issues": 147,
       "language": "JavaScript",
       "pushedAt": "2026-09-08T20:33:06Z",
       "pushedLabel": "push há 1d",
@@ -543,8 +543,8 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 257837,
-      "forks": 21721,
+      "stars": 257871,
+      "forks": 21722,
       "issues": 483,
       "language": "Shell",
       "pushedAt": "2026-09-04T08:45:43Z",
@@ -604,8 +604,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 79056,
-      "forks": 6801,
+      "stars": 79068,
+      "forks": 6802,
       "issues": 130,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -666,8 +666,8 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 44111,
-      "forks": 4003,
+      "stars": 44115,
+      "forks": 4004,
       "issues": 33,
       "language": "Python",
       "pushedAt": "2026-09-07T09:35:27Z",
@@ -727,8 +727,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26241,
-      "forks": 2461,
+      "stars": 26245,
+      "forks": 2462,
       "issues": 821,
       "language": "TypeScript",
       "pushedAt": "2026-09-08T13:38:00Z",
@@ -766,15 +766,23 @@
     {
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse/",
-      "points": 634,
-      "comments": 691,
+      "points": 638,
+      "comments": 702,
       "publishedAt": "2026-09-08T19:25:00Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+      "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+      "points": 103,
+      "comments": 39,
+      "publishedAt": "2026-09-09T23:57:29Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
       "url": "https://github.com/Atomburstofficial/geiger",
-      "points": 43,
+      "points": 44,
       "comments": 20,
       "publishedAt": "2026-09-09T14:54:49Z",
       "source": "Hacker News / Algolia"
@@ -782,8 +790,8 @@
     {
       "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
       "url": "https://github.com/OtoDock/oto-dock",
-      "points": 34,
-      "comments": 8,
+      "points": 38,
+      "comments": 9,
       "publishedAt": "2026-09-09T17:57:55Z",
       "source": "Hacker News / Algolia"
     },
@@ -793,14 +801,6 @@
       "points": 11,
       "comments": 4,
       "publishedAt": "2026-09-08T16:16:58Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Secure temporary file sharing for AI agents and humans",
-      "url": "https://github.com/aispace-sh/aispace-client",
-      "points": 12,
-      "comments": 3,
-      "publishedAt": "2026-09-07T23:59:58Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -815,27 +815,27 @@
   "trending": [
     {
       "repo": "ayghri/i-have-adhd",
-      "starsToday": 4624
+      "starsToday": 4650
     },
     {
       "repo": "Tencent/teamai-cli",
-      "starsToday": 563
+      "starsToday": 556
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 690
+      "starsToday": 688
     },
     {
       "repo": "pascalorg/editor",
-      "starsToday": 171
+      "starsToday": 107
     },
     {
       "repo": "earthtojake/text-to-cad",
-      "starsToday": 97
+      "starsToday": 124
     },
     {
       "repo": "cathrynlavery/diagram-design",
-      "starsToday": 2286
+      "starsToday": 2249
     },
     {
       "repo": "TauricResearch/TradingAgents",
@@ -843,23 +843,23 @@
     },
     {
       "repo": "liquidslr/system-design-notes",
-      "starsToday": 910
+      "starsToday": 1397
     },
     {
       "repo": "openai/plugins",
-      "starsToday": 505
+      "starsToday": 498
     },
     {
       "repo": "freestylefly/awesome-gpt-image-2",
-      "starsToday": 612
+      "starsToday": 705
     },
     {
       "repo": "rohitg00/ai-engineering-from-scratch",
-      "starsToday": 382
+      "starsToday": 343
     },
     {
       "repo": "vastsa/PI-Desktop",
-      "starsToday": 393
+      "starsToday": 417
     }
   ],
   "monitored": [
@@ -876,8 +876,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 79056,
-      "forks": 6801,
+      "stars": 79068,
+      "forks": 6802,
       "issues": 130,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -937,8 +937,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26241,
-      "forks": 2461,
+      "stars": 26245,
+      "forks": 2462,
       "issues": 821,
       "language": "TypeScript",
       "pushedAt": "2026-09-08T13:38:00Z",
