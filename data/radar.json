@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T00:54:01.318Z",
-  "generatedLabel": "10 de set. de 2026 · 21:53",
+  "generatedAt": "2026-09-11T14:39:20.702Z",
+  "generatedLabel": "11 de set. de 2026 · 11:39",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -32,73 +32,6 @@
   ],
   "repos": [
     {
-      "repo": "cathrynlavery/diagram-design",
-      "title": "Diagram Design",
-      "type": "Visual para agentes",
-      "status": "Gravar agora",
-      "hook": "Uma coleção de skills está ensinando agentes a criar diagramas editoriais sem o visual genérico de IA.",
-      "thesis": "Design visual está virando uma habilidade reutilizável por agentes de código.",
-      "broll": [
-        "galeria de diagramas",
-        "HTML e SVG",
-        "README",
-        "GitHub Trending"
-      ],
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 37752,
-      "forks": 2394,
-      "issues": 40,
-      "language": "HTML",
-      "pushedAt": "2026-09-10T22:33:54Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 1294,
-      "score": 94,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "YAHA · Diagram Design em primeiro no GitHub · 20,9k views · publicado 03 SET",
-          "url": "https://www.youtube.com/watch?v=rq4EHbqaaAk",
-          "views": 20919,
-          "publishedAt": "2026-09-03",
-          "verifiedAt": "08 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/cathrynlavery/diagram-design",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,3 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · YAHA · Diagram Design em primeiro no GitHub · 20,9k views · publicado 03 SET",
-          "url": "https://www.youtube.com/watch?v=rq4EHbqaaAk",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=cathrynlavery%20diagram-design%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Diagram%20Design%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Diagram%20Design%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 1
-    },
-    {
       "repo": "ayghri/i-have-adhd",
       "title": "I Have ADHD",
       "type": "Acessibilidade para agentes",
@@ -112,13 +45,13 @@
         "comparação de tokens"
       ],
       "url": "https://github.com/ayghri/i-have-adhd",
-      "stars": 38305,
-      "forks": 2202,
-      "issues": 47,
+      "stars": 40375,
+      "forks": 2307,
+      "issues": 55,
       "language": "Python",
       "pushedAt": "2026-09-10T15:48:41Z",
-      "pushedLabel": "push há 9h",
-      "trendingStarsToday": 3882,
+      "pushedLabel": "push há 23h",
+      "trendingStarsToday": 3440,
       "score": 92,
       "social": [
         {
@@ -138,7 +71,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 3,9 mil stars hoje",
+          "label": "GitHub Trending · 3,4 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -163,7 +96,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 2
+      "rank": 1
     },
     {
       "repo": "obra/superpowers",
@@ -179,13 +112,13 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 284698,
-      "forks": 25467,
-      "issues": 349,
+      "stars": 285147,
+      "forks": 25501,
+      "issues": 351,
       "language": "Shell",
-      "pushedAt": "2026-09-10T16:13:16Z",
-      "pushedLabel": "push há 9h",
-      "trendingStarsToday": 732,
+      "pushedAt": "2026-09-11T03:48:04Z",
+      "pushedLabel": "push há 11h",
+      "trendingStarsToday": 731,
       "score": 91,
       "social": [
         {
@@ -205,7 +138,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 732 stars hoje",
+          "label": "GitHub Trending · 731 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -230,143 +163,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 3
-    },
-    {
-      "repo": "AlexsJones/llmfit",
-      "title": "LLMfit",
-      "type": "IA local + hardware",
-      "status": "Gravar agora",
-      "hook": "Este repo descobre qual modelo de IA realmente cabe e roda bem no seu computador antes de você baixar dezenas de gigabytes.",
-      "thesis": "IA local fica muito mais acessível quando hardware, quantização, contexto e velocidade viram uma recomendação automática.",
-      "broll": [
-        "TUI detectando GPU e RAM",
-        "ranking de modelos",
-        "benchmark de tokens por segundo",
-        "vídeo do Better Stack"
-      ],
-      "url": "https://github.com/AlexsJones/llmfit",
-      "stars": 35732,
-      "forks": 2266,
-      "issues": 64,
-      "language": "Rust",
-      "pushedAt": "2026-09-10T13:47:15Z",
-      "pushedLabel": "push há 11h",
-      "trendingStarsToday": 258,
-      "score": 83,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "Better Stack · modelo ideal para seu hardware · 26,2k views · 588 likes · publicado 26 AGO",
-          "url": "https://www.youtube.com/watch?v=zf8jpD77sKY",
-          "views": 26240,
-          "likes": 588,
-          "comments": 29,
-          "publishedAt": "2026-08-26",
-          "verifiedAt": "10 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/AlexsJones/llmfit",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 258 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · Better Stack · modelo ideal para seu hardware · 26,2k views · 588 likes · publicado 26 AGO",
-          "url": "https://www.youtube.com/watch?v=zf8jpD77sKY",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=AlexsJones%20llmfit%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=LLMfit%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=LLMfit%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "repo": "Tencent/teamai-cli",
-      "title": "TeamAI CLI",
-      "type": "Infraestrutura para equipes de IA",
-      "status": "Gravar agora",
-      "hook": "A Tencent colocou regras, skills e memória de vários agentes dentro de um único fluxo versionado no Git.",
-      "thesis": "Equipes que usam vários agentes estão tratando contexto e conhecimento como infraestrutura revisável.",
-      "broll": [
-        "diagrama push → review → pull",
-        "comandos no terminal",
-        "README",
-        "release mais recente"
-      ],
-      "url": "https://github.com/Tencent/teamai-cli",
-      "stars": 3787,
-      "forks": 246,
-      "issues": 31,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-10T09:35:29Z",
-      "pushedLabel": "push há 15h",
-      "trendingStarsToday": 841,
-      "score": 79,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/aicuriosity · lançamento open-source · 11 votos públicos · publicado 07 SET",
-          "url": "https://www.reddit.com/r/aicuriosity/comments/1w9ujgn/tencent_open_sources_teamaicli_for_shared_team/",
-          "engagement": 11,
-          "publishedAt": "2026-09-07",
-          "verifiedAt": "09 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/Tencent/teamai-cli",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 841 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Reddit · r/aicuriosity · lançamento open-source · 11 votos públicos · publicado 07 SET",
-          "url": "https://www.reddit.com/r/aicuriosity/comments/1w9ujgn/tencent_open_sources_teamaicli_for_shared_team/",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=Tencent%20teamai-cli%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TeamAI%20CLI%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TeamAI%20CLI%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 5
+      "rank": 2
     },
     {
       "repo": "alsk1992/CloddsBot",
@@ -382,14 +179,14 @@
         "alerta de risco"
       ],
       "url": "https://github.com/alsk1992/CloddsBot",
-      "stars": 1646,
-      "forks": 256,
+      "stars": 1988,
+      "forks": 274,
       "issues": 30,
       "language": "TypeScript",
       "pushedAt": "2026-09-10T23:10:57Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 277,
-      "score": 66,
+      "pushedLabel": "push há 15h",
+      "trendingStarsToday": 627,
+      "score": 71,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -399,7 +196,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 277 stars hoje",
+          "label": "GitHub Trending · 627 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -419,7 +216,113 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 3
+    },
+    {
+      "repo": "vastsa/PI-Desktop",
+      "title": "PI-Desktop",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 545 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "stars": 2640,
+      "forks": 212,
+      "issues": 71,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-11T14:24:24Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 545,
+      "score": 71,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/vastsa/PI-Desktop",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 545 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=vastsa%20PI-Desktop%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=PI-Desktop%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=PI-Desktop%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "repo": "nashsu/llm_wiki",
+      "title": "llm_wiki",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 640 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/nashsu/llm_wiki",
+      "stars": 18517,
+      "forks": 2119,
+      "issues": 257,
+      "language": "TypeScript",
+      "pushedAt": "2026-08-25T06:42:02Z",
+      "pushedLabel": "push há 17d",
+      "trendingStarsToday": 640,
+      "score": 68,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/nashsu/llm_wiki",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 640 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=nashsu%20llm_wiki%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=llm_wiki%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=llm_wiki%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 5
     },
     {
       "repo": "NousResearch/hermes-agent",
@@ -435,11 +338,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 244219,
-      "forks": 50527,
-      "issues": 41708,
+      "stars": 244473,
+      "forks": 50632,
+      "issues": 41852,
       "language": "Python",
-      "pushedAt": "2026-09-11T00:41:40Z",
+      "pushedAt": "2026-09-11T14:27:35Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -481,7 +384,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 6
     },
     {
       "repo": "tt-a1i/archify",
@@ -497,12 +400,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 57401,
-      "forks": 3750,
-      "issues": 151,
+      "stars": 58176,
+      "forks": 3794,
+      "issues": 156,
       "language": "JavaScript",
-      "pushedAt": "2026-09-10T08:39:41Z",
-      "pushedLabel": "push há 16h",
+      "pushedAt": "2026-09-11T14:36:43Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -543,69 +446,60 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 7
     },
     {
-      "repo": "mattpocock/skills",
-      "title": "Skills para agentes",
-      "type": "Skills para agentes",
-      "status": "Gravar agora",
-      "hook": "O jeito de programar com IA mudou: quem ainda usa só prompt está ficando para trás.",
-      "thesis": "Conhecimento de engenharia virou infraestrutura reutilizável para agentes.",
+      "repo": "melgarafael/DeskcommCRM",
+      "title": "DeskcommCRM",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 126 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "broll": [
-        "README",
-        "diretório .agents",
         "GitHub Trending",
-        "vídeo do criador"
+        "README",
+        "demo oficial",
+        "histórico do projeto"
       ],
-      "url": "https://github.com/mattpocock/skills",
-      "stars": 258862,
-      "forks": 21808,
-      "issues": 486,
-      "language": "Shell",
-      "pushedAt": "2026-09-04T08:45:43Z",
-      "pushedLabel": "push há 7d",
-      "trendingStarsToday": null,
-      "score": 58,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "Matt Pocock · workflow completo · 424k views · publicado 16 JUL",
-          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
-          "views": 424060,
-          "publishedAt": "2026-07-16",
-          "verifiedAt": "07 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "stars": 1144,
+      "forks": 469,
+      "issues": 92,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-11T14:37:29Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 126,
+      "score": 60,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/mattpocock/skills",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
           "kind": "oficial"
         },
         {
-          "label": "YouTube · Matt Pocock · workflow completo · 424k views · publicado 16 JUL",
-          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
-          "kind": "social"
+          "label": "GitHub Trending · 126 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=mattpocock%20skills%20AI",
+          "url": "https://www.youtube.com/results?search_query=melgarafael%20DeskcommCRM%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Skills%20para%20agentes%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=DeskcommCRM%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Skills%20para%20agentes%20AI",
+          "url": "https://www.tiktok.com/search?q=DeskcommCRM%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 8
     },
     {
       "repo": "K-Dense-AI/scientific-agent-skills",
@@ -621,12 +515,12 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 44298,
-      "forks": 4023,
+      "stars": 44423,
+      "forks": 4028,
       "issues": 14,
       "language": "Python",
       "pushedAt": "2026-09-10T22:54:38Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 16h",
       "trendingStarsToday": null,
       "score": 56,
       "social": [
@@ -667,7 +561,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
+      "rank": 9
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -682,9 +576,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 79286,
-      "forks": 6832,
-      "issues": 130,
+      "stars": 79418,
+      "forks": 6845,
+      "issues": 132,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
       "pushedLabel": "push há 10d",
@@ -728,7 +622,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 11
+      "rank": 10
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -743,12 +637,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26311,
-      "forks": 2473,
-      "issues": 749,
+      "stars": 26357,
+      "forks": 2480,
+      "issues": 760,
       "language": "TypeScript",
-      "pushedAt": "2026-09-10T12:37:42Z",
-      "pushedLabel": "push há 12h",
+      "pushedAt": "2026-09-11T08:29:14Z",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -772,6 +666,54 @@
         {
           "label": "Buscar TikTok",
           "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "repo": "magnitudedev/magnitude",
+      "type": "Inferência local",
+      "status": "Monitorar hoje",
+      "hook": "A corrida da IA pode estar saindo da nuvem e voltando para o seu próprio hardware.",
+      "thesis": "Modelos locais + agente próprio diminuem a dependência de cloud.",
+      "broll": [
+        "README",
+        "hardware",
+        "terminal",
+        "benchmark"
+      ],
+      "title": "magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "stars": 4309,
+      "forks": 320,
+      "issues": 26,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-11T10:34:08Z",
+      "pushedLabel": "push há 4h",
+      "trendingStarsToday": null,
+      "score": 43,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/magnitudedev/magnitude",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=magnitudedev%20magnitude%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=magnitude%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=magnitude%20AI",
           "kind": "busca"
         }
       ],
@@ -804,78 +746,78 @@
       "source": "Hacker News / Algolia"
     },
     {
+      "title": "Show HN: Open-source simulation testing infra for voice agents",
+      "url": "https://github.com/egma-ai/egma",
+      "points": 14,
+      "comments": 5,
+      "publishedAt": "2026-09-10T17:01:14Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "BasedAgents: Give your idle AI agent a paying job",
+      "url": "https://basedagents.ai/tasks",
+      "points": 4,
+      "comments": 8,
+      "publishedAt": "2026-09-11T03:09:17Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
       "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
       "url": "https://botbin.io/?v=next",
       "points": 9,
       "comments": 5,
       "publishedAt": "2026-09-10T07:00:22Z",
       "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "I rank the open-source AI agents that launched in the last 30 days",
-      "url": "https://www.theagenticleaderboard.com/",
-      "points": 8,
-      "comments": 4,
-      "publishedAt": "2026-09-09T16:46:25Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Open-source simulation testing infra for voice agents",
-      "url": "https://github.com/egma-ai/egma",
-      "points": 12,
-      "comments": 1,
-      "publishedAt": "2026-09-10T17:01:14Z",
-      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "ayghri/i-have-adhd",
-      "starsToday": 3882
+      "starsToday": 3440
     },
     {
       "repo": "bilawalsidhu/gods-eye-view",
-      "starsToday": 1762
+      "starsToday": 3642
     },
     {
-      "repo": "obra/superpowers",
-      "starsToday": 732
+      "repo": "nab138/iloader",
+      "starsToday": 36
     },
     {
-      "repo": "alsk1992/CloddsBot",
-      "starsToday": 277
+      "repo": "melgarafael/DeskcommCRM",
+      "starsToday": 126
     },
     {
-      "repo": "Tencent/teamai-cli",
-      "starsToday": 841
-    },
-    {
-      "repo": "AlexsJones/llmfit",
-      "starsToday": 258
-    },
-    {
-      "repo": "liquidslr/system-design-notes",
-      "starsToday": 900
-    },
-    {
-      "repo": "cathrynlavery/diagram-design",
-      "starsToday": 1294
-    },
-    {
-      "repo": "freestylefly/awesome-gpt-image-2",
-      "starsToday": 962
+      "repo": "vastsa/PI-Desktop",
+      "starsToday": 545
     },
     {
       "repo": "armory3d/armorpaint",
-      "starsToday": 72
+      "starsToday": 354
     },
     {
-      "repo": "diegosouzapw/OmniRoute",
-      "starsToday": 626
+      "repo": "alsk1992/CloddsBot",
+      "starsToday": 627
     },
     {
-      "repo": "JustVugg/colibri",
-      "starsToday": 98
+      "repo": "nashsu/llm_wiki",
+      "starsToday": 640
+    },
+    {
+      "repo": "obra/superpowers",
+      "starsToday": 731
+    },
+    {
+      "repo": "Sonarr/Sonarr",
+      "starsToday": 174
+    },
+    {
+      "repo": "jihe520/MathModelAgent",
+      "starsToday": 132
+    },
+    {
+      "repo": "p1neappleXpress/OpenFlux",
+      "starsToday": 201
     }
   ],
   "monitored": [
@@ -892,9 +834,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 79286,
-      "forks": 6832,
-      "issues": 130,
+      "stars": 79418,
+      "forks": 6845,
+      "issues": 132,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
       "pushedLabel": "push há 10d",
@@ -938,7 +880,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 11
+      "rank": 10
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -953,12 +895,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26311,
-      "forks": 2473,
-      "issues": 749,
+      "stars": 26357,
+      "forks": 2480,
+      "issues": 760,
       "language": "TypeScript",
-      "pushedAt": "2026-09-10T12:37:42Z",
-      "pushedLabel": "push há 12h",
+      "pushedAt": "2026-09-11T08:29:14Z",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -985,7 +927,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 12
+      "rank": 11
     }
   ]
 }
