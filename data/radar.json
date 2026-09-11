@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T19:27:04.518Z",
-  "generatedLabel": "10 de set. de 2026 · 16:27",
+  "generatedAt": "2026-09-11T00:54:01.318Z",
+  "generatedLabel": "10 de set. de 2026 · 21:53",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,13 +45,13 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 37586,
-      "forks": 2385,
-      "issues": 44,
+      "stars": 37752,
+      "forks": 2394,
+      "issues": 40,
       "language": "HTML",
-      "pushedAt": "2026-09-10T04:26:30Z",
-      "pushedLabel": "push há 15h",
-      "trendingStarsToday": 1287,
+      "pushedAt": "2026-09-10T22:33:54Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 1294,
       "score": 94,
       "social": [
         {
@@ -112,13 +112,13 @@
         "comparação de tokens"
       ],
       "url": "https://github.com/ayghri/i-have-adhd",
-      "stars": 37763,
-      "forks": 2179,
-      "issues": 45,
+      "stars": 38305,
+      "forks": 2202,
+      "issues": 47,
       "language": "Python",
       "pushedAt": "2026-09-10T15:48:41Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 3854,
+      "pushedLabel": "push há 9h",
+      "trendingStarsToday": 3882,
       "score": 92,
       "social": [
         {
@@ -179,13 +179,13 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 284610,
-      "forks": 25459,
+      "stars": 284698,
+      "forks": 25467,
       "issues": 349,
       "language": "Shell",
       "pushedAt": "2026-09-10T16:13:16Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 731,
+      "pushedLabel": "push há 9h",
+      "trendingStarsToday": 732,
       "score": 91,
       "social": [
         {
@@ -205,7 +205,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 731 stars hoje",
+          "label": "GitHub Trending · 732 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -246,13 +246,13 @@
         "vídeo do Better Stack"
       ],
       "url": "https://github.com/AlexsJones/llmfit",
-      "stars": 35658,
-      "forks": 2260,
+      "stars": 35732,
+      "forks": 2266,
       "issues": 64,
       "language": "Rust",
       "pushedAt": "2026-09-10T13:47:15Z",
-      "pushedLabel": "push há 6h",
-      "trendingStarsToday": 247,
+      "pushedLabel": "push há 11h",
+      "trendingStarsToday": 258,
       "score": 83,
       "social": [
         {
@@ -274,7 +274,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 247 stars hoje",
+          "label": "GitHub Trending · 258 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -315,13 +315,13 @@
         "release mais recente"
       ],
       "url": "https://github.com/Tencent/teamai-cli",
-      "stars": 3687,
-      "forks": 235,
-      "issues": 30,
+      "stars": 3787,
+      "forks": 246,
+      "issues": 31,
       "language": "TypeScript",
       "pushedAt": "2026-09-10T09:35:29Z",
-      "pushedLabel": "push há 10h",
-      "trendingStarsToday": 837,
+      "pushedLabel": "push há 15h",
+      "trendingStarsToday": 841,
       "score": 79,
       "social": [
         {
@@ -341,7 +341,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 837 stars hoje",
+          "label": "GitHub Trending · 841 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -382,13 +382,13 @@
         "alerta de risco"
       ],
       "url": "https://github.com/alsk1992/CloddsBot",
-      "stars": 1523,
-      "forks": 249,
+      "stars": 1646,
+      "forks": 256,
       "issues": 30,
       "language": "TypeScript",
-      "pushedAt": "2026-09-10T17:51:49Z",
+      "pushedAt": "2026-09-10T23:10:57Z",
       "pushedLabel": "push há 2h",
-      "trendingStarsToday": 299,
+      "trendingStarsToday": 277,
       "score": 66,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -399,7 +399,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 299 stars hoje",
+          "label": "GitHub Trending · 277 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -435,11 +435,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 244172,
-      "forks": 50487,
-      "issues": 41611,
+      "stars": 244219,
+      "forks": 50527,
+      "issues": 41708,
       "language": "Python",
-      "pushedAt": "2026-09-10T19:20:08Z",
+      "pushedAt": "2026-09-11T00:41:40Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -497,12 +497,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 57201,
-      "forks": 3730,
-      "issues": 150,
+      "stars": 57401,
+      "forks": 3750,
+      "issues": 151,
       "language": "JavaScript",
       "pushedAt": "2026-09-10T08:39:41Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 16h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -559,12 +559,12 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 258713,
-      "forks": 21795,
-      "issues": 485,
+      "stars": 258862,
+      "forks": 21808,
+      "issues": 486,
       "language": "Shell",
       "pushedAt": "2026-09-04T08:45:43Z",
-      "pushedLabel": "push há 6d",
+      "pushedLabel": "push há 7d",
       "trendingStarsToday": null,
       "score": 58,
       "social": [
@@ -608,6 +608,68 @@
       "rank": 9
     },
     {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "type": "Agentes científicos",
+      "status": "Usar como comparação",
+      "hook": "A próxima geração de cientistas talvez seja uma coleção de skills.",
+      "thesis": "Skills especializadas transformam agentes em operadores de pesquisa.",
+      "broll": [
+        "diretório de skills",
+        "K-Dense",
+        "paper",
+        "demo"
+      ],
+      "title": "scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "stars": 44298,
+      "forks": 4023,
+      "issues": 14,
+      "language": "Python",
+      "pushedAt": "2026-09-10T22:54:38Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": null,
+      "score": 56,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "K-Dense · skills científicas · 13,5k views · publicado 18 FEV",
+          "url": "https://www.youtube.com/watch?v=ZxbnDaD_FVg",
+          "views": 13534,
+          "publishedAt": "2026-02-18",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "kind": "oficial"
+        },
+        {
+          "label": "YouTube · K-Dense · skills científicas · 13,5k views · publicado 18 FEV",
+          "url": "https://www.youtube.com/watch?v=ZxbnDaD_FVg",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=K-Dense-AI%20scientific-agent-skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=scientific-agent-skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=scientific-agent-skills%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 10
+    },
+    {
       "repo": "Panniantong/Agent-Reach",
       "type": "Repo monitorado",
       "status": "Monitorar hoje",
@@ -620,12 +682,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 79242,
-      "forks": 6826,
+      "stars": 79286,
+      "forks": 6832,
       "issues": 130,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
-      "pushedLabel": "push há 9d",
+      "pushedLabel": "push há 10d",
       "trendingStarsToday": null,
       "score": 52,
       "social": [
@@ -666,68 +728,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
-    },
-    {
-      "repo": "K-Dense-AI/scientific-agent-skills",
-      "type": "Agentes científicos",
-      "status": "Usar como comparação",
-      "hook": "A próxima geração de cientistas talvez seja uma coleção de skills.",
-      "thesis": "Skills especializadas transformam agentes em operadores de pesquisa.",
-      "broll": [
-        "diretório de skills",
-        "K-Dense",
-        "paper",
-        "demo"
-      ],
-      "title": "scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 44275,
-      "forks": 4019,
-      "issues": 33,
-      "language": "Python",
-      "pushedAt": "2026-09-07T09:35:27Z",
-      "pushedLabel": "push há 3d",
-      "trendingStarsToday": null,
-      "score": 49,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "K-Dense · skills científicas · 13,5k views · publicado 18 FEV",
-          "url": "https://www.youtube.com/watch?v=ZxbnDaD_FVg",
-          "views": 13534,
-          "publishedAt": "2026-02-18",
-          "verifiedAt": "07 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-          "kind": "oficial"
-        },
-        {
-          "label": "YouTube · K-Dense · skills científicas · 13,5k views · publicado 18 FEV",
-          "url": "https://www.youtube.com/watch?v=ZxbnDaD_FVg",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=K-Dense-AI%20scientific-agent-skills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=scientific-agent-skills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=scientific-agent-skills%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 11
     },
     {
@@ -743,12 +743,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26302,
-      "forks": 2472,
-      "issues": 747,
+      "stars": 26311,
+      "forks": 2473,
+      "issues": 749,
       "language": "TypeScript",
       "pushedAt": "2026-09-10T12:37:42Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 12h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -806,8 +806,8 @@
     {
       "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
       "url": "https://botbin.io/?v=next",
-      "points": 8,
-      "comments": 4,
+      "points": 9,
+      "comments": 5,
       "publishedAt": "2026-09-10T07:00:22Z",
       "source": "Hacker News / Algolia"
     },
@@ -820,62 +820,62 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Google: Attackers are using prompt injection against coding agents",
-      "url": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai",
-      "points": 11,
+      "title": "Show HN: Open-source simulation testing infra for voice agents",
+      "url": "https://github.com/egma-ai/egma",
+      "points": 12,
       "comments": 1,
-      "publishedAt": "2026-09-09T15:19:57Z",
+      "publishedAt": "2026-09-10T17:01:14Z",
       "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "ayghri/i-have-adhd",
-      "starsToday": 3854
+      "starsToday": 3882
     },
     {
       "repo": "bilawalsidhu/gods-eye-view",
-      "starsToday": 1588
+      "starsToday": 1762
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 731
+      "starsToday": 732
     },
     {
       "repo": "alsk1992/CloddsBot",
-      "starsToday": 299
+      "starsToday": 277
     },
     {
       "repo": "Tencent/teamai-cli",
-      "starsToday": 837
+      "starsToday": 841
     },
     {
       "repo": "AlexsJones/llmfit",
-      "starsToday": 247
+      "starsToday": 258
     },
     {
       "repo": "liquidslr/system-design-notes",
-      "starsToday": 891
+      "starsToday": 900
     },
     {
       "repo": "cathrynlavery/diagram-design",
-      "starsToday": 1287
+      "starsToday": 1294
     },
     {
       "repo": "freestylefly/awesome-gpt-image-2",
-      "starsToday": 957
+      "starsToday": 962
     },
     {
       "repo": "armory3d/armorpaint",
-      "starsToday": 87
+      "starsToday": 72
     },
     {
       "repo": "diegosouzapw/OmniRoute",
-      "starsToday": 591
+      "starsToday": 626
     },
     {
       "repo": "JustVugg/colibri",
-      "starsToday": 130
+      "starsToday": 98
     }
   ],
   "monitored": [
@@ -892,12 +892,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 79242,
-      "forks": 6826,
+      "stars": 79286,
+      "forks": 6832,
       "issues": 130,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
-      "pushedLabel": "push há 9d",
+      "pushedLabel": "push há 10d",
       "trendingStarsToday": null,
       "score": 52,
       "social": [
@@ -938,7 +938,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
+      "rank": 11
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -953,12 +953,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26302,
-      "forks": 2472,
-      "issues": 747,
+      "stars": 26311,
+      "forks": 2473,
+      "issues": 749,
       "language": "TypeScript",
       "pushedAt": "2026-09-10T12:37:42Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 12h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
