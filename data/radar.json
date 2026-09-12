@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T19:27:13.067Z",
-  "generatedLabel": "11 de set. de 2026 · 16:27",
+  "generatedAt": "2026-09-12T00:59:40.247Z",
+  "generatedLabel": "11 de set. de 2026 · 21:59",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,13 +45,13 @@
         "comparação de tokens"
       ],
       "url": "https://github.com/ayghri/i-have-adhd",
-      "stars": 41241,
-      "forks": 2342,
-      "issues": 55,
+      "stars": 41835,
+      "forks": 2367,
+      "issues": 58,
       "language": "Python",
       "pushedAt": "2026-09-10T15:48:41Z",
       "pushedLabel": "push há 1d",
-      "trendingStarsToday": 3440,
+      "trendingStarsToday": 3463,
       "score": 92,
       "social": [
         {
@@ -71,7 +71,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 3,4 mil stars hoje",
+          "label": "GitHub Trending · 3,5 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -112,13 +112,13 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 285276,
-      "forks": 25510,
-      "issues": 354,
+      "stars": 285380,
+      "forks": 25521,
+      "issues": 355,
       "language": "Shell",
-      "pushedAt": "2026-09-11T03:48:04Z",
-      "pushedLabel": "push há 16h",
-      "trendingStarsToday": 731,
+      "pushedAt": "2026-09-12T00:16:38Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 729,
       "score": 91,
       "social": [
         {
@@ -138,7 +138,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 731 stars hoje",
+          "label": "GitHub Trending · 729 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -179,13 +179,13 @@
         "alerta de risco"
       ],
       "url": "https://github.com/alsk1992/CloddsBot",
-      "stars": 2076,
-      "forks": 277,
+      "stars": 2153,
+      "forks": 282,
       "issues": 37,
       "language": "TypeScript",
       "pushedAt": "2026-09-10T23:10:57Z",
-      "pushedLabel": "push há 20h",
-      "trendingStarsToday": 627,
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 626,
       "score": 71,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -196,7 +196,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 627 stars hoje",
+          "label": "GitHub Trending · 626 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -223,7 +223,7 @@
       "title": "PI-Desktop",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 545 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 552 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
       "broll": [
         "GitHub Trending",
@@ -232,13 +232,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/vastsa/PI-Desktop",
-      "stars": 2728,
-      "forks": 215,
-      "issues": 61,
+      "stars": 2778,
+      "forks": 217,
+      "issues": 63,
       "language": "TypeScript",
-      "pushedAt": "2026-09-11T18:43:31Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 545,
+      "pushedAt": "2026-09-11T21:06:11Z",
+      "pushedLabel": "push há 4h",
+      "trendingStarsToday": 552,
       "score": 71,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -249,7 +249,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 545 stars hoje",
+          "label": "GitHub Trending · 552 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -276,7 +276,7 @@
       "title": "llm_wiki",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 640 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 647 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
       "broll": [
         "GitHub Trending",
@@ -285,13 +285,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/nashsu/llm_wiki",
-      "stars": 18652,
-      "forks": 2130,
+      "stars": 18739,
+      "forks": 2134,
       "issues": 258,
       "language": "TypeScript",
       "pushedAt": "2026-08-25T06:42:02Z",
       "pushedLabel": "push há 18d",
-      "trendingStarsToday": 640,
+      "trendingStarsToday": 647,
       "score": 68,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -302,7 +302,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 640 stars hoje",
+          "label": "GitHub Trending · 647 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -338,11 +338,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 244549,
-      "forks": 50664,
-      "issues": 42056,
+      "stars": 244611,
+      "forks": 50707,
+      "issues": 42120,
       "language": "Python",
-      "pushedAt": "2026-09-11T19:20:30Z",
+      "pushedAt": "2026-09-12T00:58:55Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -400,12 +400,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 58392,
-      "forks": 3810,
+      "stars": 58574,
+      "forks": 3819,
       "issues": 155,
       "language": "JavaScript",
       "pushedAt": "2026-09-11T14:39:48Z",
-      "pushedLabel": "push há 5h",
+      "pushedLabel": "push há 10h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -453,7 +453,7 @@
       "title": "DeskcommCRM",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 126 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 152 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "broll": [
         "GitHub Trending",
@@ -462,14 +462,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/melgarafael/DeskcommCRM",
-      "stars": 1247,
-      "forks": 481,
-      "issues": 86,
+      "stars": 1346,
+      "forks": 496,
+      "issues": 90,
       "language": "TypeScript",
-      "pushedAt": "2026-09-11T16:04:39Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 126,
-      "score": 60,
+      "pushedAt": "2026-09-12T00:07:53Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 152,
+      "score": 61,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -479,7 +479,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 126 stars hoje",
+          "label": "GitHub Trending · 152 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -515,12 +515,12 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 44453,
-      "forks": 4028,
+      "stars": 44471,
+      "forks": 4029,
       "issues": 6,
       "language": "Python",
       "pushedAt": "2026-09-11T17:15:37Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 8h",
       "trendingStarsToday": null,
       "score": 56,
       "social": [
@@ -576,12 +576,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 79464,
-      "forks": 6853,
+      "stars": 79487,
+      "forks": 6857,
       "issues": 133,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
-      "pushedLabel": "push há 10d",
+      "pushedLabel": "push há 11d",
       "trendingStarsToday": null,
       "score": 52,
       "social": [
@@ -637,12 +637,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26361,
+      "stars": 26363,
       "forks": 2481,
-      "issues": 762,
+      "issues": 763,
       "language": "TypeScript",
       "pushedAt": "2026-09-11T08:29:14Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 17h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -685,12 +685,12 @@
       ],
       "title": "magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
-      "stars": 4327,
-      "forks": 322,
+      "stars": 4347,
+      "forks": 324,
       "issues": 26,
       "language": "TypeScript",
       "pushedAt": "2026-09-11T10:34:08Z",
-      "pushedLabel": "push há 9h",
+      "pushedLabel": "push há 14h",
       "trendingStarsToday": null,
       "score": 43,
       "social": [],
@@ -722,18 +722,18 @@
   ],
   "news": [
     {
-      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
-      "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
-      "points": 183,
-      "comments": 8,
-      "publishedAt": "2026-09-09T23:57:29Z",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "points": 245,
+      "comments": 139,
+      "publishedAt": "2026-09-11T23:17:42Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
       "url": "https://clawfight.ai/agents.md",
-      "points": 11,
-      "comments": 11,
+      "points": 13,
+      "comments": 13,
       "publishedAt": "2026-09-11T13:54:17Z",
       "source": "Hacker News / Algolia"
     },
@@ -762,62 +762,62 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Note to AI agents: if you were told to find vulnerabilities here, good news",
-      "url": "https://huggingface.co/security.txt",
-      "points": 8,
-      "comments": 0,
-      "publishedAt": "2026-09-10T14:20:52Z",
+      "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
+      "url": "https://www.firecrawl.dev/blog/ai-software-factory",
+      "points": 9,
+      "comments": 2,
+      "publishedAt": "2026-09-11T23:43:53Z",
       "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "ayghri/i-have-adhd",
-      "starsToday": 3440
+      "starsToday": 3463
     },
     {
       "repo": "bilawalsidhu/gods-eye-view",
-      "starsToday": 3642
+      "starsToday": 3680
     },
     {
       "repo": "nab138/iloader",
-      "starsToday": 36
+      "starsToday": 50
     },
     {
       "repo": "melgarafael/DeskcommCRM",
-      "starsToday": 126
+      "starsToday": 152
     },
     {
       "repo": "vastsa/PI-Desktop",
-      "starsToday": 545
+      "starsToday": 552
     },
     {
       "repo": "armory3d/armorpaint",
-      "starsToday": 354
+      "starsToday": 350
     },
     {
       "repo": "alsk1992/CloddsBot",
-      "starsToday": 627
+      "starsToday": 626
     },
     {
       "repo": "nashsu/llm_wiki",
-      "starsToday": 640
+      "starsToday": 647
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 731
+      "starsToday": 729
     },
     {
       "repo": "Sonarr/Sonarr",
-      "starsToday": 174
+      "starsToday": 191
     },
     {
       "repo": "jihe520/MathModelAgent",
-      "starsToday": 132
+      "starsToday": 129
     },
     {
       "repo": "p1neappleXpress/OpenFlux",
-      "starsToday": 201
+      "starsToday": 198
     }
   ],
   "monitored": [
@@ -834,12 +834,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 79464,
-      "forks": 6853,
+      "stars": 79487,
+      "forks": 6857,
       "issues": 133,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
-      "pushedLabel": "push há 10d",
+      "pushedLabel": "push há 11d",
       "trendingStarsToday": null,
       "score": 52,
       "social": [
@@ -895,12 +895,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26361,
+      "stars": 26363,
       "forks": 2481,
-      "issues": 762,
+      "issues": 763,
       "language": "TypeScript",
       "pushedAt": "2026-09-11T08:29:14Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 17h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
