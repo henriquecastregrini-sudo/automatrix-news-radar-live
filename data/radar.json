@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T13:47:25.014Z",
-  "generatedLabel": "12 de set. de 2026 · 10:47",
+  "generatedAt": "2026-09-12T18:29:17.291Z",
+  "generatedLabel": "12 de set. de 2026 · 15:29",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -33,28 +33,38 @@
   "repos": [
     {
       "repo": "Shubhamsaboo/awesome-llm-apps",
-      "title": "awesome-llm-apps",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 237 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "title": "Awesome LLM Apps",
+      "type": "Biblioteca de projetos de IA",
+      "status": "Gravar agora",
+      "hook": "Este repositório reúne mais de cem agentes, skills e aplicações RAG que você pode abrir, estudar e executar.",
+      "thesis": "Projetos prontos e visuais transformam conceitos abstratos de IA em demos que qualquer pessoa entende.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "pastas de agentes e RAG",
+        "demos do README",
+        "projeto rodando",
+        "guia em vídeo"
       ],
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "stars": 137391,
-      "forks": 20218,
+      "stars": 137521,
+      "forks": 20226,
       "issues": 12,
       "language": "Python",
       "pushedAt": "2026-09-12T03:45:58Z",
-      "pushedLabel": "push há 10h",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": 237,
-      "score": 72,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "score": 82,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Full Stack · 100+ agentes executáveis · 2,7k views · 119 likes · publicado 17 JUL",
+          "url": "https://www.youtube.com/watch?v=Ry5IOvbkQTA",
+          "views": 2671,
+          "likes": 119,
+          "publishedAt": "2026-07-17",
+          "verifiedAt": "12 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
       "sources": [
         {
           "label": "GitHub",
@@ -67,18 +77,23 @@
           "kind": "tendência"
         },
         {
+          "label": "YouTube · Full Stack · 100+ agentes executáveis · 2,7k views · 119 likes · publicado 17 JUL",
+          "url": "https://www.youtube.com/watch?v=Ry5IOvbkQTA",
+          "kind": "social"
+        },
+        {
           "label": "Buscar YouTube",
           "url": "https://www.youtube.com/results?search_query=Shubhamsaboo%20awesome-llm-apps%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=awesome-llm-apps%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Awesome%20LLM%20Apps%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=awesome-llm-apps%20AI",
+          "url": "https://www.tiktok.com/search?q=Awesome%20LLM%20Apps%20AI",
           "kind": "busca"
         }
       ],
@@ -87,27 +102,38 @@
     {
       "repo": "melgarafael/DeskcommCRM",
       "title": "DeskcommCRM",
-      "type": "Novo no GitHub Trending",
+      "type": "CRM open-source com IA",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 505 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "hook": "Um brasileiro criou uma alternativa open-source ao Kommo e Intercom para agentes venderem pelo WhatsApp.",
+      "thesis": "IA de vendas, CRM e WhatsApp estão sendo empacotados em uma operação self-hosted com dados sob controle do negócio.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "CRM e funil",
+        "conversa no WhatsApp",
+        "agente qualificando lead",
+        "vídeo do criador"
       ],
       "url": "https://github.com/melgarafael/DeskcommCRM",
-      "stars": 1602,
-      "forks": 524,
-      "issues": 100,
+      "stars": 1706,
+      "forks": 537,
+      "issues": 110,
       "language": "TypeScript",
       "pushedAt": "2026-09-12T12:52:00Z",
-      "pushedLabel": "push há 1h",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": 505,
-      "score": 69,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "score": 81,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Rafael Melgaço · CRM com IA e WhatsApp · 13,6k views · 649 likes · publicado 03 AGO",
+          "url": "https://www.youtube.com/watch?v=8lG8EmE8-UI",
+          "views": 13579,
+          "likes": 649,
+          "comments": 51,
+          "publishedAt": "2026-08-03",
+          "verifiedAt": "12 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
       "sources": [
         {
           "label": "GitHub",
@@ -118,6 +144,11 @@
           "label": "GitHub Trending · 505 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
+        },
+        {
+          "label": "YouTube · Rafael Melgaço · CRM com IA e WhatsApp · 13,6k views · 649 likes · publicado 03 AGO",
+          "url": "https://www.youtube.com/watch?v=8lG8EmE8-UI",
+          "kind": "social"
         },
         {
           "label": "Buscar YouTube",
@@ -151,16 +182,26 @@
         "alerta de risco"
       ],
       "url": "https://github.com/alsk1992/CloddsBot",
-      "stars": 2331,
-      "forks": 298,
+      "stars": 2414,
+      "forks": 308,
       "issues": 28,
       "language": "TypeScript",
       "pushedAt": "2026-09-12T03:58:12Z",
-      "pushedLabel": "push há 10h",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": 377,
-      "score": 68,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "score": 76,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Prism Labs · Claude operando mercados · 163 views · publicado 10 SET",
+          "url": "https://www.youtube.com/watch?v=94euusxWfWk",
+          "views": 163,
+          "likes": 1,
+          "publishedAt": "2026-09-10",
+          "verifiedAt": "12 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
       "sources": [
         {
           "label": "GitHub",
@@ -171,6 +212,11 @@
           "label": "GitHub Trending · 377 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
+        },
+        {
+          "label": "YouTube · Prism Labs · Claude operando mercados · 163 views · publicado 10 SET",
+          "url": "https://www.youtube.com/watch?v=94euusxWfWk",
+          "kind": "social"
         },
         {
           "label": "Buscar YouTube",
@@ -191,29 +237,108 @@
       "rank": 3
     },
     {
+      "repo": "asgeirtj/system_prompts_leaks",
+      "title": "System Prompts Leaks",
+      "type": "Prompts internos de IA",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório reúne instruções internas atribuídas aos maiores chatbots e agentes de código do mercado.",
+      "thesis": "A curiosidade sobre regras ocultas cresce sempre que novos modelos surgem, mas autenticidade e contexto precisam ser verificados caso a caso.",
+      "broll": [
+        "arquivos por empresa",
+        "diff entre prompts",
+        "README",
+        "datas das adições"
+      ],
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "stars": 65259,
+      "forks": 10719,
+      "issues": 53,
+      "language": "JavaScript",
+      "pushedAt": "2026-09-09T22:44:38Z",
+      "pushedLabel": "push há 3d",
+      "trendingStarsToday": 357,
+      "score": 74,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Full Stack · regras ocultas dos chatbots · 306 views · publicado 10 JUL",
+          "url": "https://www.youtube.com/watch?v=lbn0sF312CA",
+          "views": 306,
+          "likes": 13,
+          "publishedAt": "2026-07-10",
+          "verifiedAt": "12 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 357 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · Full Stack · regras ocultas dos chatbots · 306 views · publicado 10 JUL",
+          "url": "https://www.youtube.com/watch?v=lbn0sF312CA",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=asgeirtj%20system_prompts_leaks%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=System%20Prompts%20Leaks%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=System%20Prompts%20Leaks%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
       "repo": "jihe520/MathModelAgent",
       "title": "MathModelAgent",
-      "type": "Novo no GitHub Trending",
+      "type": "Agente de modelagem matemática",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 264 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "hook": "Este agente tenta transformar um problema matemático em modelo, código, análise e um artigo completo.",
+      "thesis": "Fluxos multiagente estão avançando de respostas isoladas para trabalhos acadêmicos estruturados de ponta a ponta.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "pipeline de quatro agentes",
+        "execução de código",
+        "gráficos",
+        "documento final"
       ],
       "url": "https://github.com/jihe520/MathModelAgent",
-      "stars": 5035,
-      "forks": 398,
-      "issues": 42,
+      "stars": 5091,
+      "forks": 401,
+      "issues": 43,
       "language": "Python",
       "pushedAt": "2026-09-10T20:40:40Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": 264,
-      "score": 67,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "score": 74,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "hen ji · modelagem matemática automática · 801 views · publicado 01 MAI 2025",
+          "url": "https://www.youtube.com/watch?v=PO9lGVyh2t8",
+          "views": 801,
+          "likes": 12,
+          "comments": 4,
+          "publishedAt": "2025-05-01",
+          "verifiedAt": "12 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
       "sources": [
         {
           "label": "GitHub",
@@ -224,6 +349,11 @@
           "label": "GitHub Trending · 264 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
+        },
+        {
+          "label": "YouTube · hen ji · modelagem matemática automática · 801 views · publicado 01 MAI 2025",
+          "url": "https://www.youtube.com/watch?v=PO9lGVyh2t8",
+          "kind": "social"
         },
         {
           "label": "Buscar YouTube",
@@ -241,7 +371,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "repo": "NousResearch/hermes-agent",
@@ -257,11 +387,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 244784,
-      "forks": 50767,
-      "issues": 42326,
+      "stars": 244850,
+      "forks": 50789,
+      "issues": 42256,
       "language": "Python",
-      "pushedAt": "2026-09-12T13:46:20Z",
+      "pushedAt": "2026-09-12T18:08:17Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -303,59 +433,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
-    },
-    {
-      "repo": "asgeirtj/system_prompts_leaks",
-      "title": "system_prompts_leaks",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 216 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "stars": 65063,
-      "forks": 10694,
-      "issues": 53,
-      "language": "JavaScript",
-      "pushedAt": "2026-09-09T22:44:38Z",
-      "pushedLabel": "push há 3d",
-      "trendingStarsToday": 216,
-      "score": 63,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 216 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=asgeirtj%20system_prompts_leaks%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=system_prompts_leaks%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=system_prompts_leaks%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 6
     },
     {
@@ -372,12 +449,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 59199,
-      "forks": 3880,
-      "issues": 160,
+      "stars": 59462,
+      "forks": 3896,
+      "issues": 161,
       "language": "JavaScript",
       "pushedAt": "2026-09-12T09:09:51Z",
-      "pushedLabel": "push há 5h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -434,12 +511,12 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 44562,
-      "forks": 4038,
-      "issues": 5,
+      "stars": 44581,
+      "forks": 4041,
+      "issues": 6,
       "language": "Python",
       "pushedAt": "2026-09-12T02:09:21Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 16h",
       "trendingStarsToday": null,
       "score": 56,
       "social": [
@@ -495,8 +572,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 79592,
-      "forks": 6865,
+      "stars": 79677,
+      "forks": 6875,
       "issues": 133,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -556,8 +633,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26408,
-      "forks": 2484,
+      "stars": 26451,
+      "forks": 2486,
       "issues": 756,
       "language": "TypeScript",
       "pushedAt": "2026-09-11T08:29:14Z",
@@ -604,12 +681,12 @@
       ],
       "title": "magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
-      "stars": 4367,
-      "forks": 326,
+      "stars": 4383,
+      "forks": 327,
       "issues": 26,
       "language": "TypeScript",
-      "pushedAt": "2026-09-11T10:34:08Z",
-      "pushedLabel": "push há 1d",
+      "pushedAt": "2026-09-12T18:14:36Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 43,
       "social": [],
@@ -643,16 +720,16 @@
     {
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "url": "https://www.rubyhack.ai/",
-      "points": 805,
-      "comments": 462,
+      "points": 891,
+      "comments": 533,
       "publishedAt": "2026-09-11T23:17:42Z",
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "title": "The worst spam emails: iLands AI agent hustle",
       "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "points": 43,
-      "comments": 19,
+      "points": 79,
+      "comments": 42,
       "publishedAt": "2026-09-12T11:13:38Z",
       "source": "Hacker News / Algolia"
     },
@@ -673,19 +750,19 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Show HN: Open-source simulation testing infra for voice agents",
-      "url": "https://github.com/egma-ai/egma",
-      "points": 15,
-      "comments": 6,
-      "publishedAt": "2026-09-10T17:01:14Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
       "title": "BasedAgents: Give your idle AI agent a paying job",
       "url": "https://basedagents.ai/tasks",
       "points": 4,
       "comments": 8,
       "publishedAt": "2026-09-11T03:09:17Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Why are AI agents lying, cheating and coordinating? – Yoshua Bengio",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "points": 8,
+      "comments": 0,
+      "publishedAt": "2026-09-12T02:13:50Z",
       "source": "Hacker News / Algolia"
     }
   ],
@@ -700,7 +777,7 @@
     },
     {
       "repo": "asgeirtj/system_prompts_leaks",
-      "starsToday": 216
+      "starsToday": 357
     },
     {
       "repo": "nab138/iloader",
@@ -724,7 +801,7 @@
     },
     {
       "repo": "yuliskov/SmartTube",
-      "starsToday": 247
+      "starsToday": 160
     },
     {
       "repo": "Shubhamsaboo/awesome-llm-apps",
@@ -753,8 +830,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 79592,
-      "forks": 6865,
+      "stars": 79677,
+      "forks": 6875,
       "issues": 133,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -814,8 +891,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26408,
-      "forks": 2484,
+      "stars": 26451,
+      "forks": 2486,
       "issues": 756,
       "language": "TypeScript",
       "pushedAt": "2026-09-11T08:29:14Z",
