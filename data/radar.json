@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T23:01:08.506Z",
-  "generatedLabel": "12 de set. de 2026 · 20:01",
+  "generatedAt": "2026-09-13T00:46:34.150Z",
+  "generatedLabel": "12 de set. de 2026 · 21:46",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,13 +45,13 @@
         "guia em vídeo"
       ],
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "stars": 137601,
-      "forks": 20233,
+      "stars": 137626,
+      "forks": 20234,
       "issues": 13,
       "language": "Python",
       "pushedAt": "2026-09-12T03:45:58Z",
-      "pushedLabel": "push há 19h",
-      "trendingStarsToday": 237,
+      "pushedLabel": "push há 21h",
+      "trendingStarsToday": 230,
       "score": 82,
       "social": [
         {
@@ -72,7 +72,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 237 stars hoje",
+          "label": "GitHub Trending · 230 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -113,13 +113,13 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/melgarafael/DeskcommCRM",
-      "stars": 1779,
-      "forks": 548,
-      "issues": 120,
+      "stars": 1802,
+      "forks": 552,
+      "issues": 122,
       "language": "TypeScript",
       "pushedAt": "2026-09-12T19:40:07Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 505,
+      "pushedLabel": "push há 5h",
+      "trendingStarsToday": 504,
       "score": 81,
       "social": [
         {
@@ -141,7 +141,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 505 stars hoje",
+          "label": "GitHub Trending · 504 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -182,13 +182,13 @@
         "alerta de risco"
       ],
       "url": "https://github.com/alsk1992/CloddsBot",
-      "stars": 2478,
+      "stars": 2500,
       "forks": 310,
       "issues": 28,
       "language": "TypeScript",
       "pushedAt": "2026-09-12T03:58:12Z",
-      "pushedLabel": "push há 19h",
-      "trendingStarsToday": 377,
+      "pushedLabel": "push há 21h",
+      "trendingStarsToday": 376,
       "score": 76,
       "social": [
         {
@@ -209,7 +209,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 377 stars hoje",
+          "label": "GitHub Trending · 376 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -250,14 +250,14 @@
         "datas das adições"
       ],
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "stars": 65369,
-      "forks": 10733,
+      "stars": 65404,
+      "forks": 10738,
       "issues": 54,
       "language": "JavaScript",
       "pushedAt": "2026-09-09T22:44:38Z",
       "pushedLabel": "push há 3d",
-      "trendingStarsToday": 357,
-      "score": 74,
+      "trendingStarsToday": 217,
+      "score": 71,
       "social": [
         {
           "platform": "YouTube",
@@ -277,7 +277,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 357 stars hoje",
+          "label": "GitHub Trending · 217 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -318,13 +318,13 @@
         "documento final"
       ],
       "url": "https://github.com/jihe520/MathModelAgent",
-      "stars": 5116,
+      "stars": 5128,
       "forks": 401,
       "issues": 43,
       "language": "Python",
       "pushedAt": "2026-09-10T20:40:40Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 264,
+      "trendingStarsToday": 262,
       "score": 67,
       "social": [
         {
@@ -346,7 +346,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 264 stars hoje",
+          "label": "GitHub Trending · 262 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -387,11 +387,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 244891,
-      "forks": 50814,
-      "issues": 42314,
+      "stars": 244904,
+      "forks": 50824,
+      "issues": 42337,
       "language": "Python",
-      "pushedAt": "2026-09-12T22:42:38Z",
+      "pushedAt": "2026-09-13T00:21:10Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -449,12 +449,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 59603,
-      "forks": 3901,
-      "issues": 160,
+      "stars": 59661,
+      "forks": 3904,
+      "issues": 161,
       "language": "JavaScript",
       "pushedAt": "2026-09-12T09:09:51Z",
-      "pushedLabel": "push há 14h",
+      "pushedLabel": "push há 16h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -511,12 +511,12 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 44596,
-      "forks": 4042,
+      "stars": 44602,
+      "forks": 4044,
       "issues": 6,
       "language": "Python",
       "pushedAt": "2026-09-12T02:09:21Z",
-      "pushedLabel": "push há 21h",
+      "pushedLabel": "push há 23h",
       "trendingStarsToday": null,
       "score": 56,
       "social": [
@@ -572,8 +572,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 79726,
-      "forks": 6883,
+      "stars": 79748,
+      "forks": 6886,
       "issues": 133,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -681,11 +681,11 @@
       ],
       "title": "magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
-      "stars": 4397,
+      "stars": 4401,
       "forks": 330,
       "issues": 26,
       "language": "TypeScript",
-      "pushedAt": "2026-09-12T22:27:57Z",
+      "pushedAt": "2026-09-12T23:32:19Z",
       "pushedLabel": "push há 1h",
       "trendingStarsToday": null,
       "score": 43,
@@ -720,16 +720,16 @@
     {
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "url": "https://www.rubyhack.ai/",
-      "points": 917,
-      "comments": 570,
+      "points": 922,
+      "comments": 574,
       "publishedAt": "2026-09-11T23:17:42Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "The worst spam emails: iLands AI agent hustle",
       "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "points": 99,
-      "comments": 47,
+      "points": 101,
+      "comments": 49,
       "publishedAt": "2026-09-12T11:13:38Z",
       "source": "Hacker News / Algolia"
     },
@@ -773,11 +773,11 @@
     },
     {
       "repo": "melgarafael/DeskcommCRM",
-      "starsToday": 505
+      "starsToday": 504
     },
     {
       "repo": "asgeirtj/system_prompts_leaks",
-      "starsToday": 357
+      "starsToday": 217
     },
     {
       "repo": "nab138/iloader",
@@ -785,27 +785,27 @@
     },
     {
       "repo": "Flowseal/zapret-discord-youtube",
-      "starsToday": 52
+      "starsToday": 65
     },
     {
       "repo": "jihe520/MathModelAgent",
-      "starsToday": 264
+      "starsToday": 262
     },
     {
       "repo": "Sonarr/Sonarr",
-      "starsToday": 228
+      "starsToday": 227
     },
     {
       "repo": "alsk1992/CloddsBot",
-      "starsToday": 377
+      "starsToday": 376
     },
     {
       "repo": "yuliskov/SmartTube",
-      "starsToday": 160
+      "starsToday": 136
     },
     {
       "repo": "Shubhamsaboo/awesome-llm-apps",
-      "starsToday": 237
+      "starsToday": 230
     },
     {
       "repo": "p1neappleXpress/OpenFlux",
@@ -830,8 +830,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 79726,
-      "forks": 6883,
+      "stars": 79748,
+      "forks": 6886,
       "issues": 133,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
