@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T00:46:34.150Z",
-  "generatedLabel": "12 de set. de 2026 · 21:46",
+  "generatedAt": "2026-09-13T14:43:44.717Z",
+  "generatedLabel": "13 de set. de 2026 · 11:43",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -32,74 +32,6 @@
   ],
   "repos": [
     {
-      "repo": "Shubhamsaboo/awesome-llm-apps",
-      "title": "Awesome LLM Apps",
-      "type": "Biblioteca de projetos de IA",
-      "status": "Gravar agora",
-      "hook": "Este repositório reúne mais de cem agentes, skills e aplicações RAG que você pode abrir, estudar e executar.",
-      "thesis": "Projetos prontos e visuais transformam conceitos abstratos de IA em demos que qualquer pessoa entende.",
-      "broll": [
-        "pastas de agentes e RAG",
-        "demos do README",
-        "projeto rodando",
-        "guia em vídeo"
-      ],
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "stars": 137626,
-      "forks": 20234,
-      "issues": 13,
-      "language": "Python",
-      "pushedAt": "2026-09-12T03:45:58Z",
-      "pushedLabel": "push há 21h",
-      "trendingStarsToday": 230,
-      "score": 82,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "Full Stack · 100+ agentes executáveis · 2,7k views · 119 likes · publicado 17 JUL",
-          "url": "https://www.youtube.com/watch?v=Ry5IOvbkQTA",
-          "views": 2671,
-          "likes": 119,
-          "publishedAt": "2026-07-17",
-          "verifiedAt": "12 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 230 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · Full Stack · 100+ agentes executáveis · 2,7k views · 119 likes · publicado 17 JUL",
-          "url": "https://www.youtube.com/watch?v=Ry5IOvbkQTA",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=Shubhamsaboo%20awesome-llm-apps%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Awesome%20LLM%20Apps%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Awesome%20LLM%20Apps%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 1
-    },
-    {
       "repo": "melgarafael/DeskcommCRM",
       "title": "DeskcommCRM",
       "type": "CRM open-source com IA",
@@ -113,13 +45,13 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/melgarafael/DeskcommCRM",
-      "stars": 1802,
-      "forks": 552,
-      "issues": 122,
+      "stars": 2046,
+      "forks": 573,
+      "issues": 126,
       "language": "TypeScript",
       "pushedAt": "2026-09-12T19:40:07Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 504,
+      "pushedLabel": "push há 19h",
+      "trendingStarsToday": 444,
       "score": 81,
       "social": [
         {
@@ -141,7 +73,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 504 stars hoje",
+          "label": "GitHub Trending · 444 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -166,75 +98,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 2
-    },
-    {
-      "repo": "alsk1992/CloddsBot",
-      "title": "CloddsBot",
-      "type": "Agente de trading open-source",
-      "status": "Monitorar hoje",
-      "hook": "Um agente open-source promete operar autonomamente em mercados de previsão, cripto e DEXs enquanto gerencia risco.",
-      "thesis": "Agentes autônomos estão saindo da demonstração e entrando em mercados com dinheiro real — junto com riscos muito maiores.",
-      "broll": [
-        "dashboard de mercados",
-        "terminal do agente",
-        "README e integrações",
-        "alerta de risco"
-      ],
-      "url": "https://github.com/alsk1992/CloddsBot",
-      "stars": 2500,
-      "forks": 310,
-      "issues": 28,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-12T03:58:12Z",
-      "pushedLabel": "push há 21h",
-      "trendingStarsToday": 376,
-      "score": 76,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "Prism Labs · Claude operando mercados · 163 views · publicado 10 SET",
-          "url": "https://www.youtube.com/watch?v=94euusxWfWk",
-          "views": 163,
-          "likes": 1,
-          "publishedAt": "2026-09-10",
-          "verifiedAt": "12 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/alsk1992/CloddsBot",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 376 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · Prism Labs · Claude operando mercados · 163 views · publicado 10 SET",
-          "url": "https://www.youtube.com/watch?v=94euusxWfWk",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=alsk1992%20CloddsBot%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=CloddsBot%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=CloddsBot%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
+      "rank": 1
     },
     {
       "repo": "asgeirtj/system_prompts_leaks",
@@ -250,14 +114,14 @@
         "datas das adições"
       ],
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "stars": 65404,
-      "forks": 10738,
-      "issues": 54,
+      "stars": 65794,
+      "forks": 10782,
+      "issues": 56,
       "language": "JavaScript",
       "pushedAt": "2026-09-09T22:44:38Z",
-      "pushedLabel": "push há 3d",
-      "trendingStarsToday": 217,
-      "score": 71,
+      "pushedLabel": "push há 4d",
+      "trendingStarsToday": 727,
+      "score": 79,
       "social": [
         {
           "platform": "YouTube",
@@ -277,7 +141,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 217 stars hoje",
+          "label": "GitHub Trending · 727 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -302,76 +166,219 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 2
     },
     {
-      "repo": "jihe520/MathModelAgent",
-      "title": "MathModelAgent",
-      "type": "Agente de modelagem matemática",
-      "status": "Monitorar hoje",
-      "hook": "Este agente tenta transformar um problema matemático em modelo, código, análise e um artigo completo.",
-      "thesis": "Fluxos multiagente estão avançando de respostas isoladas para trabalhos acadêmicos estruturados de ponta a ponta.",
+      "repo": "multimodal-art-projection/YuE",
+      "title": "YuE",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 500 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
       "broll": [
-        "pipeline de quatro agentes",
-        "execução de código",
-        "gráficos",
-        "documento final"
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
       ],
-      "url": "https://github.com/jihe520/MathModelAgent",
-      "stars": 5128,
-      "forks": 401,
-      "issues": 43,
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "stars": 7572,
+      "forks": 850,
+      "issues": 13,
       "language": "Python",
-      "pushedAt": "2026-09-10T20:40:40Z",
+      "pushedAt": "2026-09-11T17:37:59Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 262,
-      "score": 67,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "hen ji · modelagem matemática automática · 801 views · publicado 01 MAI 2025",
-          "url": "https://www.youtube.com/watch?v=PO9lGVyh2t8",
-          "views": 801,
-          "likes": 12,
-          "comments": 4,
-          "publishedAt": "2025-05-01",
-          "verifiedAt": "12 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
+      "trendingStarsToday": 500,
+      "score": 72,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/jihe520/MathModelAgent",
+          "url": "https://github.com/multimodal-art-projection/YuE",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 262 stars hoje",
+          "label": "GitHub Trending · 500 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "YouTube · hen ji · modelagem matemática automática · 801 views · publicado 01 MAI 2025",
-          "url": "https://www.youtube.com/watch?v=PO9lGVyh2t8",
-          "kind": "social"
-        },
-        {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=jihe520%20MathModelAgent%20AI",
+          "url": "https://www.youtube.com/results?search_query=multimodal-art-projection%20YuE%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=MathModelAgent%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=YuE%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=MathModelAgent%20AI",
+          "url": "https://www.tiktok.com/search?q=YuE%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "repo": "vxcontrol/pentagi",
+      "title": "pentagi",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 613 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/vxcontrol/pentagi",
+      "stars": 23745,
+      "forks": 3086,
+      "issues": 62,
+      "language": "Go",
+      "pushedAt": "2026-09-10T05:45:01Z",
+      "pushedLabel": "push há 3d",
+      "trendingStarsToday": 613,
+      "score": 68,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 613 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=vxcontrol%20pentagi%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=pentagi%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=pentagi%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "repo": "calesthio/OpenMontage",
+      "title": "OpenMontage",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 383 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/calesthio/OpenMontage",
+      "stars": 58165,
+      "forks": 7326,
+      "issues": 317,
+      "language": "Python",
+      "pushedAt": "2026-09-06T05:02:34Z",
+      "pushedLabel": "push há 7d",
+      "trendingStarsToday": 383,
+      "score": 67,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 383 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=calesthio%20OpenMontage%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=OpenMontage%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=OpenMontage%20AI",
           "kind": "busca"
         }
       ],
       "rank": 5
+    },
+    {
+      "repo": "tech-leads-club/agent-skills",
+      "title": "agent-skills",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 215 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "stars": 5464,
+      "forks": 490,
+      "issues": 29,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-12T15:29:58Z",
+      "pushedLabel": "push há 23h",
+      "trendingStarsToday": 215,
+      "score": 66,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/tech-leads-club/agent-skills",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 215 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=tech-leads-club%20agent-skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=agent-skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=agent-skills%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 6
     },
     {
       "repo": "NousResearch/hermes-agent",
@@ -387,11 +394,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 244904,
-      "forks": 50824,
-      "issues": 42337,
+      "stars": 245059,
+      "forks": 50932,
+      "issues": 42586,
       "language": "Python",
-      "pushedAt": "2026-09-13T00:21:10Z",
+      "pushedAt": "2026-09-13T14:36:01Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -433,7 +440,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 7
     },
     {
       "repo": "tt-a1i/archify",
@@ -449,12 +456,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 59661,
-      "forks": 3904,
-      "issues": 161,
+      "stars": 60347,
+      "forks": 3946,
+      "issues": 162,
       "language": "JavaScript",
-      "pushedAt": "2026-09-12T09:09:51Z",
-      "pushedLabel": "push há 16h",
+      "pushedAt": "2026-09-13T03:49:47Z",
+      "pushedLabel": "push há 11h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -495,7 +502,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "repo": "K-Dense-AI/scientific-agent-skills",
@@ -511,12 +518,12 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 44602,
-      "forks": 4044,
+      "stars": 44710,
+      "forks": 4055,
       "issues": 6,
       "language": "Python",
       "pushedAt": "2026-09-12T02:09:21Z",
-      "pushedLabel": "push há 23h",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 56,
       "social": [
@@ -557,7 +564,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -572,8 +579,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 79748,
-      "forks": 6886,
+      "stars": 80224,
+      "forks": 6969,
       "issues": 133,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -618,53 +625,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
-    },
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26476,
-      "forks": 2490,
-      "issues": 757,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-11T08:29:14Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": null,
-      "score": 46,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 10
     },
     {
@@ -681,12 +641,12 @@
       ],
       "title": "magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
-      "stars": 4401,
-      "forks": 330,
+      "stars": 4432,
+      "forks": 332,
       "issues": 26,
       "language": "TypeScript",
-      "pushedAt": "2026-09-12T23:32:19Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-09-13T12:19:36Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": null,
       "score": 43,
       "social": [],
@@ -714,106 +674,153 @@
         }
       ],
       "rank": 11
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 26553,
+      "forks": 2502,
+      "issues": 765,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-11T08:29:14Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": null,
+      "score": 39,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 12
     }
   ],
   "news": [
     {
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "url": "https://www.rubyhack.ai/",
-      "points": 922,
-      "comments": 574,
+      "points": 941,
+      "comments": 585,
       "publishedAt": "2026-09-11T23:17:42Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "points": 400,
+      "comments": 476,
+      "publishedAt": "2026-09-13T01:22:31Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "The worst spam emails: iLands AI agent hustle",
       "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "points": 101,
-      "comments": 49,
+      "points": 115,
+      "comments": 55,
       "publishedAt": "2026-09-12T11:13:38Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "url": "https://agentsdock.net/",
+      "points": 74,
+      "comments": 30,
+      "publishedAt": "2026-09-12T23:45:58Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
       "url": "https://www.firecrawl.dev/blog/ai-software-factory",
-      "points": 30,
+      "points": 31,
       "comments": 13,
       "publishedAt": "2026-09-11T23:43:53Z",
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
-      "url": "https://clawfight.ai/agents.md",
-      "points": 13,
-      "comments": 15,
-      "publishedAt": "2026-09-11T13:54:17Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "BasedAgents: Give your idle AI agent a paying job",
-      "url": "https://basedagents.ai/tasks",
-      "points": 4,
-      "comments": 8,
-      "publishedAt": "2026-09-11T03:09:17Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Why are AI agents lying, cheating and coordinating? – Yoshua Bengio",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "points": 8,
-      "comments": 0,
-      "publishedAt": "2026-09-12T02:13:50Z",
+      "title": "Show HN: Don't Hit Send – the model answers while you type",
+      "url": "https://github.com/scalattice/dont-hit-send",
+      "points": 7,
+      "comments": 2,
+      "publishedAt": "2026-09-12T05:06:07Z",
       "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
+      "repo": "JustVugg/colibri",
+      "starsToday": 652
+    },
+    {
+      "repo": "ever-co/ever-gauzy",
+      "starsToday": 58
+    },
+    {
       "repo": "bilawalsidhu/gods-eye-view",
-      "starsToday": 2265
+      "starsToday": 2898
+    },
+    {
+      "repo": "tech-leads-club/agent-skills",
+      "starsToday": 215
     },
     {
       "repo": "melgarafael/DeskcommCRM",
-      "starsToday": 504
+      "starsToday": 444
+    },
+    {
+      "repo": "calesthio/OpenMontage",
+      "starsToday": 383
     },
     {
       "repo": "asgeirtj/system_prompts_leaks",
-      "starsToday": 217
+      "starsToday": 727
     },
     {
-      "repo": "nab138/iloader",
-      "starsToday": 209
+      "repo": "vxcontrol/pentagi",
+      "starsToday": 613
     },
     {
-      "repo": "Flowseal/zapret-discord-youtube",
-      "starsToday": 65
-    },
-    {
-      "repo": "jihe520/MathModelAgent",
-      "starsToday": 262
-    },
-    {
-      "repo": "Sonarr/Sonarr",
-      "starsToday": 227
-    },
-    {
-      "repo": "alsk1992/CloddsBot",
-      "starsToday": 376
+      "repo": "multimodal-art-projection/YuE",
+      "starsToday": 500
     },
     {
       "repo": "yuliskov/SmartTube",
-      "starsToday": 136
+      "starsToday": 238
     },
     {
-      "repo": "Shubhamsaboo/awesome-llm-apps",
-      "starsToday": 230
+      "repo": "alphaXiv/OpenResearch",
+      "starsToday": 452
     },
     {
-      "repo": "p1neappleXpress/OpenFlux",
-      "starsToday": 355
-    },
-    {
-      "repo": "armory3d/armorpaint",
-      "starsToday": 237
+      "repo": "debpalash/VoiceStudio",
+      "starsToday": 2546
     }
   ],
   "monitored": [
@@ -830,8 +837,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 79748,
-      "forks": 6886,
+      "stars": 80224,
+      "forks": 6969,
       "issues": 133,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -876,7 +883,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -891,14 +898,14 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26476,
-      "forks": 2490,
-      "issues": 757,
+      "stars": 26553,
+      "forks": 2502,
+      "issues": 765,
       "language": "TypeScript",
       "pushedAt": "2026-09-11T08:29:14Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
-      "score": 46,
+      "score": 39,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -923,7 +930,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
+      "rank": 12
     }
   ]
 }
