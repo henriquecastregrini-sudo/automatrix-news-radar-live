@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T14:43:44.717Z",
-  "generatedLabel": "13 de set. de 2026 · 11:43",
+  "generatedAt": "2026-09-13T17:39:10.507Z",
+  "generatedLabel": "13 de set. de 2026 · 14:39",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -32,6 +32,75 @@
   ],
   "repos": [
     {
+      "repo": "asgeirtj/system_prompts_leaks",
+      "title": "System Prompts Leaks",
+      "type": "Prompts internos de IA",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório reúne instruções internas atribuídas aos maiores chatbots e agentes de código do mercado.",
+      "thesis": "A curiosidade sobre regras ocultas cresce sempre que novos modelos surgem, mas autenticidade e contexto precisam ser verificados caso a caso.",
+      "broll": [
+        "arquivos por empresa",
+        "diff entre prompts",
+        "README",
+        "datas das adições"
+      ],
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "stars": 65865,
+      "forks": 10787,
+      "issues": 58,
+      "language": "JavaScript",
+      "pushedAt": "2026-09-09T22:44:38Z",
+      "pushedLabel": "push há 4d",
+      "trendingStarsToday": 727,
+      "score": 81,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Bitwise AI · prompts de 32 agentes · 20,6k views · 632 likes · publicado 17 MAI",
+          "url": "https://www.youtube.com/watch?v=XOddQHz4gtA",
+          "views": 20623,
+          "likes": 632,
+          "comments": 15,
+          "publishedAt": "2026-05-17",
+          "verifiedAt": "13 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 727 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · Bitwise AI · prompts de 32 agentes · 20,6k views · 632 likes · publicado 17 MAI",
+          "url": "https://www.youtube.com/watch?v=XOddQHz4gtA",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=asgeirtj%20system_prompts_leaks%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=System%20Prompts%20Leaks%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=System%20Prompts%20Leaks%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "repo": "melgarafael/DeskcommCRM",
       "title": "DeskcommCRM",
       "type": "CRM open-source com IA",
@@ -45,24 +114,24 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/melgarafael/DeskcommCRM",
-      "stars": 2046,
-      "forks": 573,
-      "issues": 126,
+      "stars": 2088,
+      "forks": 578,
+      "issues": 128,
       "language": "TypeScript",
       "pushedAt": "2026-09-12T19:40:07Z",
-      "pushedLabel": "push há 19h",
+      "pushedLabel": "push há 22h",
       "trendingStarsToday": 444,
       "score": 81,
       "social": [
         {
           "platform": "YouTube",
-          "label": "Rafael Melgaço · CRM com IA e WhatsApp · 13,6k views · 649 likes · publicado 03 AGO",
+          "label": "Rafael Melgaço · CRM com IA e WhatsApp · 13,8k views · 653 likes · publicado 03 AGO",
           "url": "https://www.youtube.com/watch?v=8lG8EmE8-UI",
-          "views": 13579,
-          "likes": 649,
+          "views": 13767,
+          "likes": 653,
           "comments": 51,
           "publishedAt": "2026-08-03",
-          "verifiedAt": "12 SET 2026"
+          "verifiedAt": "13 SET 2026"
         }
       ],
       "socialStatus": "referência direta verificada",
@@ -78,7 +147,7 @@
           "kind": "tendência"
         },
         {
-          "label": "YouTube · Rafael Melgaço · CRM com IA e WhatsApp · 13,6k views · 649 likes · publicado 03 AGO",
+          "label": "YouTube · Rafael Melgaço · CRM com IA e WhatsApp · 13,8k views · 653 likes · publicado 03 AGO",
           "url": "https://www.youtube.com/watch?v=8lG8EmE8-UI",
           "kind": "social"
         },
@@ -98,153 +167,43 @@
           "kind": "busca"
         }
       ],
-      "rank": 1
-    },
-    {
-      "repo": "asgeirtj/system_prompts_leaks",
-      "title": "System Prompts Leaks",
-      "type": "Prompts internos de IA",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório reúne instruções internas atribuídas aos maiores chatbots e agentes de código do mercado.",
-      "thesis": "A curiosidade sobre regras ocultas cresce sempre que novos modelos surgem, mas autenticidade e contexto precisam ser verificados caso a caso.",
-      "broll": [
-        "arquivos por empresa",
-        "diff entre prompts",
-        "README",
-        "datas das adições"
-      ],
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "stars": 65794,
-      "forks": 10782,
-      "issues": 56,
-      "language": "JavaScript",
-      "pushedAt": "2026-09-09T22:44:38Z",
-      "pushedLabel": "push há 4d",
-      "trendingStarsToday": 727,
-      "score": 79,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "Full Stack · regras ocultas dos chatbots · 306 views · publicado 10 JUL",
-          "url": "https://www.youtube.com/watch?v=lbn0sF312CA",
-          "views": 306,
-          "likes": 13,
-          "publishedAt": "2026-07-10",
-          "verifiedAt": "12 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 727 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · Full Stack · regras ocultas dos chatbots · 306 views · publicado 10 JUL",
-          "url": "https://www.youtube.com/watch?v=lbn0sF312CA",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=asgeirtj%20system_prompts_leaks%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=System%20Prompts%20Leaks%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=System%20Prompts%20Leaks%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 2
     },
     {
-      "repo": "multimodal-art-projection/YuE",
-      "title": "YuE",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 500 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "stars": 7572,
-      "forks": 850,
-      "issues": 13,
-      "language": "Python",
-      "pushedAt": "2026-09-11T17:37:59Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 500,
-      "score": 72,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/multimodal-art-projection/YuE",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 500 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=multimodal-art-projection%20YuE%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=YuE%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=YuE%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "repo": "vxcontrol/pentagi",
-      "title": "pentagi",
-      "type": "Novo no GitHub Trending",
+      "title": "PentAGI",
+      "type": "Agente autônomo de cibersegurança",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 613 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "hook": "Este agente coloca uma equipe inteira de pentest dentro de um ambiente isolado e executa as etapas sozinho.",
+      "thesis": "Agentes de segurança estão deixando de apenas sugerir comandos para operar terminal, navegador, memória e centenas de ferramentas em fluxos autônomos.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "painel oficial",
+        "terminal executando testes",
+        "grafo de conhecimento",
+        "alerta de uso ético e autorizado"
       ],
       "url": "https://github.com/vxcontrol/pentagi",
-      "stars": 23745,
-      "forks": 3086,
+      "stars": 23813,
+      "forks": 3090,
       "issues": 62,
       "language": "Go",
       "pushedAt": "2026-09-10T05:45:01Z",
-      "pushedLabel": "push há 3d",
+      "pushedLabel": "push há 4d",
       "trendingStarsToday": 613,
-      "score": 68,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "score": 80,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "VXControl · visão geral oficial do PentAGI · 66,9k views · publicado 09 JAN 2025",
+          "url": "https://www.youtube.com/watch?v=R70x5Ddzs1o",
+          "views": 66873,
+          "likes": 533,
+          "comments": 27,
+          "publishedAt": "2025-01-09",
+          "verifiedAt": "13 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
       "sources": [
         {
           "label": "GitHub",
@@ -257,47 +216,63 @@
           "kind": "tendência"
         },
         {
+          "label": "YouTube · VXControl · visão geral oficial do PentAGI · 66,9k views · publicado 09 JAN 2025",
+          "url": "https://www.youtube.com/watch?v=R70x5Ddzs1o",
+          "kind": "social"
+        },
+        {
           "label": "Buscar YouTube",
           "url": "https://www.youtube.com/results?search_query=vxcontrol%20pentagi%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=pentagi%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=PentAGI%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=pentagi%20AI",
+          "url": "https://www.tiktok.com/search?q=PentAGI%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "repo": "calesthio/OpenMontage",
       "title": "OpenMontage",
-      "type": "Novo no GitHub Trending",
+      "type": "Produção de vídeo por agentes",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 383 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "hook": "Este projeto transforma um agente de código em uma produtora de vídeo completa, do roteiro ao render.",
+      "thesis": "Vídeo está virando um pipeline programável: pesquisa, roteiro, assets, Remotion, HyperFrames, FFmpeg e revisão dentro do mesmo projeto aberto.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "pipeline research → render",
+        "timeline e legendas",
+        "Remotion e HyperFrames",
+        "vídeo final e relatório de proveniência"
       ],
       "url": "https://github.com/calesthio/OpenMontage",
-      "stars": 58165,
-      "forks": 7326,
-      "issues": 317,
+      "stars": 58250,
+      "forks": 7338,
+      "issues": 318,
       "language": "Python",
       "pushedAt": "2026-09-06T05:02:34Z",
-      "pushedLabel": "push há 7d",
+      "pushedLabel": "push há 8d",
       "trendingStarsToday": 383,
-      "score": 67,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "score": 79,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Julian Goldie SEO · OpenMontage open-source · 20,2k views · 288 likes · publicado 27 JUN",
+          "url": "https://www.youtube.com/watch?v=kHjROFbd7J4",
+          "views": 20167,
+          "likes": 288,
+          "comments": 15,
+          "publishedAt": "2026-06-27",
+          "verifiedAt": "13 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
       "sources": [
         {
           "label": "GitHub",
@@ -308,6 +283,11 @@
           "label": "GitHub Trending · 383 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
+        },
+        {
+          "label": "YouTube · Julian Goldie SEO · OpenMontage open-source · 20,2k views · 288 likes · publicado 27 JUN",
+          "url": "https://www.youtube.com/watch?v=kHjROFbd7J4",
+          "kind": "social"
         },
         {
           "label": "Buscar YouTube",
@@ -322,6 +302,87 @@
         {
           "label": "Buscar TikTok",
           "url": "https://www.tiktok.com/search?q=OpenMontage%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "repo": "multimodal-art-projection/YuE",
+      "title": "YuE2",
+      "type": "Música generativa open-source",
+      "status": "Gravar agora",
+      "hook": "Um modelo aberto quer colocar composição, voz e arranjo editável no mesmo fluxo — e já está sendo comparado ao Suno.",
+      "thesis": "O lançamento do YuE2 reacendeu a corrida por música generativa local porque combina planejamento simbólico, áudio e edição em um modelo aberto.",
+      "broll": [
+        "demo oficial com áudio",
+        "partitura e acordes editáveis",
+        "workflow no ComfyUI",
+        "comparação com plataformas fechadas"
+      ],
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "stars": 7629,
+      "forks": 855,
+      "issues": 13,
+      "language": "Python",
+      "pushedAt": "2026-09-11T17:37:59Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 500,
+      "score": 77,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Fahd Mirza · YuE2 local em qualquer idioma · 9,8k views · 171 likes · publicado 12 SET",
+          "url": "https://www.youtube.com/watch?v=IXA2Q-zgBXo",
+          "views": 9791,
+          "likes": 171,
+          "comments": 63,
+          "publishedAt": "2026-09-12",
+          "verifiedAt": "13 SET 2026"
+        },
+        {
+          "platform": "Reddit",
+          "label": "r/LocalLLaMA · lançamento do YuE2-3B · discussão publicada 11 SET",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wd19c7/new_music_model_yue23b_released/",
+          "publishedAt": "2026-09-11",
+          "verifiedAt": "13 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 500 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · Fahd Mirza · YuE2 local em qualquer idioma · 9,8k views · 171 likes · publicado 12 SET",
+          "url": "https://www.youtube.com/watch?v=IXA2Q-zgBXo",
+          "kind": "social"
+        },
+        {
+          "label": "Reddit · r/LocalLLaMA · lançamento do YuE2-3B · discussão publicada 11 SET",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wd19c7/new_music_model_yue23b_released/",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=multimodal-art-projection%20YuE%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=YuE2%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=YuE2%20AI",
           "kind": "busca"
         }
       ],
@@ -341,12 +402,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/tech-leads-club/agent-skills",
-      "stars": 5464,
-      "forks": 490,
-      "issues": 29,
+      "stars": 5513,
+      "forks": 495,
+      "issues": 30,
       "language": "TypeScript",
       "pushedAt": "2026-09-12T15:29:58Z",
-      "pushedLabel": "push há 23h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": 215,
       "score": 66,
       "social": [],
@@ -394,11 +455,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 245059,
-      "forks": 50932,
-      "issues": 42586,
+      "stars": 245098,
+      "forks": 50954,
+      "issues": 42684,
       "language": "Python",
-      "pushedAt": "2026-09-13T14:36:01Z",
+      "pushedAt": "2026-09-13T17:14:09Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -456,12 +517,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 60347,
-      "forks": 3946,
-      "issues": 162,
+      "stars": 60509,
+      "forks": 3962,
+      "issues": 163,
       "language": "JavaScript",
       "pushedAt": "2026-09-13T03:49:47Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 14h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -518,12 +579,12 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 44710,
-      "forks": 4055,
+      "stars": 44731,
+      "forks": 4056,
       "issues": 6,
       "language": "Python",
-      "pushedAt": "2026-09-12T02:09:21Z",
-      "pushedLabel": "push há 2d",
+      "pushedAt": "2026-09-13T16:27:15Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": null,
       "score": 56,
       "social": [
@@ -579,8 +640,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 80224,
-      "forks": 6969,
+      "stars": 80354,
+      "forks": 6986,
       "issues": 133,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -641,12 +702,12 @@
       ],
       "title": "magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
-      "stars": 4432,
-      "forks": 332,
+      "stars": 4446,
+      "forks": 334,
       "issues": 26,
       "language": "TypeScript",
       "pushedAt": "2026-09-13T12:19:36Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": null,
       "score": 43,
       "social": [],
@@ -688,8 +749,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26553,
-      "forks": 2502,
+      "stars": 26567,
+      "forks": 2501,
       "issues": 765,
       "language": "TypeScript",
       "pushedAt": "2026-09-11T08:29:14Z",
@@ -727,23 +788,23 @@
     {
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "url": "https://www.rubyhack.ai/",
-      "points": 941,
-      "comments": 585,
+      "points": 946,
+      "comments": 587,
       "publishedAt": "2026-09-11T23:17:42Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Why are AI agents lying, cheating and coordinating?",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "points": 400,
-      "comments": 476,
+      "points": 486,
+      "comments": 565,
       "publishedAt": "2026-09-13T01:22:31Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "The worst spam emails: iLands AI agent hustle",
       "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "points": 115,
+      "points": 119,
       "comments": 55,
       "publishedAt": "2026-09-12T11:13:38Z",
       "source": "Hacker News / Algolia"
@@ -752,7 +813,7 @@
       "title": "AgentsDock: An IDE designed for agentic AI research",
       "url": "https://agentsdock.net/",
       "points": 74,
-      "comments": 30,
+      "comments": 31,
       "publishedAt": "2026-09-12T23:45:58Z",
       "source": "Hacker News / Algolia"
     },
@@ -768,7 +829,7 @@
       "title": "Show HN: Don't Hit Send – the model answers while you type",
       "url": "https://github.com/scalattice/dont-hit-send",
       "points": 7,
-      "comments": 2,
+      "comments": 3,
       "publishedAt": "2026-09-12T05:06:07Z",
       "source": "Hacker News / Algolia"
     }
@@ -776,7 +837,7 @@
   "trending": [
     {
       "repo": "JustVugg/colibri",
-      "starsToday": 652
+      "starsToday": 960
     },
     {
       "repo": "ever-co/ever-gauzy",
@@ -816,7 +877,7 @@
     },
     {
       "repo": "alphaXiv/OpenResearch",
-      "starsToday": 452
+      "starsToday": 304
     },
     {
       "repo": "debpalash/VoiceStudio",
@@ -837,8 +898,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 80224,
-      "forks": 6969,
+      "stars": 80354,
+      "forks": 6986,
       "issues": 133,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -898,8 +959,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26553,
-      "forks": 2502,
+      "stars": 26567,
+      "forks": 2501,
       "issues": 765,
       "language": "TypeScript",
       "pushedAt": "2026-09-11T08:29:14Z",
