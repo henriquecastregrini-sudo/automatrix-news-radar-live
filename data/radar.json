@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T16:39:36.305Z",
-  "generatedLabel": "14 de set. de 2026 · 13:39",
+  "generatedAt": "2026-09-14T17:01:30.562Z",
+  "generatedLabel": "14 de set. de 2026 · 14:01",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -36,18 +36,19 @@
       "title": "Open Code Review",
       "type": "Revisão de código com IA",
       "status": "Gravar agora",
+      "priority": 1,
       "hook": "A Alibaba abriu o agente de revisão de código usado internamente por dezenas de milhares de desenvolvedores.",
       "thesis": "A próxima disputa dos agentes de código pode estar na revisão especializada, com regras determinísticas e menor custo, não apenas na geração de código.",
       "broll": [
-        "CLI ocr revisando um PR",
-        "integração com Codex e Claude Code",
+        "CLI revisando um PR",
+        "comentários linha a linha",
         "paper e benchmark",
-        "comentários encontrados no diff"
+        "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 25058,
-      "forks": 1830,
-      "issues": 157,
+      "stars": 25102,
+      "forks": 1831,
+      "issues": 158,
       "language": "Go",
       "pushedAt": "2026-09-14T12:41:06Z",
       "pushedLabel": "push há 4h",
@@ -101,6 +102,55 @@
       "rank": 1
     },
     {
+      "repo": "ManimCommunity/manim",
+      "title": "Manim Community Edition",
+      "type": "Animação matemática e científica",
+      "status": "Gravar agora",
+      "priority": 2,
+      "hook": "A IA pode escrever o código — mas o Manim transforma esse código em animações que explicam matemática, ciência e até a própria IA.",
+      "thesis": "Uma engine Python transforma fórmulas, gráficos, algoritmos e conceitos abstratos em cenas programáveis, precisas e visualmente fortes.",
+      "broll": [
+        "fórmula virando animação",
+        "gráficos e vetores em movimento",
+        "código Python da cena",
+        "explicação visual de redes neurais"
+      ],
+      "url": "https://github.com/ManimCommunity/manim",
+      "stars": 40834,
+      "forks": 3111,
+      "issues": 499,
+      "language": "Python",
+      "pushedAt": "2026-09-14T15:09:06Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": null,
+      "score": 46,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ManimCommunity/manim",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=ManimCommunity%20manim%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Manim%20Community%20Edition%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Manim%20Community%20Edition%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "repo": "asgeirtj/system_prompts_leaks",
       "title": "System Prompts Leaks",
       "type": "Prompts internos de IA",
@@ -114,12 +164,12 @@
         "datas das adições"
       ],
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "stars": 66602,
+      "stars": 66614,
       "forks": 10854,
       "issues": 57,
       "language": "JavaScript",
       "pushedAt": "2026-09-13T19:18:51Z",
-      "pushedLabel": "push há 21h",
+      "pushedLabel": "push há 22h",
       "trendingStarsToday": 770,
       "score": 89,
       "social": [
@@ -167,7 +217,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "repo": "debpalash/VoiceStudio",
@@ -183,9 +233,9 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 28687,
-      "forks": 3509,
-      "issues": 58,
+      "stars": 28722,
+      "forks": 3511,
+      "issues": 68,
       "language": "Python",
       "pushedAt": "2026-09-11T05:50:20Z",
       "pushedLabel": "push há 3d",
@@ -249,7 +299,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "repo": "multimodal-art-projection/YuE",
@@ -265,12 +315,12 @@
         "comparação com plataformas fechadas"
       ],
       "url": "https://github.com/multimodal-art-projection/YuE",
-      "stars": 8188,
+      "stars": 8199,
       "forks": 896,
       "issues": 17,
       "language": "Python",
       "pushedAt": "2026-09-14T10:31:07Z",
-      "pushedLabel": "push há 6h",
+      "pushedLabel": "push há 7h",
       "trendingStarsToday": 578,
       "score": 85,
       "social": [
@@ -330,7 +380,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -345,8 +395,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 81004,
-      "forks": 7052,
+      "stars": 81010,
+      "forks": 7053,
       "issues": 134,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -398,7 +448,60 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "title": "TradingAgents",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 756 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "stars": 105876,
+      "forks": 20279,
+      "issues": 387,
+      "language": "Python",
+      "pushedAt": "2026-09-07T22:51:54Z",
+      "pushedLabel": "push há 7d",
+      "trendingStarsToday": 756,
+      "score": 72,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 756 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TauricResearch%20TradingAgents%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TradingAgents%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TradingAgents%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 7
     },
     {
       "repo": "666ghj/MiroFish",
@@ -414,8 +517,8 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/666ghj/MiroFish",
-      "stars": 72978,
-      "forks": 11276,
+      "stars": 72989,
+      "forks": 11277,
       "issues": 127,
       "language": "Python",
       "pushedAt": "2026-09-03T05:00:50Z",
@@ -451,7 +554,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 8
     },
     {
       "repo": "NousResearch/hermes-agent",
@@ -467,11 +570,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 245404,
-      "forks": 51105,
-      "issues": 43015,
+      "stars": 245408,
+      "forks": 51107,
+      "issues": 43026,
       "language": "Python",
-      "pushedAt": "2026-09-14T16:35:31Z",
+      "pushedAt": "2026-09-14T16:58:29Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -513,7 +616,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 9
     },
     {
       "repo": "tt-a1i/archify",
@@ -529,12 +632,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 61898,
+      "stars": 61906,
       "forks": 4085,
       "issues": 167,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T16:15:14Z",
-      "pushedLabel": "push há 0h",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -575,7 +678,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 10
     },
     {
       "repo": "K-Dense-AI/scientific-agent-skills",
@@ -591,12 +694,12 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 44899,
-      "forks": 4069,
+      "stars": 44901,
+      "forks": 4071,
       "issues": 10,
       "language": "Python",
       "pushedAt": "2026-09-14T09:27:38Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 8h",
       "trendingStarsToday": null,
       "score": 56,
       "social": [
@@ -637,107 +740,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
-    },
-    {
-      "repo": "rlaope/oh-my-hermes",
-      "title": "oh-my-hermes",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 52 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/rlaope/oh-my-hermes",
-      "stars": 1898,
-      "forks": 153,
-      "issues": 13,
-      "language": "Python",
-      "pushedAt": "2026-09-14T15:48:12Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 52,
-      "score": 55,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/rlaope/oh-my-hermes",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 52 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=rlaope%20oh-my-hermes%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=oh-my-hermes%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=oh-my-hermes%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 10
-    },
-    {
-      "repo": "magnitudedev/magnitude",
-      "type": "Inferência local",
-      "status": "Monitorar hoje",
-      "hook": "A corrida da IA pode estar saindo da nuvem e voltando para o seu próprio hardware.",
-      "thesis": "Modelos locais + agente próprio diminuem a dependência de cloud.",
-      "broll": [
-        "README",
-        "hardware",
-        "terminal",
-        "benchmark"
-      ],
-      "title": "magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "stars": 4488,
-      "forks": 338,
-      "issues": 27,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-13T12:19:36Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": null,
-      "score": 43,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/magnitudedev/magnitude",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=magnitudedev%20magnitude%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=magnitude%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=magnitude%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 11
     },
     {
@@ -753,7 +755,7 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26658,
+      "stars": 26659,
       "forks": 2510,
       "issues": 770,
       "language": "TypeScript",
@@ -806,6 +808,22 @@
       "source": "Hacker News / Algolia"
     },
     {
+      "title": "Hacking AI customer service agents",
+      "url": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
+      "points": 21,
+      "comments": 1,
+      "publishedAt": "2026-09-14T16:26:03Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "ProGantt: Gantt charts your AI agent can read and write via MCP",
+      "url": "https://progantt.com",
+      "points": 4,
+      "comments": 5,
+      "publishedAt": "2026-09-14T15:48:32Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
       "title": "We gave a coding agent the lethal trifecta: data, internet, a public repo",
       "url": "https://archestra.ai/blog/fixing-small-bugs-from-a-slack-thread",
       "points": 10,
@@ -819,22 +837,6 @@
       "points": 3,
       "comments": 4,
       "publishedAt": "2026-09-14T09:28:30Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "ProGantt: Gantt charts your AI agent can read and write via MCP",
-      "url": "https://progantt.com",
-      "points": 2,
-      "comments": 4,
-      "publishedAt": "2026-09-14T15:48:32Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "A full-duplex AI phone agent that listens while speaking",
-      "url": "https://www.famulor.io",
-      "points": 9,
-      "comments": 0,
-      "publishedAt": "2026-09-12T22:42:43Z",
       "source": "Hacker News / Algolia"
     }
   ],
@@ -902,8 +904,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 81004,
-      "forks": 7052,
+      "stars": 81010,
+      "forks": 7053,
       "issues": 134,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
@@ -955,7 +957,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -970,7 +972,7 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26658,
+      "stars": 26659,
       "forks": 2510,
       "issues": 770,
       "language": "TypeScript",
