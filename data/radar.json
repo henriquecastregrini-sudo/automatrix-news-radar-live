@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T17:01:30.562Z",
-  "generatedLabel": "14 de set. de 2026 · 14:01",
+  "generatedAt": "2026-09-14T17:02:36.684Z",
+  "generatedLabel": "14 de set. de 2026 · 14:02",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -46,7 +46,7 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 25102,
+      "stars": 25107,
       "forks": 1831,
       "issues": 158,
       "language": "Go",
@@ -164,7 +164,7 @@
         "datas das adições"
       ],
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "stars": 66614,
+      "stars": 66616,
       "forks": 10854,
       "issues": 57,
       "language": "JavaScript",
@@ -233,7 +233,7 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 28722,
+      "stars": 28723,
       "forks": 3511,
       "issues": 68,
       "language": "Python",
@@ -315,7 +315,7 @@
         "comparação com plataformas fechadas"
       ],
       "url": "https://github.com/multimodal-art-projection/YuE",
-      "stars": 8199,
+      "stars": 8200,
       "forks": 896,
       "issues": 17,
       "language": "Python",
@@ -395,7 +395,7 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 81010,
+      "stars": 81012,
       "forks": 7053,
       "issues": 134,
       "language": "Python",
@@ -464,7 +464,7 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "stars": 105876,
+      "stars": 105877,
       "forks": 20279,
       "issues": 387,
       "language": "Python",
@@ -570,9 +570,9 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 245408,
-      "forks": 51107,
-      "issues": 43026,
+      "stars": 245409,
+      "forks": 51108,
+      "issues": 43028,
       "language": "Python",
       "pushedAt": "2026-09-14T16:58:29Z",
       "pushedLabel": "push há 0h",
@@ -632,7 +632,7 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 61906,
+      "stars": 61908,
       "forks": 4085,
       "issues": 167,
       "language": "JavaScript",
@@ -904,7 +904,7 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 81010,
+      "stars": 81012,
       "forks": 7053,
       "issues": 134,
       "language": "Python",
