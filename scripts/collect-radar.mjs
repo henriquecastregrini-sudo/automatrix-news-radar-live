@@ -17,6 +17,8 @@ const today = new Intl.DateTimeFormat('pt-BR', {
 }).format(new Date()).replace(',', ' ·');
 
 const tracked = [
+  { repo: 'alibaba/open-code-review', title: 'Open Code Review', type: 'Revisão de código com IA', status: 'Gravar agora', priority: 1, hook: 'A Alibaba abriu o agente de revisão de código usado internamente por dezenas de milhares de desenvolvedores.', thesis: 'A próxima disputa dos agentes de código pode estar na revisão especializada, com regras determinísticas e menor custo, não apenas na geração de código.', broll: ['CLI revisando um PR', 'comentários linha a linha', 'paper e benchmark', 'diff com falhas encontradas'] },
+  { repo: 'ManimCommunity/manim', title: 'Manim Community Edition', type: 'Animação matemática e científica', status: 'Gravar agora', priority: 2, hook: 'A IA pode escrever o código — mas o Manim transforma esse código em animações que explicam matemática, ciência e até a própria IA.', thesis: 'Uma engine Python transforma fórmulas, gráficos, algoritmos e conceitos abstratos em cenas programáveis, precisas e visualmente fortes.', broll: ['fórmula virando animação', 'gráficos e vetores em movimento', 'código Python da cena', 'explicação visual de redes neurais'] },
   { repo: 'mattpocock/skills', title: 'Skills para agentes', type: 'Skills para agentes', status: 'Gravar agora', hook: 'O jeito de programar com IA mudou: quem ainda usa só prompt está ficando para trás.', thesis: 'Conhecimento de engenharia virou infraestrutura reutilizável para agentes.', broll: ['README', 'diretório .agents', 'GitHub Trending', 'vídeo do criador'] },
   { repo: 'tt-a1i/archify', type: 'Ferramenta visual para dev', status: 'Gravar agora', hook: 'Esse repo lê seu código e desenha a arquitetura inteira sozinho.', thesis: 'A IA deixa de explicar código e passa a torná-lo visual.', broll: ['demo oficial', 'mapa interativo', 'README', 'código virando diagrama'] },
   { repo: 'NousResearch/hermes-agent', title: 'Hermes Agent', type: 'Agente open-source', status: 'Gravar agora', hook: 'Enquanto todo mundo usa chatbot, esse agente open-source aprende a trabalhar com você.', thesis: 'Agentes autônomos abertos desafiam o assistente fechado.', broll: ['GitHub', 'terminal', 'tutorial', 'exemplos de automação'] },
@@ -226,10 +228,10 @@ const monitoredNames = new Set(['Panniantong/Agent-Reach', 'TencentCloud/Tencent
 const editorialRepos = collectedRepos
   .filter((repo) => !monitoredNames.has(repo.repo))
   .filter((repo) => repo.trendingStarsToday || (repo.pushedAt && Date.now() - new Date(repo.pushedAt).getTime() < 7 * 864e5))
-  .sort((a, b) => b.score - a.score || (b.trendingStarsToday || 0) - (a.trendingStarsToday || 0) || (b.stars || 0) - (a.stars || 0))
+  .sort((a, b) => (a.priority || 99) - (b.priority || 99) || b.score - a.score || (b.trendingStarsToday || 0) - (a.trendingStarsToday || 0) || (b.stars || 0) - (a.stars || 0))
   .slice(0, 10);
 const repos = [...editorialRepos, ...collectedRepos.filter((repo) => monitoredNames.has(repo.repo))];
-repos.sort((a, b) => b.score - a.score || (b.trendingStarsToday || 0) - (a.trendingStarsToday || 0) || (b.stars || 0) - (a.stars || 0));
+repos.sort((a, b) => (a.priority || 99) - (b.priority || 99) || b.score - a.score || (b.trendingStarsToday || 0) - (a.trendingStarsToday || 0) || (b.stars || 0) - (a.stars || 0));
 repos.forEach((repo, index) => { repo.rank = index + 1; });
 
 const hn = await getJson('https://hn.algolia.com/api/v1/search_by_date?query=AI%20agent&tags=story&hitsPerPage=100', { hits: [] });
