@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T19:59:00.446Z",
-  "generatedLabel": "15 de set. de 2026 · 16:58",
+  "generatedAt": "2026-09-15T20:05:13.249Z",
+  "generatedLabel": "15 de set. de 2026 · 17:05",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -46,12 +46,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 28170,
-      "forks": 2027,
+      "stars": 28176,
+      "forks": 2028,
       "issues": 164,
       "language": "Go",
       "pushedAt": "2026-09-15T19:33:15Z",
-      "pushedLabel": "push há 0h",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 2751,
       "score": 93,
       "social": [
@@ -59,11 +59,11 @@
           "platform": "YouTube",
           "label": "Signal Coders · agente de revisão da Alibaba · 6,4k views · 230 likes · publicado 25 JUL",
           "url": "https://www.youtube.com/watch?v=Wt9b0xdBi28",
-          "views": 6427,
+          "views": 6443,
           "likes": 230,
           "comments": 4,
           "publishedAt": "2026-07-25",
-          "verifiedAt": "14 SET 2026"
+          "verifiedAt": "15 SET 2026"
         }
       ],
       "socialStatus": "referência direta verificada",
@@ -123,14 +123,30 @@
       "pushedAt": "2026-09-14T15:09:06Z",
       "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
-      "score": 46,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "score": 58,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Bog · IA programando animação em Manim · 103,3k views · 4,3k likes · prova histórica de 03 JAN 2025",
+          "url": "https://www.youtube.com/watch?v=O6TjkLwUAtg",
+          "views": 103311,
+          "likes": 4341,
+          "comments": 182,
+          "publishedAt": "2025-01-03",
+          "verifiedAt": "15 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
       "sources": [
         {
           "label": "GitHub",
           "url": "https://github.com/ManimCommunity/manim",
           "kind": "oficial"
+        },
+        {
+          "label": "YouTube · Bog · IA programando animação em Manim · 103,3k views · 4,3k likes · prova histórica de 03 JAN 2025",
+          "url": "https://www.youtube.com/watch?v=O6TjkLwUAtg",
+          "kind": "social"
         },
         {
           "label": "Buscar YouTube",
@@ -164,12 +180,12 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 30717,
-      "forks": 3684,
+      "stars": 30722,
+      "forks": 3685,
       "issues": 99,
       "language": "Python",
       "pushedAt": "2026-09-15T14:32:21Z",
-      "pushedLabel": "push há 5h",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": 2081,
       "score": 93,
       "social": [
@@ -183,13 +199,13 @@
         },
         {
           "platform": "YouTube",
-          "label": "AiThatSpeaks · clonagem e dublagem local · 7,5k views · 156 likes · publicado 17 JUL",
+          "label": "AiThatSpeaks · clonagem e dublagem local · 7,8k views · 158 likes · publicado 17 JUL",
           "url": "https://www.youtube.com/watch?v=xkFkvxYKe1Q",
-          "views": 7539,
-          "likes": 156,
+          "views": 7823,
+          "likes": 158,
           "comments": 58,
           "publishedAt": "2026-07-17",
-          "verifiedAt": "14 SET 2026"
+          "verifiedAt": "15 SET 2026"
         }
       ],
       "socialStatus": "referência direta verificada",
@@ -210,7 +226,7 @@
           "kind": "social"
         },
         {
-          "label": "YouTube · AiThatSpeaks · clonagem e dublagem local · 7,5k views · 156 likes · publicado 17 JUL",
+          "label": "YouTube · AiThatSpeaks · clonagem e dublagem local · 7,8k views · 158 likes · publicado 17 JUL",
           "url": "https://www.youtube.com/watch?v=xkFkvxYKe1Q",
           "kind": "social"
         },
@@ -234,28 +250,39 @@
     },
     {
       "repo": "NationalSecurityAgency/ghidra",
-      "title": "ghidra",
-      "type": "Novo no GitHub Trending",
+      "title": "Ghidra",
+      "type": "Engenharia reversa + IA",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 755 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Ghidra is a software reverse engineering (SRE) framework",
+      "hook": "A ferramenta aberta da NSA está virando os olhos de agentes de IA para desmontar programas e investigar malware.",
+      "thesis": "A combinação de Ghidra com MCP e modelos locais transforma engenharia reversa em um fluxo operável por agentes, mas exige uso autorizado e análise humana.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "interface do Ghidra",
+        "decompilador e grafo de funções",
+        "agente via MCP anotando binário",
+        "aviso de uso ético e ambiente isolado"
       ],
       "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "stars": 76590,
+      "stars": 76591,
       "forks": 8443,
       "issues": 1960,
       "language": "Java",
       "pushedAt": "2026-09-15T16:02:22Z",
       "pushedLabel": "push há 4h",
       "trendingStarsToday": 755,
-      "score": 79,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "score": 90,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Jackson Mittag · Claude + Ghidra MCP · 51,9k views · 1,8k likes · publicado 10 ABR",
+          "url": "https://www.youtube.com/watch?v=ybSWI2cZzIU",
+          "views": 51914,
+          "likes": 1811,
+          "comments": 207,
+          "publishedAt": "2026-04-10",
+          "verifiedAt": "15 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
       "sources": [
         {
           "label": "GitHub",
@@ -268,18 +295,23 @@
           "kind": "tendência"
         },
         {
+          "label": "YouTube · Jackson Mittag · Claude + Ghidra MCP · 51,9k views · 1,8k likes · publicado 10 ABR",
+          "url": "https://www.youtube.com/watch?v=ybSWI2cZzIU",
+          "kind": "social"
+        },
+        {
           "label": "Buscar YouTube",
           "url": "https://www.youtube.com/results?search_query=NationalSecurityAgency%20ghidra%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=ghidra%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Ghidra%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=ghidra%20AI",
+          "url": "https://www.tiktok.com/search?q=Ghidra%20AI",
           "kind": "busca"
         }
       ],
@@ -299,7 +331,7 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/melgarafael/DeskcommCRM",
-      "stars": 2742,
+      "stars": 2743,
       "forks": 675,
       "issues": 137,
       "language": "TypeScript",
@@ -310,13 +342,13 @@
       "social": [
         {
           "platform": "YouTube",
-          "label": "Rafael Melgaço · CRM com IA e WhatsApp · 13,8k views · 653 likes · publicado 03 AGO",
+          "label": "Rafael Melgaço · CRM com IA e WhatsApp · 14,2k views · 665 likes · publicado 03 AGO",
           "url": "https://www.youtube.com/watch?v=8lG8EmE8-UI",
-          "views": 13767,
-          "likes": 653,
-          "comments": 51,
+          "views": 14197,
+          "likes": 665,
+          "comments": 56,
           "publishedAt": "2026-08-03",
-          "verifiedAt": "13 SET 2026"
+          "verifiedAt": "15 SET 2026"
         }
       ],
       "socialStatus": "referência direta verificada",
@@ -332,7 +364,7 @@
           "kind": "tendência"
         },
         {
-          "label": "YouTube · Rafael Melgaço · CRM com IA e WhatsApp · 13,8k views · 653 likes · publicado 03 AGO",
+          "label": "YouTube · Rafael Melgaço · CRM com IA e WhatsApp · 14,2k views · 665 likes · publicado 03 AGO",
           "url": "https://www.youtube.com/watch?v=8lG8EmE8-UI",
           "kind": "social"
         },
@@ -368,7 +400,7 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/alphaXiv/OpenResearch",
-      "stars": 3215,
+      "stars": 3217,
       "forks": 220,
       "issues": 27,
       "language": "Rust",
@@ -421,7 +453,7 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/danny-avila/LibreChat",
-      "stars": 43744,
+      "stars": 43745,
       "forks": 9020,
       "issues": 737,
       "language": "TypeScript",
@@ -479,7 +511,7 @@
       "issues": 497,
       "language": "Shell",
       "pushedAt": "2026-09-15T14:29:06Z",
-      "pushedLabel": "push há 5h",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": null,
       "score": 65,
       "social": [
@@ -537,10 +569,10 @@
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
       "stars": 245833,
-      "forks": 51286,
-      "issues": 43456,
+      "forks": 51287,
+      "issues": 43471,
       "language": "Python",
-      "pushedAt": "2026-09-15T19:56:45Z",
+      "pushedAt": "2026-09-15T20:03:29Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -598,7 +630,7 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 63368,
+      "stars": 63374,
       "forks": 4209,
       "issues": 173,
       "language": "JavaScript",
@@ -659,7 +691,7 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 81986,
+      "stars": 81988,
       "forks": 7140,
       "issues": 138,
       "language": "Python",
@@ -791,19 +823,19 @@
       "source": "Hacker News / Algolia"
     },
     {
+      "title": "Show HN: Loss. a tiny satire about AI progress",
+      "url": "https://workatloss.com/",
+      "points": 21,
+      "comments": 7,
+      "publishedAt": "2026-09-15T14:16:44Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
       "title": "ProGantt: Gantt charts your AI agent can read and write via MCP",
       "url": "https://progantt.com",
       "points": 10,
       "comments": 12,
       "publishedAt": "2026-09-14T15:48:32Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Loss. a tiny satire about AI progress",
-      "url": "https://workatloss.com/",
-      "points": 21,
-      "comments": 6,
-      "publishedAt": "2026-09-15T14:16:44Z",
       "source": "Hacker News / Algolia"
     }
   ],
@@ -871,7 +903,7 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 81986,
+      "stars": 81988,
       "forks": 7140,
       "issues": 138,
       "language": "Python",
