@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T23:02:02.226Z",
-  "generatedLabel": "14 de set. de 2026 · 20:01",
+  "generatedAt": "2026-09-15T01:20:03.054Z",
+  "generatedLabel": "14 de set. de 2026 · 22:20",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -46,13 +46,13 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 25574,
-      "forks": 1857,
+      "stars": 25770,
+      "forks": 1864,
       "issues": 161,
       "language": "Go",
       "pushedAt": "2026-09-14T12:41:06Z",
-      "pushedLabel": "push há 10h",
-      "trendingStarsToday": 1796,
+      "pushedLabel": "push há 13h",
+      "trendingStarsToday": 1571,
       "score": 92,
       "social": [
         {
@@ -74,7 +74,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,8 mil stars hoje",
+          "label": "GitHub Trending · 1,6 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -116,12 +116,12 @@
         "explicação visual de redes neurais"
       ],
       "url": "https://github.com/ManimCommunity/manim",
-      "stars": 40835,
+      "stars": 40836,
       "forks": 3111,
       "issues": 500,
       "language": "Python",
       "pushedAt": "2026-09-14T15:09:06Z",
-      "pushedLabel": "push há 8h",
+      "pushedLabel": "push há 10h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -164,13 +164,13 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 29069,
-      "forks": 3547,
-      "issues": 73,
+      "stars": 29226,
+      "forks": 3559,
+      "issues": 80,
       "language": "Python",
       "pushedAt": "2026-09-14T18:25:11Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 2774,
+      "pushedLabel": "push há 7h",
+      "trendingStarsToday": 2776,
       "score": 93,
       "social": [
         {
@@ -246,13 +246,13 @@
         "datas das adições"
       ],
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "stars": 66729,
-      "forks": 10866,
-      "issues": 58,
+      "stars": 66766,
+      "forks": 10871,
+      "issues": 57,
       "language": "JavaScript",
       "pushedAt": "2026-09-13T19:18:51Z",
       "pushedLabel": "push há 1d",
-      "trendingStarsToday": 770,
+      "trendingStarsToday": 764,
       "score": 89,
       "social": [
         {
@@ -274,7 +274,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 770 stars hoje",
+          "label": "GitHub Trending · 764 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -315,13 +315,13 @@
         "comparação com plataformas fechadas"
       ],
       "url": "https://github.com/multimodal-art-projection/YuE",
-      "stars": 8297,
-      "forks": 903,
+      "stars": 8349,
+      "forks": 907,
       "issues": 18,
       "language": "Python",
       "pushedAt": "2026-09-14T10:31:07Z",
-      "pushedLabel": "push há 13h",
-      "trendingStarsToday": 578,
+      "pushedLabel": "push há 15h",
+      "trendingStarsToday": 559,
       "score": 85,
       "social": [
         {
@@ -350,7 +350,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 578 stars hoje",
+          "label": "GitHub Trending · 559 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -395,13 +395,13 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 81195,
-      "forks": 7070,
+      "stars": 81269,
+      "forks": 7079,
       "issues": 135,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
       "pushedLabel": "push há 14d",
-      "trendingStarsToday": 640,
+      "trendingStarsToday": 651,
       "score": 83,
       "social": [
         {
@@ -423,7 +423,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 640 stars hoje",
+          "label": "GitHub Trending · 651 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -455,7 +455,7 @@
       "title": "TradingAgents",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 756 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 745 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "broll": [
         "GitHub Trending",
@@ -464,13 +464,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "stars": 106068,
-      "forks": 20301,
+      "stars": 106136,
+      "forks": 20308,
       "issues": 387,
       "language": "Python",
-      "pushedAt": "2026-09-14T22:38:21Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 756,
+      "pushedAt": "2026-09-15T00:04:26Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 745,
       "score": 79,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -481,7 +481,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 756 stars hoje",
+          "label": "GitHub Trending · 745 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -508,7 +508,7 @@
       "title": "MiroFish",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 524 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 560 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "broll": [
         "GitHub Trending",
@@ -517,14 +517,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/666ghj/MiroFish",
-      "stars": 73102,
-      "forks": 11289,
+      "stars": 73160,
+      "forks": 11290,
       "issues": 128,
       "language": "Python",
       "pushedAt": "2026-09-03T05:00:50Z",
       "pushedLabel": "push há 12d",
-      "trendingStarsToday": 524,
-      "score": 69,
+      "trendingStarsToday": 560,
+      "score": 70,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -534,7 +534,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 524 stars hoje",
+          "label": "GitHub Trending · 560 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -570,11 +570,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 245502,
-      "forks": 51135,
-      "issues": 43171,
+      "stars": 245529,
+      "forks": 51148,
+      "issues": 43166,
       "language": "Python",
-      "pushedAt": "2026-09-14T22:56:16Z",
+      "pushedAt": "2026-09-15T01:19:21Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -632,12 +632,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 62167,
-      "forks": 4104,
+      "stars": 62270,
+      "forks": 4116,
       "issues": 167,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T16:15:14Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -681,62 +681,53 @@
       "rank": 10
     },
     {
-      "repo": "K-Dense-AI/scientific-agent-skills",
-      "type": "Agentes científicos",
-      "status": "Usar como comparação",
-      "hook": "A próxima geração de cientistas talvez seja uma coleção de skills.",
-      "thesis": "Skills especializadas transformam agentes em operadores de pesquisa.",
+      "repo": "rlaope/oh-my-hermes",
+      "title": "oh-my-hermes",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 77 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
       "broll": [
-        "diretório de skills",
-        "K-Dense",
-        "paper",
-        "demo"
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
       ],
-      "title": "scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 44923,
-      "forks": 4074,
-      "issues": 10,
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "stars": 2048,
+      "forks": 162,
+      "issues": 13,
       "language": "Python",
-      "pushedAt": "2026-09-14T09:27:38Z",
-      "pushedLabel": "push há 14h",
-      "trendingStarsToday": null,
-      "score": 56,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "K-Dense · skills científicas · 13,5k views · publicado 18 FEV",
-          "url": "https://www.youtube.com/watch?v=ZxbnDaD_FVg",
-          "views": 13534,
-          "publishedAt": "2026-02-18",
-          "verifiedAt": "07 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
+      "pushedAt": "2026-09-15T01:15:19Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 77,
+      "score": 58,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/rlaope/oh-my-hermes",
           "kind": "oficial"
         },
         {
-          "label": "YouTube · K-Dense · skills científicas · 13,5k views · publicado 18 FEV",
-          "url": "https://www.youtube.com/watch?v=ZxbnDaD_FVg",
-          "kind": "social"
+          "label": "GitHub Trending · 77 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=K-Dense-AI%20scientific-agent-skills%20AI",
+          "url": "https://www.youtube.com/results?search_query=rlaope%20oh-my-hermes%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=scientific-agent-skills%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=oh-my-hermes%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=scientific-agent-skills%20AI",
+          "url": "https://www.tiktok.com/search?q=oh-my-hermes%20AI",
           "kind": "busca"
         }
       ],
@@ -755,8 +746,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26672,
-      "forks": 2511,
+      "stars": 26674,
+      "forks": 2513,
       "issues": 770,
       "language": "TypeScript",
       "pushedAt": "2026-09-11T08:29:14Z",
@@ -794,17 +785,9 @@
     {
       "title": "Why are AI agents lying, cheating and coordinating?",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "points": 643,
+      "points": 645,
       "comments": 682,
       "publishedAt": "2026-09-13T01:22:31Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "AgentsDock: An IDE designed for agentic AI research",
-      "url": "https://agentsdock.net/",
-      "points": 81,
-      "comments": 33,
-      "publishedAt": "2026-09-12T23:45:58Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -827,67 +810,75 @@
       "title": "ProGantt: Gantt charts your AI agent can read and write via MCP",
       "url": "https://progantt.com",
       "points": 9,
-      "comments": 10,
+      "comments": 11,
       "publishedAt": "2026-09-14T15:48:32Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Show HN: I built Otis, a minimal AI agent that runs local models out of the box",
       "url": "https://triangllabs.ai/otis",
-      "points": 18,
+      "points": 19,
       "comments": 2,
       "publishedAt": "2026-09-14T12:58:32Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: AgentDrive – persistent, versioned file storage for AI agents",
+      "url": "https://tokencanopy.com/products/agentdrive",
+      "points": 5,
+      "comments": 6,
+      "publishedAt": "2026-09-14T16:09:02Z",
       "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "JustVugg/colibri",
-      "starsToday": 2233
+      "starsToday": 2173
     },
     {
       "repo": "alibaba/open-code-review",
-      "starsToday": 1796
+      "starsToday": 1571
     },
     {
       "repo": "multimodal-art-projection/YuE",
-      "starsToday": 578
+      "starsToday": 559
     },
     {
       "repo": "debpalash/VoiceStudio",
-      "starsToday": 2774
+      "starsToday": 2776
     },
     {
       "repo": "666ghj/MiroFish",
-      "starsToday": 524
+      "starsToday": 560
     },
     {
       "repo": "Panniantong/Agent-Reach",
-      "starsToday": 640
+      "starsToday": 651
     },
     {
       "repo": "asgeirtj/system_prompts_leaks",
-      "starsToday": 770
+      "starsToday": 764
     },
     {
       "repo": "rlaope/oh-my-hermes",
-      "starsToday": 52
+      "starsToday": 77
     },
     {
       "repo": "localsend/localsend",
-      "starsToday": 311
+      "starsToday": 251
     },
     {
       "repo": "dani-garcia/vaultwarden",
-      "starsToday": 110
+      "starsToday": 115
     },
     {
       "repo": "TauricResearch/TradingAgents",
-      "starsToday": 756
+      "starsToday": 745
     },
     {
       "repo": "ruvnet/RuView",
-      "starsToday": 370
+      "starsToday": 383
     }
   ],
   "monitored": [
@@ -904,13 +895,13 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 81195,
-      "forks": 7070,
+      "stars": 81269,
+      "forks": 7079,
       "issues": 135,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
       "pushedLabel": "push há 14d",
-      "trendingStarsToday": 640,
+      "trendingStarsToday": 651,
       "score": 83,
       "social": [
         {
@@ -932,7 +923,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 640 stars hoje",
+          "label": "GitHub Trending · 651 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -972,8 +963,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26672,
-      "forks": 2511,
+      "stars": 26674,
+      "forks": 2513,
       "issues": 770,
       "language": "TypeScript",
       "pushedAt": "2026-09-11T08:29:14Z",
