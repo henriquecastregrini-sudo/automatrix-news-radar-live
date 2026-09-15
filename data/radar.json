@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T01:20:03.054Z",
-  "generatedLabel": "14 de set. de 2026 · 22:20",
+  "generatedAt": "2026-09-15T15:18:23.616Z",
+  "generatedLabel": "15 de set. de 2026 · 12:18",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -46,14 +46,14 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 25770,
-      "forks": 1864,
-      "issues": 161,
+      "stars": 27630,
+      "forks": 1983,
+      "issues": 160,
       "language": "Go",
-      "pushedAt": "2026-09-14T12:41:06Z",
-      "pushedLabel": "push há 13h",
-      "trendingStarsToday": 1571,
-      "score": 92,
+      "pushedAt": "2026-09-15T13:56:41Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 2751,
+      "score": 93,
       "social": [
         {
           "platform": "YouTube",
@@ -74,7 +74,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,6 mil stars hoje",
+          "label": "GitHub Trending · 2,8 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -116,12 +116,12 @@
         "explicação visual de redes neurais"
       ],
       "url": "https://github.com/ManimCommunity/manim",
-      "stars": 40836,
-      "forks": 3111,
-      "issues": 500,
+      "stars": 40852,
+      "forks": 3112,
+      "issues": 501,
       "language": "Python",
       "pushedAt": "2026-09-14T15:09:06Z",
-      "pushedLabel": "push há 10h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -164,13 +164,13 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 29226,
-      "forks": 3559,
-      "issues": 80,
+      "stars": 30445,
+      "forks": 3663,
+      "issues": 94,
       "language": "Python",
-      "pushedAt": "2026-09-14T18:25:11Z",
-      "pushedLabel": "push há 7h",
-      "trendingStarsToday": 2776,
+      "pushedAt": "2026-09-15T14:32:21Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 2081,
       "score": 93,
       "social": [
         {
@@ -200,7 +200,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,8 mil stars hoje",
+          "label": "GitHub Trending · 2,1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -233,324 +233,290 @@
       "rank": 3
     },
     {
-      "repo": "asgeirtj/system_prompts_leaks",
-      "title": "System Prompts Leaks",
-      "type": "Prompts internos de IA",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório reúne instruções internas atribuídas aos maiores chatbots e agentes de código do mercado.",
-      "thesis": "A curiosidade sobre regras ocultas cresce sempre que novos modelos surgem, mas autenticidade e contexto precisam ser verificados caso a caso.",
-      "broll": [
-        "arquivos por empresa",
-        "diff entre prompts",
-        "README",
-        "datas das adições"
-      ],
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "stars": 66766,
-      "forks": 10871,
-      "issues": 57,
-      "language": "JavaScript",
-      "pushedAt": "2026-09-13T19:18:51Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 764,
-      "score": 89,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "Bitwise AI · prompts de 32 agentes · 20,6k views · 632 likes · publicado 17 MAI",
-          "url": "https://www.youtube.com/watch?v=XOddQHz4gtA",
-          "views": 20623,
-          "likes": 632,
-          "comments": 15,
-          "publishedAt": "2026-05-17",
-          "verifiedAt": "13 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 764 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · Bitwise AI · prompts de 32 agentes · 20,6k views · 632 likes · publicado 17 MAI",
-          "url": "https://www.youtube.com/watch?v=XOddQHz4gtA",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=asgeirtj%20system_prompts_leaks%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=System%20Prompts%20Leaks%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=System%20Prompts%20Leaks%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "repo": "multimodal-art-projection/YuE",
-      "title": "YuE2",
-      "type": "Música generativa open-source",
-      "status": "Gravar agora",
-      "hook": "Um modelo aberto quer colocar composição, voz e arranjo editável no mesmo fluxo — e já está sendo comparado ao Suno.",
-      "thesis": "O lançamento do YuE2 reacendeu a corrida por música generativa local porque combina planejamento simbólico, áudio e edição em um modelo aberto.",
-      "broll": [
-        "demo oficial com áudio",
-        "partitura e acordes editáveis",
-        "workflow no ComfyUI",
-        "comparação com plataformas fechadas"
-      ],
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "stars": 8349,
-      "forks": 907,
-      "issues": 18,
-      "language": "Python",
-      "pushedAt": "2026-09-14T10:31:07Z",
-      "pushedLabel": "push há 15h",
-      "trendingStarsToday": 559,
-      "score": 85,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "Fahd Mirza · YuE2 local em qualquer idioma · 11,5k views · 204 likes · publicado 12 SET",
-          "url": "https://www.youtube.com/watch?v=IXA2Q-zgBXo",
-          "views": 11480,
-          "likes": 204,
-          "comments": 75,
-          "publishedAt": "2026-09-12",
-          "verifiedAt": "14 SET 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/LocalLLaMA · lançamento do YuE2-3B · discussão publicada 11 SET",
-          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wd19c7/new_music_model_yue23b_released/",
-          "publishedAt": "2026-09-11",
-          "verifiedAt": "13 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/multimodal-art-projection/YuE",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 559 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · Fahd Mirza · YuE2 local em qualquer idioma · 11,5k views · 204 likes · publicado 12 SET",
-          "url": "https://www.youtube.com/watch?v=IXA2Q-zgBXo",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/LocalLLaMA · lançamento do YuE2-3B · discussão publicada 11 SET",
-          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wd19c7/new_music_model_yue23b_released/",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=multimodal-art-projection%20YuE%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=YuE2%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=YuE2%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "repo": "Panniantong/Agent-Reach",
-      "type": "Repo monitorado",
-      "status": "Monitorar hoje",
-      "hook": "O agente que não navega está cego.",
-      "thesis": "Agentes com acesso à web ampliam pesquisa e automação.",
-      "broll": [
-        "README",
-        "lista de plataformas",
-        "exemplos web"
-      ],
-      "title": "Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 81269,
-      "forks": 7079,
-      "issues": 135,
-      "language": "Python",
-      "pushedAt": "2026-09-01T08:09:58Z",
-      "pushedLabel": "push há 14d",
-      "trendingStarsToday": 651,
-      "score": 83,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN",
-          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
-          "views": 17073,
-          "likes": 445,
-          "comments": 27,
-          "publishedAt": "2026-06-18",
-          "verifiedAt": "14 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/Panniantong/Agent-Reach",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 651 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN",
-          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=Panniantong%20Agent-Reach%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Reach%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 6
-    },
-    {
-      "repo": "TauricResearch/TradingAgents",
-      "title": "TradingAgents",
+      "repo": "NationalSecurityAgency/ghidra",
+      "title": "ghidra",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 745 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "hook": "Este repositório ganhou 755 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Ghidra is a software reverse engineering (SRE) framework",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "stars": 106136,
-      "forks": 20308,
-      "issues": 387,
-      "language": "Python",
-      "pushedAt": "2026-09-15T00:04:26Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 745,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "stars": 76424,
+      "forks": 8430,
+      "issues": 1963,
+      "language": "Java",
+      "pushedAt": "2026-09-14T15:51:56Z",
+      "pushedLabel": "push há 23h",
+      "trendingStarsToday": 755,
       "score": 79,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/TauricResearch/TradingAgents",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 745 stars hoje",
+          "label": "GitHub Trending · 755 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TauricResearch%20TradingAgents%20AI",
+          "url": "https://www.youtube.com/results?search_query=NationalSecurityAgency%20ghidra%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TradingAgents%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=ghidra%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TradingAgents%20AI",
+          "url": "https://www.tiktok.com/search?q=ghidra%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 4
     },
     {
-      "repo": "666ghj/MiroFish",
-      "title": "MiroFish",
+      "repo": "melgarafael/DeskcommCRM",
+      "title": "DeskcommCRM",
+      "type": "CRM open-source com IA",
+      "status": "Gravar agora",
+      "hook": "Um brasileiro criou uma alternativa open-source ao Kommo e Intercom para agentes venderem pelo WhatsApp.",
+      "thesis": "IA de vendas, CRM e WhatsApp estão sendo empacotados em uma operação self-hosted com dados sob controle do negócio.",
+      "broll": [
+        "CRM e funil",
+        "conversa no WhatsApp",
+        "agente qualificando lead",
+        "vídeo do criador"
+      ],
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "stars": 2661,
+      "forks": 661,
+      "issues": 110,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-15T15:09:27Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 205,
+      "score": 76,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Rafael Melgaço · CRM com IA e WhatsApp · 13,8k views · 653 likes · publicado 03 AGO",
+          "url": "https://www.youtube.com/watch?v=8lG8EmE8-UI",
+          "views": 13767,
+          "likes": 653,
+          "comments": 51,
+          "publishedAt": "2026-08-03",
+          "verifiedAt": "13 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 205 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · Rafael Melgaço · CRM com IA e WhatsApp · 13,8k views · 653 likes · publicado 03 AGO",
+          "url": "https://www.youtube.com/watch?v=8lG8EmE8-UI",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=melgarafael%20DeskcommCRM%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=DeskcommCRM%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=DeskcommCRM%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "repo": "alphaXiv/OpenResearch",
+      "title": "OpenResearch",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 560 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "hook": "Este repositório ganhou 593 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Turn your coding agents into research agents",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/666ghj/MiroFish",
-      "stars": 73160,
-      "forks": 11290,
-      "issues": 128,
-      "language": "Python",
-      "pushedAt": "2026-09-03T05:00:50Z",
-      "pushedLabel": "push há 12d",
-      "trendingStarsToday": 560,
-      "score": 70,
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "stars": 3045,
+      "forks": 209,
+      "issues": 30,
+      "language": "Rust",
+      "pushedAt": "2026-09-15T01:24:16Z",
+      "pushedLabel": "push há 14h",
+      "trendingStarsToday": 593,
+      "score": 72,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/666ghj/MiroFish",
+          "url": "https://github.com/alphaXiv/OpenResearch",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 560 stars hoje",
+          "label": "GitHub Trending · 593 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=666ghj%20MiroFish%20AI",
+          "url": "https://www.youtube.com/results?search_query=alphaXiv%20OpenResearch%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=MiroFish%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=OpenResearch%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=MiroFish%20AI",
+          "url": "https://www.tiktok.com/search?q=OpenResearch%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "repo": "danny-avila/LibreChat",
+      "title": "LibreChat",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 261 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/danny-avila/LibreChat",
+      "stars": 43680,
+      "forks": 9013,
+      "issues": 732,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-15T14:48:29Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 261,
+      "score": 71,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/danny-avila/LibreChat",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 261 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=danny-avila%20LibreChat%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=LibreChat%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=LibreChat%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "repo": "mattpocock/skills",
+      "title": "Skills para agentes",
+      "type": "Skills para agentes",
+      "status": "Gravar agora",
+      "hook": "O jeito de programar com IA mudou: quem ainda usa só prompt está ficando para trás.",
+      "thesis": "Conhecimento de engenharia virou infraestrutura reutilizável para agentes.",
+      "broll": [
+        "README",
+        "diretório .agents",
+        "GitHub Trending",
+        "vídeo do criador"
+      ],
+      "url": "https://github.com/mattpocock/skills",
+      "stars": 262630,
+      "forks": 22156,
+      "issues": 497,
+      "language": "Shell",
+      "pushedAt": "2026-09-15T14:29:06Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": null,
+      "score": 65,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Matt Pocock · workflow completo · 424k views · publicado 16 JUL",
+          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
+          "views": 424060,
+          "publishedAt": "2026-07-16",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mattpocock/skills",
+          "kind": "oficial"
+        },
+        {
+          "label": "YouTube · Matt Pocock · workflow completo · 424k views · publicado 16 JUL",
+          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=mattpocock%20skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Skills%20para%20agentes%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Skills%20para%20agentes%20AI",
           "kind": "busca"
         }
       ],
@@ -570,11 +536,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 245529,
-      "forks": 51148,
-      "issues": 43166,
+      "stars": 245765,
+      "forks": 51251,
+      "issues": 43221,
       "language": "Python",
-      "pushedAt": "2026-09-15T01:19:21Z",
+      "pushedAt": "2026-09-15T15:18:16Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -632,12 +598,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 62270,
-      "forks": 4116,
-      "issues": 167,
+      "stars": 63166,
+      "forks": 4194,
+      "issues": 173,
       "language": "JavaScript",
-      "pushedAt": "2026-09-14T16:15:14Z",
-      "pushedLabel": "push há 9h",
+      "pushedAt": "2026-09-15T08:27:46Z",
+      "pushedLabel": "push há 7h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -681,53 +647,63 @@
       "rank": 10
     },
     {
-      "repo": "rlaope/oh-my-hermes",
-      "title": "oh-my-hermes",
-      "type": "Novo no GitHub Trending",
+      "repo": "Panniantong/Agent-Reach",
+      "type": "Repo monitorado",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 77 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "hook": "O agente que não navega está cego.",
+      "thesis": "Agentes com acesso à web ampliam pesquisa e automação.",
       "broll": [
-        "GitHub Trending",
         "README",
-        "demo oficial",
-        "histórico do projeto"
+        "lista de plataformas",
+        "exemplos web"
       ],
-      "url": "https://github.com/rlaope/oh-my-hermes",
-      "stars": 2048,
-      "forks": 162,
-      "issues": 13,
+      "title": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars": 81909,
+      "forks": 7129,
+      "issues": 139,
       "language": "Python",
-      "pushedAt": "2026-09-15T01:15:19Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 77,
-      "score": 58,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "pushedAt": "2026-09-01T08:09:58Z",
+      "pushedLabel": "push há 14d",
+      "trendingStarsToday": null,
+      "score": 52,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN",
+          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
+          "views": 17073,
+          "likes": 445,
+          "comments": 27,
+          "publishedAt": "2026-06-18",
+          "verifiedAt": "14 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/rlaope/oh-my-hermes",
+          "url": "https://github.com/Panniantong/Agent-Reach",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 77 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
+          "label": "YouTube · Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN",
+          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
+          "kind": "social"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=rlaope%20oh-my-hermes%20AI",
+          "url": "https://www.youtube.com/results?search_query=Panniantong%20Agent-Reach%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=oh-my-hermes%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Reach%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=oh-my-hermes%20AI",
+          "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
           "kind": "busca"
         }
       ],
@@ -746,14 +722,14 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26674,
-      "forks": 2513,
+      "stars": 26760,
+      "forks": 2518,
       "issues": 770,
       "language": "TypeScript",
-      "pushedAt": "2026-09-11T08:29:14Z",
-      "pushedLabel": "push há 4d",
+      "pushedAt": "2026-09-15T13:20:30Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": null,
-      "score": 39,
+      "score": 46,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -783,14 +759,6 @@
   ],
   "news": [
     {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "points": 645,
-      "comments": 682,
-      "publishedAt": "2026-09-13T01:22:31Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
       "title": "Hacking AI customer service agents",
       "url": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
       "points": 33,
@@ -809,8 +777,8 @@
     {
       "title": "ProGantt: Gantt charts your AI agent can read and write via MCP",
       "url": "https://progantt.com",
-      "points": 9,
-      "comments": 11,
+      "points": 10,
+      "comments": 12,
       "publishedAt": "2026-09-14T15:48:32Z",
       "source": "Hacker News / Algolia"
     },
@@ -818,67 +786,75 @@
       "title": "Show HN: I built Otis, a minimal AI agent that runs local models out of the box",
       "url": "https://triangllabs.ai/otis",
       "points": 19,
-      "comments": 2,
+      "comments": 4,
       "publishedAt": "2026-09-14T12:58:32Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Show HN: AgentDrive – persistent, versioned file storage for AI agents",
       "url": "https://tokencanopy.com/products/agentdrive",
-      "points": 5,
-      "comments": 6,
+      "points": 6,
+      "comments": 7,
       "publishedAt": "2026-09-14T16:09:02Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "AI Doomer Hypeloop Suspiciously Serves to Support OpenAI and Anthropic's Agenda",
+      "url": "https://www.nakedcapitalism.com/2026/09/openai-anthropic-ai-freeze-doomers-trump-bannon-sanders.html",
+      "points": 11,
+      "comments": 3,
+      "publishedAt": "2026-09-14T21:45:12Z",
       "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
-      "repo": "JustVugg/colibri",
-      "starsToday": 2173
-    },
-    {
       "repo": "alibaba/open-code-review",
-      "starsToday": 1571
+      "starsToday": 2751
     },
     {
-      "repo": "multimodal-art-projection/YuE",
-      "starsToday": 559
+      "repo": "JustVugg/colibri",
+      "starsToday": 2035
+    },
+    {
+      "repo": "ever-co/ever-gauzy",
+      "starsToday": 632
     },
     {
       "repo": "debpalash/VoiceStudio",
-      "starsToday": 2776
+      "starsToday": 2081
     },
     {
-      "repo": "666ghj/MiroFish",
-      "starsToday": 560
+      "repo": "Homebrew/BrewUI",
+      "starsToday": 388
     },
     {
-      "repo": "Panniantong/Agent-Reach",
-      "starsToday": 651
+      "repo": "melgarafael/DeskcommCRM",
+      "starsToday": 205
     },
     {
-      "repo": "asgeirtj/system_prompts_leaks",
-      "starsToday": 764
+      "repo": "alphaXiv/OpenResearch",
+      "starsToday": 593
     },
     {
-      "repo": "rlaope/oh-my-hermes",
-      "starsToday": 77
+      "repo": "NationalSecurityAgency/ghidra",
+      "starsToday": 755
     },
     {
-      "repo": "localsend/localsend",
-      "starsToday": 251
+      "repo": "danny-avila/LibreChat",
+      "starsToday": 261
     },
     {
-      "repo": "dani-garcia/vaultwarden",
-      "starsToday": 115
+      "repo": "pacifio/atlas",
+      "starsToday": 102
     },
     {
-      "repo": "TauricResearch/TradingAgents",
-      "starsToday": 745
+      "repo": "MG1937/ASC",
+      "starsToday": 122
     },
     {
-      "repo": "ruvnet/RuView",
-      "starsToday": 383
+      "repo": "addyosmani/agent-skills",
+      "starsToday": 354
     }
   ],
   "monitored": [
@@ -895,14 +871,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 81269,
-      "forks": 7079,
-      "issues": 135,
+      "stars": 81909,
+      "forks": 7129,
+      "issues": 139,
       "language": "Python",
       "pushedAt": "2026-09-01T08:09:58Z",
       "pushedLabel": "push há 14d",
-      "trendingStarsToday": 651,
-      "score": 83,
+      "trendingStarsToday": null,
+      "score": 52,
       "social": [
         {
           "platform": "YouTube",
@@ -921,11 +897,6 @@
           "label": "GitHub",
           "url": "https://github.com/Panniantong/Agent-Reach",
           "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 651 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
         },
         {
           "label": "YouTube · Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN",
@@ -948,7 +919,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 11
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -963,14 +934,14 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26674,
-      "forks": 2513,
+      "stars": 26760,
+      "forks": 2518,
       "issues": 770,
       "language": "TypeScript",
-      "pushedAt": "2026-09-11T08:29:14Z",
-      "pushedLabel": "push há 4d",
+      "pushedAt": "2026-09-15T13:20:30Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": null,
-      "score": 39,
+      "score": 46,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
