@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T20:05:13.249Z",
-  "generatedLabel": "15 de set. de 2026 · 17:05",
+  "generatedAt": "2026-09-16T01:15:13.803Z",
+  "generatedLabel": "15 de set. de 2026 · 22:15",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -46,13 +46,13 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 28176,
-      "forks": 2028,
-      "issues": 164,
+      "stars": 28617,
+      "forks": 2050,
+      "issues": 162,
       "language": "Go",
-      "pushedAt": "2026-09-15T19:33:15Z",
+      "pushedAt": "2026-09-16T00:20:22Z",
       "pushedLabel": "push há 1h",
-      "trendingStarsToday": 2751,
+      "trendingStarsToday": 2756,
       "score": 93,
       "social": [
         {
@@ -116,9 +116,9 @@
         "explicação visual de redes neurais"
       ],
       "url": "https://github.com/ManimCommunity/manim",
-      "stars": 40852,
+      "stars": 40854,
       "forks": 3112,
-      "issues": 501,
+      "issues": 502,
       "language": "Python",
       "pushedAt": "2026-09-14T15:09:06Z",
       "pushedLabel": "push há 1d",
@@ -180,13 +180,13 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 30722,
-      "forks": 3685,
+      "stars": 30995,
+      "forks": 3699,
       "issues": 99,
       "language": "Python",
       "pushedAt": "2026-09-15T14:32:21Z",
-      "pushedLabel": "push há 6h",
-      "trendingStarsToday": 2081,
+      "pushedLabel": "push há 11h",
+      "trendingStarsToday": 2072,
       "score": 93,
       "social": [
         {
@@ -262,13 +262,13 @@
         "aviso de uso ético e ambiente isolado"
       ],
       "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "stars": 76591,
-      "forks": 8443,
+      "stars": 76716,
+      "forks": 8459,
       "issues": 1960,
       "language": "Java",
       "pushedAt": "2026-09-15T16:02:22Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 755,
+      "pushedLabel": "push há 9h",
+      "trendingStarsToday": 725,
       "score": 90,
       "social": [
         {
@@ -290,7 +290,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 755 stars hoje",
+          "label": "GitHub Trending · 725 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -331,13 +331,13 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/melgarafael/DeskcommCRM",
-      "stars": 2743,
-      "forks": 675,
-      "issues": 137,
+      "stars": 2842,
+      "forks": 683,
+      "issues": 158,
       "language": "TypeScript",
-      "pushedAt": "2026-09-15T19:35:33Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 205,
+      "pushedAt": "2026-09-15T23:17:51Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 193,
       "score": 76,
       "social": [
         {
@@ -359,7 +359,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 205 stars hoje",
+          "label": "GitHub Trending · 193 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -391,7 +391,7 @@
       "title": "OpenResearch",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 593 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 531 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Turn your coding agents into research agents",
       "broll": [
         "GitHub Trending",
@@ -400,14 +400,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/alphaXiv/OpenResearch",
-      "stars": 3217,
-      "forks": 220,
-      "issues": 27,
+      "stars": 3371,
+      "forks": 223,
+      "issues": 25,
       "language": "Rust",
-      "pushedAt": "2026-09-15T19:45:48Z",
+      "pushedAt": "2026-09-16T01:10:33Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 593,
-      "score": 72,
+      "trendingStarsToday": 531,
+      "score": 71,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -417,7 +417,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 593 stars hoje",
+          "label": "GitHub Trending · 531 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -444,7 +444,7 @@
       "title": "LibreChat",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 261 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 254 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "broll": [
         "GitHub Trending",
@@ -453,13 +453,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/danny-avila/LibreChat",
-      "stars": 43745,
-      "forks": 9020,
-      "issues": 737,
+      "stars": 43847,
+      "forks": 9024,
+      "issues": 741,
       "language": "TypeScript",
-      "pushedAt": "2026-09-15T18:39:27Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 261,
+      "pushedAt": "2026-09-15T23:27:07Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 254,
       "score": 71,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -470,7 +470,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 261 stars hoje",
+          "label": "GitHub Trending · 254 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -506,12 +506,12 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 262786,
-      "forks": 22168,
+      "stars": 262870,
+      "forks": 22173,
       "issues": 497,
       "language": "Shell",
       "pushedAt": "2026-09-15T14:29:06Z",
-      "pushedLabel": "push há 6h",
+      "pushedLabel": "push há 11h",
       "trendingStarsToday": null,
       "score": 65,
       "social": [
@@ -568,11 +568,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 245833,
-      "forks": 51287,
-      "issues": 43471,
+      "stars": 245871,
+      "forks": 51307,
+      "issues": 43562,
       "language": "Python",
-      "pushedAt": "2026-09-15T20:03:29Z",
+      "pushedAt": "2026-09-16T01:07:05Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -630,12 +630,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 63374,
-      "forks": 4209,
+      "stars": 63599,
+      "forks": 4217,
       "issues": 173,
       "language": "JavaScript",
       "pushedAt": "2026-09-15T08:27:46Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 17h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -691,12 +691,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 81988,
-      "forks": 7140,
+      "stars": 82056,
+      "forks": 7150,
       "issues": 138,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 4h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -754,12 +754,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26771,
-      "forks": 2522,
-      "issues": 771,
+      "stars": 26780,
+      "forks": 2525,
+      "issues": 772,
       "language": "TypeScript",
       "pushedAt": "2026-09-15T13:20:30Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 12h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -793,23 +793,39 @@
     {
       "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
       "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
-      "points": 185,
-      "comments": 131,
+      "points": 210,
+      "comments": 149,
       "publishedAt": "2026-09-15T16:38:45Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+      "url": "https://github.com/pizza-bot-app/pizza-bot",
+      "points": 30,
+      "comments": 13,
+      "publishedAt": "2026-09-15T15:20:26Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "What we have learned at OpenShell applying formal methods to control AI agents",
       "url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/",
-      "points": 26,
-      "comments": 10,
+      "points": 31,
+      "comments": 11,
       "publishedAt": "2026-09-15T14:40:05Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: Loss. a tiny satire about AI progress",
+      "url": "https://workatloss.com/",
+      "points": 30,
+      "comments": 8,
+      "publishedAt": "2026-09-15T14:16:44Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Hacking AI customer service agents",
       "url": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
-      "points": 34,
+      "points": 35,
       "comments": 5,
       "publishedAt": "2026-09-14T16:26:03Z",
       "source": "Hacker News / Algolia"
@@ -821,72 +837,56 @@
       "comments": 8,
       "publishedAt": "2026-09-14T15:18:58Z",
       "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Loss. a tiny satire about AI progress",
-      "url": "https://workatloss.com/",
-      "points": 21,
-      "comments": 7,
-      "publishedAt": "2026-09-15T14:16:44Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "ProGantt: Gantt charts your AI agent can read and write via MCP",
-      "url": "https://progantt.com",
-      "points": 10,
-      "comments": 12,
-      "publishedAt": "2026-09-14T15:48:32Z",
-      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "alibaba/open-code-review",
-      "starsToday": 2751
+      "starsToday": 2756
     },
     {
       "repo": "JustVugg/colibri",
-      "starsToday": 2035
+      "starsToday": 2026
     },
     {
       "repo": "ever-co/ever-gauzy",
-      "starsToday": 632
+      "starsToday": 634
     },
     {
       "repo": "debpalash/VoiceStudio",
-      "starsToday": 2081
+      "starsToday": 2072
     },
     {
       "repo": "Homebrew/BrewUI",
-      "starsToday": 356
+      "starsToday": 271
     },
     {
       "repo": "melgarafael/DeskcommCRM",
-      "starsToday": 205
+      "starsToday": 193
     },
     {
       "repo": "alphaXiv/OpenResearch",
-      "starsToday": 593
+      "starsToday": 531
     },
     {
       "repo": "NationalSecurityAgency/ghidra",
-      "starsToday": 755
+      "starsToday": 725
     },
     {
       "repo": "danny-avila/LibreChat",
-      "starsToday": 261
+      "starsToday": 254
     },
     {
       "repo": "pacifio/atlas",
-      "starsToday": 102
+      "starsToday": 91
     },
     {
       "repo": "MG1937/ASC",
-      "starsToday": 122
+      "starsToday": 129
     },
     {
       "repo": "addyosmani/agent-skills",
-      "starsToday": 386
+      "starsToday": 307
     }
   ],
   "monitored": [
@@ -903,12 +903,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 81988,
-      "forks": 7140,
+      "stars": 82056,
+      "forks": 7150,
       "issues": 138,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 4h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -966,12 +966,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26771,
-      "forks": 2522,
-      "issues": 771,
+      "stars": 26780,
+      "forks": 2525,
+      "issues": 772,
       "language": "TypeScript",
       "pushedAt": "2026-09-15T13:20:30Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 12h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
