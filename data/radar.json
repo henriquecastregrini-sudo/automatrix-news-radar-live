@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T15:11:35.571Z",
-  "generatedLabel": "16 de set. de 2026 · 12:11",
+  "generatedAt": "2026-09-16T19:50:42.362Z",
+  "generatedLabel": "16 de set. de 2026 · 16:50",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -46,12 +46,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 30845,
-      "forks": 2204,
-      "issues": 178,
+      "stars": 31412,
+      "forks": 2241,
+      "issues": 182,
       "language": "Go",
       "pushedAt": "2026-09-16T14:52:32Z",
-      "pushedLabel": "push há 0h",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": 3215,
       "score": 93,
       "social": [
@@ -116,8 +116,8 @@
         "explicação visual de redes neurais"
       ],
       "url": "https://github.com/ManimCommunity/manim",
-      "stars": 40871,
-      "forks": 3114,
+      "stars": 40875,
+      "forks": 3113,
       "issues": 503,
       "language": "Python",
       "pushedAt": "2026-09-14T15:09:06Z",
@@ -180,12 +180,12 @@
         "aviso de uso ético e ambiente isolado"
       ],
       "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "stars": 77452,
-      "forks": 8560,
-      "issues": 1962,
+      "stars": 77636,
+      "forks": 8584,
+      "issues": 1960,
       "language": "Java",
       "pushedAt": "2026-09-15T16:02:22Z",
-      "pushedLabel": "push há 23h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": 1059,
       "score": 92,
       "social": [
@@ -249,14 +249,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 6048,
-      "forks": 363,
-      "issues": 7,
+      "stars": 6684,
+      "forks": 398,
+      "issues": 13,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T19:29:02Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": 1249,
-      "score": 78,
+      "score": 71,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -289,59 +289,6 @@
       "rank": 4
     },
     {
-      "repo": "Lakr233/vphone-cli",
-      "title": "vphone-cli",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 907 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Tendência técnica recente que precisa de validação editorial.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "stars": 13212,
-      "forks": 1579,
-      "issues": 33,
-      "language": "Swift",
-      "pushedAt": "2026-09-10T08:13:01Z",
-      "pushedLabel": "push há 6d",
-      "trendingStarsToday": 907,
-      "score": 70,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/Lakr233/vphone-cli",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 907 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=Lakr233%20vphone-cli%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=vphone-cli%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=vphone-cli%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 5
-    },
-    {
       "repo": "anthropics/claude-code",
       "title": "claude-code",
       "type": "Novo no GitHub Trending",
@@ -355,12 +302,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/claude-code",
-      "stars": 145309,
-      "forks": 23418,
-      "issues": 12459,
+      "stars": 145394,
+      "forks": 23461,
+      "issues": 12514,
       "language": "TypeScript",
-      "pushedAt": "2026-09-16T04:36:04Z",
-      "pushedLabel": "push há 11h",
+      "pushedAt": "2026-09-16T18:56:57Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 155,
       "score": 70,
       "social": [],
@@ -392,7 +339,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "repo": "jamiepine/voicebox",
@@ -408,9 +355,9 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/jamiepine/voicebox",
-      "stars": 54162,
-      "forks": 6775,
-      "issues": 693,
+      "stars": 54263,
+      "forks": 6782,
+      "issues": 696,
       "language": "TypeScript",
       "pushedAt": "2026-08-09T00:03:42Z",
       "pushedLabel": "push há 39d",
@@ -445,6 +392,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 6
+    },
+    {
+      "repo": "Lakr233/vphone-cli",
+      "title": "vphone-cli",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 444 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Tendência técnica recente que precisa de validação editorial.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "stars": 13287,
+      "forks": 1585,
+      "issues": 33,
+      "language": "Swift",
+      "pushedAt": "2026-09-10T08:13:01Z",
+      "pushedLabel": "push há 7d",
+      "trendingStarsToday": 444,
+      "score": 65,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Lakr233/vphone-cli",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 444 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=Lakr233%20vphone-cli%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=vphone-cli%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=vphone-cli%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 7
     },
     {
@@ -461,8 +461,8 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 263406,
-      "forks": 22223,
+      "stars": 263526,
+      "forks": 22236,
       "issues": 501,
       "language": "Shell",
       "pushedAt": "2026-09-15T14:29:06Z",
@@ -523,11 +523,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 246082,
-      "forks": 51398,
-      "issues": 43474,
+      "stars": 246142,
+      "forks": 51443,
+      "issues": 43716,
       "language": "Python",
-      "pushedAt": "2026-09-16T15:10:44Z",
+      "pushedAt": "2026-09-16T19:49:33Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -585,12 +585,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars": 24183,
-      "forks": 2917,
-      "issues": 88,
+      "stars": 24235,
+      "forks": 2919,
+      "issues": 77,
       "language": "Python",
-      "pushedAt": "2026-09-16T15:01:01Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-09-16T19:06:16Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 96,
       "score": 63,
       "social": [],
@@ -637,12 +637,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 82371,
-      "forks": 7186,
+      "stars": 82470,
+      "forks": 7204,
       "issues": 140,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 23h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 58,
       "social": [
@@ -700,9 +700,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26830,
-      "forks": 2528,
-      "issues": 774,
+      "stars": 26847,
+      "forks": 2529,
+      "issues": 778,
       "language": "TypeScript",
       "pushedAt": "2026-09-15T13:20:30Z",
       "pushedLabel": "push há 1d",
@@ -740,22 +740,22 @@
       "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
       "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
       "points": 225,
-      "comments": 164,
+      "comments": 166,
       "publishedAt": "2026-09-15T16:38:45Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
       "url": "https://openai.com/index/reimagining-advertising-with-ai/",
-      "points": 94,
-      "comments": 86,
+      "points": 146,
+      "comments": 155,
       "publishedAt": "2026-09-16T13:51:15Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
       "url": "https://github.com/pizza-bot-app/pizza-bot",
-      "points": 52,
+      "points": 55,
       "comments": 33,
       "publishedAt": "2026-09-15T15:20:26Z",
       "source": "Hacker News / Algolia"
@@ -763,7 +763,7 @@
     {
       "title": "What we have learned at OpenShell applying formal methods to control AI agents",
       "url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/",
-      "points": 34,
+      "points": 35,
       "comments": 11,
       "publishedAt": "2026-09-15T14:40:05Z",
       "source": "Hacker News / Algolia"
@@ -771,17 +771,17 @@
     {
       "title": "Show HN: Loss. a tiny satire about AI progress",
       "url": "https://workatloss.com/",
-      "points": 35,
+      "points": 36,
       "comments": 10,
       "publishedAt": "2026-09-15T14:16:44Z",
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Hacking AI customer service agents",
-      "url": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
-      "points": 35,
+      "title": "Auto-autoresearch: self-improving agents on Karpathy's NanoChat benchmark",
+      "url": "https://rekursiv.ai/blog/autoautoresearch/",
+      "points": 12,
       "comments": 5,
-      "publishedAt": "2026-09-14T16:26:03Z",
+      "publishedAt": "2026-09-15T17:48:55Z",
       "source": "Hacker News / Algolia"
     }
   ],
@@ -800,7 +800,7 @@
     },
     {
       "repo": "abue-ammar/tinycast",
-      "starsToday": 1076
+      "starsToday": 1136
     },
     {
       "repo": "jamiepine/voicebox",
@@ -808,7 +808,7 @@
     },
     {
       "repo": "Lakr233/vphone-cli",
-      "starsToday": 907
+      "starsToday": 444
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
@@ -832,7 +832,7 @@
     },
     {
       "repo": "roboflow/supervision",
-      "starsToday": 217
+      "starsToday": 292
     }
   ],
   "monitored": [
@@ -849,12 +849,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 82371,
-      "forks": 7186,
+      "stars": 82470,
+      "forks": 7204,
       "issues": 140,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 23h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 58,
       "social": [
@@ -912,9 +912,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26830,
-      "forks": 2528,
-      "issues": 774,
+      "stars": 26847,
+      "forks": 2529,
+      "issues": 778,
       "language": "TypeScript",
       "pushedAt": "2026-09-15T13:20:30Z",
       "pushedLabel": "push há 1d",
