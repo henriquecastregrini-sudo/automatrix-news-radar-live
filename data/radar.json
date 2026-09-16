@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T01:15:13.803Z",
-  "generatedLabel": "15 de set. de 2026 · 22:15",
+  "generatedAt": "2026-09-16T13:27:34.119Z",
+  "generatedLabel": "16 de set. de 2026 · 10:27",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -46,13 +46,13 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 28617,
-      "forks": 2050,
-      "issues": 162,
+      "stars": 30535,
+      "forks": 2177,
+      "issues": 178,
       "language": "Go",
-      "pushedAt": "2026-09-16T00:20:22Z",
+      "pushedAt": "2026-09-16T12:44:24Z",
       "pushedLabel": "push há 1h",
-      "trendingStarsToday": 2756,
+      "trendingStarsToday": 3215,
       "score": 93,
       "social": [
         {
@@ -74,7 +74,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,8 mil stars hoje",
+          "label": "GitHub Trending · 3,2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -116,12 +116,12 @@
         "explicação visual de redes neurais"
       ],
       "url": "https://github.com/ManimCommunity/manim",
-      "stars": 40854,
-      "forks": 3112,
-      "issues": 502,
+      "stars": 40868,
+      "forks": 3114,
+      "issues": 503,
       "language": "Python",
       "pushedAt": "2026-09-14T15:09:06Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 58,
       "social": [
@@ -167,88 +167,6 @@
       "rank": 2
     },
     {
-      "repo": "debpalash/VoiceStudio",
-      "title": "VoiceStudio",
-      "type": "Voz e dublagem local",
-      "status": "Gravar agora",
-      "hook": "Esta alternativa aberta ao ElevenLabs clona vozes, dubla vídeos e roda localmente sem assinatura.",
-      "thesis": "Voz generativa está virando infraestrutura local: privacidade, custo zero por uso e centenas de idiomas criam uma narrativa forte contra plataformas fechadas.",
-      "broll": [
-        "galeria de vozes",
-        "clonagem com amostra curta",
-        "editor de dublagem",
-        "comparação local versus nuvem"
-      ],
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 30995,
-      "forks": 3699,
-      "issues": 99,
-      "language": "Python",
-      "pushedAt": "2026-09-15T14:32:21Z",
-      "pushedLabel": "push há 11h",
-      "trendingStarsToday": 2072,
-      "score": 93,
-      "social": [
-        {
-          "platform": "Instagram",
-          "label": "@niyi.tech · alternativa local ao ElevenLabs · 1,9k likes públicos · observado 21 AGO",
-          "url": "https://www.instagram.com/reel/DYg7o7Um4Qb/",
-          "likes": 1900,
-          "publishedAt": "2026-08-21",
-          "verifiedAt": "14 SET 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "AiThatSpeaks · clonagem e dublagem local · 7,8k views · 158 likes · publicado 17 JUL",
-          "url": "https://www.youtube.com/watch?v=xkFkvxYKe1Q",
-          "views": 7823,
-          "likes": 158,
-          "comments": 58,
-          "publishedAt": "2026-07-17",
-          "verifiedAt": "15 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/debpalash/VoiceStudio",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 2,1 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Instagram · @niyi.tech · alternativa local ao ElevenLabs · 1,9k likes públicos · observado 21 AGO",
-          "url": "https://www.instagram.com/reel/DYg7o7Um4Qb/",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · AiThatSpeaks · clonagem e dublagem local · 7,8k views · 158 likes · publicado 17 JUL",
-          "url": "https://www.youtube.com/watch?v=xkFkvxYKe1Q",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=debpalash%20VoiceStudio%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=VoiceStudio%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=VoiceStudio%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "repo": "NationalSecurityAgency/ghidra",
       "title": "Ghidra",
       "type": "Engenharia reversa + IA",
@@ -262,14 +180,14 @@
         "aviso de uso ético e ambiente isolado"
       ],
       "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "stars": 76716,
-      "forks": 8459,
-      "issues": 1960,
+      "stars": 77364,
+      "forks": 8549,
+      "issues": 1962,
       "language": "Java",
       "pushedAt": "2026-09-15T16:02:22Z",
-      "pushedLabel": "push há 9h",
-      "trendingStarsToday": 725,
-      "score": 90,
+      "pushedLabel": "push há 21h",
+      "trendingStarsToday": 1059,
+      "score": 92,
       "social": [
         {
           "platform": "YouTube",
@@ -290,7 +208,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 725 stars hoje",
+          "label": "GitHub Trending · 1,1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -315,178 +233,215 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
-      "repo": "melgarafael/DeskcommCRM",
-      "title": "DeskcommCRM",
-      "type": "CRM open-source com IA",
+      "repo": "cloudflare/security-audit-skill",
+      "title": "security-audit-skill",
+      "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Um brasileiro criou uma alternativa open-source ao Kommo e Intercom para agentes venderem pelo WhatsApp.",
-      "thesis": "IA de vendas, CRM e WhatsApp estão sendo empacotados em uma operação self-hosted com dados sob controle do negócio.",
+      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "broll": [
-        "CRM e funil",
-        "conversa no WhatsApp",
-        "agente qualificando lead",
-        "vídeo do criador"
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
       ],
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "stars": 2842,
-      "forks": 683,
-      "issues": 158,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-15T23:17:51Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 193,
-      "score": 76,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "Rafael Melgaço · CRM com IA e WhatsApp · 14,2k views · 665 likes · publicado 03 AGO",
-          "url": "https://www.youtube.com/watch?v=8lG8EmE8-UI",
-          "views": 14197,
-          "likes": 665,
-          "comments": 56,
-          "publishedAt": "2026-08-03",
-          "verifiedAt": "15 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "stars": 5730,
+      "forks": 344,
+      "issues": 6,
+      "language": "JavaScript",
+      "pushedAt": "2026-09-14T19:29:02Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 1434,
+      "score": 78,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "url": "https://github.com/cloudflare/security-audit-skill",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 193 stars hoje",
+          "label": "GitHub Trending · 1,4 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "YouTube · Rafael Melgaço · CRM com IA e WhatsApp · 14,2k views · 665 likes · publicado 03 AGO",
-          "url": "https://www.youtube.com/watch?v=8lG8EmE8-UI",
-          "kind": "social"
-        },
-        {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=melgarafael%20DeskcommCRM%20AI",
+          "url": "https://www.youtube.com/results?search_query=cloudflare%20security-audit-skill%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=DeskcommCRM%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=security-audit-skill%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=DeskcommCRM%20AI",
+          "url": "https://www.tiktok.com/search?q=security-audit-skill%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "repo": "Lakr233/vphone-cli",
+      "title": "vphone-cli",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 907 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Tendência técnica recente que precisa de validação editorial.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "stars": 13170,
+      "forks": 1576,
+      "issues": 32,
+      "language": "Swift",
+      "pushedAt": "2026-09-10T08:13:01Z",
+      "pushedLabel": "push há 6d",
+      "trendingStarsToday": 907,
+      "score": 70,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Lakr233/vphone-cli",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 907 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=Lakr233%20vphone-cli%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=vphone-cli%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=vphone-cli%20AI",
           "kind": "busca"
         }
       ],
       "rank": 5
     },
     {
-      "repo": "alphaXiv/OpenResearch",
-      "title": "OpenResearch",
+      "repo": "anthropics/claude-code",
+      "title": "claude-code",
       "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 531 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Turn your coding agents into research agents",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 155 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "stars": 3371,
-      "forks": 223,
-      "issues": 25,
-      "language": "Rust",
-      "pushedAt": "2026-09-16T01:10:33Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 531,
-      "score": 71,
+      "url": "https://github.com/anthropics/claude-code",
+      "stars": 145280,
+      "forks": 23403,
+      "issues": 12431,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-16T04:36:04Z",
+      "pushedLabel": "push há 9h",
+      "trendingStarsToday": 155,
+      "score": 70,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/alphaXiv/OpenResearch",
+          "url": "https://github.com/anthropics/claude-code",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 531 stars hoje",
+          "label": "GitHub Trending · 155 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=alphaXiv%20OpenResearch%20AI",
+          "url": "https://www.youtube.com/results?search_query=anthropics%20claude-code%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=OpenResearch%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-code%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=OpenResearch%20AI",
+          "url": "https://www.tiktok.com/search?q=claude-code%20AI",
           "kind": "busca"
         }
       ],
       "rank": 6
     },
     {
-      "repo": "danny-avila/LibreChat",
-      "title": "LibreChat",
+      "repo": "jamiepine/voicebox",
+      "title": "voicebox",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 254 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "hook": "Este repositório ganhou 409 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "The open-source AI voice studio. Clone, dictate, create.",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/danny-avila/LibreChat",
-      "stars": 43847,
-      "forks": 9024,
-      "issues": 741,
+      "url": "https://github.com/jamiepine/voicebox",
+      "stars": 54116,
+      "forks": 6772,
+      "issues": 693,
       "language": "TypeScript",
-      "pushedAt": "2026-09-15T23:27:07Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 254,
-      "score": 71,
+      "pushedAt": "2026-08-09T00:03:42Z",
+      "pushedLabel": "push há 39d",
+      "trendingStarsToday": 409,
+      "score": 67,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/danny-avila/LibreChat",
+          "url": "https://github.com/jamiepine/voicebox",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 254 stars hoje",
+          "label": "GitHub Trending · 409 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=danny-avila%20LibreChat%20AI",
+          "url": "https://www.youtube.com/results?search_query=jamiepine%20voicebox%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=LibreChat%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=voicebox%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=LibreChat%20AI",
+          "url": "https://www.tiktok.com/search?q=voicebox%20AI",
           "kind": "busca"
         }
       ],
@@ -506,12 +461,12 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 262870,
-      "forks": 22173,
-      "issues": 497,
+      "stars": 263320,
+      "forks": 22211,
+      "issues": 499,
       "language": "Shell",
       "pushedAt": "2026-09-15T14:29:06Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 23h",
       "trendingStarsToday": null,
       "score": 65,
       "social": [
@@ -568,12 +523,12 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 245871,
-      "forks": 51307,
-      "issues": 43562,
+      "stars": 246051,
+      "forks": 51383,
+      "issues": 43426,
       "language": "Python",
-      "pushedAt": "2026-09-16T01:07:05Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-09-16T12:01:33Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": null,
       "score": 65,
       "social": [
@@ -617,62 +572,53 @@
       "rank": 9
     },
     {
-      "repo": "tt-a1i/archify",
-      "type": "Ferramenta visual para dev",
-      "status": "Gravar agora",
-      "hook": "Esse repo lê seu código e desenha a arquitetura inteira sozinho.",
-      "thesis": "A IA deixa de explicar código e passa a torná-lo visual.",
+      "repo": "anthropics/knowledge-work-plugins",
+      "title": "knowledge-work-plugins",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 96 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "broll": [
-        "demo oficial",
-        "mapa interativo",
+        "GitHub Trending",
         "README",
-        "código virando diagrama"
+        "demo oficial",
+        "histórico do projeto"
       ],
-      "title": "archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "stars": 63599,
-      "forks": 4217,
-      "issues": 173,
-      "language": "JavaScript",
-      "pushedAt": "2026-09-15T08:27:46Z",
-      "pushedLabel": "push há 17h",
-      "trendingStarsToday": null,
-      "score": 62,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "The Next New Thing · Archify entre os repos em alta · 111k views · publicado 04 SET",
-          "url": "https://www.youtube.com/watch?v=AWzzmrCPe-A",
-          "views": 111709,
-          "publishedAt": "2026-09-04",
-          "verifiedAt": "07 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "stars": 24160,
+      "forks": 2914,
+      "issues": 86,
+      "language": "Python",
+      "pushedAt": "2026-09-16T07:34:39Z",
+      "pushedLabel": "push há 6h",
+      "trendingStarsToday": 96,
+      "score": 63,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/tt-a1i/archify",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
           "kind": "oficial"
         },
         {
-          "label": "YouTube · The Next New Thing · Archify entre os repos em alta · 111k views · publicado 04 SET",
-          "url": "https://www.youtube.com/watch?v=AWzzmrCPe-A",
-          "kind": "social"
+          "label": "GitHub Trending · 96 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=tt-a1i%20archify%20AI",
+          "url": "https://www.youtube.com/results?search_query=anthropics%20knowledge-work-plugins%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=archify%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=knowledge-work-plugins%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=archify%20AI",
+          "url": "https://www.tiktok.com/search?q=knowledge-work-plugins%20AI",
           "kind": "busca"
         }
       ],
@@ -691,14 +637,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 82056,
-      "forks": 7150,
-      "issues": 138,
+      "stars": 82327,
+      "forks": 7177,
+      "issues": 140,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 9h",
+      "pushedLabel": "push há 21h",
       "trendingStarsToday": null,
-      "score": 59,
+      "score": 58,
       "social": [
         {
           "platform": "YouTube",
@@ -754,12 +700,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26780,
-      "forks": 2525,
-      "issues": 772,
+      "stars": 26821,
+      "forks": 2527,
+      "issues": 774,
       "language": "TypeScript",
       "pushedAt": "2026-09-15T13:20:30Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -793,23 +739,23 @@
     {
       "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
       "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
-      "points": 210,
-      "comments": 149,
+      "points": 224,
+      "comments": 163,
       "publishedAt": "2026-09-15T16:38:45Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
       "url": "https://github.com/pizza-bot-app/pizza-bot",
-      "points": 30,
-      "comments": 13,
+      "points": 50,
+      "comments": 31,
       "publishedAt": "2026-09-15T15:20:26Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "What we have learned at OpenShell applying formal methods to control AI agents",
       "url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/",
-      "points": 31,
+      "points": 34,
       "comments": 11,
       "publishedAt": "2026-09-15T14:40:05Z",
       "source": "Hacker News / Algolia"
@@ -817,8 +763,8 @@
     {
       "title": "Show HN: Loss. a tiny satire about AI progress",
       "url": "https://workatloss.com/",
-      "points": 30,
-      "comments": 8,
+      "points": 34,
+      "comments": 10,
       "publishedAt": "2026-09-15T14:16:44Z",
       "source": "Hacker News / Algolia"
     },
@@ -842,51 +788,51 @@
   "trending": [
     {
       "repo": "alibaba/open-code-review",
-      "starsToday": 2756
+      "starsToday": 3215
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "starsToday": 1434
     },
     {
       "repo": "JustVugg/colibri",
-      "starsToday": 2026
+      "starsToday": 1532
+    },
+    {
+      "repo": "abue-ammar/tinycast",
+      "starsToday": 1076
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "starsToday": 409
+    },
+    {
+      "repo": "Lakr233/vphone-cli",
+      "starsToday": 907
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "starsToday": 96
     },
     {
       "repo": "ever-co/ever-gauzy",
-      "starsToday": 634
+      "starsToday": 771
     },
     {
-      "repo": "debpalash/VoiceStudio",
-      "starsToday": 2072
-    },
-    {
-      "repo": "Homebrew/BrewUI",
-      "starsToday": 271
-    },
-    {
-      "repo": "melgarafael/DeskcommCRM",
-      "starsToday": 193
-    },
-    {
-      "repo": "alphaXiv/OpenResearch",
-      "starsToday": 531
+      "repo": "ankitects/anki",
+      "starsToday": 50
     },
     {
       "repo": "NationalSecurityAgency/ghidra",
-      "starsToday": 725
+      "starsToday": 1059
     },
     {
-      "repo": "danny-avila/LibreChat",
-      "starsToday": 254
+      "repo": "anthropics/claude-code",
+      "starsToday": 155
     },
     {
-      "repo": "pacifio/atlas",
-      "starsToday": 91
-    },
-    {
-      "repo": "MG1937/ASC",
-      "starsToday": 129
-    },
-    {
-      "repo": "addyosmani/agent-skills",
-      "starsToday": 307
+      "repo": "roboflow/supervision",
+      "starsToday": 217
     }
   ],
   "monitored": [
@@ -903,14 +849,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 82056,
-      "forks": 7150,
-      "issues": 138,
+      "stars": 82327,
+      "forks": 7177,
+      "issues": 140,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 9h",
+      "pushedLabel": "push há 21h",
       "trendingStarsToday": null,
-      "score": 59,
+      "score": 58,
       "social": [
         {
           "platform": "YouTube",
@@ -966,12 +912,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26780,
-      "forks": 2525,
-      "issues": 772,
+      "stars": 26821,
+      "forks": 2527,
+      "issues": 774,
       "language": "TypeScript",
       "pushedAt": "2026-09-15T13:20:30Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
