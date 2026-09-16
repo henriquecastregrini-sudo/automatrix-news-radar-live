@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T13:27:34.119Z",
-  "generatedLabel": "16 de set. de 2026 · 10:27",
+  "generatedAt": "2026-09-16T15:11:35.571Z",
+  "generatedLabel": "16 de set. de 2026 · 12:11",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -46,12 +46,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 30535,
-      "forks": 2177,
+      "stars": 30845,
+      "forks": 2204,
       "issues": 178,
       "language": "Go",
-      "pushedAt": "2026-09-16T12:44:24Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-09-16T14:52:32Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 3215,
       "score": 93,
       "social": [
@@ -116,14 +116,14 @@
         "explicação visual de redes neurais"
       ],
       "url": "https://github.com/ManimCommunity/manim",
-      "stars": 40868,
+      "stars": 40871,
       "forks": 3114,
       "issues": 503,
       "language": "Python",
       "pushedAt": "2026-09-14T15:09:06Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
-      "score": 58,
+      "score": 51,
       "social": [
         {
           "platform": "YouTube",
@@ -180,12 +180,12 @@
         "aviso de uso ético e ambiente isolado"
       ],
       "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "stars": 77364,
-      "forks": 8549,
+      "stars": 77452,
+      "forks": 8560,
       "issues": 1962,
       "language": "Java",
       "pushedAt": "2026-09-15T16:02:22Z",
-      "pushedLabel": "push há 21h",
+      "pushedLabel": "push há 23h",
       "trendingStarsToday": 1059,
       "score": 92,
       "social": [
@@ -240,7 +240,7 @@
       "title": "security-audit-skill",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 1,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "broll": [
         "GitHub Trending",
@@ -249,13 +249,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 5730,
-      "forks": 344,
-      "issues": 6,
+      "stars": 6048,
+      "forks": 363,
+      "issues": 7,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T19:29:02Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 1434,
+      "trendingStarsToday": 1249,
       "score": 78,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -266,7 +266,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,4 mil stars hoje",
+          "label": "GitHub Trending · 1,2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -302,9 +302,9 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Lakr233/vphone-cli",
-      "stars": 13170,
-      "forks": 1576,
-      "issues": 32,
+      "stars": 13212,
+      "forks": 1579,
+      "issues": 33,
       "language": "Swift",
       "pushedAt": "2026-09-10T08:13:01Z",
       "pushedLabel": "push há 6d",
@@ -355,12 +355,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/claude-code",
-      "stars": 145280,
-      "forks": 23403,
-      "issues": 12431,
+      "stars": 145309,
+      "forks": 23418,
+      "issues": 12459,
       "language": "TypeScript",
       "pushedAt": "2026-09-16T04:36:04Z",
-      "pushedLabel": "push há 9h",
+      "pushedLabel": "push há 11h",
       "trendingStarsToday": 155,
       "score": 70,
       "social": [],
@@ -408,8 +408,8 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/jamiepine/voicebox",
-      "stars": 54116,
-      "forks": 6772,
+      "stars": 54162,
+      "forks": 6775,
       "issues": 693,
       "language": "TypeScript",
       "pushedAt": "2026-08-09T00:03:42Z",
@@ -461,12 +461,12 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 263320,
-      "forks": 22211,
-      "issues": 499,
+      "stars": 263406,
+      "forks": 22223,
+      "issues": 501,
       "language": "Shell",
       "pushedAt": "2026-09-15T14:29:06Z",
-      "pushedLabel": "push há 23h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 65,
       "social": [
@@ -523,12 +523,12 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 246051,
-      "forks": 51383,
-      "issues": 43426,
+      "stars": 246082,
+      "forks": 51398,
+      "issues": 43474,
       "language": "Python",
-      "pushedAt": "2026-09-16T12:01:33Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-09-16T15:10:44Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
       "social": [
@@ -585,12 +585,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars": 24160,
-      "forks": 2914,
-      "issues": 86,
+      "stars": 24183,
+      "forks": 2917,
+      "issues": 88,
       "language": "Python",
-      "pushedAt": "2026-09-16T07:34:39Z",
-      "pushedLabel": "push há 6h",
+      "pushedAt": "2026-09-16T15:01:01Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 96,
       "score": 63,
       "social": [],
@@ -637,12 +637,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 82327,
-      "forks": 7177,
+      "stars": 82371,
+      "forks": 7186,
       "issues": 140,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 21h",
+      "pushedLabel": "push há 23h",
       "trendingStarsToday": null,
       "score": 58,
       "social": [
@@ -700,8 +700,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26821,
-      "forks": 2527,
+      "stars": 26830,
+      "forks": 2528,
       "issues": 774,
       "language": "TypeScript",
       "pushedAt": "2026-09-15T13:20:30Z",
@@ -739,16 +739,24 @@
     {
       "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
       "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
-      "points": 224,
-      "comments": 163,
+      "points": 225,
+      "comments": 164,
       "publishedAt": "2026-09-15T16:38:45Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai/",
+      "points": 94,
+      "comments": 86,
+      "publishedAt": "2026-09-16T13:51:15Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
       "url": "https://github.com/pizza-bot-app/pizza-bot",
-      "points": 50,
-      "comments": 31,
+      "points": 52,
+      "comments": 33,
       "publishedAt": "2026-09-15T15:20:26Z",
       "source": "Hacker News / Algolia"
     },
@@ -763,7 +771,7 @@
     {
       "title": "Show HN: Loss. a tiny satire about AI progress",
       "url": "https://workatloss.com/",
-      "points": 34,
+      "points": 35,
       "comments": 10,
       "publishedAt": "2026-09-15T14:16:44Z",
       "source": "Hacker News / Algolia"
@@ -775,14 +783,6 @@
       "comments": 5,
       "publishedAt": "2026-09-14T16:26:03Z",
       "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Transitions.dev: UI transitions for AI agents",
-      "url": "https://transitions.dev/",
-      "points": 23,
-      "comments": 8,
-      "publishedAt": "2026-09-14T15:18:58Z",
-      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
@@ -792,7 +792,7 @@
     },
     {
       "repo": "cloudflare/security-audit-skill",
-      "starsToday": 1434
+      "starsToday": 1249
     },
     {
       "repo": "JustVugg/colibri",
@@ -849,12 +849,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 82327,
-      "forks": 7177,
+      "stars": 82371,
+      "forks": 7186,
       "issues": 140,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 21h",
+      "pushedLabel": "push há 23h",
       "trendingStarsToday": null,
       "score": 58,
       "social": [
@@ -912,8 +912,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26821,
-      "forks": 2527,
+      "stars": 26830,
+      "forks": 2528,
       "issues": 774,
       "language": "TypeScript",
       "pushedAt": "2026-09-15T13:20:30Z",
