@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T19:50:42.362Z",
-  "generatedLabel": "16 de set. de 2026 · 16:50",
+  "generatedAt": "2026-09-17T01:15:19.247Z",
+  "generatedLabel": "16 de set. de 2026 · 22:15",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -46,13 +46,13 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 31412,
-      "forks": 2241,
-      "issues": 182,
+      "stars": 31902,
+      "forks": 2260,
+      "issues": 184,
       "language": "Go",
       "pushedAt": "2026-09-16T14:52:32Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 3215,
+      "pushedLabel": "push há 10h",
+      "trendingStarsToday": 3231,
       "score": 93,
       "social": [
         {
@@ -116,9 +116,9 @@
         "explicação visual de redes neurais"
       ],
       "url": "https://github.com/ManimCommunity/manim",
-      "stars": 40875,
+      "stars": 40876,
       "forks": 3113,
-      "issues": 503,
+      "issues": 504,
       "language": "Python",
       "pushedAt": "2026-09-14T15:09:06Z",
       "pushedLabel": "push há 2d",
@@ -180,8 +180,8 @@
         "aviso de uso ético e ambiente isolado"
       ],
       "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "stars": 77636,
-      "forks": 8584,
+      "stars": 77810,
+      "forks": 8607,
       "issues": 1960,
       "language": "Java",
       "pushedAt": "2026-09-15T16:02:22Z",
@@ -236,64 +236,11 @@
       "rank": 3
     },
     {
-      "repo": "cloudflare/security-audit-skill",
-      "title": "security-audit-skill",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 6684,
-      "forks": 398,
-      "issues": 13,
-      "language": "JavaScript",
-      "pushedAt": "2026-09-14T19:29:02Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 1249,
-      "score": 71,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/cloudflare/security-audit-skill",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,2 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=cloudflare%20security-audit-skill%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=security-audit-skill%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=security-audit-skill%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
-    },
-    {
       "repo": "anthropics/claude-code",
       "title": "claude-code",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 155 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 165 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "broll": [
         "GitHub Trending",
@@ -302,13 +249,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/claude-code",
-      "stars": 145394,
-      "forks": 23461,
-      "issues": 12514,
+      "stars": 145512,
+      "forks": 23487,
+      "issues": 12470,
       "language": "TypeScript",
-      "pushedAt": "2026-09-16T18:56:57Z",
+      "pushedAt": "2026-09-17T00:12:02Z",
       "pushedLabel": "push há 1h",
-      "trendingStarsToday": 155,
+      "trendingStarsToday": 165,
       "score": 70,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -319,7 +266,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 155 stars hoje",
+          "label": "GitHub Trending · 165 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -339,67 +286,67 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
-      "repo": "jamiepine/voicebox",
-      "title": "voicebox",
+      "repo": "cloudflare/security-audit-skill",
+      "title": "security-audit-skill",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 409 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "The open-source AI voice studio. Clone, dictate, create.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 927 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/jamiepine/voicebox",
-      "stars": 54263,
-      "forks": 6782,
-      "issues": 696,
-      "language": "TypeScript",
-      "pushedAt": "2026-08-09T00:03:42Z",
-      "pushedLabel": "push há 39d",
-      "trendingStarsToday": 409,
-      "score": 67,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "stars": 7275,
+      "forks": 422,
+      "issues": 14,
+      "language": "JavaScript",
+      "pushedAt": "2026-09-14T19:29:02Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 927,
+      "score": 69,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/jamiepine/voicebox",
+          "url": "https://github.com/cloudflare/security-audit-skill",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 409 stars hoje",
+          "label": "GitHub Trending · 927 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=jamiepine%20voicebox%20AI",
+          "url": "https://www.youtube.com/results?search_query=cloudflare%20security-audit-skill%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=voicebox%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=security-audit-skill%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=voicebox%20AI",
+          "url": "https://www.tiktok.com/search?q=security-audit-skill%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "repo": "Lakr233/vphone-cli",
       "title": "vphone-cli",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 444 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 547 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Tendência técnica recente que precisa de validação editorial.",
       "broll": [
         "GitHub Trending",
@@ -408,14 +355,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Lakr233/vphone-cli",
-      "stars": 13287,
-      "forks": 1585,
+      "stars": 13347,
+      "forks": 1587,
       "issues": 33,
       "language": "Swift",
       "pushedAt": "2026-09-10T08:13:01Z",
       "pushedLabel": "push há 7d",
-      "trendingStarsToday": 444,
-      "score": 65,
+      "trendingStarsToday": 547,
+      "score": 67,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -425,7 +372,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 444 stars hoje",
+          "label": "GitHub Trending · 547 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -445,6 +392,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 6
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "title": "voicebox",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 417 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "The open-source AI voice studio. Clone, dictate, create.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/jamiepine/voicebox",
+      "stars": 54389,
+      "forks": 6790,
+      "issues": 697,
+      "language": "TypeScript",
+      "pushedAt": "2026-08-09T00:03:42Z",
+      "pushedLabel": "push há 39d",
+      "trendingStarsToday": 417,
+      "score": 67,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/jamiepine/voicebox",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 417 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=jamiepine%20voicebox%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=voicebox%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=voicebox%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 7
     },
     {
@@ -461,8 +461,8 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 263526,
-      "forks": 22236,
+      "stars": 263625,
+      "forks": 22240,
       "issues": 501,
       "language": "Shell",
       "pushedAt": "2026-09-15T14:29:06Z",
@@ -523,11 +523,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 246142,
-      "forks": 51443,
-      "issues": 43716,
+      "stars": 246204,
+      "forks": 51478,
+      "issues": 43567,
       "language": "Python",
-      "pushedAt": "2026-09-16T19:49:33Z",
+      "pushedAt": "2026-09-17T01:12:49Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -576,7 +576,7 @@
       "title": "knowledge-work-plugins",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 96 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 110 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "broll": [
         "GitHub Trending",
@@ -585,14 +585,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars": 24235,
-      "forks": 2919,
-      "issues": 77,
+      "stars": 24292,
+      "forks": 2922,
+      "issues": 79,
       "language": "Python",
-      "pushedAt": "2026-09-16T19:06:16Z",
+      "pushedAt": "2026-09-17T00:17:25Z",
       "pushedLabel": "push há 1h",
-      "trendingStarsToday": 96,
-      "score": 63,
+      "trendingStarsToday": 110,
+      "score": 64,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -602,7 +602,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 96 stars hoje",
+          "label": "GitHub Trending · 110 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -637,9 +637,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 82470,
-      "forks": 7204,
-      "issues": 140,
+      "stars": 82532,
+      "forks": 7215,
+      "issues": 141,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 1d",
@@ -700,12 +700,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26847,
-      "forks": 2529,
+      "stars": 26855,
+      "forks": 2533,
       "issues": 778,
       "language": "TypeScript",
       "pushedAt": "2026-09-15T13:20:30Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -739,23 +739,23 @@
     {
       "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
       "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
-      "points": 225,
-      "comments": 166,
+      "points": 228,
+      "comments": 167,
       "publishedAt": "2026-09-15T16:38:45Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
       "url": "https://openai.com/index/reimagining-advertising-with-ai/",
-      "points": 146,
-      "comments": 155,
+      "points": 151,
+      "comments": 169,
       "publishedAt": "2026-09-16T13:51:15Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
       "url": "https://github.com/pizza-bot-app/pizza-bot",
-      "points": 55,
+      "points": 56,
       "comments": 33,
       "publishedAt": "2026-09-15T15:20:26Z",
       "source": "Hacker News / Algolia"
@@ -763,7 +763,7 @@
     {
       "title": "What we have learned at OpenShell applying formal methods to control AI agents",
       "url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/",
-      "points": 35,
+      "points": 36,
       "comments": 11,
       "publishedAt": "2026-09-15T14:40:05Z",
       "source": "Hacker News / Algolia"
@@ -788,39 +788,39 @@
   "trending": [
     {
       "repo": "alibaba/open-code-review",
-      "starsToday": 3215
+      "starsToday": 3231
     },
     {
       "repo": "cloudflare/security-audit-skill",
-      "starsToday": 1249
+      "starsToday": 927
     },
     {
       "repo": "JustVugg/colibri",
-      "starsToday": 1532
+      "starsToday": 1546
     },
     {
       "repo": "abue-ammar/tinycast",
-      "starsToday": 1136
+      "starsToday": 1179
     },
     {
       "repo": "jamiepine/voicebox",
-      "starsToday": 409
+      "starsToday": 417
     },
     {
       "repo": "Lakr233/vphone-cli",
-      "starsToday": 444
+      "starsToday": 547
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
-      "starsToday": 96
+      "starsToday": 110
     },
     {
       "repo": "ever-co/ever-gauzy",
-      "starsToday": 771
+      "starsToday": 778
     },
     {
       "repo": "ankitects/anki",
-      "starsToday": 50
+      "starsToday": 58
     },
     {
       "repo": "NationalSecurityAgency/ghidra",
@@ -828,11 +828,11 @@
     },
     {
       "repo": "anthropics/claude-code",
-      "starsToday": 155
+      "starsToday": 165
     },
     {
       "repo": "roboflow/supervision",
-      "starsToday": 292
+      "starsToday": 260
     }
   ],
   "monitored": [
@@ -849,9 +849,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 82470,
-      "forks": 7204,
-      "issues": 140,
+      "stars": 82532,
+      "forks": 7215,
+      "issues": 141,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 1d",
@@ -912,12 +912,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26847,
-      "forks": 2529,
+      "stars": 26855,
+      "forks": 2533,
       "issues": 778,
       "language": "TypeScript",
       "pushedAt": "2026-09-15T13:20:30Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
