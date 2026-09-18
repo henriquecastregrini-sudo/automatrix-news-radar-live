@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T01:10:44.751Z",
-  "generatedLabel": "17 de set. de 2026 · 22:10",
+  "generatedAt": "2026-09-18T14:40:52.980Z",
+  "generatedLabel": "18 de set. de 2026 · 11:40",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -46,13 +46,13 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 34775,
-      "forks": 2474,
-      "issues": 207,
+      "stars": 36282,
+      "forks": 2583,
+      "issues": 229,
       "language": "Go",
-      "pushedAt": "2026-09-17T13:19:37Z",
-      "pushedLabel": "push há 12h",
-      "trendingStarsToday": 3286,
+      "pushedAt": "2026-09-18T14:24:55Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 2724,
       "score": 93,
       "social": [
         {
@@ -74,7 +74,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 3,3 mil stars hoje",
+          "label": "GitHub Trending · 2,7 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -116,12 +116,12 @@
         "explicação visual de redes neurais"
       ],
       "url": "https://github.com/ManimCommunity/manim",
-      "stars": 40898,
-      "forks": 3116,
-      "issues": 504,
+      "stars": 40907,
+      "forks": 3115,
+      "issues": 506,
       "language": "Python",
-      "pushedAt": "2026-09-17T17:09:42Z",
-      "pushedLabel": "push há 8h",
+      "pushedAt": "2026-09-18T01:31:56Z",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": null,
       "score": 58,
       "social": [
@@ -167,179 +167,71 @@
       "rank": 2
     },
     {
-      "repo": "NationalSecurityAgency/ghidra",
-      "title": "Ghidra",
-      "type": "Engenharia reversa + IA",
+      "repo": "affaan-m/ECC",
+      "title": "ECC",
+      "type": "Otimização de agentes",
       "status": "Gravar agora",
-      "hook": "A ferramenta aberta da NSA está virando os olhos de agentes de IA para desmontar programas e investigar malware.",
-      "thesis": "A combinação de Ghidra com MCP e modelos locais transforma engenharia reversa em um fluxo operável por agentes, mas exige uso autorizado e análise humana.",
+      "hook": "Este sistema promete deixar Claude, Codex e outros agentes mais rápidos, seguros e consistentes.",
+      "thesis": "O próximo salto dos agentes pode vir do harness ao redor do modelo, não de um modelo maior.",
       "broll": [
-        "interface do Ghidra",
-        "decompilador e grafo de funções",
-        "agente via MCP anotando binário",
-        "aviso de uso ético e ambiente isolado"
+        "GitHub Trending",
+        "README",
+        "skills e memória",
+        "comparação de agentes"
       ],
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "stars": 78494,
-      "forks": 8684,
-      "issues": 1961,
-      "language": "Java",
-      "pushedAt": "2026-09-17T12:45:32Z",
-      "pushedLabel": "push há 12h",
-      "trendingStarsToday": 912,
-      "score": 91,
+      "url": "https://github.com/affaan-m/ECC",
+      "stars": 261656,
+      "forks": 39162,
+      "issues": 228,
+      "language": "JavaScript",
+      "pushedAt": "2026-09-17T18:04:07Z",
+      "pushedLabel": "push há 21h",
+      "trendingStarsToday": 965,
+      "score": 92,
       "social": [
         {
           "platform": "YouTube",
-          "label": "Jackson Mittag · Claude + Ghidra MCP · 51,9k views · 1,8k likes · publicado 10 ABR",
-          "url": "https://www.youtube.com/watch?v=ybSWI2cZzIU",
-          "views": 51914,
-          "likes": 1811,
-          "comments": 207,
-          "publishedAt": "2026-04-10",
-          "verifiedAt": "15 SET 2026"
+          "label": "DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO",
+          "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
+          "views": 1139,
+          "publishedAt": "2026-08-27",
+          "verifiedAt": "08 SET 2026"
         }
       ],
       "socialStatus": "referência direta verificada",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "url": "https://github.com/affaan-m/ECC",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 912 stars hoje",
+          "label": "GitHub Trending · 965 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "YouTube · Jackson Mittag · Claude + Ghidra MCP · 51,9k views · 1,8k likes · publicado 10 ABR",
-          "url": "https://www.youtube.com/watch?v=ybSWI2cZzIU",
+          "label": "YouTube · DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO",
+          "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
           "kind": "social"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=NationalSecurityAgency%20ghidra%20AI",
+          "url": "https://www.youtube.com/results?search_query=affaan-m%20ECC%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Ghidra%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=ECC%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Ghidra%20AI",
+          "url": "https://www.tiktok.com/search?q=ECC%20AI",
           "kind": "busca"
         }
       ],
       "rank": 3
-    },
-    {
-      "repo": "addyosmani/agent-skills",
-      "title": "agent-skills",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 680 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Production-grade engineering skills for AI coding agents.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/addyosmani/agent-skills",
-      "stars": 95856,
-      "forks": 10145,
-      "issues": 116,
-      "language": "JavaScript",
-      "pushedAt": "2026-09-17T23:38:02Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 680,
-      "score": 78,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 680 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=addyosmani%20agent-skills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=agent-skills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=agent-skills%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "repo": "anthropics/claude-code",
-      "title": "claude-code",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 538 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/anthropics/claude-code",
-      "stars": 145873,
-      "forks": 23639,
-      "issues": 12460,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-17T22:33:16Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 538,
-      "score": 78,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/anthropics/claude-code",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 538 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=anthropics%20claude-code%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-code%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=claude-code%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 5
     },
     {
       "repo": "Tencent/BrowserSkill",
@@ -355,14 +247,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Tencent/BrowserSkill",
-      "stars": 4158,
-      "forks": 295,
-      "issues": 51,
+      "stars": 4986,
+      "forks": 351,
+      "issues": 49,
       "language": "TypeScript",
-      "pushedAt": "2026-09-17T09:11:26Z",
-      "pushedLabel": "push há 16h",
-      "trendingStarsToday": 1302,
-      "score": 77,
+      "pushedAt": "2026-09-18T14:02:05Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 1319,
+      "score": 78,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -392,67 +284,120 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 4
     },
     {
-      "repo": "alphaXiv/OpenResearch",
-      "title": "OpenResearch",
+      "repo": "addyosmani/agent-skills",
+      "title": "agent-skills",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 939 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Turn your coding agents into research agents",
+      "hook": "Este repositório ganhou 677 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Production-grade engineering skills for AI coding agents.",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "stars": 4956,
-      "forks": 306,
-      "issues": 42,
-      "language": "Rust",
-      "pushedAt": "2026-09-17T23:48:29Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 939,
-      "score": 75,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars": 96189,
+      "forks": 10170,
+      "issues": 110,
+      "language": "JavaScript",
+      "pushedAt": "2026-09-18T03:32:22Z",
+      "pushedLabel": "push há 11h",
+      "trendingStarsToday": 677,
+      "score": 78,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/alphaXiv/OpenResearch",
+          "url": "https://github.com/addyosmani/agent-skills",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 939 stars hoje",
+          "label": "GitHub Trending · 677 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=alphaXiv%20OpenResearch%20AI",
+          "url": "https://www.youtube.com/results?search_query=addyosmani%20agent-skills%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=OpenResearch%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=agent-skills%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=OpenResearch%20AI",
+          "url": "https://www.tiktok.com/search?q=agent-skills%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 5
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "title": "claude-code",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 442 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/anthropics/claude-code",
+      "stars": 146112,
+      "forks": 23711,
+      "issues": 12453,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-18T02:12:25Z",
+      "pushedLabel": "push há 12h",
+      "trendingStarsToday": 442,
+      "score": 76,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/anthropics/claude-code",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 442 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=anthropics%20claude-code%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-code%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=claude-code%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 6
     },
     {
       "repo": "cloudflare/security-audit-skill",
       "title": "security-audit-skill",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 3,6 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 3 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "broll": [
         "GitHub Trending",
@@ -461,13 +406,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 10679,
-      "forks": 570,
-      "issues": 30,
+      "stars": 12368,
+      "forks": 668,
+      "issues": 32,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T19:29:02Z",
-      "pushedLabel": "push há 3d",
-      "trendingStarsToday": 3607,
+      "pushedLabel": "push há 4d",
+      "trendingStarsToday": 3019,
       "score": 73,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -478,7 +423,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 3,6 mil stars hoje",
+          "label": "GitHub Trending · 3 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -498,6 +443,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 7
+    },
+    {
+      "repo": "TencentCloud/Octop",
+      "title": "Octop",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 571 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/TencentCloud/Octop",
+      "stars": 3822,
+      "forks": 397,
+      "issues": 235,
+      "language": "Python",
+      "pushedAt": "2026-09-18T07:28:12Z",
+      "pushedLabel": "push há 7h",
+      "trendingStarsToday": 571,
+      "score": 72,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/Octop",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 571 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20Octop%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Octop%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Octop%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 8
     },
     {
@@ -514,12 +512,12 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 264503,
-      "forks": 22308,
+      "stars": 265051,
+      "forks": 22350,
       "issues": 502,
       "language": "Shell",
-      "pushedAt": "2026-09-17T11:11:14Z",
-      "pushedLabel": "push há 14h",
+      "pushedAt": "2026-09-18T10:12:48Z",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": null,
       "score": 65,
       "social": [
@@ -576,11 +574,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 246560,
-      "forks": 51650,
-      "issues": 43821,
+      "stars": 246783,
+      "forks": 51740,
+      "issues": 44215,
       "language": "Python",
-      "pushedAt": "2026-09-18T00:55:42Z",
+      "pushedAt": "2026-09-18T14:40:15Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -637,12 +635,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 82814,
-      "forks": 7246,
-      "issues": 144,
+      "stars": 83027,
+      "forks": 7265,
+      "issues": 148,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 51,
       "social": [
@@ -700,12 +698,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26889,
-      "forks": 2548,
-      "issues": 776,
+      "stars": 26932,
+      "forks": 2554,
+      "issues": 785,
       "language": "TypeScript",
-      "pushedAt": "2026-09-17T12:47:01Z",
-      "pushedLabel": "push há 12h",
+      "pushedAt": "2026-09-18T08:25:50Z",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -737,25 +735,25 @@
   ],
   "news": [
     {
-      "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai/",
-      "points": 156,
-      "comments": 178,
-      "publishedAt": "2026-09-16T13:51:15Z",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "points": 224,
+      "comments": 125,
+      "publishedAt": "2026-09-17T13:01:44Z",
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Show HN: Share your AI Setup, Learn from others",
-      "url": "https://mysetup.ai/",
-      "points": 180,
-      "comments": 92,
-      "publishedAt": "2026-09-17T13:01:44Z",
+      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "points": 208,
+      "comments": 44,
+      "publishedAt": "2026-09-18T10:35:28Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
       "url": "https://www.aclif.ai/",
-      "points": 29,
+      "points": 32,
       "comments": 16,
       "publishedAt": "2026-09-17T16:48:17Z",
       "source": "Hacker News / Algolia"
@@ -763,8 +761,8 @@
     {
       "title": "Show HN: Craigslist for agent skills, curated by a human",
       "url": "https://skillbay.sh/",
-      "points": 21,
-      "comments": 16,
+      "points": 24,
+      "comments": 17,
       "publishedAt": "2026-09-17T16:53:51Z",
       "source": "Hacker News / Algolia"
     },
@@ -787,52 +785,52 @@
   ],
   "trending": [
     {
-      "repo": "alibaba/open-code-review",
-      "starsToday": 3286
-    },
-    {
       "repo": "cloudflare/security-audit-skill",
-      "starsToday": 3607
-    },
-    {
-      "repo": "addyosmani/agent-skills",
-      "starsToday": 680
-    },
-    {
-      "repo": "Tencent/BrowserSkill",
-      "starsToday": 1302
-    },
-    {
-      "repo": "alphaXiv/OpenResearch",
-      "starsToday": 939
+      "starsToday": 3019
     },
     {
       "repo": "anthropics/claude-code",
-      "starsToday": 538
+      "starsToday": 442
     },
     {
-      "repo": "NationalSecurityAgency/ghidra",
-      "starsToday": 912
+      "repo": "alibaba/open-code-review",
+      "starsToday": 2724
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "starsToday": 965
+    },
+    {
+      "repo": "Tencent/BrowserSkill",
+      "starsToday": 1319
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "starsToday": 677
+    },
+    {
+      "repo": "TencentCloud/Octop",
+      "starsToday": 571
+    },
+    {
+      "repo": "Fission-AI/OpenSpec",
+      "starsToday": 298
+    },
+    {
+      "repo": "ankitects/anki",
+      "starsToday": 430
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
-      "starsToday": 287
+      "starsToday": 300
     },
     {
-      "repo": "Tencent/WeKnora",
-      "starsToday": 1125
+      "repo": "supermemoryai/supermemory",
+      "starsToday": 140
     },
     {
-      "repo": "abue-ammar/tinycast",
-      "starsToday": 739
-    },
-    {
-      "repo": "cilium/cilium",
-      "starsToday": 111
-    },
-    {
-      "repo": "jamiepine/voicebox",
-      "starsToday": 667
+      "repo": "tradesdontlie/tradingview-mcp",
+      "starsToday": 64
     }
   ],
   "monitored": [
@@ -849,12 +847,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 82814,
-      "forks": 7246,
-      "issues": 144,
+      "stars": 83027,
+      "forks": 7265,
+      "issues": 148,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 51,
       "social": [
@@ -912,12 +910,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26889,
-      "forks": 2548,
-      "issues": 776,
+      "stars": 26932,
+      "forks": 2554,
+      "issues": 785,
       "language": "TypeScript",
-      "pushedAt": "2026-09-17T12:47:01Z",
-      "pushedLabel": "push há 12h",
+      "pushedAt": "2026-09-18T08:25:50Z",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
