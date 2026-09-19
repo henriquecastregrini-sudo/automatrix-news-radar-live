@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T14:01:03.750Z",
-  "generatedLabel": "19 de set. de 2026 · 11:01",
+  "generatedAt": "2026-09-19T16:40:02.479Z",
+  "generatedLabel": "19 de set. de 2026 · 13:39",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -46,15 +46,24 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 37246,
-      "forks": 2664,
-      "issues": 224,
+      "stars": 37354,
+      "forks": 2674,
+      "issues": 228,
       "language": "Go",
       "pushedAt": "2026-09-19T12:30:32Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": null,
-      "score": 57,
+      "score": 59,
       "social": [
+        {
+          "platform": "YouTube",
+          "label": "The Next New Thing · Open Code Review entre os repos explicados · 21,1k views · 325 likes · publicado 18 SET",
+          "url": "https://www.youtube.com/watch?v=1fHsIveXRa8",
+          "views": 21140,
+          "likes": 325,
+          "publishedAt": "2026-09-18",
+          "verifiedAt": "19 SET 2026"
+        },
         {
           "platform": "YouTube",
           "label": "Signal Coders · agente de revisão da Alibaba · 6,4k views · 230 likes · publicado 25 JUL",
@@ -72,6 +81,11 @@
           "label": "GitHub",
           "url": "https://github.com/alibaba/open-code-review",
           "kind": "oficial"
+        },
+        {
+          "label": "YouTube · The Next New Thing · Open Code Review entre os repos explicados · 21,1k views · 325 likes · publicado 18 SET",
+          "url": "https://www.youtube.com/watch?v=1fHsIveXRa8",
+          "kind": "social"
         },
         {
           "label": "YouTube · Signal Coders · agente de revisão da Alibaba · 6,4k views · 230 likes · publicado 25 JUL",
@@ -111,12 +125,12 @@
         "explicação visual de redes neurais"
       ],
       "url": "https://github.com/ManimCommunity/manim",
-      "stars": 40920,
+      "stars": 40922,
       "forks": 3117,
       "issues": 508,
       "language": "Python",
       "pushedAt": "2026-09-19T01:48:14Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": null,
       "score": 58,
       "social": [
@@ -162,82 +176,39 @@
       "rank": 2
     },
     {
-      "repo": "addyosmani/agent-skills",
-      "title": "agent-skills",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 547 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Production-grade engineering skills for AI coding agents.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/addyosmani/agent-skills",
-      "stars": 96740,
-      "forks": 10222,
-      "issues": 111,
-      "language": "JavaScript",
-      "pushedAt": "2026-09-18T03:32:22Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 547,
-      "score": 77,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 547 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=addyosmani%20agent-skills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=agent-skills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=agent-skills%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "repo": "anthropics/claude-code",
-      "title": "claude-code",
-      "type": "Novo no GitHub Trending",
+      "title": "Claude Code",
+      "type": "Agente de código",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 482 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "hook": "O Claude Code está virando uma plataforma de agentes, skills e automações que trabalham diretamente no projeto.",
+      "thesis": "A disputa dos coding agents está migrando do melhor chat para o melhor ecossistema de ferramentas, contexto e execução.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "terminal do Claude Code",
+        "skills e subagentes",
+        "integrações MCP",
+        "repositório oficial"
       ],
       "url": "https://github.com/anthropics/claude-code",
-      "stars": 146551,
-      "forks": 23854,
-      "issues": 12381,
+      "stars": 146599,
+      "forks": 23872,
+      "issues": 12400,
       "language": "TypeScript",
       "pushedAt": "2026-09-19T03:10:40Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": 482,
-      "score": 77,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "score": 92,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Claude · What are skills? · 1,69M views · 17,5k likes · publicado 27 FEV",
+          "url": "https://www.youtube.com/watch?v=bjdBVZa66oU",
+          "views": 1687490,
+          "likes": 17488,
+          "publishedAt": "2026-02-27",
+          "verifiedAt": "19 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
       "sources": [
         {
           "label": "GitHub",
@@ -250,18 +221,105 @@
           "kind": "tendência"
         },
         {
+          "label": "YouTube · Claude · What are skills? · 1,69M views · 17,5k likes · publicado 27 FEV",
+          "url": "https://www.youtube.com/watch?v=bjdBVZa66oU",
+          "kind": "social"
+        },
+        {
           "label": "Buscar YouTube",
           "url": "https://www.youtube.com/results?search_query=anthropics%20claude-code%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-code%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Claude%20Code%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=claude-code%20AI",
+          "url": "https://www.tiktok.com/search?q=Claude%20Code%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "title": "Agent Skills",
+      "type": "Skills para agentes de código",
+      "status": "Gravar agora",
+      "hook": "Addy Osmani reuniu padrões de engenharia para transformar agentes de código em especialistas reutilizáveis.",
+      "thesis": "Skills estão deixando de ser prompts isolados e virando pacotes versionados de conhecimento, processo e validação.",
+      "broll": [
+        "estrutura das skills",
+        "README e exemplos",
+        "comparação entre agentes",
+        "vídeos técnicos sobre skill packs"
+      ],
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars": 96828,
+      "forks": 10230,
+      "issues": 111,
+      "language": "JavaScript",
+      "pushedAt": "2026-09-18T03:32:22Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 547,
+      "score": 91,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "The Gray Cat · Matt Pocock vs Addy Osmani · 18,5k views · 183 likes · publicado 27 AGO",
+          "url": "https://www.youtube.com/watch?v=IDQs0VBL5UY",
+          "views": 18569,
+          "likes": 183,
+          "publishedAt": "2026-08-27",
+          "verifiedAt": "19 SET 2026"
+        },
+        {
+          "platform": "YouTube",
+          "label": "AI Engineer · Building Great Agent Skills · 174k views · 5k likes · publicado 29 JUN",
+          "url": "https://www.youtube.com/watch?v=UNzCG3lw6O0",
+          "views": 173966,
+          "likes": 4956,
+          "publishedAt": "2026-06-29",
+          "verifiedAt": "19 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 547 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · The Gray Cat · Matt Pocock vs Addy Osmani · 18,5k views · 183 likes · publicado 27 AGO",
+          "url": "https://www.youtube.com/watch?v=IDQs0VBL5UY",
+          "kind": "social"
+        },
+        {
+          "label": "YouTube · AI Engineer · Building Great Agent Skills · 174k views · 5k likes · publicado 29 JUN",
+          "url": "https://www.youtube.com/watch?v=UNzCG3lw6O0",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=addyosmani%20agent-skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent%20Skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Agent%20Skills%20AI",
           "kind": "busca"
         }
       ],
@@ -269,28 +327,38 @@
     },
     {
       "repo": "cloudflare/security-audit-skill",
-      "title": "security-audit-skill",
-      "type": "Novo no GitHub Trending",
+      "title": "Security Audit Skill",
+      "type": "Auditoria de segurança por agentes",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 3,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "hook": "A Cloudflare publicou uma skill que obriga agentes independentes a encontrar, contestar e verificar vulnerabilidades.",
+      "thesis": "Auditoria com IA fica mais confiável quando descoberta e validação são separadas, com evidências estruturadas e verificadores adversariais.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "seis fases da auditoria",
+        "coverage ledger",
+        "findings.json",
+        "post técnico da Cloudflare"
       ],
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 15292,
-      "forks": 839,
+      "stars": 15647,
+      "forks": 854,
       "issues": 38,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T19:29:02Z",
       "pushedLabel": "push há 5d",
       "trendingStarsToday": 3162,
-      "score": 74,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "score": 83,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Signal Coders · Security Audit Skill · 648 views · 12 likes · sinal inicial de 17 SET",
+          "url": "https://www.youtube.com/watch?v=D6Iw15EHPfA",
+          "views": 648,
+          "likes": 12,
+          "publishedAt": "2026-09-17",
+          "verifiedAt": "19 SET 2026"
+        }
+      ],
+      "socialStatus": "referência direta verificada",
       "sources": [
         {
           "label": "GitHub",
@@ -303,18 +371,23 @@
           "kind": "tendência"
         },
         {
+          "label": "YouTube · Signal Coders · Security Audit Skill · 648 views · 12 likes · sinal inicial de 17 SET",
+          "url": "https://www.youtube.com/watch?v=D6Iw15EHPfA",
+          "kind": "social"
+        },
+        {
           "label": "Buscar YouTube",
           "url": "https://www.youtube.com/results?search_query=cloudflare%20security-audit-skill%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=security-audit-skill%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Security%20Audit%20Skill%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=security-audit-skill%20AI",
+          "url": "https://www.tiktok.com/search?q=Security%20Audit%20Skill%20AI",
           "kind": "busca"
         }
       ],
@@ -322,24 +395,24 @@
     },
     {
       "repo": "coder/coder",
-      "title": "coder",
-      "type": "Novo no GitHub Trending",
+      "title": "Coder",
+      "type": "Ambientes de desenvolvimento",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 406 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Secure environments for developers and their agents",
+      "hook": "Este projeto transforma infraestrutura própria em ambientes de desenvolvimento reproduzíveis para humanos e agentes.",
+      "thesis": "Equipes estão aproximando agentes de código de ambientes remotos controlados, persistentes e auditáveis.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "workspace remoto",
+        "terminal",
+        "templates de ambiente",
+        "painel administrativo"
       ],
       "url": "https://github.com/coder/coder",
-      "stars": 15469,
-      "forks": 1509,
-      "issues": 1047,
+      "stars": 15519,
+      "forks": 1513,
+      "issues": 1048,
       "language": "Go",
-      "pushedAt": "2026-09-19T09:42:03Z",
-      "pushedLabel": "push há 4h",
+      "pushedAt": "2026-09-19T16:32:45Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 406,
       "score": 72,
       "social": [],
@@ -362,12 +435,12 @@
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=coder%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Coder%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=coder%20AI",
+          "url": "https://www.tiktok.com/search?q=Coder%20AI",
           "kind": "busca"
         }
       ],
@@ -375,23 +448,23 @@
     },
     {
       "repo": "trycua/cua",
-      "title": "cua",
-      "type": "Novo no GitHub Trending",
+      "title": "Cua",
+      "type": "Agentes que controlam computadores",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 383 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "hook": "Este framework dá a agentes um computador isolado para enxergar telas, clicar e executar tarefas reais.",
+      "thesis": "Computer use está saindo da demonstração e virando infraestrutura open-source para agentes operarem interfaces.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "agente controlando desktop",
+        "sandbox isolado",
+        "demo visual",
+        "arquitetura do framework"
       ],
       "url": "https://github.com/trycua/cua",
-      "stars": 23960,
-      "forks": 1655,
-      "issues": 1014,
+      "stars": 24075,
+      "forks": 1663,
+      "issues": 1019,
       "language": "HTML",
-      "pushedAt": "2026-09-19T13:06:29Z",
+      "pushedAt": "2026-09-19T15:42:05Z",
       "pushedLabel": "push há 1h",
       "trendingStarsToday": 383,
       "score": 72,
@@ -415,12 +488,12 @@
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=cua%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Cua%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=cua%20AI",
+          "url": "https://www.tiktok.com/search?q=Cua%20AI",
           "kind": "busca"
         }
       ],
@@ -440,8 +513,8 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 265593,
-      "forks": 22404,
+      "stars": 265668,
+      "forks": 22414,
       "issues": 504,
       "language": "Shell",
       "pushedAt": "2026-09-18T10:12:48Z",
@@ -502,12 +575,12 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 247053,
-      "forks": 51870,
-      "issues": 43804,
+      "stars": 247092,
+      "forks": 51880,
+      "issues": 43813,
       "language": "Python",
-      "pushedAt": "2026-09-19T12:51:23Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-09-19T16:39:54Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
       "social": [
@@ -564,12 +637,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 67164,
-      "forks": 4485,
+      "stars": 67270,
+      "forks": 4494,
       "issues": 138,
       "language": "JavaScript",
-      "pushedAt": "2026-09-19T02:07:44Z",
-      "pushedLabel": "push há 12h",
+      "pushedAt": "2026-09-19T15:37:14Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -625,9 +698,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 83326,
-      "forks": 7298,
-      "issues": 152,
+      "stars": 83367,
+      "forks": 7303,
+      "issues": 153,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 4d",
@@ -688,9 +761,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26976,
-      "forks": 2580,
-      "issues": 810,
+      "stars": 26986,
+      "forks": 2581,
+      "issues": 811,
       "language": "TypeScript",
       "pushedAt": "2026-09-18T08:25:50Z",
       "pushedLabel": "push há 1d",
@@ -727,7 +800,7 @@
     {
       "title": "ZCode, the GLM coding agent, silently uploads your Git history",
       "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-      "points": 260,
+      "points": 261,
       "comments": 14,
       "publishedAt": "2026-09-18T10:35:28Z",
       "source": "Hacker News / Algolia"
@@ -743,7 +816,7 @@
     {
       "title": "Show HN: Craigslist for agent skills, curated by a human",
       "url": "https://skillbay.sh/",
-      "points": 25,
+      "points": 26,
       "comments": 18,
       "publishedAt": "2026-09-17T16:53:51Z",
       "source": "Hacker News / Algolia"
@@ -751,7 +824,7 @@
     {
       "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
       "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
-      "points": 29,
+      "points": 30,
       "comments": 5,
       "publishedAt": "2026-09-18T15:04:54Z",
       "source": "Hacker News / Algolia"
@@ -808,7 +881,7 @@
     },
     {
       "repo": "cloudflare/quiche",
-      "starsToday": 5
+      "starsToday": 84
     },
     {
       "repo": "asciimoo/hister",
@@ -816,7 +889,7 @@
     },
     {
       "repo": "ruanyf/weekly",
-      "starsToday": 144
+      "starsToday": 151
     },
     {
       "repo": "ZuodaoTech/everyone-can-use-english",
@@ -837,9 +910,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 83326,
-      "forks": 7298,
-      "issues": 152,
+      "stars": 83367,
+      "forks": 7303,
+      "issues": 153,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 4d",
@@ -900,9 +973,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26976,
-      "forks": 2580,
-      "issues": 810,
+      "stars": 26986,
+      "forks": 2581,
+      "issues": 811,
       "language": "TypeScript",
       "pushedAt": "2026-09-18T08:25:50Z",
       "pushedLabel": "push há 1d",
