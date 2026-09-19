@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T19:25:48.304Z",
-  "generatedLabel": "18 de set. de 2026 · 16:25",
+  "generatedAt": "2026-09-19T01:05:10.875Z",
+  "generatedLabel": "18 de set. de 2026 · 22:05",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -46,13 +46,13 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 36495,
-      "forks": 2604,
+      "stars": 36681,
+      "forks": 2613,
       "issues": 231,
       "language": "Go",
       "pushedAt": "2026-09-18T14:24:55Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 2724,
+      "pushedLabel": "push há 11h",
+      "trendingStarsToday": 2704,
       "score": 93,
       "social": [
         {
@@ -116,12 +116,12 @@
         "explicação visual de redes neurais"
       ],
       "url": "https://github.com/ManimCommunity/manim",
-      "stars": 40910,
+      "stars": 40913,
       "forks": 3115,
       "issues": 506,
       "language": "Python",
       "pushedAt": "2026-09-18T01:31:56Z",
-      "pushedLabel": "push há 18h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 58,
       "social": [
@@ -180,13 +180,13 @@
         "comparação de agentes"
       ],
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 261858,
-      "forks": 39179,
-      "issues": 228,
+      "stars": 262075,
+      "forks": 39215,
+      "issues": 224,
       "language": "JavaScript",
-      "pushedAt": "2026-09-17T18:04:07Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 965,
+      "pushedAt": "2026-09-19T01:03:31Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 958,
       "score": 92,
       "social": [
         {
@@ -206,7 +206,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 965 stars hoje",
+          "label": "GitHub Trending · 958 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -247,13 +247,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Tencent/BrowserSkill",
-      "stars": 5176,
-      "forks": 359,
-      "issues": 51,
+      "stars": 5307,
+      "forks": 369,
+      "issues": 52,
       "language": "TypeScript",
       "pushedAt": "2026-09-18T15:01:25Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 1319,
+      "pushedLabel": "push há 10h",
+      "trendingStarsToday": 1306,
       "score": 78,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -291,7 +291,7 @@
       "title": "agent-skills",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 677 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 675 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Production-grade engineering skills for AI coding agents.",
       "broll": [
         "GitHub Trending",
@@ -300,13 +300,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars": 96298,
-      "forks": 10181,
+      "stars": 96409,
+      "forks": 10194,
       "issues": 111,
       "language": "JavaScript",
       "pushedAt": "2026-09-18T03:32:22Z",
-      "pushedLabel": "push há 16h",
-      "trendingStarsToday": 677,
+      "pushedLabel": "push há 22h",
+      "trendingStarsToday": 675,
       "score": 78,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -317,7 +317,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 677 stars hoje",
+          "label": "GitHub Trending · 675 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -344,7 +344,7 @@
       "title": "claude-code",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 442 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 444 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "broll": [
         "GitHub Trending",
@@ -353,13 +353,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/claude-code",
-      "stars": 146207,
-      "forks": 23743,
-      "issues": 12502,
+      "stars": 146301,
+      "forks": 23795,
+      "issues": 12433,
       "language": "TypeScript",
-      "pushedAt": "2026-09-18T18:40:35Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 442,
+      "pushedAt": "2026-09-19T00:54:48Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 444,
       "score": 76,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -370,7 +370,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 442 stars hoje",
+          "label": "GitHub Trending · 444 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -406,14 +406,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 13140,
-      "forks": 699,
-      "issues": 33,
+      "stars": 13709,
+      "forks": 734,
+      "issues": 35,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T19:29:02Z",
       "pushedLabel": "push há 4d",
-      "trendingStarsToday": 3019,
-      "score": 73,
+      "trendingStarsToday": 3006,
+      "score": 74,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -450,7 +450,7 @@
       "title": "Octop",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 571 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 569 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "broll": [
         "GitHub Trending",
@@ -459,13 +459,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/TencentCloud/Octop",
-      "stars": 3904,
-      "forks": 402,
+      "stars": 3959,
+      "forks": 409,
       "issues": 238,
       "language": "Python",
-      "pushedAt": "2026-09-18T16:17:38Z",
+      "pushedAt": "2026-09-18T22:21:53Z",
       "pushedLabel": "push há 3h",
-      "trendingStarsToday": 571,
+      "trendingStarsToday": 569,
       "score": 72,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -476,7 +476,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 571 stars hoje",
+          "label": "GitHub Trending · 569 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -512,12 +512,12 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 265183,
-      "forks": 22362,
-      "issues": 502,
+      "stars": 265280,
+      "forks": 22367,
+      "issues": 503,
       "language": "Shell",
       "pushedAt": "2026-09-18T10:12:48Z",
-      "pushedLabel": "push há 9h",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": null,
       "score": 65,
       "social": [
@@ -574,11 +574,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 246853,
-      "forks": 51765,
-      "issues": 43652,
+      "stars": 246919,
+      "forks": 51795,
+      "issues": 43565,
       "language": "Python",
-      "pushedAt": "2026-09-18T19:25:06Z",
+      "pushedAt": "2026-09-19T01:02:55Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -635,8 +635,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 83081,
-      "forks": 7273,
+      "stars": 83127,
+      "forks": 7283,
       "issues": 150,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -698,12 +698,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26941,
-      "forks": 2554,
+      "stars": 26949,
+      "forks": 2555,
       "issues": 786,
       "language": "TypeScript",
       "pushedAt": "2026-09-18T08:25:50Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 17h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -737,15 +737,15 @@
     {
       "title": "Show HN: Share your AI Setup, Learn from others",
       "url": "https://mysetup.ai/",
-      "points": 229,
-      "comments": 130,
+      "points": 231,
+      "comments": 134,
       "publishedAt": "2026-09-17T13:01:44Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "ZCode, the GLM coding agent, silently uploads your Git history",
       "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-      "points": 256,
+      "points": 258,
       "comments": 13,
       "publishedAt": "2026-09-18T10:35:28Z",
       "source": "Hacker News / Algolia"
@@ -753,7 +753,7 @@
     {
       "title": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
       "url": "https://www.aclif.ai/",
-      "points": 32,
+      "points": 33,
       "comments": 17,
       "publishedAt": "2026-09-17T16:48:17Z",
       "source": "Hacker News / Algolia"
@@ -769,60 +769,60 @@
     {
       "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
       "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
-      "points": 25,
+      "points": 28,
       "comments": 5,
       "publishedAt": "2026-09-18T15:04:54Z",
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "What's Scarier Than Agents Taking over Internet? CEO Cartel Trying Take over AI",
-      "url": "https://fractalsofchange.substack.com/p/q-whats-scarier-than-a-swarm-of-ai",
-      "points": 29,
-      "comments": 2,
-      "publishedAt": "2026-09-17T00:44:51Z",
+      "title": "My AI agent gets his own calendar",
+      "url": "https://heyjonny.dev/posts/gave-my-ai-agent-a-calendar/",
+      "points": 9,
+      "comments": 10,
+      "publishedAt": "2026-09-17T13:00:38Z",
       "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "cloudflare/security-audit-skill",
-      "starsToday": 3019
+      "starsToday": 3006
     },
     {
       "repo": "anthropics/claude-code",
-      "starsToday": 442
+      "starsToday": 444
     },
     {
       "repo": "alibaba/open-code-review",
-      "starsToday": 2724
+      "starsToday": 2704
     },
     {
       "repo": "affaan-m/ECC",
-      "starsToday": 965
+      "starsToday": 958
     },
     {
       "repo": "Tencent/BrowserSkill",
-      "starsToday": 1319
+      "starsToday": 1306
     },
     {
       "repo": "addyosmani/agent-skills",
-      "starsToday": 677
+      "starsToday": 675
     },
     {
       "repo": "TencentCloud/Octop",
-      "starsToday": 571
+      "starsToday": 569
     },
     {
       "repo": "Fission-AI/OpenSpec",
-      "starsToday": 298
+      "starsToday": 296
     },
     {
       "repo": "ankitects/anki",
-      "starsToday": 177
+      "starsToday": 174
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
-      "starsToday": 300
+      "starsToday": 299
     },
     {
       "repo": "supermemoryai/supermemory",
@@ -830,7 +830,7 @@
     },
     {
       "repo": "tradesdontlie/tradingview-mcp",
-      "starsToday": 64
+      "starsToday": 79
     }
   ],
   "monitored": [
@@ -847,8 +847,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 83081,
-      "forks": 7273,
+      "stars": 83127,
+      "forks": 7283,
       "issues": 150,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -910,12 +910,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26941,
-      "forks": 2554,
+      "stars": 26949,
+      "forks": 2555,
       "issues": 786,
       "language": "TypeScript",
       "pushedAt": "2026-09-18T08:25:50Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 17h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
