@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T16:40:02.479Z",
-  "generatedLabel": "19 de set. de 2026 · 13:39",
+  "generatedAt": "2026-09-19T17:02:02.151Z",
+  "generatedLabel": "19 de set. de 2026 · 14:01",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -46,12 +46,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 37354,
+      "stars": 37362,
       "forks": 2674,
       "issues": 228,
       "language": "Go",
       "pushedAt": "2026-09-19T12:30:32Z",
-      "pushedLabel": "push há 4h",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -125,7 +125,7 @@
         "explicação visual de redes neurais"
       ],
       "url": "https://github.com/ManimCommunity/manim",
-      "stars": 40922,
+      "stars": 40923,
       "forks": 3117,
       "issues": 508,
       "language": "Python",
@@ -189,12 +189,12 @@
         "repositório oficial"
       ],
       "url": "https://github.com/anthropics/claude-code",
-      "stars": 146599,
-      "forks": 23872,
-      "issues": 12400,
+      "stars": 146606,
+      "forks": 23870,
+      "issues": 12403,
       "language": "TypeScript",
       "pushedAt": "2026-09-19T03:10:40Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 14h",
       "trendingStarsToday": 482,
       "score": 92,
       "social": [
@@ -257,7 +257,7 @@
         "vídeos técnicos sobre skill packs"
       ],
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars": 96828,
+      "stars": 96837,
       "forks": 10230,
       "issues": 111,
       "language": "JavaScript",
@@ -339,8 +339,8 @@
         "post técnico da Cloudflare"
       ],
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 15647,
-      "forks": 854,
+      "stars": 15689,
+      "forks": 855,
       "issues": 38,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T19:29:02Z",
@@ -407,7 +407,7 @@
         "painel administrativo"
       ],
       "url": "https://github.com/coder/coder",
-      "stars": 15519,
+      "stars": 15525,
       "forks": 1513,
       "issues": 1048,
       "language": "Go",
@@ -460,12 +460,12 @@
         "arquitetura do framework"
       ],
       "url": "https://github.com/trycua/cua",
-      "stars": 24075,
-      "forks": 1663,
-      "issues": 1019,
+      "stars": 24090,
+      "forks": 1664,
+      "issues": 1020,
       "language": "HTML",
-      "pushedAt": "2026-09-19T15:42:05Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-09-19T17:01:35Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 383,
       "score": 72,
       "social": [],
@@ -513,8 +513,8 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 265668,
-      "forks": 22414,
+      "stars": 265678,
+      "forks": 22415,
       "issues": 504,
       "language": "Shell",
       "pushedAt": "2026-09-18T10:12:48Z",
@@ -575,11 +575,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 247092,
-      "forks": 51880,
-      "issues": 43813,
+      "stars": 247095,
+      "forks": 51883,
+      "issues": 43743,
       "language": "Python",
-      "pushedAt": "2026-09-19T16:39:54Z",
+      "pushedAt": "2026-09-19T17:01:09Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -637,12 +637,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 67270,
-      "forks": 4494,
+      "stars": 67284,
+      "forks": 4496,
       "issues": 138,
       "language": "JavaScript",
-      "pushedAt": "2026-09-19T15:37:14Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-09-19T16:59:07Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -698,8 +698,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 83367,
-      "forks": 7303,
+      "stars": 83377,
+      "forks": 7304,
       "issues": 153,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -806,22 +806,6 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
-      "url": "https://www.aclif.ai/",
-      "points": 33,
-      "comments": 17,
-      "publishedAt": "2026-09-17T16:48:17Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Craigslist for agent skills, curated by a human",
-      "url": "https://skillbay.sh/",
-      "points": 26,
-      "comments": 18,
-      "publishedAt": "2026-09-17T16:53:51Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
       "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
       "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
       "points": 30,
@@ -830,19 +814,35 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Show HN: AutoBot – live voice control for long-running AI work",
-      "url": "https://github.com/demeyer1/Autobot",
-      "points": 19,
-      "comments": 3,
-      "publishedAt": "2026-09-17T16:54:57Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
       "title": "Show HN: MCPJam - the first testing & evaluations platform for MCP servers",
       "url": "https://www.mcpjam.com",
       "points": 11,
       "comments": 6,
       "publishedAt": "2026-09-17T19:23:47Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: Agentgit – a Git host for AI agents, no account, no token, no key",
+      "url": "https://agentgit.co/",
+      "points": 8,
+      "comments": 6,
+      "publishedAt": "2026-09-18T23:14:58Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "CC is an AI agent for families and groups",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+      "points": 7,
+      "comments": 3,
+      "publishedAt": "2026-09-17T19:56:58Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "The Provenance Tax: How LLM Watermarking Changes AI Agent Behavior",
+      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+      "points": 8,
+      "comments": 1,
+      "publishedAt": "2026-09-18T03:53:51Z",
       "source": "Hacker News / Algolia"
     }
   ],
@@ -910,8 +910,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 83367,
-      "forks": 7303,
+      "stars": 83377,
+      "forks": 7304,
       "issues": 153,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
