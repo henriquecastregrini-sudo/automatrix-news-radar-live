@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T14:22:01.700Z",
-  "generatedLabel": "20 de set. de 2026 · 11:21",
+  "generatedAt": "2026-09-20T19:15:41.471Z",
+  "generatedLabel": "20 de set. de 2026 · 16:15",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -46,12 +46,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 38183,
-      "forks": 2718,
-      "issues": 264,
+      "stars": 38300,
+      "forks": 2730,
+      "issues": 265,
       "language": "Go",
       "pushedAt": "2026-09-20T07:57:28Z",
-      "pushedLabel": "push há 6h",
+      "pushedLabel": "push há 11h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -125,7 +125,7 @@
         "explicação visual de redes neurais"
       ],
       "url": "https://github.com/ManimCommunity/manim",
-      "stars": 40946,
+      "stars": 40949,
       "forks": 3121,
       "issues": 509,
       "language": "Python",
@@ -189,14 +189,14 @@
         "comparação de agentes"
       ],
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 263361,
-      "forks": 39406,
-      "issues": 207,
+      "stars": 263552,
+      "forks": 39438,
+      "issues": 206,
       "language": "JavaScript",
-      "pushedAt": "2026-09-20T00:01:14Z",
-      "pushedLabel": "push há 14h",
-      "trendingStarsToday": 1012,
-      "score": 92,
+      "pushedAt": "2026-09-20T18:26:52Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 837,
+      "score": 91,
       "social": [
         {
           "platform": "YouTube",
@@ -215,7 +215,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1 mil stars hoje",
+          "label": "GitHub Trending · 837 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -256,12 +256,12 @@
         "repositório oficial"
       ],
       "url": "https://github.com/anthropics/claude-code",
-      "stars": 146940,
-      "forks": 23994,
-      "issues": 12252,
+      "stars": 147027,
+      "forks": 24032,
+      "issues": 12285,
       "language": "TypeScript",
-      "pushedAt": "2026-09-20T08:23:44Z",
-      "pushedLabel": "push há 6h",
+      "pushedAt": "2026-09-20T16:24:05Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": 415,
       "score": 91,
       "social": [
@@ -324,8 +324,8 @@
         "post técnico da Cloudflare"
       ],
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 17549,
-      "forks": 976,
+      "stars": 17825,
+      "forks": 990,
       "issues": 44,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T19:29:02Z",
@@ -392,12 +392,12 @@
         "arquitetura do framework"
       ],
       "url": "https://github.com/trycua/cua",
-      "stars": 24941,
-      "forks": 1713,
-      "issues": 1022,
+      "stars": 25056,
+      "forks": 1723,
+      "issues": 1027,
       "language": "HTML",
-      "pushedAt": "2026-09-20T11:34:25Z",
-      "pushedLabel": "push há 3h",
+      "pushedAt": "2026-09-20T17:59:13Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 1012,
       "score": 79,
       "social": [],
@@ -445,11 +445,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 247365,
-      "forks": 52010,
-      "issues": 43504,
+      "stars": 247437,
+      "forks": 52041,
+      "issues": 43304,
       "language": "Python",
-      "pushedAt": "2026-09-20T14:09:22Z",
+      "pushedAt": "2026-09-20T19:15:10Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -507,12 +507,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 67992,
-      "forks": 4547,
-      "issues": 139,
+      "stars": 68152,
+      "forks": 4557,
+      "issues": 140,
       "language": "JavaScript",
-      "pushedAt": "2026-09-20T14:10:48Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-09-20T16:17:02Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -569,11 +569,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/BuilderIO/agent-native",
-      "stars": 5020,
-      "forks": 471,
-      "issues": 77,
+      "stars": 5115,
+      "forks": 480,
+      "issues": 80,
       "language": "TypeScript",
-      "pushedAt": "2026-09-20T14:16:53Z",
+      "pushedAt": "2026-09-20T19:12:53Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 89,
       "score": 60,
@@ -622,9 +622,9 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 266237,
-      "forks": 22472,
-      "issues": 504,
+      "stars": 266375,
+      "forks": 22490,
+      "issues": 505,
       "language": "Shell",
       "pushedAt": "2026-09-18T10:12:48Z",
       "pushedLabel": "push há 2d",
@@ -683,9 +683,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 83715,
-      "forks": 7340,
-      "issues": 154,
+      "stars": 83791,
+      "forks": 7345,
+      "issues": 155,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 5d",
@@ -746,12 +746,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27031,
+      "stars": 27036,
       "forks": 2586,
-      "issues": 815,
+      "issues": 813,
       "language": "TypeScript",
       "pushedAt": "2026-09-20T10:05:31Z",
-      "pushedLabel": "push há 4h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -791,14 +791,6 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
-      "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
-      "points": 32,
-      "comments": 5,
-      "publishedAt": "2026-09-18T15:04:54Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
       "title": "Show HN: Agentgit – a Git host for AI agents, no account, no token, no key",
       "url": "https://agentgit.co/",
       "points": 10,
@@ -829,12 +821,20 @@
       "comments": 1,
       "publishedAt": "2026-09-19T13:18:20Z",
       "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Anyone Used Cloudflare AI Agent Diagnostics for SaaS Purchases?",
+      "url": "https://blog.cloudflare.com/aeo/",
+      "points": 3,
+      "comments": 1,
+      "publishedAt": "2026-09-19T11:21:52Z",
+      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "affaan-m/ECC",
-      "starsToday": 1012
+      "starsToday": 837
     },
     {
       "repo": "BuilderIO/agent-native",
@@ -878,7 +878,7 @@
     },
     {
       "repo": "vercel-labs/json-render",
-      "starsToday": 585
+      "starsToday": 332
     }
   ],
   "monitored": [
@@ -895,9 +895,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 83715,
-      "forks": 7340,
-      "issues": 154,
+      "stars": 83791,
+      "forks": 7345,
+      "issues": 155,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 5d",
@@ -958,12 +958,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27031,
+      "stars": 27036,
       "forks": 2586,
-      "issues": 815,
+      "issues": 813,
       "language": "TypeScript",
       "pushedAt": "2026-09-20T10:05:31Z",
-      "pushedLabel": "push há 4h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
