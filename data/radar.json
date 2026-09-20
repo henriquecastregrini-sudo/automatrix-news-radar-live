@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T19:09:10.242Z",
-  "generatedLabel": "19 de set. de 2026 · 16:09",
+  "generatedAt": "2026-09-20T00:55:03.986Z",
+  "generatedLabel": "19 de set. de 2026 · 21:55",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -46,12 +46,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 37421,
-      "forks": 2681,
-      "issues": 231,
+      "stars": 37556,
+      "forks": 2684,
+      "issues": 233,
       "language": "Go",
       "pushedAt": "2026-09-19T12:30:32Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 12h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -125,12 +125,12 @@
         "explicação visual de redes neurais"
       ],
       "url": "https://github.com/ManimCommunity/manim",
-      "stars": 40927,
-      "forks": 3117,
-      "issues": 508,
+      "stars": 40932,
+      "forks": 3120,
+      "issues": 509,
       "language": "Python",
       "pushedAt": "2026-09-19T01:48:14Z",
-      "pushedLabel": "push há 17h",
+      "pushedLabel": "push há 23h",
       "trendingStarsToday": null,
       "score": 58,
       "social": [
@@ -189,13 +189,13 @@
         "repositório oficial"
       ],
       "url": "https://github.com/anthropics/claude-code",
-      "stars": 146629,
-      "forks": 23886,
-      "issues": 12414,
+      "stars": 146708,
+      "forks": 23928,
+      "issues": 12309,
       "language": "TypeScript",
-      "pushedAt": "2026-09-19T03:10:40Z",
-      "pushedLabel": "push há 16h",
-      "trendingStarsToday": 482,
+      "pushedAt": "2026-09-19T19:16:54Z",
+      "pushedLabel": "push há 6h",
+      "trendingStarsToday": 483,
       "score": 92,
       "social": [
         {
@@ -216,7 +216,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 482 stars hoje",
+          "label": "GitHub Trending · 483 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -257,13 +257,13 @@
         "vídeos técnicos sobre skill packs"
       ],
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars": 96902,
-      "forks": 10233,
+      "stars": 97035,
+      "forks": 10240,
       "issues": 111,
       "language": "JavaScript",
       "pushedAt": "2026-09-18T03:32:22Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 547,
+      "trendingStarsToday": 556,
       "score": 91,
       "social": [
         {
@@ -293,7 +293,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 547 stars hoje",
+          "label": "GitHub Trending · 556 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -339,13 +339,13 @@
         "post técnico da Cloudflare"
       ],
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 15902,
-      "forks": 871,
+      "stars": 16340,
+      "forks": 894,
       "issues": 38,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T19:29:02Z",
       "pushedLabel": "push há 5d",
-      "trendingStarsToday": 3162,
+      "trendingStarsToday": 3155,
       "score": 83,
       "social": [
         {
@@ -394,59 +394,6 @@
       "rank": 5
     },
     {
-      "repo": "coder/coder",
-      "title": "Coder",
-      "type": "Ambientes de desenvolvimento",
-      "status": "Monitorar hoje",
-      "hook": "Este projeto transforma infraestrutura própria em ambientes de desenvolvimento reproduzíveis para humanos e agentes.",
-      "thesis": "Equipes estão aproximando agentes de código de ambientes remotos controlados, persistentes e auditáveis.",
-      "broll": [
-        "workspace remoto",
-        "terminal",
-        "templates de ambiente",
-        "painel administrativo"
-      ],
-      "url": "https://github.com/coder/coder",
-      "stars": 15547,
-      "forks": 1517,
-      "issues": 1047,
-      "language": "Go",
-      "pushedAt": "2026-09-19T17:52:51Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 406,
-      "score": 72,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/coder/coder",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 406 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=coder%20coder%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Coder%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Coder%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 6
-    },
-    {
       "repo": "trycua/cua",
       "title": "Cua",
       "type": "Agentes que controlam computadores",
@@ -460,14 +407,14 @@
         "arquitetura do framework"
       ],
       "url": "https://github.com/trycua/cua",
-      "stars": 24192,
-      "forks": 1669,
-      "issues": 1022,
+      "stars": 24414,
+      "forks": 1681,
+      "issues": 1032,
       "language": "HTML",
-      "pushedAt": "2026-09-19T18:58:32Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 383,
-      "score": 72,
+      "pushedAt": "2026-09-19T23:36:40Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 859,
+      "score": 78,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -477,7 +424,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 383 stars hoje",
+          "label": "GitHub Trending · 859 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -497,6 +444,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 6
+    },
+    {
+      "repo": "coder/coder",
+      "title": "Coder",
+      "type": "Ambientes de desenvolvimento",
+      "status": "Monitorar hoje",
+      "hook": "Este projeto transforma infraestrutura própria em ambientes de desenvolvimento reproduzíveis para humanos e agentes.",
+      "thesis": "Equipes estão aproximando agentes de código de ambientes remotos controlados, persistentes e auditáveis.",
+      "broll": [
+        "workspace remoto",
+        "terminal",
+        "templates de ambiente",
+        "painel administrativo"
+      ],
+      "url": "https://github.com/coder/coder",
+      "stars": 15620,
+      "forks": 1522,
+      "issues": 1045,
+      "language": "Go",
+      "pushedAt": "2026-09-20T00:52:25Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 402,
+      "score": 72,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/coder/coder",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 402 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=coder%20coder%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Coder%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Coder%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 7
     },
     {
@@ -513,12 +513,12 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 265728,
-      "forks": 22420,
+      "stars": 265827,
+      "forks": 22424,
       "issues": 504,
       "language": "Shell",
       "pushedAt": "2026-09-18T10:12:48Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 65,
       "social": [
@@ -575,12 +575,12 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 247115,
-      "forks": 51894,
-      "issues": 43511,
+      "stars": 247160,
+      "forks": 51933,
+      "issues": 43466,
       "language": "Python",
-      "pushedAt": "2026-09-19T19:05:23Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-09-20T00:12:23Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": null,
       "score": 65,
       "social": [
@@ -637,11 +637,11 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 67340,
-      "forks": 4502,
-      "issues": 139,
+      "stars": 67467,
+      "forks": 4509,
+      "issues": 141,
       "language": "JavaScript",
-      "pushedAt": "2026-09-19T16:59:07Z",
+      "pushedAt": "2026-09-19T22:46:53Z",
       "pushedLabel": "push há 2h",
       "trendingStarsToday": null,
       "score": 62,
@@ -698,8 +698,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 83403,
-      "forks": 7308,
+      "stars": 83459,
+      "forks": 7314,
       "issues": 153,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -761,12 +761,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26991,
-      "forks": 2581,
+      "stars": 26996,
+      "forks": 2582,
       "issues": 811,
       "language": "TypeScript",
       "pushedAt": "2026-09-18T08:25:50Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -814,14 +814,6 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Show HN: MCPJam - the first testing & evaluations platform for MCP servers",
-      "url": "https://www.mcpjam.com",
-      "points": 11,
-      "comments": 6,
-      "publishedAt": "2026-09-17T19:23:47Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
       "title": "Show HN: Agentgit – a Git host for AI agents, no account, no token, no key",
       "url": "https://agentgit.co/",
       "points": 8,
@@ -830,11 +822,11 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "CC is an AI agent for families and groups",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+      "title": "Show HN: I created an open source locally usable full fledged AI platform",
+      "url": "https://github.com/theguysudo/ENZO",
       "points": 7,
-      "comments": 3,
-      "publishedAt": "2026-09-17T19:56:58Z",
+      "comments": 6,
+      "publishedAt": "2026-09-19T23:47:35Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -844,56 +836,64 @@
       "comments": 1,
       "publishedAt": "2026-09-18T03:53:51Z",
       "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "I Built AI Agents That Ask Companies to Delete Their Data. Most Never Answered",
+      "url": "https://medium.com/@stem-education/i-built-ai-agents-that-ask-companies-to-delete-their-data-most-never-answered-7c90c3d2b6d1",
+      "points": 5,
+      "comments": 1,
+      "publishedAt": "2026-09-19T20:08:18Z",
+      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "cloudflare/security-audit-skill",
-      "starsToday": 3162
+      "starsToday": 3155
     },
     {
       "repo": "trycua/cua",
-      "starsToday": 383
+      "starsToday": 859
     },
     {
       "repo": "addyosmani/agent-skills",
-      "starsToday": 547
+      "starsToday": 556
     },
     {
       "repo": "coder/coder",
-      "starsToday": 406
+      "starsToday": 402
     },
     {
       "repo": "anthropics/claude-code",
-      "starsToday": 482
+      "starsToday": 483
     },
     {
       "repo": "Open-Dev-Society/OpenStock",
-      "starsToday": 477
+      "starsToday": 472
     },
     {
       "repo": "higgsfield-ai/higgsfield",
-      "starsToday": 325
+      "starsToday": 196
     },
     {
       "repo": "docling-project/docling",
-      "starsToday": 94
+      "starsToday": 129
     },
     {
       "repo": "cloudflare/quiche",
-      "starsToday": 84
+      "starsToday": 31
     },
     {
       "repo": "asciimoo/hister",
-      "starsToday": 430
+      "starsToday": 420
     },
     {
       "repo": "ruanyf/weekly",
-      "starsToday": 151
+      "starsToday": 98
     },
     {
       "repo": "ZuodaoTech/everyone-can-use-english",
-      "starsToday": 31
+      "starsToday": 48
     }
   ],
   "monitored": [
@@ -910,8 +910,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 83403,
-      "forks": 7308,
+      "stars": 83459,
+      "forks": 7314,
       "issues": 153,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -973,12 +973,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 26991,
-      "forks": 2581,
+      "stars": 26996,
+      "forks": 2582,
       "issues": 811,
       "language": "TypeScript",
       "pushedAt": "2026-09-18T08:25:50Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
