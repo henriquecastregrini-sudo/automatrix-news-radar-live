@@ -61,6 +61,16 @@ const editorialOverrides = {
   'cloudflare/security-audit-skill': { title: 'Security Audit Skill', type: 'Auditoria de segurança por agentes', status: 'Gravar agora', hook: 'A Cloudflare publicou uma skill que obriga agentes independentes a encontrar, contestar e verificar vulnerabilidades.', thesis: 'Auditoria com IA fica mais confiável quando descoberta e validação são separadas, com evidências estruturadas e verificadores adversariais.', broll: ['seis fases da auditoria', 'coverage ledger', 'findings.json', 'post técnico da Cloudflare'] },
   'coder/coder': { title: 'Coder', type: 'Ambientes de desenvolvimento', status: 'Monitorar hoje', hook: 'Este projeto transforma infraestrutura própria em ambientes de desenvolvimento reproduzíveis para humanos e agentes.', thesis: 'Equipes estão aproximando agentes de código de ambientes remotos controlados, persistentes e auditáveis.', broll: ['workspace remoto', 'terminal', 'templates de ambiente', 'painel administrativo'] },
   'trycua/cua': { title: 'Cua', type: 'Agentes que controlam computadores', status: 'Monitorar hoje', hook: 'Este framework dá a agentes um computador isolado para enxergar telas, clicar e executar tarefas reais.', thesis: 'Computer use está saindo da demonstração e virando infraestrutura open-source para agentes operarem interfaces.', broll: ['agente controlando desktop', 'sandbox isolado', 'demo visual', 'arquitetura do framework'] },
+  'BuilderIO/agent-native': { title: 'Agent-Native', type: 'Apps com agentes e interface', status: 'Gravar agora', hook: 'A Builder abriu um framework em que o agente e a interface usam as mesmas ações para executar trabalho de verdade.', thesis: 'O próximo app de IA pode unir automação, aprovação humana e interface visual em vez de esconder tudo numa conversa.', broll: ['vídeo oficial no README', 'ação compartilhada entre agente e UI', 'galeria de apps', 'demo de slides e analytics'] },
+  'zhouxiaoka/autoclip': { title: 'AutoClip', type: 'Cortes de vídeo com IA', status: 'Monitorar hoje', hook: 'Este projeto encontra os melhores trechos de vídeos longos e já prepara cortes e legendas para publicar.', thesis: 'Ferramentas locais e abertas estão aproximando transcrição, seleção de highlights e edição automática em um fluxo de criador.', broll: ['interface oficial', 'linha do tempo de tópicos', 'pontuação de trechos', 'vídeo longo virando shorts'] },
+  'akitaonrails/ai-memory': { title: 'AI Memory', type: 'Memória para agentes de código', status: 'Monitorar hoje', hook: 'Um brasileiro criou uma memória de longo prazo para agentes trocarem de sessão e até de fornecedor sem perder o contexto.', thesis: 'Persistir decisões e contexto entre agentes pode ser mais útil que ampliar a janela de contexto de cada conversa.', broll: ['README', 'handoff entre agentes', 'estrutura de memória', 'terminal'] },
+};
+
+const officialProofs = {
+  'trycua/cua': [{ label: 'Cua · demos oficiais de computer use', url: 'https://github.com/trycua/cua/blob/main/docs/content/docs/index.mdx', kind: 'oficial' }],
+  'BuilderIO/agent-native': [{ label: 'Builder.io · galeria e demos oficiais', url: 'https://www.builder.io/resources?topic=agent-native', kind: 'oficial' }],
+  'coder/coder': [{ label: 'Coder · anúncio oficial Agent Relay + Claude Code', url: 'https://coder.com/blog/agent-relay-claude-code-agentic-development', kind: 'oficial' }],
+  'zhouxiaoka/autoclip': [{ label: 'AutoClip · README oficial em português', url: 'https://github.com/zhouxiaoka/autoclip/blob/main/README-PT.md', kind: 'oficial' }],
 };
 
 const socialReferences = {
@@ -201,15 +211,10 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
   const { _api, ...editorial } = item;
   const starsToday = trendingMap.get(item.repo.toLowerCase()) || 0;
   const social = socialReferences[item.repo] || [];
-  const socialSignal = Math.max(0, ...social.map((reference) => {
-    const metric = reference.views || reference.engagement || 0;
-    const ageDays = reference.publishedAt
-      ? Math.max(0, (Date.now() - new Date(`${reference.publishedAt}T12:00:00Z`).getTime()) / 864e5)
-      : 365;
-    const freshnessWeight = ageDays <= 30 ? 1 : ageDays <= 90 ? 0.5 : 0.1;
-    return metric * freshnessWeight;
-  }));
-  const socialScore = social.length ? Math.min(22, 8 + Math.log10(socialSignal + 1) * 2.5) : 6;
+  const recentSocial = social.filter((reference) => reference.publishedAt
+    && Date.now() - new Date(`${reference.publishedAt}T12:00:00Z`).getTime() <= 30 * 864e5);
+  const socialSignal = Math.max(0, ...recentSocial.map((reference) => reference.views || reference.engagement || 0));
+  const socialScore = recentSocial.length ? Math.min(22, 8 + Math.log10(socialSignal + 1) * 2.5) : 0;
   const score = Math.min(100, Math.round(
     (starsToday ? Math.min(48, Math.log10(starsToday + 1) * 15) : 12) +
     Math.min(22, Math.log10((api.stargazers_count || 1) + 1) * 4) +
@@ -218,6 +223,8 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
   ));
   return {
     ...editorial,
+    status: editorial.status === 'Gravar agora' && !starsToday && !recentSocial.length
+      ? 'Usar como comparação' : editorial.status,
     title: item.title || api.name || item.repo.split('/')[1],
     url: api.html_url || `https://github.com/${item.repo}`,
     stars: api.stargazers_count || null,
@@ -229,10 +236,13 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
     trendingStarsToday: starsToday || null,
     score,
     social,
-    socialStatus: social.length ? 'referência direta verificada' : 'sem post direto verificado — precisa varredura social',
+    socialStatus: recentSocial.length ? 'referência recente verificada'
+      : social.length ? 'somente referência histórica — sem prova social recente'
+        : 'sem post direto verificado — precisa varredura social',
     sources: [
       { label: 'GitHub', url: api.html_url || `https://github.com/${item.repo}`, kind: 'oficial' },
       ...(starsToday ? [{ label: `GitHub Trending · ${compact(starsToday)} stars hoje`, url: 'https://github.com/trending', kind: 'tendência' }] : []),
+      ...(officialProofs[item.repo] || []),
       ...social.map(({ label, url, platform }) => ({ label: `${platform} · ${label}`, url, kind: 'social' })),
       { label: 'Buscar YouTube', url: `https://www.youtube.com/results?search_query=${encodeURIComponent(item.repo.replace('/', ' ') + ' AI')}`, kind: 'busca' },
       { label: 'Buscar Instagram', url: `https://www.instagram.com/explore/search/keyword/?q=${encodeURIComponent((item.title || api.name || item.repo.split('/')[1]) + ' AI')}`, kind: 'busca' },
@@ -245,21 +255,41 @@ const monitoredNames = new Set(['Panniantong/Agent-Reach', 'TencentCloud/Tencent
 const editorialRepos = collectedRepos
   .filter((repo) => !monitoredNames.has(repo.repo))
   .filter((repo) => repo.trendingStarsToday || (repo.pushedAt && Date.now() - new Date(repo.pushedAt).getTime() < 7 * 864e5))
-  .sort((a, b) => (a.priority || 99) - (b.priority || 99) || b.score - a.score || (b.trendingStarsToday || 0) - (a.trendingStarsToday || 0) || (b.stars || 0) - (a.stars || 0))
+  .filter((repo) => repo.trendingStarsToday || repo.score >= 55)
+  .sort((a, b) => b.score - a.score || (b.trendingStarsToday || 0) - (a.trendingStarsToday || 0) || (b.stars || 0) - (a.stars || 0))
   .slice(0, 10);
 const repos = [...editorialRepos, ...collectedRepos.filter((repo) => monitoredNames.has(repo.repo))];
-repos.sort((a, b) => (a.priority || 99) - (b.priority || 99) || b.score - a.score || (b.trendingStarsToday || 0) - (a.trendingStarsToday || 0) || (b.stars || 0) - (a.stars || 0));
+repos.sort((a, b) => b.score - a.score || (b.trendingStarsToday || 0) - (a.trendingStarsToday || 0) || (b.stars || 0) - (a.stars || 0));
 repos.forEach((repo, index) => { repo.rank = index + 1; });
 
 const hn = await getJson('https://hn.algolia.com/api/v1/search_by_date?query=AI%20agent&tags=story&hitsPerPage=100', { hits: [] });
 const newsCutoff = Date.now() - 48 * 36e5;
 const newsRelevance = /(^|\W)(ai|agent|agents|agentic|llm|mcp|model|models|github|coding|code|inference|open.?source|robot|prompt)(\W|$)/i;
-const news = (hn.hits || [])
+function newsTokens(title) {
+  const stopwords = new Set(['a', 'an', 'and', 'at', 'for', 'from', 'in', 'is', 'of', 'on', 'the', 'to', 'with', 'new']);
+  return new Set((title || '').toLowerCase().match(/[a-z0-9]+/g)?.filter((word) => word.length > 2 && !stopwords.has(word)) || []);
+}
+function uniqueNews(items) {
+  const kept = [];
+  for (const item of items) {
+    const tokens = newsTokens(item.title || item.story_title);
+    const duplicate = kept.some((other) => {
+      const prior = newsTokens(other.title || other.story_title);
+      if (!tokens.size || !prior.size) return false;
+      const shared = [...tokens].filter((word) => prior.has(word)).length;
+      return shared / Math.min(tokens.size, prior.size) >= 0.7;
+    });
+    if (!duplicate) kept.push(item);
+    if (kept.length >= 6) break;
+  }
+  return kept;
+}
+const newsCandidates = (hn.hits || [])
   .filter((item) => item.url || item.story_url)
   .filter((item) => new Date(item.created_at || 0).getTime() >= newsCutoff)
   .filter((item) => newsRelevance.test(item.title || item.story_title || ''))
-  .sort((a, b) => ((b.points || 0) + (b.num_comments || 0) * 2) - ((a.points || 0) + (a.num_comments || 0) * 2) || new Date(b.created_at || 0) - new Date(a.created_at || 0))
-  .slice(0, 6).map((item) => ({
+  .sort((a, b) => ((b.points || 0) + (b.num_comments || 0) * 2) - ((a.points || 0) + (a.num_comments || 0) * 2) || new Date(b.created_at || 0) - new Date(a.created_at || 0));
+const news = uniqueNews(newsCandidates).map((item) => ({
   title: item.title || item.story_title,
   url: item.url || item.story_url || `https://news.ycombinator.com/item?id=${item.objectID}`,
   points: item.points ?? null,

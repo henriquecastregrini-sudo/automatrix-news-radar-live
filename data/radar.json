@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T16:39:55.676Z",
-  "generatedLabel": "21 de set. de 2026 · 13:39",
+  "generatedAt": "2026-09-21T17:29:17.906Z",
+  "generatedLabel": "21 de set. de 2026 · 14:29",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -32,150 +32,6 @@
   ],
   "repos": [
     {
-      "repo": "alibaba/open-code-review",
-      "title": "Open Code Review",
-      "type": "Revisão de código com IA",
-      "status": "Gravar agora",
-      "priority": 1,
-      "hook": "A Alibaba abriu o agente de revisão de código usado internamente por dezenas de milhares de desenvolvedores.",
-      "thesis": "A próxima disputa dos agentes de código pode estar na revisão especializada, com regras determinísticas e menor custo, não apenas na geração de código.",
-      "broll": [
-        "CLI revisando um PR",
-        "comentários linha a linha",
-        "paper e benchmark",
-        "diff com falhas encontradas"
-      ],
-      "url": "https://github.com/alibaba/open-code-review",
-      "stars": 39037,
-      "forks": 2792,
-      "issues": 224,
-      "language": "Go",
-      "pushedAt": "2026-09-21T14:11:12Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": null,
-      "score": 59,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "The Next New Thing · Open Code Review entre os repos explicados · 21,1k views · 325 likes · publicado 18 SET",
-          "url": "https://www.youtube.com/watch?v=1fHsIveXRa8",
-          "views": 21140,
-          "likes": 325,
-          "publishedAt": "2026-09-18",
-          "verifiedAt": "19 SET 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "Signal Coders · agente de revisão da Alibaba · 6,4k views · 230 likes · publicado 25 JUL",
-          "url": "https://www.youtube.com/watch?v=Wt9b0xdBi28",
-          "views": 6443,
-          "likes": 230,
-          "comments": 4,
-          "publishedAt": "2026-07-25",
-          "verifiedAt": "15 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/alibaba/open-code-review",
-          "kind": "oficial"
-        },
-        {
-          "label": "YouTube · The Next New Thing · Open Code Review entre os repos explicados · 21,1k views · 325 likes · publicado 18 SET",
-          "url": "https://www.youtube.com/watch?v=1fHsIveXRa8",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · Signal Coders · agente de revisão da Alibaba · 6,4k views · 230 likes · publicado 25 JUL",
-          "url": "https://www.youtube.com/watch?v=Wt9b0xdBi28",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=alibaba%20open-code-review%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Open%20Code%20Review%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Open%20Code%20Review%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "repo": "ManimCommunity/manim",
-      "title": "Manim Community Edition",
-      "type": "Animação matemática e científica",
-      "status": "Gravar agora",
-      "priority": 2,
-      "hook": "A IA pode escrever o código — mas o Manim transforma esse código em animações que explicam matemática, ciência e até a própria IA.",
-      "thesis": "Uma engine Python transforma fórmulas, gráficos, algoritmos e conceitos abstratos em cenas programáveis, precisas e visualmente fortes.",
-      "broll": [
-        "fórmula virando animação",
-        "gráficos e vetores em movimento",
-        "código Python da cena",
-        "explicação visual de redes neurais"
-      ],
-      "url": "https://github.com/ManimCommunity/manim",
-      "stars": 40961,
-      "forks": 3121,
-      "issues": 509,
-      "language": "Python",
-      "pushedAt": "2026-09-19T01:48:14Z",
-      "pushedLabel": "push há 3d",
-      "trendingStarsToday": null,
-      "score": 51,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "Bog · IA programando animação em Manim · 103,3k views · 4,3k likes · prova histórica de 03 JAN 2025",
-          "url": "https://www.youtube.com/watch?v=O6TjkLwUAtg",
-          "views": 103311,
-          "likes": 4341,
-          "comments": 182,
-          "publishedAt": "2025-01-03",
-          "verifiedAt": "15 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/ManimCommunity/manim",
-          "kind": "oficial"
-        },
-        {
-          "label": "YouTube · Bog · IA programando animação em Manim · 103,3k views · 4,3k likes · prova histórica de 03 JAN 2025",
-          "url": "https://www.youtube.com/watch?v=O6TjkLwUAtg",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=ManimCommunity%20manim%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Manim%20Community%20Edition%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Manim%20Community%20Edition%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "repo": "trycua/cua",
       "title": "Cua",
       "type": "Agentes que controlam computadores",
@@ -189,14 +45,14 @@
         "arquitetura do framework"
       ],
       "url": "https://github.com/trycua/cua",
-      "stars": 25573,
+      "stars": 25590,
       "forks": 1765,
       "issues": 1035,
       "language": "HTML",
       "pushedAt": "2026-09-21T15:55:23Z",
-      "pushedLabel": "push há 1h",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": 609,
-      "score": 75,
+      "score": 69,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -209,6 +65,11 @@
           "label": "GitHub Trending · 609 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
+        },
+        {
+          "label": "Cua · demos oficiais de computer use",
+          "url": "https://github.com/trycua/cua/blob/main/docs/content/docs/index.mdx",
+          "kind": "oficial"
         },
         {
           "label": "Buscar YouTube",
@@ -226,30 +87,30 @@
           "kind": "busca"
         }
       ],
-      "rank": 3
+      "rank": 1
     },
     {
       "repo": "BuilderIO/agent-native",
-      "title": "agent-native",
-      "type": "Novo no GitHub Trending",
+      "title": "Agent-Native",
+      "type": "Apps com agentes e interface",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 607 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "A framework for building agentic apps",
+      "hook": "A Builder abriu um framework em que o agente e a interface usam as mesmas ações para executar trabalho de verdade.",
+      "thesis": "O próximo app de IA pode unir automação, aprovação humana e interface visual em vez de esconder tudo numa conversa.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "vídeo oficial no README",
+        "ação compartilhada entre agente e UI",
+        "galeria de apps",
+        "demo de slides e analytics"
       ],
       "url": "https://github.com/BuilderIO/agent-native",
-      "stars": 5712,
+      "stars": 5737,
       "forks": 530,
-      "issues": 85,
+      "issues": 84,
       "language": "TypeScript",
-      "pushedAt": "2026-09-21T16:39:51Z",
+      "pushedAt": "2026-09-21T17:25:28Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 607,
-      "score": 73,
+      "score": 67,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -264,22 +125,27 @@
           "kind": "tendência"
         },
         {
+          "label": "Builder.io · galeria e demos oficiais",
+          "url": "https://www.builder.io/resources?topic=agent-native",
+          "kind": "oficial"
+        },
+        {
           "label": "Buscar YouTube",
           "url": "https://www.youtube.com/results?search_query=BuilderIO%20agent-native%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=agent-native%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Native%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=agent-native%20AI",
+          "url": "https://www.tiktok.com/search?q=Agent-Native%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 2
     },
     {
       "repo": "coder/coder",
@@ -295,14 +161,14 @@
         "painel administrativo"
       ],
       "url": "https://github.com/coder/coder",
-      "stars": 16319,
-      "forks": 1561,
-      "issues": 1071,
+      "stars": 16330,
+      "forks": 1562,
+      "issues": 1072,
       "language": "Go",
-      "pushedAt": "2026-09-21T16:37:53Z",
+      "pushedAt": "2026-09-21T17:28:54Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 461,
-      "score": 73,
+      "score": 67,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -315,6 +181,11 @@
           "label": "GitHub Trending · 461 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
+        },
+        {
+          "label": "Coder · anúncio oficial Agent Relay + Claude Code",
+          "url": "https://coder.com/blog/agent-relay-claude-code-agentic-development",
+          "kind": "oficial"
         },
         {
           "label": "Buscar YouTube",
@@ -332,30 +203,92 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 3
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "title": "Hermes Agent",
+      "type": "Agente open-source",
+      "status": "Gravar agora",
+      "hook": "Enquanto todo mundo usa chatbot, esse agente open-source aprende a trabalhar com você.",
+      "thesis": "Agentes autônomos abertos desafiam o assistente fechado.",
+      "broll": [
+        "GitHub",
+        "terminal",
+        "tutorial",
+        "exemplos de automação"
+      ],
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "stars": 247711,
+      "forks": 52143,
+      "issues": 43356,
+      "language": "Python",
+      "pushedAt": "2026-09-21T17:26:56Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": null,
+      "score": 65,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Metics Media · tutorial completo · 225k views · publicado 31 AGO",
+          "url": "https://www.youtube.com/watch?v=DYdvJCxWd6M",
+          "views": 225904,
+          "publishedAt": "2026-08-31",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência recente verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "kind": "oficial"
+        },
+        {
+          "label": "YouTube · Metics Media · tutorial completo · 225k views · publicado 31 AGO",
+          "url": "https://www.youtube.com/watch?v=DYdvJCxWd6M",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=NousResearch%20hermes-agent%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Hermes%20Agent%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Hermes%20Agent%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
     },
     {
       "repo": "zhouxiaoka/autoclip",
-      "title": "autoclip",
-      "type": "Novo no GitHub Trending",
+      "title": "AutoClip",
+      "type": "Cortes de vídeo com IA",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 266 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "hook": "Este projeto encontra os melhores trechos de vídeos longos e já prepara cortes e legendas para publicar.",
+      "thesis": "Ferramentas locais e abertas estão aproximando transcrição, seleção de highlights e edição automática em um fluxo de criador.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "interface oficial",
+        "linha do tempo de tópicos",
+        "pontuação de trechos",
+        "vídeo longo virando shorts"
       ],
       "url": "https://github.com/zhouxiaoka/autoclip",
-      "stars": 8084,
-      "forks": 1561,
-      "issues": 12,
+      "stars": 8110,
+      "forks": 1562,
+      "issues": 14,
       "language": "Python",
-      "pushedAt": "2026-09-21T15:47:57Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-09-21T17:19:32Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 266,
-      "score": 68,
+      "score": 62,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -370,18 +303,85 @@
           "kind": "tendência"
         },
         {
+          "label": "AutoClip · README oficial em português",
+          "url": "https://github.com/zhouxiaoka/autoclip/blob/main/README-PT.md",
+          "kind": "oficial"
+        },
+        {
           "label": "Buscar YouTube",
           "url": "https://www.youtube.com/results?search_query=zhouxiaoka%20autoclip%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=autoclip%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=AutoClip%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=autoclip%20AI",
+          "url": "https://www.tiktok.com/search?q=AutoClip%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "repo": "tt-a1i/archify",
+      "type": "Ferramenta visual para dev",
+      "status": "Gravar agora",
+      "hook": "Esse repo lê seu código e desenha a arquitetura inteira sozinho.",
+      "thesis": "A IA deixa de explicar código e passa a torná-lo visual.",
+      "broll": [
+        "demo oficial",
+        "mapa interativo",
+        "README",
+        "código virando diagrama"
+      ],
+      "title": "archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "stars": 68954,
+      "forks": 4624,
+      "issues": 144,
+      "language": "JavaScript",
+      "pushedAt": "2026-09-21T15:45:11Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": null,
+      "score": 62,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "The Next New Thing · Archify entre os repos em alta · 111k views · publicado 04 SET",
+          "url": "https://www.youtube.com/watch?v=AWzzmrCPe-A",
+          "views": 111709,
+          "publishedAt": "2026-09-04",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência recente verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/tt-a1i/archify",
+          "kind": "oficial"
+        },
+        {
+          "label": "YouTube · The Next New Thing · Archify entre os repos em alta · 111k views · publicado 04 SET",
+          "url": "https://www.youtube.com/watch?v=AWzzmrCPe-A",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=tt-a1i%20archify%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=archify%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=archify%20AI",
           "kind": "busca"
         }
       ],
@@ -389,26 +389,26 @@
     },
     {
       "repo": "akitaonrails/ai-memory",
-      "title": "ai-memory",
-      "type": "Novo no GitHub Trending",
+      "title": "AI Memory",
+      "type": "Memória para agentes de código",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 217 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "hook": "Um brasileiro criou uma memória de longo prazo para agentes trocarem de sessão e até de fornecedor sem perder o contexto.",
+      "thesis": "Persistir decisões e contexto entre agentes pode ser mais útil que ampliar a janela de contexto de cada conversa.",
       "broll": [
-        "GitHub Trending",
         "README",
-        "demo oficial",
-        "histórico do projeto"
+        "handoff entre agentes",
+        "estrutura de memória",
+        "terminal"
       ],
       "url": "https://github.com/akitaonrails/ai-memory",
-      "stars": 7523,
-      "forks": 517,
-      "issues": 19,
+      "stars": 7552,
+      "forks": 518,
+      "issues": 21,
       "language": "Rust",
       "pushedAt": "2026-09-21T16:31:48Z",
-      "pushedLabel": "push há 0h",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 217,
-      "score": 67,
+      "score": 61,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -429,12 +429,12 @@
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=ai-memory%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=AI%20Memory%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=ai-memory%20AI",
+          "url": "https://www.tiktok.com/search?q=AI%20Memory%20AI",
           "kind": "busca"
         }
       ],
@@ -454,14 +454,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "stars": 37688,
-      "forks": 3756,
+      "stars": 37712,
+      "forks": 3757,
       "issues": 97,
       "language": "TypeScript",
       "pushedAt": "2026-09-13T19:33:25Z",
       "pushedLabel": "push há 8d",
       "trendingStarsToday": 360,
-      "score": 66,
+      "score": 60,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -494,124 +494,126 @@
       "rank": 8
     },
     {
-      "repo": "NousResearch/hermes-agent",
-      "title": "Hermes Agent",
-      "type": "Agente open-source",
+      "repo": "alibaba/open-code-review",
+      "title": "Open Code Review",
+      "type": "Revisão de código com IA",
       "status": "Gravar agora",
-      "hook": "Enquanto todo mundo usa chatbot, esse agente open-source aprende a trabalhar com você.",
-      "thesis": "Agentes autônomos abertos desafiam o assistente fechado.",
+      "priority": 1,
+      "hook": "A Alibaba abriu o agente de revisão de código usado internamente por dezenas de milhares de desenvolvedores.",
+      "thesis": "A próxima disputa dos agentes de código pode estar na revisão especializada, com regras determinísticas e menor custo, não apenas na geração de código.",
       "broll": [
-        "GitHub",
-        "terminal",
-        "tutorial",
-        "exemplos de automação"
+        "CLI revisando um PR",
+        "comentários linha a linha",
+        "paper e benchmark",
+        "diff com falhas encontradas"
       ],
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 247704,
-      "forks": 52140,
-      "issues": 43327,
-      "language": "Python",
-      "pushedAt": "2026-09-21T16:34:02Z",
-      "pushedLabel": "push há 0h",
+      "url": "https://github.com/alibaba/open-code-review",
+      "stars": 39062,
+      "forks": 2795,
+      "issues": 224,
+      "language": "Go",
+      "pushedAt": "2026-09-21T14:11:12Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": null,
-      "score": 65,
+      "score": 59,
       "social": [
         {
           "platform": "YouTube",
-          "label": "Metics Media · tutorial completo · 225k views · publicado 31 AGO",
-          "url": "https://www.youtube.com/watch?v=DYdvJCxWd6M",
-          "views": 225904,
-          "publishedAt": "2026-08-31",
-          "verifiedAt": "07 SET 2026"
+          "label": "The Next New Thing · Open Code Review entre os repos explicados · 21,1k views · 325 likes · publicado 18 SET",
+          "url": "https://www.youtube.com/watch?v=1fHsIveXRa8",
+          "views": 21140,
+          "likes": 325,
+          "publishedAt": "2026-09-18",
+          "verifiedAt": "19 SET 2026"
+        },
+        {
+          "platform": "YouTube",
+          "label": "Signal Coders · agente de revisão da Alibaba · 6,4k views · 230 likes · publicado 25 JUL",
+          "url": "https://www.youtube.com/watch?v=Wt9b0xdBi28",
+          "views": 6443,
+          "likes": 230,
+          "comments": 4,
+          "publishedAt": "2026-07-25",
+          "verifiedAt": "15 SET 2026"
         }
       ],
-      "socialStatus": "referência direta verificada",
+      "socialStatus": "referência recente verificada",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/NousResearch/hermes-agent",
+          "url": "https://github.com/alibaba/open-code-review",
           "kind": "oficial"
         },
         {
-          "label": "YouTube · Metics Media · tutorial completo · 225k views · publicado 31 AGO",
-          "url": "https://www.youtube.com/watch?v=DYdvJCxWd6M",
+          "label": "YouTube · The Next New Thing · Open Code Review entre os repos explicados · 21,1k views · 325 likes · publicado 18 SET",
+          "url": "https://www.youtube.com/watch?v=1fHsIveXRa8",
+          "kind": "social"
+        },
+        {
+          "label": "YouTube · Signal Coders · agente de revisão da Alibaba · 6,4k views · 230 likes · publicado 25 JUL",
+          "url": "https://www.youtube.com/watch?v=Wt9b0xdBi28",
           "kind": "social"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=NousResearch%20hermes-agent%20AI",
+          "url": "https://www.youtube.com/results?search_query=alibaba%20open-code-review%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Hermes%20Agent%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Open%20Code%20Review%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Hermes%20Agent%20AI",
+          "url": "https://www.tiktok.com/search?q=Open%20Code%20Review%20AI",
           "kind": "busca"
         }
       ],
       "rank": 9
     },
     {
-      "repo": "tt-a1i/archify",
-      "type": "Ferramenta visual para dev",
-      "status": "Gravar agora",
-      "hook": "Esse repo lê seu código e desenha a arquitetura inteira sozinho.",
-      "thesis": "A IA deixa de explicar código e passa a torná-lo visual.",
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
       "broll": [
-        "demo oficial",
-        "mapa interativo",
         "README",
-        "código virando diagrama"
+        "arquitetura de memória",
+        "code graph"
       ],
-      "title": "archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "stars": 68938,
-      "forks": 4623,
-      "issues": 144,
-      "language": "JavaScript",
-      "pushedAt": "2026-09-21T15:45:11Z",
-      "pushedLabel": "push há 1h",
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 27097,
+      "forks": 2596,
+      "issues": 817,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-21T08:41:23Z",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
-      "score": 62,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "The Next New Thing · Archify entre os repos em alta · 111k views · publicado 04 SET",
-          "url": "https://www.youtube.com/watch?v=AWzzmrCPe-A",
-          "views": 111709,
-          "publishedAt": "2026-09-04",
-          "verifiedAt": "07 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
+      "score": 40,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/tt-a1i/archify",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
           "kind": "oficial"
         },
         {
-          "label": "YouTube · The Next New Thing · Archify entre os repos em alta · 111k views · publicado 04 SET",
-          "url": "https://www.youtube.com/watch?v=AWzzmrCPe-A",
-          "kind": "social"
-        },
-        {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=tt-a1i%20archify%20AI",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=archify%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=archify%20AI",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
           "kind": "busca"
         }
       ],
@@ -630,14 +632,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 84263,
-      "forks": 7398,
+      "stars": 84280,
+      "forks": 7401,
       "issues": 154,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 6d",
       "trendingStarsToday": null,
-      "score": 51,
+      "score": 35,
       "social": [
         {
           "platform": "YouTube",
@@ -650,7 +652,7 @@
           "verifiedAt": "14 SET 2026"
         }
       ],
-      "socialStatus": "referência direta verificada",
+      "socialStatus": "somente referência histórica — sem prova social recente",
       "sources": [
         {
           "label": "GitHub",
@@ -679,64 +681,9 @@
         }
       ],
       "rank": 11
-    },
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27097,
-      "forks": 2596,
-      "issues": 817,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-21T08:41:23Z",
-      "pushedLabel": "push há 8h",
-      "trendingStarsToday": null,
-      "score": 46,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 12
     }
   ],
   "news": [
-    {
-      "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
-      "points": 103,
-      "comments": 74,
-      "publishedAt": "2026-09-21T13:53:27Z",
-      "source": "Hacker News / Algolia"
-    },
     {
       "title": "Can I Let My AI Agent Run on Shabbat?",
       "url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
@@ -751,6 +698,14 @@
       "points": 16,
       "comments": 13,
       "publishedAt": "2026-09-19T23:47:35Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Amazon Blocks Meta's New Muse AI Agent from Shopping on Amazon.com",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+      "points": 18,
+      "comments": 0,
+      "publishedAt": "2026-09-21T17:00:23Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -830,6 +785,53 @@
   ],
   "monitored": [
     {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 27097,
+      "forks": 2596,
+      "issues": 817,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-21T08:41:23Z",
+      "pushedLabel": "push há 9h",
+      "trendingStarsToday": null,
+      "score": 40,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 10
+    },
+    {
       "repo": "Panniantong/Agent-Reach",
       "type": "Repo monitorado",
       "status": "Monitorar hoje",
@@ -842,14 +844,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 84263,
-      "forks": 7398,
+      "stars": 84280,
+      "forks": 7401,
       "issues": 154,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 6d",
       "trendingStarsToday": null,
-      "score": 51,
+      "score": 35,
       "social": [
         {
           "platform": "YouTube",
@@ -862,7 +864,7 @@
           "verifiedAt": "14 SET 2026"
         }
       ],
-      "socialStatus": "referência direta verificada",
+      "socialStatus": "somente referência histórica — sem prova social recente",
       "sources": [
         {
           "label": "GitHub",
@@ -891,53 +893,6 @@
         }
       ],
       "rank": 11
-    },
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27097,
-      "forks": 2596,
-      "issues": 817,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-21T08:41:23Z",
-      "pushedLabel": "push há 8h",
-      "trendingStarsToday": null,
-      "score": 46,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 12
     }
   ]
 }
