@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T19:15:41.471Z",
-  "generatedLabel": "20 de set. de 2026 · 16:15",
+  "generatedAt": "2026-09-21T00:57:45.312Z",
+  "generatedLabel": "20 de set. de 2026 · 21:57",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -46,12 +46,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 38300,
-      "forks": 2730,
-      "issues": 265,
+      "stars": 38391,
+      "forks": 2738,
+      "issues": 244,
       "language": "Go",
       "pushedAt": "2026-09-20T07:57:28Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 17h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -189,13 +189,13 @@
         "comparação de agentes"
       ],
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 263552,
-      "forks": 39438,
-      "issues": 206,
+      "stars": 263740,
+      "forks": 39456,
+      "issues": 209,
       "language": "JavaScript",
-      "pushedAt": "2026-09-20T18:26:52Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 837,
+      "pushedAt": "2026-09-20T19:37:57Z",
+      "pushedLabel": "push há 5h",
+      "trendingStarsToday": 826,
       "score": 91,
       "social": [
         {
@@ -215,7 +215,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 837 stars hoje",
+          "label": "GitHub Trending · 826 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -256,13 +256,13 @@
         "repositório oficial"
       ],
       "url": "https://github.com/anthropics/claude-code",
-      "stars": 147027,
-      "forks": 24032,
-      "issues": 12285,
+      "stars": 147124,
+      "forks": 24064,
+      "issues": 12206,
       "language": "TypeScript",
-      "pushedAt": "2026-09-20T16:24:05Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 415,
+      "pushedAt": "2026-09-20T20:41:16Z",
+      "pushedLabel": "push há 4h",
+      "trendingStarsToday": 419,
       "score": 91,
       "social": [
         {
@@ -283,7 +283,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 415 stars hoje",
+          "label": "GitHub Trending · 419 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -324,13 +324,13 @@
         "post técnico da Cloudflare"
       ],
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 17825,
-      "forks": 990,
-      "issues": 44,
+      "stars": 18026,
+      "forks": 999,
+      "issues": 45,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T19:29:02Z",
       "pushedLabel": "push há 6d",
-      "trendingStarsToday": 2375,
+      "trendingStarsToday": 2428,
       "score": 83,
       "social": [
         {
@@ -392,13 +392,13 @@
         "arquitetura do framework"
       ],
       "url": "https://github.com/trycua/cua",
-      "stars": 25056,
-      "forks": 1723,
+      "stars": 25150,
+      "forks": 1729,
       "issues": 1027,
       "language": "HTML",
-      "pushedAt": "2026-09-20T17:59:13Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 1012,
+      "pushedAt": "2026-09-21T00:41:24Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1018,
       "score": 79,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -445,11 +445,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 247437,
-      "forks": 52041,
-      "issues": 43304,
+      "stars": 247477,
+      "forks": 52058,
+      "issues": 43058,
       "language": "Python",
-      "pushedAt": "2026-09-20T19:15:10Z",
+      "pushedAt": "2026-09-21T00:43:35Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -507,12 +507,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 68152,
-      "forks": 4557,
-      "issues": 140,
+      "stars": 68268,
+      "forks": 4564,
+      "issues": 141,
       "language": "JavaScript",
       "pushedAt": "2026-09-20T16:17:02Z",
-      "pushedLabel": "push há 3h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -560,7 +560,7 @@
       "title": "agent-native",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 89 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 98 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A framework for building agentic apps",
       "broll": [
         "GitHub Trending",
@@ -569,14 +569,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/BuilderIO/agent-native",
-      "stars": 5115,
-      "forks": 480,
-      "issues": 80,
+      "stars": 5214,
+      "forks": 485,
+      "issues": 76,
       "language": "TypeScript",
-      "pushedAt": "2026-09-20T19:12:53Z",
+      "pushedAt": "2026-09-21T00:53:20Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 89,
-      "score": 60,
+      "trendingStarsToday": 98,
+      "score": 61,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -586,7 +586,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 89 stars hoje",
+          "label": "GitHub Trending · 98 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -609,62 +609,53 @@
       "rank": 9
     },
     {
-      "repo": "mattpocock/skills",
-      "title": "Skills para agentes",
-      "type": "Skills para agentes",
-      "status": "Gravar agora",
-      "hook": "O jeito de programar com IA mudou: quem ainda usa só prompt está ficando para trás.",
-      "thesis": "Conhecimento de engenharia virou infraestrutura reutilizável para agentes.",
+      "repo": "paperless-ngx/paperless-ngx",
+      "title": "paperless-ngx",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 57 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "A community-supported supercharged document management system: scan, index and archive all your documents",
       "broll": [
-        "README",
-        "diretório .agents",
         "GitHub Trending",
-        "vídeo do criador"
+        "README",
+        "demo oficial",
+        "histórico do projeto"
       ],
-      "url": "https://github.com/mattpocock/skills",
-      "stars": 266375,
-      "forks": 22490,
-      "issues": 505,
-      "language": "Shell",
-      "pushedAt": "2026-09-18T10:12:48Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": null,
-      "score": 58,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "Matt Pocock · workflow completo · 424k views · publicado 16 JUL",
-          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
-          "views": 424060,
-          "publishedAt": "2026-07-16",
-          "verifiedAt": "07 SET 2026"
-        }
-      ],
-      "socialStatus": "referência direta verificada",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "stars": 45568,
+      "forks": 3146,
+      "issues": 10,
+      "language": "Python",
+      "pushedAt": "2026-09-20T23:41:19Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 57,
+      "score": 61,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/mattpocock/skills",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
           "kind": "oficial"
         },
         {
-          "label": "YouTube · Matt Pocock · workflow completo · 424k views · publicado 16 JUL",
-          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
-          "kind": "social"
+          "label": "GitHub Trending · 57 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=mattpocock%20skills%20AI",
+          "url": "https://www.youtube.com/results?search_query=paperless-ngx%20paperless-ngx%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Skills%20para%20agentes%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=paperless-ngx%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Skills%20para%20agentes%20AI",
+          "url": "https://www.tiktok.com/search?q=paperless-ngx%20AI",
           "kind": "busca"
         }
       ],
@@ -683,8 +674,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 83791,
-      "forks": 7345,
+      "stars": 83850,
+      "forks": 7348,
       "issues": 155,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -746,12 +737,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27036,
-      "forks": 2586,
+      "stars": 27043,
+      "forks": 2585,
       "issues": 813,
       "language": "TypeScript",
       "pushedAt": "2026-09-20T10:05:31Z",
-      "pushedLabel": "push há 9h",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
@@ -791,14 +782,6 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Show HN: Agentgit – a Git host for AI agents, no account, no token, no key",
-      "url": "https://agentgit.co/",
-      "points": 10,
-      "comments": 6,
-      "publishedAt": "2026-09-18T23:14:58Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
       "title": "I Built AI Agents That Ask Companies to Delete Their Data. Most Never Answered",
       "url": "https://medium.com/@stem-education/i-built-ai-agents-that-ask-companies-to-delete-their-data-most-never-answered-7c90c3d2b6d1",
       "points": 8,
@@ -829,56 +812,64 @@
       "comments": 1,
       "publishedAt": "2026-09-19T11:21:52Z",
       "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: AgentTrace–Observability and runtime self-healing engine for AI agents",
+      "url": "https://github.com/mohitkumar188/AgentTrace",
+      "points": 4,
+      "comments": 0,
+      "publishedAt": "2026-09-20T21:24:17Z",
+      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "affaan-m/ECC",
-      "starsToday": 837
+      "starsToday": 826
     },
     {
       "repo": "BuilderIO/agent-native",
-      "starsToday": 89
+      "starsToday": 98
     },
     {
       "repo": "cloudflare/security-audit-skill",
-      "starsToday": 2375
+      "starsToday": 2428
     },
     {
       "repo": "trycua/cua",
-      "starsToday": 1012
+      "starsToday": 1018
     },
     {
       "repo": "anthropics/financial-services",
-      "starsToday": 236
+      "starsToday": 260
     },
     {
       "repo": "paperless-ngx/paperless-ngx",
-      "starsToday": 32
+      "starsToday": 57
     },
     {
       "repo": "anthropics/claude-code",
-      "starsToday": 415
+      "starsToday": 419
     },
     {
       "repo": "mihail911/modern-software-dev-assignments",
-      "starsToday": 174
+      "starsToday": 172
     },
     {
       "repo": "higgsfield-ai/higgsfield",
-      "starsToday": 461
+      "starsToday": 465
     },
     {
       "repo": "Open-Dev-Society/OpenStock",
-      "starsToday": 752
+      "starsToday": 755
     },
     {
       "repo": "coder/coder",
-      "starsToday": 382
+      "starsToday": 379
     },
     {
       "repo": "vercel-labs/json-render",
-      "starsToday": 332
+      "starsToday": 291
     }
   ],
   "monitored": [
@@ -895,8 +886,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 83791,
-      "forks": 7345,
+      "stars": 83850,
+      "forks": 7348,
       "issues": 155,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -958,12 +949,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27036,
-      "forks": 2586,
+      "stars": 27043,
+      "forks": 2585,
       "issues": 813,
       "language": "TypeScript",
       "pushedAt": "2026-09-20T10:05:31Z",
-      "pushedLabel": "push há 9h",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": null,
       "score": 46,
       "social": [],
