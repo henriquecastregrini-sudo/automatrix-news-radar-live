@@ -82,8 +82,8 @@ const officialProofs = {
 
 const socialReferences = {
   'google/ax': [
-    { platform: 'Reddit', label: 'r/GoogleGeminiAI · lançamento do AX discutido poucas horas após abrir o repo', url: 'https://www.reddit.com/r/GoogleGeminiAI/comments/1wmhlpx/google_opensourced_ax_their_agentic_orchestrator/', publishedAt: '2026-09-22', verifiedAt: '22 SET 2026' },
-    { platform: 'Reddit', label: 'r/AIDeveloperNews · explicação técnica do AX e Agent Substrate', url: 'https://www.reddit.com/r/AIDeveloperNews/comments/1wmr4uo/google_has_opensourced_ax_a_declarative_agentic/', publishedAt: '2026-09-22', verifiedAt: '22 SET 2026' },
+    { platform: 'Reddit', label: 'r/GoogleGeminiAI · lançamento do AX · 8 votos públicos', url: 'https://www.reddit.com/r/GoogleGeminiAI/comments/1wmhlpx/google_opensourced_ax_their_agentic_orchestrator/', engagement: 8, publishedAt: '2026-09-21', verifiedAt: '22 SET 2026' },
+    { platform: 'Reddit', label: 'r/AIDeveloperNews · explicação técnica do AX · 61 votos públicos', url: 'https://www.reddit.com/r/AIDeveloperNews/comments/1wmr4uo/google_has_opensourced_ax_a_declarative_agentic/', engagement: 61, publishedAt: '2026-09-21', verifiedAt: '22 SET 2026' },
   ],
   'mattpocock/skills': [{ platform: 'YouTube', label: 'Matt Pocock · workflow completo · 424k views · publicado 16 JUL', url: 'https://www.youtube.com/watch?v=M6mYodf0dJM', views: 424060, publishedAt: '2026-07-16', verifiedAt: '07 SET 2026' }],
   'tt-a1i/archify': [{ platform: 'YouTube', label: 'The Next New Thing · Archify entre os repos em alta · 111k views · publicado 04 SET', url: 'https://www.youtube.com/watch?v=AWzzmrCPe-A', views: 111709, publishedAt: '2026-09-04', verifiedAt: '07 SET 2026' }],
