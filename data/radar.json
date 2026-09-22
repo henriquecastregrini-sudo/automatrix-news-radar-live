@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T17:47:50.408Z",
-  "generatedLabel": "22 de set. de 2026 · 14:47",
+  "generatedAt": "2026-09-22T20:00:06.830Z",
+  "generatedLabel": "22 de set. de 2026 · 17:00",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,8 +45,8 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/google/ax",
-      "stars": 7271,
-      "forks": 341,
+      "stars": 7381,
+      "forks": 346,
       "issues": 31,
       "language": "Go",
       "pushedAt": "2026-09-20T03:33:20Z",
@@ -133,7 +133,7 @@
       "issues": 43777,
       "language": "Python",
       "pushedAt": "2026-09-22T17:45:21Z",
-      "pushedLabel": "push há 0h",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": null,
       "score": 65,
       "social": [
@@ -195,7 +195,7 @@
       "issues": 145,
       "language": "JavaScript",
       "pushedAt": "2026-09-22T17:25:48Z",
-      "pushedLabel": "push há 0h",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -257,7 +257,7 @@
       "issues": 511,
       "language": "Go",
       "pushedAt": "2026-09-22T17:32:16Z",
-      "pushedLabel": "push há 0h",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": 301,
       "score": 61,
       "social": [],
@@ -315,7 +315,7 @@
       "issues": 138,
       "language": "TypeScript",
       "pushedAt": "2026-09-22T07:17:35Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": 202,
       "score": 61,
       "social": [],
@@ -373,7 +373,7 @@
       "issues": 267,
       "language": "Python",
       "pushedAt": "2026-09-22T14:01:00Z",
-      "pushedLabel": "push há 4h",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": 113,
       "score": 59,
       "social": [],
@@ -427,7 +427,7 @@
       "issues": 226,
       "language": "Go",
       "pushedAt": "2026-09-22T11:03:58Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -505,7 +505,7 @@
       "issues": 81,
       "language": "Python",
       "pushedAt": "2026-09-22T17:22:00Z",
-      "pushedLabel": "push há 0h",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": 197,
       "score": 58,
       "social": [],
@@ -553,8 +553,8 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/browser-use/video-use",
-      "stars": 25675,
-      "forks": 3107,
+      "stars": 25736,
+      "forks": 3111,
       "issues": 115,
       "language": "Python",
       "pushedAt": "2026-08-30T09:45:51Z",
@@ -610,7 +610,7 @@
       "issues": 828,
       "language": "TypeScript",
       "pushedAt": "2026-09-22T09:40:38Z",
-      "pushedLabel": "push há 8h",
+      "pushedLabel": "push há 10h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -721,35 +721,35 @@
       "source": "Hacker News / Algolia"
     },
     {
+      "title": "Unreal Agent",
+      "url": "https://unreallabs.ai/blog/unreal-agent/",
+      "points": 31,
+      "comments": 17,
+      "publishedAt": "2026-09-22T18:15:53Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
       "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
       "url": "https://www.coveragecat.com/",
-      "points": 8,
-      "comments": 3,
+      "points": 25,
+      "comments": 20,
       "publishedAt": "2026-09-22T17:26:36Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
       "url": "https://ai-rete-rag.com/",
-      "points": 14,
-      "comments": 0,
+      "points": 27,
+      "comments": 2,
       "publishedAt": "2026-09-22T16:15:06Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "I Gave My Life over to Meta's A.I. Agent and Was Blown Away",
       "url": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
-      "points": 5,
-      "comments": 4,
+      "points": 7,
+      "comments": 7,
       "publishedAt": "2026-09-22T16:36:04Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Witdem – Did your AI Agent accomplish its task? and at what cost?",
-      "url": "https://demo.witdem.com",
-      "points": 3,
-      "comments": 5,
-      "publishedAt": "2026-09-21T11:05:49Z",
       "source": "Hacker News / Algolia"
     }
   ],
@@ -806,7 +806,7 @@
       "issues": 828,
       "language": "TypeScript",
       "pushedAt": "2026-09-22T09:40:38Z",
-      "pushedLabel": "push há 8h",
+      "pushedLabel": "push há 10h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
