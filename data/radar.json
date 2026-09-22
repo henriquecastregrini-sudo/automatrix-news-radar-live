@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T23:02:13.556Z",
-  "generatedLabel": "21 de set. de 2026 · 20:02",
+  "generatedAt": "2026-09-22T01:32:40.432Z",
+  "generatedLabel": "21 de set. de 2026 · 22:32",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,12 +45,12 @@
         "arquitetura do framework"
       ],
       "url": "https://github.com/trycua/cua",
-      "stars": 25670,
-      "forks": 1767,
+      "stars": 25712,
+      "forks": 1769,
       "issues": 1036,
       "language": "HTML",
-      "pushedAt": "2026-09-21T22:48:12Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-09-22T00:37:14Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 609,
       "score": 69,
       "social": [],
@@ -103,11 +103,11 @@
         "demo de slides e analytics"
       ],
       "url": "https://github.com/BuilderIO/agent-native",
-      "stars": 5855,
-      "forks": 533,
-      "issues": 89,
+      "stars": 5926,
+      "forks": 540,
+      "issues": 84,
       "language": "TypeScript",
-      "pushedAt": "2026-09-21T23:02:01Z",
+      "pushedAt": "2026-09-22T01:32:32Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 607,
       "score": 67,
@@ -161,13 +161,13 @@
         "painel administrativo"
       ],
       "url": "https://github.com/coder/coder",
-      "stars": 16397,
-      "forks": 1564,
-      "issues": 1077,
+      "stars": 16433,
+      "forks": 1565,
+      "issues": 1078,
       "language": "Go",
-      "pushedAt": "2026-09-21T22:52:03Z",
+      "pushedAt": "2026-09-22T01:29:31Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 461,
+      "trendingStarsToday": 460,
       "score": 67,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -178,7 +178,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 461 stars hoje",
+          "label": "GitHub Trending · 460 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -210,7 +210,7 @@
       "title": "project-nomad",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 360 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 394 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
       "broll": [
         "GitHub Trending",
@@ -219,13 +219,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "stars": 37831,
-      "forks": 3766,
-      "issues": 94,
+      "stars": 37880,
+      "forks": 3768,
+      "issues": 96,
       "language": "TypeScript",
-      "pushedAt": "2026-09-21T22:49:58Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 360,
+      "pushedAt": "2026-09-21T23:10:39Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 394,
       "score": 67,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -236,7 +236,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 360 stars hoje",
+          "label": "GitHub Trending · 394 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -272,11 +272,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 247770,
-      "forks": 52185,
-      "issues": 43463,
+      "stars": 247789,
+      "forks": 52193,
+      "issues": 43519,
       "language": "Python",
-      "pushedAt": "2026-09-21T22:56:33Z",
+      "pushedAt": "2026-09-22T01:27:00Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -334,13 +334,13 @@
         "vídeo longo virando shorts"
       ],
       "url": "https://github.com/zhouxiaoka/autoclip",
-      "stars": 8198,
-      "forks": 1569,
+      "stars": 8267,
+      "forks": 1573,
       "issues": 16,
       "language": "Python",
       "pushedAt": "2026-09-21T17:19:32Z",
-      "pushedLabel": "push há 6h",
-      "trendingStarsToday": 266,
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 250,
       "score": 62,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -351,7 +351,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 266 stars hoje",
+          "label": "GitHub Trending · 250 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -392,12 +392,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 69085,
-      "forks": 4635,
+      "stars": 69142,
+      "forks": 4636,
       "issues": 144,
       "language": "JavaScript",
       "pushedAt": "2026-09-21T15:45:11Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 10h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -454,14 +454,14 @@
         "terminal"
       ],
       "url": "https://github.com/akitaonrails/ai-memory",
-      "stars": 7648,
-      "forks": 519,
-      "issues": 23,
+      "stars": 7703,
+      "forks": 522,
+      "issues": 26,
       "language": "Rust",
-      "pushedAt": "2026-09-21T22:24:05Z",
+      "pushedAt": "2026-09-22T00:14:33Z",
       "pushedLabel": "push há 1h",
-      "trendingStarsToday": 217,
-      "score": 61,
+      "trendingStarsToday": 167,
+      "score": 59,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -471,7 +471,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 217 stars hoje",
+          "label": "GitHub Trending · 167 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -508,12 +508,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 39162,
-      "forks": 2802,
-      "issues": 227,
+      "stars": 39229,
+      "forks": 2805,
+      "issues": 229,
       "language": "Go",
       "pushedAt": "2026-09-21T14:11:12Z",
-      "pushedLabel": "push há 9h",
+      "pushedLabel": "push há 11h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -585,12 +585,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27100,
+      "stars": 27102,
       "forks": 2596,
       "issues": 817,
       "language": "TypeScript",
       "pushedAt": "2026-09-21T08:41:23Z",
-      "pushedLabel": "push há 14h",
+      "pushedLabel": "push há 17h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -632,8 +632,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 84351,
-      "forks": 7407,
+      "stars": 84385,
+      "forks": 7411,
       "issues": 155,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -687,8 +687,8 @@
     {
       "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
       "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-      "points": 137,
-      "comments": 141,
+      "points": 141,
+      "comments": 148,
       "publishedAt": "2026-09-21T17:00:23Z",
       "source": "Hacker News / Algolia"
     },
@@ -696,16 +696,8 @@
       "title": "Can I Let My AI Agent Run on Shabbat?",
       "url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
       "points": 36,
-      "comments": 18,
+      "comments": 19,
       "publishedAt": "2026-09-21T02:05:45Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: I created an open source locally usable full fledged AI platform",
-      "url": "https://github.com/theguysudo/ENZO",
-      "points": 16,
-      "comments": 13,
-      "publishedAt": "2026-09-19T23:47:35Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -722,6 +714,14 @@
       "points": 11,
       "comments": 0,
       "publishedAt": "2026-09-21T15:16:30Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: Praxos – Multiplayer AI",
+      "url": "https://www.praxos.ai/",
+      "points": 7,
+      "comments": 0,
+      "publishedAt": "2026-09-21T21:40:19Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -744,43 +744,43 @@
     },
     {
       "repo": "Open-Dev-Society/OpenStock",
-      "starsToday": 843
+      "starsToday": 844
     },
     {
       "repo": "akitaonrails/ai-memory",
-      "starsToday": 217
+      "starsToday": 167
     },
     {
       "repo": "coder/coder",
-      "starsToday": 461
+      "starsToday": 460
     },
     {
       "repo": "anthropics/financial-services",
-      "starsToday": 425
+      "starsToday": 424
     },
     {
       "repo": "cloudflare/quiche",
-      "starsToday": 69
+      "starsToday": 32
     },
     {
       "repo": "mvt-project/mvt",
-      "starsToday": 177
+      "starsToday": 169
     },
     {
       "repo": "zhouxiaoka/autoclip",
-      "starsToday": 266
+      "starsToday": 250
     },
     {
       "repo": "ruanyf/weekly",
-      "starsToday": 221
+      "starsToday": 182
     },
     {
       "repo": "Crosstalk-Solutions/project-nomad",
-      "starsToday": 360
+      "starsToday": 394
     },
     {
       "repo": "yynxxxxx/Codex-X",
-      "starsToday": 79
+      "starsToday": 50
     }
   ],
   "monitored": [
@@ -797,12 +797,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27100,
+      "stars": 27102,
       "forks": 2596,
       "issues": 817,
       "language": "TypeScript",
       "pushedAt": "2026-09-21T08:41:23Z",
-      "pushedLabel": "push há 14h",
+      "pushedLabel": "push há 17h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -844,8 +844,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 84351,
-      "forks": 7407,
+      "stars": 84385,
+      "forks": 7411,
       "issues": 155,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
