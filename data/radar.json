@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T17:22:08.082Z",
-  "generatedLabel": "23 de set. de 2026 · 14:22",
+  "generatedAt": "2026-09-23T19:57:20.879Z",
+  "generatedLabel": "23 de set. de 2026 · 16:57",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,12 +45,12 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/google/ax",
-      "stars": 8726,
-      "forks": 405,
+      "stars": 8862,
+      "forks": 415,
       "issues": 39,
       "language": "Go",
       "pushedAt": "2026-09-23T14:56:20Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": 1542,
       "score": 86,
       "social": [
@@ -130,12 +130,12 @@
         "fluxo com worktree"
       ],
       "url": "https://github.com/dream-num/univer",
-      "stars": 16187,
-      "forks": 1429,
-      "issues": 139,
+      "stars": 16235,
+      "forks": 1432,
+      "issues": 140,
       "language": "TypeScript",
       "pushedAt": "2026-09-23T13:53:19Z",
-      "pushedLabel": "push há 3h",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": 1140,
       "score": 73,
       "social": [],
@@ -188,14 +188,14 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 290556,
-      "forks": 26002,
+      "stars": 290609,
+      "forks": 26005,
       "issues": 398,
       "language": "Shell",
       "pushedAt": "2026-09-22T18:22:49Z",
-      "pushedLabel": "push há 23h",
-      "trendingStarsToday": 528,
-      "score": 73,
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 485,
+      "score": 72,
       "social": [
         {
           "platform": "Bilibili",
@@ -214,7 +214,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 528 stars hoje",
+          "label": "GitHub Trending · 485 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -255,12 +255,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/davila7/claude-code-templates",
-      "stars": 31405,
-      "forks": 3565,
+      "stars": 31430,
+      "forks": 3572,
       "issues": 281,
       "language": "Python",
       "pushedAt": "2026-09-23T14:01:18Z",
-      "pushedLabel": "push há 3h",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": 393,
       "score": 67,
       "social": [],
@@ -308,11 +308,11 @@
         "README oficial"
       ],
       "url": "https://github.com/agent-substrate/substrate",
-      "stars": 3369,
-      "forks": 405,
-      "issues": 522,
+      "stars": 3409,
+      "forks": 407,
+      "issues": 520,
       "language": "Go",
-      "pushedAt": "2026-09-23T17:17:53Z",
+      "pushedAt": "2026-09-23T19:46:07Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 560,
       "score": 65,
@@ -366,11 +366,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 248326,
-      "forks": 52465,
-      "issues": 44035,
+      "stars": 248357,
+      "forks": 52485,
+      "issues": 44036,
       "language": "Python",
-      "pushedAt": "2026-09-23T17:19:29Z",
+      "pushedAt": "2026-09-23T19:55:07Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -428,12 +428,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 70480,
-      "forks": 4737,
+      "stars": 70518,
+      "forks": 4740,
       "issues": 158,
       "language": "JavaScript",
       "pushedAt": "2026-09-23T15:03:54Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -491,12 +491,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 40123,
+      "stars": 40149,
       "forks": 2884,
       "issues": 227,
       "language": "Go",
       "pushedAt": "2026-09-23T12:14:07Z",
-      "pushedLabel": "push há 5h",
+      "pushedLabel": "push há 8h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -569,11 +569,11 @@
         "demo de slides e analytics"
       ],
       "url": "https://github.com/BuilderIO/agent-native",
-      "stars": 6451,
-      "forks": 579,
-      "issues": 86,
+      "stars": 6476,
+      "forks": 580,
+      "issues": 109,
       "language": "TypeScript",
-      "pushedAt": "2026-09-23T17:21:52Z",
+      "pushedAt": "2026-09-23T19:57:10Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 135,
       "score": 57,
@@ -626,12 +626,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27208,
+      "stars": 27207,
       "forks": 2607,
       "issues": 823,
       "language": "TypeScript",
       "pushedAt": "2026-09-23T07:22:44Z",
-      "pushedLabel": "push há 10h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -673,8 +673,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85057,
-      "forks": 7468,
+      "stars": 85070,
+      "forks": 7470,
       "issues": 161,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -728,15 +728,15 @@
     {
       "title": "Unreal Agent",
       "url": "https://unreallabs.ai/blog/unreal-agent/",
-      "points": 224,
-      "comments": 118,
+      "points": 228,
+      "comments": 120,
       "publishedAt": "2026-09-22T18:15:53Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "The new CC, an AI agent built for families",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
-      "points": 50,
+      "points": 51,
       "comments": 63,
       "publishedAt": "2026-09-22T23:46:07Z",
       "source": "Hacker News / Algolia"
@@ -744,7 +744,7 @@
     {
       "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
       "url": "https://www.coveragecat.com/",
-      "points": 50,
+      "points": 52,
       "comments": 30,
       "publishedAt": "2026-09-22T17:26:36Z",
       "source": "Hacker News / Algolia"
@@ -752,9 +752,17 @@
     {
       "title": "Show HN: Training a model to identify AI web content from structure alone",
       "url": "https://arxiv.org/abs/2609.15369",
-      "points": 62,
-      "comments": 20,
+      "points": 63,
+      "comments": 21,
       "publishedAt": "2026-09-22T13:00:49Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Cloud Agents Are Inevitable AI Prisons",
+      "url": "https://normanponte.io/19df691f",
+      "points": 29,
+      "comments": 11,
+      "publishedAt": "2026-09-23T18:16:41Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -763,14 +771,6 @@
       "points": 41,
       "comments": 5,
       "publishedAt": "2026-09-22T16:15:06Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
-      "url": "https://filmstudio.rxlab.app",
-      "points": 18,
-      "comments": 13,
-      "publishedAt": "2026-09-23T12:28:40Z",
       "source": "Hacker News / Algolia"
     }
   ],
@@ -793,7 +793,7 @@
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 528
+      "starsToday": 485
     },
     {
       "repo": "dream-num/univer",
@@ -838,12 +838,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27208,
+      "stars": 27207,
       "forks": 2607,
       "issues": 823,
       "language": "TypeScript",
       "pushedAt": "2026-09-23T07:22:44Z",
-      "pushedLabel": "push há 10h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -885,8 +885,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85057,
-      "forks": 7468,
+      "stars": 85070,
+      "forks": 7470,
       "issues": 161,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
