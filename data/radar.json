@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T23:02:36.721Z",
-  "generatedLabel": "22 de set. de 2026 · 20:02",
+  "generatedAt": "2026-09-23T01:22:26.128Z",
+  "generatedLabel": "22 de set. de 2026 · 22:22",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,13 +45,13 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/google/ax",
-      "stars": 7519,
-      "forks": 351,
-      "issues": 31,
+      "stars": 7629,
+      "forks": 355,
+      "issues": 32,
       "language": "Go",
       "pushedAt": "2026-09-20T03:33:20Z",
       "pushedLabel": "push há 3d",
-      "trendingStarsToday": 2324,
+      "trendingStarsToday": 2305,
       "score": 79,
       "social": [
         {
@@ -130,11 +130,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 248100,
-      "forks": 52341,
-      "issues": 43988,
+      "stars": 248120,
+      "forks": 52353,
+      "issues": 44054,
       "language": "Python",
-      "pushedAt": "2026-09-22T22:38:19Z",
+      "pushedAt": "2026-09-23T01:22:12Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -179,6 +179,64 @@
       "rank": 2
     },
     {
+      "repo": "dream-num/univer",
+      "title": "Univer",
+      "type": "Office para agentes",
+      "status": "Monitorar hoje",
+      "hook": "Este projeto dá aos agentes uma superfície local para criar e revisar planilhas, documentos e apresentações.",
+      "thesis": "Ferramentas de escritório estão virando runtimes programáveis nos quais agentes editam conteúdo estruturado e humanos revisam o resultado.",
+      "broll": [
+        "showcase oficial",
+        "planilha sendo editada",
+        "documentos e slides",
+        "fluxo com worktree"
+      ],
+      "url": "https://github.com/dream-num/univer",
+      "stars": 15423,
+      "forks": 1373,
+      "issues": 138,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-22T07:17:35Z",
+      "pushedLabel": "push há 18h",
+      "trendingStarsToday": 255,
+      "score": 63,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/dream-num/univer",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 255 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Univer · showcase oficial",
+          "url": "https://docs.univer.ai/showcase",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=dream-num%20univer%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Univer%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Univer%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "repo": "tt-a1i/archify",
       "type": "Ferramenta visual para dev",
       "status": "Gravar agora",
@@ -192,12 +250,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 69871,
-      "forks": 4685,
+      "stars": 69936,
+      "forks": 4695,
       "issues": 147,
       "language": "JavaScript",
       "pushedAt": "2026-09-22T17:25:48Z",
-      "pushedLabel": "push há 6h",
+      "pushedLabel": "push há 8h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -238,7 +296,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "repo": "agent-substrate/substrate",
@@ -254,14 +312,14 @@
         "README oficial"
       ],
       "url": "https://github.com/agent-substrate/substrate",
-      "stars": 2940,
-      "forks": 383,
-      "issues": 520,
+      "stars": 2983,
+      "forks": 386,
+      "issues": 521,
       "language": "Go",
-      "pushedAt": "2026-09-22T22:56:51Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 301,
-      "score": 61,
+      "pushedAt": "2026-09-22T23:56:02Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 245,
+      "score": 60,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -271,7 +329,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 301 stars hoje",
+          "label": "GitHub Trending · 245 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -296,114 +354,56 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
-    },
-    {
-      "repo": "dream-num/univer",
-      "title": "Univer",
-      "type": "Office para agentes",
-      "status": "Monitorar hoje",
-      "hook": "Este projeto dá aos agentes uma superfície local para criar e revisar planilhas, documentos e apresentações.",
-      "thesis": "Ferramentas de escritório estão virando runtimes programáveis nos quais agentes editam conteúdo estruturado e humanos revisam o resultado.",
-      "broll": [
-        "showcase oficial",
-        "planilha sendo editada",
-        "documentos e slides",
-        "fluxo com worktree"
-      ],
-      "url": "https://github.com/dream-num/univer",
-      "stars": 15346,
-      "forks": 1368,
-      "issues": 138,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-22T07:17:35Z",
-      "pushedLabel": "push há 16h",
-      "trendingStarsToday": 202,
-      "score": 61,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/dream-num/univer",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 202 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Univer · showcase oficial",
-          "url": "https://docs.univer.ai/showcase",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=dream-num%20univer%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Univer%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Univer%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 5
     },
     {
-      "repo": "davila7/claude-code-templates",
-      "title": "claude-code-templates",
-      "type": "Novo no GitHub Trending",
+      "repo": "superdesigndev/treg",
+      "title": "Treg",
+      "type": "Roteador de ferramentas para agentes",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 113 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "CLI tool for configuring and monitoring Claude Code",
+      "hook": "Este projeto quer ser um OpenRouter para ferramentas: o agente chama capacidades externas por uma interface única.",
+      "thesis": "O mercado de agentes está criando uma camada de roteamento, identidade e cobrança não apenas para modelos, mas também para ferramentas.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "catálogo de ferramentas",
+        "dashboard Ledger",
+        "chamada por CLI",
+        "README oficial"
       ],
-      "url": "https://github.com/davila7/claude-code-templates",
-      "stars": 31091,
-      "forks": 3537,
-      "issues": 268,
+      "url": "https://github.com/superdesigndev/treg",
+      "stars": 2229,
+      "forks": 218,
+      "issues": 72,
       "language": "Python",
-      "pushedAt": "2026-09-22T14:01:00Z",
-      "pushedLabel": "push há 9h",
-      "trendingStarsToday": 113,
+      "pushedAt": "2026-09-23T01:18:58Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 230,
       "score": 59,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/davila7/claude-code-templates",
+          "url": "https://github.com/superdesigndev/treg",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 113 stars hoje",
+          "label": "GitHub Trending · 230 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=davila7%20claude-code-templates%20AI",
+          "url": "https://www.youtube.com/results?search_query=superdesigndev%20treg%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-code-templates%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Treg%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=claude-code-templates%20AI",
+          "url": "https://www.tiktok.com/search?q=Treg%20AI",
           "kind": "busca"
         }
       ],
@@ -424,12 +424,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 39711,
-      "forks": 2850,
-      "issues": 227,
+      "stars": 39737,
+      "forks": 2853,
+      "issues": 229,
       "language": "Go",
       "pushedAt": "2026-09-22T11:03:58Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 14h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -489,64 +489,11 @@
       "rank": 7
     },
     {
-      "repo": "superdesigndev/treg",
-      "title": "Treg",
-      "type": "Roteador de ferramentas para agentes",
-      "status": "Monitorar hoje",
-      "hook": "Este projeto quer ser um OpenRouter para ferramentas: o agente chama capacidades externas por uma interface única.",
-      "thesis": "O mercado de agentes está criando uma camada de roteamento, identidade e cobrança não apenas para modelos, mas também para ferramentas.",
-      "broll": [
-        "catálogo de ferramentas",
-        "dashboard Ledger",
-        "chamada por CLI",
-        "README oficial"
-      ],
-      "url": "https://github.com/superdesigndev/treg",
-      "stars": 2185,
-      "forks": 217,
-      "issues": 81,
-      "language": "Python",
-      "pushedAt": "2026-09-22T19:22:48Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 197,
-      "score": 58,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/superdesigndev/treg",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 197 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=superdesigndev%20treg%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Treg%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Treg%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 8
-    },
-    {
       "repo": "browser-use/video-use",
       "title": "video-use",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 155 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 191 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Edit videos with coding agents",
       "broll": [
         "GitHub Trending",
@@ -555,14 +502,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/browser-use/video-use",
-      "stars": 25811,
-      "forks": 3115,
+      "stars": 25852,
+      "forks": 3119,
       "issues": 115,
       "language": "Python",
       "pushedAt": "2026-08-30T09:45:51Z",
       "pushedLabel": "push há 24d",
-      "trendingStarsToday": 155,
-      "score": 54,
+      "trendingStarsToday": 191,
+      "score": 55,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -572,7 +519,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 155 stars hoje",
+          "label": "GitHub Trending · 191 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -592,6 +539,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 8
+    },
+    {
+      "repo": "davila7/claude-code-templates",
+      "title": "claude-code-templates",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 64 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "CLI tool for configuring and monitoring Claude Code",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/davila7/claude-code-templates",
+      "stars": 31135,
+      "forks": 3541,
+      "issues": 268,
+      "language": "Python",
+      "pushedAt": "2026-09-22T14:01:00Z",
+      "pushedLabel": "push há 11h",
+      "trendingStarsToday": 64,
+      "score": 55,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 64 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=davila7%20claude-code-templates%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-code-templates%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=claude-code-templates%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 9
     },
     {
@@ -607,12 +607,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27154,
-      "forks": 2602,
-      "issues": 829,
+      "stars": 27158,
+      "forks": 2604,
+      "issues": 830,
       "language": "TypeScript",
       "pushedAt": "2026-09-22T09:40:38Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 16h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -654,8 +654,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 84794,
-      "forks": 7446,
+      "stars": 84830,
+      "forks": 7447,
       "issues": 158,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -717,16 +717,16 @@
     {
       "title": "Unreal Agent",
       "url": "https://unreallabs.ai/blog/unreal-agent/",
-      "points": 99,
-      "comments": 60,
+      "points": 130,
+      "comments": 74,
       "publishedAt": "2026-09-22T18:15:53Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
       "url": "https://www.coveragecat.com/",
-      "points": 39,
-      "comments": 20,
+      "points": 42,
+      "comments": 26,
       "publishedAt": "2026-09-22T17:26:36Z",
       "source": "Hacker News / Algolia"
     },
@@ -741,40 +741,40 @@
     {
       "title": "Show HN: Training a model to identify AI web content from structure alone",
       "url": "https://arxiv.org/abs/2609.15369",
-      "points": 29,
-      "comments": 8,
+      "points": 41,
+      "comments": 9,
       "publishedAt": "2026-09-22T13:00:49Z",
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
-      "url": "https://ai-rete-rag.com/",
-      "points": 33,
-      "comments": 2,
-      "publishedAt": "2026-09-22T16:15:06Z",
+      "title": "The new CC, an AI agent built for families",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+      "points": 18,
+      "comments": 16,
+      "publishedAt": "2026-09-22T23:46:07Z",
       "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "anthropics/financial-services",
-      "starsToday": 436
+      "starsToday": 438
     },
     {
       "repo": "agent-substrate/substrate",
-      "starsToday": 301
+      "starsToday": 245
     },
     {
       "repo": "dream-num/univer",
-      "starsToday": 202
+      "starsToday": 255
     },
     {
       "repo": "davila7/claude-code-templates",
-      "starsToday": 113
+      "starsToday": 64
     },
     {
       "repo": "google/ax",
-      "starsToday": 2324
+      "starsToday": 2305
     },
     {
       "repo": "mvt-project/mvt",
@@ -782,11 +782,11 @@
     },
     {
       "repo": "superdesigndev/treg",
-      "starsToday": 197
+      "starsToday": 230
     },
     {
       "repo": "browser-use/video-use",
-      "starsToday": 155
+      "starsToday": 191
     }
   ],
   "monitored": [
@@ -803,12 +803,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27154,
-      "forks": 2602,
-      "issues": 829,
+      "stars": 27158,
+      "forks": 2604,
+      "issues": 830,
       "language": "TypeScript",
       "pushedAt": "2026-09-22T09:40:38Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 16h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -850,8 +850,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 84794,
-      "forks": 7446,
+      "stars": 84830,
+      "forks": 7447,
       "issues": 158,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
