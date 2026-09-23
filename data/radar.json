@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T15:12:39.051Z",
-  "generatedLabel": "23 de set. de 2026 · 12:12",
+  "generatedAt": "2026-09-23T17:22:08.082Z",
+  "generatedLabel": "23 de set. de 2026 · 14:22",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,12 +45,12 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/google/ax",
-      "stars": 8572,
-      "forks": 395,
-      "issues": 36,
+      "stars": 8726,
+      "forks": 405,
+      "issues": 39,
       "language": "Go",
       "pushedAt": "2026-09-23T14:56:20Z",
-      "pushedLabel": "push há 0h",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": 1542,
       "score": 86,
       "social": [
@@ -130,12 +130,12 @@
         "fluxo com worktree"
       ],
       "url": "https://github.com/dream-num/univer",
-      "stars": 16130,
-      "forks": 1423,
+      "stars": 16187,
+      "forks": 1429,
       "issues": 139,
       "language": "TypeScript",
       "pushedAt": "2026-09-23T13:53:19Z",
-      "pushedLabel": "push há 1h",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": 1140,
       "score": 73,
       "social": [],
@@ -188,12 +188,12 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 290503,
-      "forks": 25995,
+      "stars": 290556,
+      "forks": 26002,
       "issues": 398,
       "language": "Shell",
       "pushedAt": "2026-09-22T18:22:49Z",
-      "pushedLabel": "push há 21h",
+      "pushedLabel": "push há 23h",
       "trendingStarsToday": 528,
       "score": 73,
       "social": [
@@ -242,64 +242,6 @@
       "rank": 3
     },
     {
-      "repo": "BuilderIO/agent-native",
-      "title": "Agent-Native",
-      "type": "Apps com agentes e interface",
-      "status": "Gravar agora",
-      "hook": "A Builder abriu um framework em que o agente e a interface usam as mesmas ações para executar trabalho de verdade.",
-      "thesis": "O próximo app de IA pode unir automação, aprovação humana e interface visual em vez de esconder tudo numa conversa.",
-      "broll": [
-        "vídeo oficial no README",
-        "ação compartilhada entre agente e UI",
-        "galeria de apps",
-        "demo de slides e analytics"
-      ],
-      "url": "https://github.com/BuilderIO/agent-native",
-      "stars": 6419,
-      "forks": 577,
-      "issues": 88,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-23T15:12:36Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 609,
-      "score": 67,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/BuilderIO/agent-native",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 609 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Builder.io · galeria e demos oficiais",
-          "url": "https://www.builder.io/resources?topic=agent-native",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=BuilderIO%20agent-native%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Native%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Agent-Native%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
-    },
-    {
       "repo": "davila7/claude-code-templates",
       "title": "claude-code-templates",
       "type": "Novo no GitHub Trending",
@@ -313,12 +255,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/davila7/claude-code-templates",
-      "stars": 31370,
-      "forks": 3559,
-      "issues": 278,
+      "stars": 31405,
+      "forks": 3565,
+      "issues": 281,
       "language": "Python",
       "pushedAt": "2026-09-23T14:01:18Z",
-      "pushedLabel": "push há 1h",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": 393,
       "score": 67,
       "social": [],
@@ -350,7 +292,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "repo": "agent-substrate/substrate",
@@ -366,11 +308,11 @@
         "README oficial"
       ],
       "url": "https://github.com/agent-substrate/substrate",
-      "stars": 3322,
-      "forks": 402,
-      "issues": 525,
+      "stars": 3369,
+      "forks": 405,
+      "issues": 522,
       "language": "Go",
-      "pushedAt": "2026-09-23T15:00:31Z",
+      "pushedAt": "2026-09-23T17:17:53Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 560,
       "score": 65,
@@ -408,7 +350,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "repo": "NousResearch/hermes-agent",
@@ -424,11 +366,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 248301,
-      "forks": 52451,
-      "issues": 44076,
+      "stars": 248326,
+      "forks": 52465,
+      "issues": 44035,
       "language": "Python",
-      "pushedAt": "2026-09-23T15:09:51Z",
+      "pushedAt": "2026-09-23T17:19:29Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -470,7 +412,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 6
     },
     {
       "repo": "tt-a1i/archify",
@@ -486,12 +428,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 70425,
-      "forks": 4734,
-      "issues": 156,
+      "stars": 70480,
+      "forks": 4737,
+      "issues": 158,
       "language": "JavaScript",
       "pushedAt": "2026-09-23T15:03:54Z",
-      "pushedLabel": "push há 0h",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -532,7 +474,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 7
     },
     {
       "repo": "alibaba/open-code-review",
@@ -549,12 +491,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 40086,
-      "forks": 2880,
-      "issues": 226,
+      "stars": 40123,
+      "forks": 2884,
+      "issues": 227,
       "language": "Go",
       "pushedAt": "2026-09-23T12:14:07Z",
-      "pushedLabel": "push há 3h",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -611,6 +553,64 @@
           "kind": "busca"
         }
       ],
+      "rank": 8
+    },
+    {
+      "repo": "BuilderIO/agent-native",
+      "title": "Agent-Native",
+      "type": "Apps com agentes e interface",
+      "status": "Gravar agora",
+      "hook": "A Builder abriu um framework em que o agente e a interface usam as mesmas ações para executar trabalho de verdade.",
+      "thesis": "O próximo app de IA pode unir automação, aprovação humana e interface visual em vez de esconder tudo numa conversa.",
+      "broll": [
+        "vídeo oficial no README",
+        "ação compartilhada entre agente e UI",
+        "galeria de apps",
+        "demo de slides e analytics"
+      ],
+      "url": "https://github.com/BuilderIO/agent-native",
+      "stars": 6451,
+      "forks": 579,
+      "issues": 86,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-23T17:21:52Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 135,
+      "score": 57,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 135 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Builder.io · galeria e demos oficiais",
+          "url": "https://www.builder.io/resources?topic=agent-native",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=BuilderIO%20agent-native%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Native%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Agent-Native%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 9
     },
     {
@@ -626,12 +626,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27202,
+      "stars": 27208,
       "forks": 2607,
       "issues": 823,
       "language": "TypeScript",
       "pushedAt": "2026-09-23T07:22:44Z",
-      "pushedLabel": "push há 8h",
+      "pushedLabel": "push há 10h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -673,9 +673,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85026,
+      "stars": 85057,
       "forks": 7468,
-      "issues": 162,
+      "issues": 161,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 8d",
@@ -726,18 +726,10 @@
   ],
   "news": [
     {
-      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-      "points": 151,
-      "comments": 158,
-      "publishedAt": "2026-09-21T17:00:23Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
       "title": "Unreal Agent",
       "url": "https://unreallabs.ai/blog/unreal-agent/",
-      "points": 220,
-      "comments": 117,
+      "points": 224,
+      "comments": 118,
       "publishedAt": "2026-09-22T18:15:53Z",
       "source": "Hacker News / Algolia"
     },
@@ -745,7 +737,7 @@
       "title": "The new CC, an AI agent built for families",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
       "points": 50,
-      "comments": 61,
+      "comments": 63,
       "publishedAt": "2026-09-22T23:46:07Z",
       "source": "Hacker News / Algolia"
     },
@@ -753,7 +745,7 @@
       "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
       "url": "https://www.coveragecat.com/",
       "points": 50,
-      "comments": 29,
+      "comments": 30,
       "publishedAt": "2026-09-22T17:26:36Z",
       "source": "Hacker News / Algolia"
     },
@@ -761,16 +753,24 @@
       "title": "Show HN: Training a model to identify AI web content from structure alone",
       "url": "https://arxiv.org/abs/2609.15369",
       "points": 62,
-      "comments": 16,
+      "comments": 20,
       "publishedAt": "2026-09-22T13:00:49Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
       "url": "https://ai-rete-rag.com/",
-      "points": 40,
-      "comments": 4,
+      "points": 41,
+      "comments": 5,
       "publishedAt": "2026-09-22T16:15:06Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
+      "url": "https://filmstudio.rxlab.app",
+      "points": 18,
+      "comments": 13,
+      "publishedAt": "2026-09-23T12:28:40Z",
       "source": "Hacker News / Algolia"
     }
   ],
@@ -789,7 +789,7 @@
     },
     {
       "repo": "BuilderIO/agent-native",
-      "starsToday": 609
+      "starsToday": 135
     },
     {
       "repo": "obra/superpowers",
@@ -801,7 +801,7 @@
     },
     {
       "repo": "Open-Dev-Society/OpenStock",
-      "starsToday": 832
+      "starsToday": 379
     },
     {
       "repo": "agent-substrate/substrate",
@@ -838,12 +838,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27202,
+      "stars": 27208,
       "forks": 2607,
       "issues": 823,
       "language": "TypeScript",
       "pushedAt": "2026-09-23T07:22:44Z",
-      "pushedLabel": "push há 8h",
+      "pushedLabel": "push há 10h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -885,9 +885,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85026,
+      "stars": 85057,
       "forks": 7468,
-      "issues": 162,
+      "issues": 161,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 8d",
