@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T01:22:26.128Z",
-  "generatedLabel": "22 de set. de 2026 · 22:22",
+  "generatedAt": "2026-09-23T12:12:01.694Z",
+  "generatedLabel": "23 de set. de 2026 · 09:11",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,9 +45,9 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/google/ax",
-      "stars": 7629,
-      "forks": 355,
-      "issues": 32,
+      "stars": 8326,
+      "forks": 383,
+      "issues": 36,
       "language": "Go",
       "pushedAt": "2026-09-20T03:33:20Z",
       "pushedLabel": "push há 3d",
@@ -117,6 +117,131 @@
       "rank": 1
     },
     {
+      "repo": "obra/superpowers",
+      "title": "Superpowers",
+      "type": "Metodologia para agentes",
+      "status": "Gravar agora",
+      "hook": "Este projeto tenta acabar com o vibe coding: o agente precisa planejar, testar e revisar antes de dizer que terminou.",
+      "thesis": "Skills em Markdown estão virando uma camada de engenharia reutilizável entre Claude, Codex, Cursor e outros agentes.",
+      "broll": [
+        "fluxo brainstorming → plano → TDD",
+        "lista de skills",
+        "README",
+        "vídeo demonstrativo"
+      ],
+      "url": "https://github.com/obra/superpowers",
+      "stars": 290433,
+      "forks": 25986,
+      "issues": 398,
+      "language": "Shell",
+      "pushedAt": "2026-09-22T18:22:49Z",
+      "pushedLabel": "push há 18h",
+      "trendingStarsToday": 528,
+      "score": 73,
+      "social": [
+        {
+          "platform": "Bilibili",
+          "label": "Guia completo do workflow Superpowers · 17k views · publicado 04 MAR",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "views": 17000,
+          "publishedAt": "2026-03-04",
+          "verifiedAt": "09 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/obra/superpowers",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 528 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Bilibili · Guia completo do workflow Superpowers · 17k views · publicado 04 MAR",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=obra%20superpowers%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Superpowers%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Superpowers%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "repo": "BuilderIO/agent-native",
+      "title": "Agent-Native",
+      "type": "Apps com agentes e interface",
+      "status": "Gravar agora",
+      "hook": "A Builder abriu um framework em que o agente e a interface usam as mesmas ações para executar trabalho de verdade.",
+      "thesis": "O próximo app de IA pode unir automação, aprovação humana e interface visual em vez de esconder tudo numa conversa.",
+      "broll": [
+        "vídeo oficial no README",
+        "ação compartilhada entre agente e UI",
+        "galeria de apps",
+        "demo de slides e analytics"
+      ],
+      "url": "https://github.com/BuilderIO/agent-native",
+      "stars": 6368,
+      "forks": 575,
+      "issues": 81,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-23T12:07:00Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 609,
+      "score": 67,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 609 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Builder.io · galeria e demos oficiais",
+          "url": "https://www.builder.io/resources?topic=agent-native",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=BuilderIO%20agent-native%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Native%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Agent-Native%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "repo": "NousResearch/hermes-agent",
       "title": "Hermes Agent",
       "type": "Agente open-source",
@@ -130,11 +255,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 248120,
-      "forks": 52353,
-      "issues": 44054,
+      "stars": 248263,
+      "forks": 52428,
+      "issues": 44092,
       "language": "Python",
-      "pushedAt": "2026-09-23T01:22:12Z",
+      "pushedAt": "2026-09-23T12:09:15Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -176,7 +301,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 2
+      "rank": 4
     },
     {
       "repo": "dream-num/univer",
@@ -192,12 +317,12 @@
         "fluxo com worktree"
       ],
       "url": "https://github.com/dream-num/univer",
-      "stars": 15423,
-      "forks": 1373,
+      "stars": 16053,
+      "forks": 1420,
       "issues": 138,
       "language": "TypeScript",
-      "pushedAt": "2026-09-22T07:17:35Z",
-      "pushedLabel": "push há 18h",
+      "pushedAt": "2026-09-23T10:12:38Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": 255,
       "score": 63,
       "social": [],
@@ -234,7 +359,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 3
+      "rank": 5
     },
     {
       "repo": "tt-a1i/archify",
@@ -250,12 +375,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 69936,
-      "forks": 4695,
-      "issues": 147,
+      "stars": 70342,
+      "forks": 4728,
+      "issues": 156,
       "language": "JavaScript",
-      "pushedAt": "2026-09-22T17:25:48Z",
-      "pushedLabel": "push há 8h",
+      "pushedAt": "2026-09-23T11:48:11Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -296,7 +421,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 6
     },
     {
       "repo": "agent-substrate/substrate",
@@ -312,12 +437,12 @@
         "README oficial"
       ],
       "url": "https://github.com/agent-substrate/substrate",
-      "stars": 2983,
-      "forks": 386,
-      "issues": 521,
+      "stars": 3253,
+      "forks": 397,
+      "issues": 525,
       "language": "Go",
-      "pushedAt": "2026-09-22T23:56:02Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-09-23T12:06:19Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 245,
       "score": 60,
       "social": [],
@@ -354,60 +479,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
-    },
-    {
-      "repo": "superdesigndev/treg",
-      "title": "Treg",
-      "type": "Roteador de ferramentas para agentes",
-      "status": "Monitorar hoje",
-      "hook": "Este projeto quer ser um OpenRouter para ferramentas: o agente chama capacidades externas por uma interface única.",
-      "thesis": "O mercado de agentes está criando uma camada de roteamento, identidade e cobrança não apenas para modelos, mas também para ferramentas.",
-      "broll": [
-        "catálogo de ferramentas",
-        "dashboard Ledger",
-        "chamada por CLI",
-        "README oficial"
-      ],
-      "url": "https://github.com/superdesigndev/treg",
-      "stars": 2229,
-      "forks": 218,
-      "issues": 72,
-      "language": "Python",
-      "pushedAt": "2026-09-23T01:18:58Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 230,
-      "score": 59,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/superdesigndev/treg",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 230 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=superdesigndev%20treg%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Treg%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Treg%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 6
+      "rank": 7
     },
     {
       "repo": "alibaba/open-code-review",
@@ -424,12 +496,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 39737,
-      "forks": 2853,
-      "issues": 229,
+      "stars": 40038,
+      "forks": 2878,
+      "issues": 226,
       "language": "Go",
-      "pushedAt": "2026-09-22T11:03:58Z",
-      "pushedLabel": "push há 14h",
+      "pushedAt": "2026-09-23T03:50:04Z",
+      "pushedLabel": "push há 8h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -486,59 +558,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
-    },
-    {
-      "repo": "browser-use/video-use",
-      "title": "video-use",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 191 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Edit videos with coding agents",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/browser-use/video-use",
-      "stars": 25852,
-      "forks": 3119,
-      "issues": 115,
-      "language": "Python",
-      "pushedAt": "2026-08-30T09:45:51Z",
-      "pushedLabel": "push há 24d",
-      "trendingStarsToday": 191,
-      "score": 55,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/browser-use/video-use",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 191 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=browser-use%20video-use%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=video-use%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=video-use%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 8
     },
     {
@@ -555,12 +574,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/davila7/claude-code-templates",
-      "stars": 31135,
-      "forks": 3541,
-      "issues": 268,
+      "stars": 31312,
+      "forks": 3556,
+      "issues": 277,
       "language": "Python",
-      "pushedAt": "2026-09-22T14:01:00Z",
-      "pushedLabel": "push há 11h",
+      "pushedAt": "2026-09-23T04:15:32Z",
+      "pushedLabel": "push há 8h",
       "trendingStarsToday": 64,
       "score": 55,
       "social": [],
@@ -607,12 +626,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27158,
-      "forks": 2604,
-      "issues": 830,
+      "stars": 27194,
+      "forks": 2607,
+      "issues": 823,
       "language": "TypeScript",
-      "pushedAt": "2026-09-22T09:40:38Z",
-      "pushedLabel": "push há 16h",
+      "pushedAt": "2026-09-23T07:22:44Z",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -654,12 +673,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 84830,
-      "forks": 7447,
-      "issues": 158,
+      "stars": 85006,
+      "forks": 7464,
+      "issues": 161,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 7d",
+      "pushedLabel": "push há 8d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -717,41 +736,41 @@
     {
       "title": "Unreal Agent",
       "url": "https://unreallabs.ai/blog/unreal-agent/",
-      "points": 130,
-      "comments": 74,
+      "points": 206,
+      "comments": 111,
       "publishedAt": "2026-09-22T18:15:53Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
-      "url": "https://www.coveragecat.com/",
-      "points": 42,
-      "comments": 26,
-      "publishedAt": "2026-09-22T17:26:36Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Can I Let My AI Agent Run on Shabbat?",
-      "url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
-      "points": 36,
-      "comments": 19,
-      "publishedAt": "2026-09-21T02:05:45Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Training a model to identify AI web content from structure alone",
-      "url": "https://arxiv.org/abs/2609.15369",
-      "points": 41,
-      "comments": 9,
-      "publishedAt": "2026-09-22T13:00:49Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "The new CC, an AI agent built for families",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
-      "points": 18,
-      "comments": 16,
+      "points": 48,
+      "comments": 60,
       "publishedAt": "2026-09-22T23:46:07Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "url": "https://www.coveragecat.com/",
+      "points": 48,
+      "comments": 29,
+      "publishedAt": "2026-09-22T17:26:36Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: Training a model to identify AI web content from structure alone",
+      "url": "https://arxiv.org/abs/2609.15369",
+      "points": 60,
+      "comments": 16,
+      "publishedAt": "2026-09-22T13:00:49Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "url": "https://ai-rete-rag.com/",
+      "points": 37,
+      "comments": 3,
+      "publishedAt": "2026-09-22T16:15:06Z",
       "source": "Hacker News / Algolia"
     }
   ],
@@ -761,32 +780,48 @@
       "starsToday": 438
     },
     {
-      "repo": "agent-substrate/substrate",
-      "starsToday": 245
-    },
-    {
-      "repo": "dream-num/univer",
-      "starsToday": 255
+      "repo": "google/ax",
+      "starsToday": 2305
     },
     {
       "repo": "davila7/claude-code-templates",
       "starsToday": 64
     },
     {
-      "repo": "google/ax",
-      "starsToday": 2305
+      "repo": "BuilderIO/agent-native",
+      "starsToday": 609
     },
     {
-      "repo": "mvt-project/mvt",
-      "starsToday": 441
+      "repo": "obra/superpowers",
+      "starsToday": 528
+    },
+    {
+      "repo": "dream-num/univer",
+      "starsToday": 255
+    },
+    {
+      "repo": "Open-Dev-Society/OpenStock",
+      "starsToday": 832
+    },
+    {
+      "repo": "agent-substrate/substrate",
+      "starsToday": 245
+    },
+    {
+      "repo": "strands-agents/harness-sdk",
+      "starsToday": 96
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "starsToday": 41
     },
     {
       "repo": "superdesigndev/treg",
       "starsToday": 230
     },
     {
-      "repo": "browser-use/video-use",
-      "starsToday": 191
+      "repo": "pbakaus/impeccable",
+      "starsToday": 287
     }
   ],
   "monitored": [
@@ -803,12 +838,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27158,
-      "forks": 2604,
-      "issues": 830,
+      "stars": 27194,
+      "forks": 2607,
+      "issues": 823,
       "language": "TypeScript",
-      "pushedAt": "2026-09-22T09:40:38Z",
-      "pushedLabel": "push há 16h",
+      "pushedAt": "2026-09-23T07:22:44Z",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -850,12 +885,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 84830,
-      "forks": 7447,
-      "issues": 158,
+      "stars": 85006,
+      "forks": 7464,
+      "issues": 161,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 7d",
+      "pushedLabel": "push há 8d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
