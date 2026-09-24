@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T01:16:45.640Z",
-  "generatedLabel": "23 de set. de 2026 · 22:16",
+  "generatedAt": "2026-09-24T12:59:55.281Z",
+  "generatedLabel": "24 de set. de 2026 · 09:59",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,13 +45,13 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/google/ax",
-      "stars": 9079,
-      "forks": 437,
+      "stars": 9745,
+      "forks": 478,
       "issues": 39,
       "language": "Go",
-      "pushedAt": "2026-09-23T21:08:29Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 1543,
+      "pushedAt": "2026-09-24T11:03:42Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 1376,
       "score": 86,
       "social": [
         {
@@ -79,7 +79,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,5 mil stars hoje",
+          "label": "GitHub Trending · 1,4 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -117,6 +117,59 @@
       "rank": 1
     },
     {
+      "repo": "vectorize-io/hindsight",
+      "title": "hindsight",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 1,6 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Hindsight: Agent Memory That Learns",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/vectorize-io/hindsight",
+      "stars": 26986,
+      "forks": 2535,
+      "issues": 166,
+      "language": "Python",
+      "pushedAt": "2026-09-24T12:56:08Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1607,
+      "score": 76,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,6 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=vectorize-io%20hindsight%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=hindsight%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=hindsight%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "repo": "dream-num/univer",
       "title": "Univer",
       "type": "Office para agentes",
@@ -130,14 +183,14 @@
         "fluxo com worktree"
       ],
       "url": "https://github.com/dream-num/univer",
-      "stars": 16335,
-      "forks": 1435,
+      "stars": 17130,
+      "forks": 1496,
       "issues": 140,
       "language": "TypeScript",
-      "pushedAt": "2026-09-23T13:53:19Z",
-      "pushedLabel": "push há 11h",
-      "trendingStarsToday": 1142,
-      "score": 73,
+      "pushedAt": "2026-09-24T12:18:46Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 1060,
+      "score": 72,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -172,185 +225,60 @@
           "kind": "busca"
         }
       ],
-      "rank": 2
-    },
-    {
-      "repo": "obra/superpowers",
-      "title": "Superpowers",
-      "type": "Metodologia para agentes",
-      "status": "Gravar agora",
-      "hook": "Este projeto tenta acabar com o vibe coding: o agente precisa planejar, testar e revisar antes de dizer que terminou.",
-      "thesis": "Skills em Markdown estão virando uma camada de engenharia reutilizável entre Claude, Codex, Cursor e outros agentes.",
-      "broll": [
-        "fluxo brainstorming → plano → TDD",
-        "lista de skills",
-        "README",
-        "vídeo demonstrativo"
-      ],
-      "url": "https://github.com/obra/superpowers",
-      "stars": 290687,
-      "forks": 26012,
-      "issues": 398,
-      "language": "Shell",
-      "pushedAt": "2026-09-22T18:22:49Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 474,
-      "score": 72,
-      "social": [
-        {
-          "platform": "Bilibili",
-          "label": "Guia completo do workflow Superpowers · 17k views · publicado 04 MAR",
-          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
-          "views": 17000,
-          "publishedAt": "2026-03-04",
-          "verifiedAt": "09 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/obra/superpowers",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 474 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Bilibili · Guia completo do workflow Superpowers · 17k views · publicado 04 MAR",
-          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=obra%20superpowers%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Superpowers%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Superpowers%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 3
     },
     {
-      "repo": "davila7/claude-code-templates",
-      "title": "claude-code-templates",
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "title": "ai-engineering-from-scratch",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 389 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "CLI tool for configuring and monitoring Claude Code",
+      "hook": "Este repositório ganhou 310 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Learn it. Build it. Ship it for others.",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/davila7/claude-code-templates",
-      "stars": 31503,
-      "forks": 3580,
-      "issues": 282,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars": 55968,
+      "forks": 9876,
+      "issues": 40,
       "language": "Python",
-      "pushedAt": "2026-09-23T14:01:18Z",
-      "pushedLabel": "push há 11h",
-      "trendingStarsToday": 389,
-      "score": 67,
+      "pushedAt": "2026-09-24T12:15:02Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 310,
+      "score": 66,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/davila7/claude-code-templates",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 389 stars hoje",
+          "label": "GitHub Trending · 310 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=davila7%20claude-code-templates%20AI",
+          "url": "https://www.youtube.com/results?search_query=rohitg00%20ai-engineering-from-scratch%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-code-templates%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=ai-engineering-from-scratch%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=claude-code-templates%20AI",
+          "url": "https://www.tiktok.com/search?q=ai-engineering-from-scratch%20AI",
           "kind": "busca"
         }
       ],
       "rank": 4
-    },
-    {
-      "repo": "agent-substrate/substrate",
-      "title": "Agent Substrate",
-      "type": "Runtime para agentes",
-      "status": "Monitorar hoje",
-      "hook": "Este runtime promete colocar centenas de agentes com estado em poucos workers isolados.",
-      "thesis": "Infraestrutura de agentes está adotando conceitos de Kubernetes, suspensão de estado e sandboxes para reduzir o custo de workloads que passam muito tempo ociosos.",
-      "broll": [
-        "demo de 250 atores em 8 pods",
-        "arquitetura do runtime",
-        "suspend e resume",
-        "README oficial"
-      ],
-      "url": "https://github.com/agent-substrate/substrate",
-      "stars": 3501,
-      "forks": 413,
-      "issues": 524,
-      "language": "Go",
-      "pushedAt": "2026-09-24T00:19:28Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 558,
-      "score": 65,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/agent-substrate/substrate",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 558 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Agent Substrate · demos oficiais",
-          "url": "https://github.com/agent-substrate/substrate/tree/main/demos",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=agent-substrate%20substrate%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent%20Substrate%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Agent%20Substrate%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 5
     },
     {
       "repo": "NousResearch/hermes-agent",
@@ -366,11 +294,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 248412,
-      "forks": 52510,
-      "issues": 44013,
+      "stars": 248584,
+      "forks": 52574,
+      "issues": 43562,
       "language": "Python",
-      "pushedAt": "2026-09-24T01:14:38Z",
+      "pushedAt": "2026-09-24T12:59:36Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -412,7 +340,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "repo": "tt-a1i/archify",
@@ -428,12 +356,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 70618,
-      "forks": 4748,
-      "issues": 158,
+      "stars": 71004,
+      "forks": 4772,
+      "issues": 161,
       "language": "JavaScript",
-      "pushedAt": "2026-09-23T15:03:54Z",
-      "pushedLabel": "push há 10h",
+      "pushedAt": "2026-09-24T12:31:10Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -474,6 +402,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 6
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "title": "CLI-Anything",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 415 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "stars": 50160,
+      "forks": 4609,
+      "issues": 105,
+      "language": "Python",
+      "pushedAt": "2026-09-22T02:01:29Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 415,
+      "score": 61,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 415 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=HKUDS%20CLI-Anything%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=CLI-Anything%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=CLI-Anything%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 7
     },
     {
@@ -491,12 +472,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 40204,
-      "forks": 2887,
-      "issues": 227,
+      "stars": 40503,
+      "forks": 2913,
+      "issues": 216,
       "language": "Go",
-      "pushedAt": "2026-09-23T12:14:07Z",
-      "pushedLabel": "push há 13h",
+      "pushedAt": "2026-09-24T09:59:47Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -556,58 +537,53 @@
       "rank": 8
     },
     {
-      "repo": "BuilderIO/agent-native",
-      "title": "Agent-Native",
-      "type": "Apps com agentes e interface",
-      "status": "Gravar agora",
-      "hook": "A Builder abriu um framework em que o agente e a interface usam as mesmas ações para executar trabalho de verdade.",
-      "thesis": "O próximo app de IA pode unir automação, aprovação humana e interface visual em vez de esconder tudo numa conversa.",
+      "repo": "NVIDIA/Model-Optimizer",
+      "title": "Model-Optimizer",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 22 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "broll": [
-        "vídeo oficial no README",
-        "ação compartilhada entre agente e UI",
-        "galeria de apps",
-        "demo de slides e analytics"
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
       ],
-      "url": "https://github.com/BuilderIO/agent-native",
-      "stars": 6549,
-      "forks": 587,
-      "issues": 121,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-24T01:16:16Z",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "stars": 3901,
+      "forks": 621,
+      "issues": 417,
+      "language": "Python",
+      "pushedAt": "2026-09-24T12:46:35Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 87,
-      "score": 54,
+      "trendingStarsToday": 22,
+      "score": 45,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/BuilderIO/agent-native",
+          "url": "https://github.com/NVIDIA/Model-Optimizer",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 87 stars hoje",
+          "label": "GitHub Trending · 22 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "Builder.io · galeria e demos oficiais",
-          "url": "https://www.builder.io/resources?topic=agent-native",
-          "kind": "oficial"
-        },
-        {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=BuilderIO%20agent-native%20AI",
+          "url": "https://www.youtube.com/results?search_query=NVIDIA%20Model-Optimizer%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Native%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Model-Optimizer%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Agent-Native%20AI",
+          "url": "https://www.tiktok.com/search?q=Model-Optimizer%20AI",
           "kind": "busca"
         }
       ],
@@ -626,12 +602,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27210,
-      "forks": 2609,
-      "issues": 823,
+      "stars": 27234,
+      "forks": 2614,
+      "issues": 828,
       "language": "TypeScript",
-      "pushedAt": "2026-09-23T07:22:44Z",
-      "pushedLabel": "push há 18h",
+      "pushedAt": "2026-09-24T06:37:04Z",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -673,12 +649,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85104,
-      "forks": 7471,
-      "issues": 162,
+      "stars": 85215,
+      "forks": 7481,
+      "issues": 158,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 8d",
+      "pushedLabel": "push há 9d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -726,18 +702,34 @@
   ],
   "news": [
     {
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "points": 313,
+      "comments": 328,
+      "publishedAt": "2026-09-24T00:41:31Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
       "title": "Unreal Agent",
       "url": "https://unreallabs.ai/blog/unreal-agent/",
-      "points": 235,
+      "points": 241,
       "comments": 121,
       "publishedAt": "2026-09-22T18:15:53Z",
       "source": "Hacker News / Algolia"
     },
     {
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "url": "https://transluce.org/agent-activity",
+      "points": 164,
+      "comments": 145,
+      "publishedAt": "2026-09-24T05:21:10Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
       "title": "Cloud Agents Are Inevitable AI Prisons",
       "url": "https://normanponte.io/19df691f",
-      "points": 51,
-      "comments": 115,
+      "points": 61,
+      "comments": 138,
       "publishedAt": "2026-09-23T18:16:41Z",
       "source": "Hacker News / Algolia"
     },
@@ -756,72 +748,56 @@
       "comments": 31,
       "publishedAt": "2026-09-22T17:26:36Z",
       "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Training a model to identify AI web content from structure alone",
-      "url": "https://arxiv.org/abs/2609.15369",
-      "points": 65,
-      "comments": 24,
-      "publishedAt": "2026-09-22T13:00:49Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
-      "url": "https://ai-rete-rag.com/",
-      "points": 43,
-      "comments": 8,
-      "publishedAt": "2026-09-22T16:15:06Z",
-      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
-      "repo": "anthropics/financial-services",
-      "starsToday": 664
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "starsToday": 310
     },
     {
-      "repo": "google/ax",
-      "starsToday": 1543
-    },
-    {
-      "repo": "davila7/claude-code-templates",
-      "starsToday": 389
-    },
-    {
-      "repo": "BuilderIO/agent-native",
-      "starsToday": 87
-    },
-    {
-      "repo": "obra/superpowers",
-      "starsToday": 474
+      "repo": "vectorize-io/hindsight",
+      "starsToday": 1607
     },
     {
       "repo": "dream-num/univer",
-      "starsToday": 1142
+      "starsToday": 1060
     },
     {
-      "repo": "Open-Dev-Society/OpenStock",
-      "starsToday": 344
+      "repo": "google/ax",
+      "starsToday": 1376
     },
     {
-      "repo": "agent-substrate/substrate",
-      "starsToday": 558
+      "repo": "NVIDIA/Model-Optimizer",
+      "starsToday": 22
     },
     {
-      "repo": "strands-agents/harness-sdk",
-      "starsToday": 115
+      "repo": "FxEmbed/FxEmbed",
+      "starsToday": 165
+    },
+    {
+      "repo": "anthropics/financial-services",
+      "starsToday": 510
     },
     {
       "repo": "HKUDS/CLI-Anything",
-      "starsToday": 57
+      "starsToday": 415
     },
     {
-      "repo": "superdesigndev/treg",
-      "starsToday": 506
+      "repo": "mvt-project/mvt",
+      "starsToday": 275
     },
     {
-      "repo": "pbakaus/impeccable",
-      "starsToday": 304
+      "repo": "obra/superpowers",
+      "starsToday": 606
+    },
+    {
+      "repo": "strands-agents/harness-sdk",
+      "starsToday": 463
+    },
+    {
+      "repo": "julyx10/lap",
+      "starsToday": 71
     }
   ],
   "monitored": [
@@ -838,12 +814,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27210,
-      "forks": 2609,
-      "issues": 823,
+      "stars": 27234,
+      "forks": 2614,
+      "issues": 828,
       "language": "TypeScript",
-      "pushedAt": "2026-09-23T07:22:44Z",
-      "pushedLabel": "push há 18h",
+      "pushedAt": "2026-09-24T06:37:04Z",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -885,12 +861,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85104,
-      "forks": 7471,
-      "issues": 162,
+      "stars": 85215,
+      "forks": 7481,
+      "issues": 158,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 8d",
+      "pushedLabel": "push há 9d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
