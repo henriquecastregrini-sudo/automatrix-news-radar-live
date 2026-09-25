@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T01:20:44.208Z",
-  "generatedLabel": "24 de set. de 2026 · 22:20",
+  "generatedAt": "2026-09-25T15:11:28.940Z",
+  "generatedLabel": "25 de set. de 2026 · 12:11",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -32,89 +32,151 @@
   ],
   "repos": [
     {
-      "repo": "google/ax",
-      "title": "Google AX",
-      "type": "Orquestração de agentes",
+      "repo": "paperclipai/paperclip",
+      "title": "paperclip",
+      "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "O Google abriu um sistema que funciona como um Kubernetes para executar agentes autônomos em escala.",
-      "thesis": "AX transforma agentes em workloads isolados, observáveis e pausáveis, mas o próprio projeto avisa que ainda está em fase inicial e pode sofrer breaking changes.",
+      "hook": "Este repositório ganhou 1,9 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "The open-source app everyone uses to manage agents at work",
       "broll": [
-        "README oficial",
-        "manifesto Task/Workspace/Gateway/Model",
-        "demo ax apply e ax watch",
-        "GitHub Trending"
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
       ],
-      "url": "https://github.com/google/ax",
-      "stars": 10469,
-      "forks": 506,
-      "issues": 39,
-      "language": "Go",
-      "pushedAt": "2026-09-25T01:19:18Z",
+      "url": "https://github.com/paperclipai/paperclip",
+      "stars": 83863,
+      "forks": 15162,
+      "issues": 5657,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-25T15:07:54Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1373,
-      "score": 86,
+      "trendingStarsToday": 1853,
+      "score": 88,
       "social": [
         {
           "platform": "Reddit",
-          "label": "r/GoogleGeminiAI · lançamento do AX · 8 votos públicos",
-          "url": "https://www.reddit.com/r/GoogleGeminiAI/comments/1wmhlpx/google_opensourced_ax_their_agentic_orchestrator/",
+          "label": "r/ClaudeAI · uso real em equipe multiagente · 8 votos públicos · publicado 16 SET",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1whvupz/anyone_actually_running_a_multiagent_team_that/",
           "engagement": 8,
-          "publishedAt": "2026-09-21",
-          "verifiedAt": "22 SET 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/AIDeveloperNews · explicação técnica do AX · 61 votos públicos",
-          "url": "https://www.reddit.com/r/AIDeveloperNews/comments/1wmr4uo/google_has_opensourced_ax_a_declarative_agentic/",
-          "engagement": 61,
-          "publishedAt": "2026-09-21",
-          "verifiedAt": "22 SET 2026"
+          "publishedAt": "2026-09-16",
+          "verifiedAt": "25 SET 2026"
         }
       ],
       "socialStatus": "referência recente verificada",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/google/ax",
+          "url": "https://github.com/paperclipai/paperclip",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,4 mil stars hoje",
+          "label": "GitHub Trending · 1,9 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "Google AX · demo oficial do ciclo de uma tarefa",
-          "url": "https://github.com/google/ax/blob/main/demo.sh",
-          "kind": "oficial"
-        },
-        {
-          "label": "Reddit · r/GoogleGeminiAI · lançamento do AX · 8 votos públicos",
-          "url": "https://www.reddit.com/r/GoogleGeminiAI/comments/1wmhlpx/google_opensourced_ax_their_agentic_orchestrator/",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/AIDeveloperNews · explicação técnica do AX · 61 votos públicos",
-          "url": "https://www.reddit.com/r/AIDeveloperNews/comments/1wmr4uo/google_has_opensourced_ax_a_declarative_agentic/",
+          "label": "Reddit · r/ClaudeAI · uso real em equipe multiagente · 8 votos públicos · publicado 16 SET",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1whvupz/anyone_actually_running_a_multiagent_team_that/",
           "kind": "social"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=google%20ax%20AI",
+          "url": "https://www.youtube.com/results?search_query=paperclipai%20paperclip%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Google%20AX%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=paperclip%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Google%20AX%20AI",
+          "url": "https://www.tiktok.com/search?q=paperclip%20AI",
           "kind": "busca"
         }
       ],
       "rank": 1
+    },
+    {
+      "repo": "mattpocock/skills",
+      "title": "Skills para agentes",
+      "type": "Skills para agentes",
+      "status": "Gravar agora",
+      "hook": "O jeito de programar com IA mudou: quem ainda usa só prompt está ficando para trás.",
+      "thesis": "Conhecimento de engenharia virou infraestrutura reutilizável para agentes.",
+      "broll": [
+        "README",
+        "diretório .agents",
+        "GitHub Trending",
+        "vídeo do criador"
+      ],
+      "url": "https://github.com/mattpocock/skills",
+      "stars": 269500,
+      "forks": 22716,
+      "issues": 529,
+      "language": "Shell",
+      "pushedAt": "2026-09-24T14:07:55Z",
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 671,
+      "score": 84,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/ClaudeAI · skills com subagentes especialistas · 3 votos públicos · publicado 23 SET",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnszxk/matt_pococks_skills_my_own_specialist_subagents/",
+          "engagement": 3,
+          "publishedAt": "2026-09-23",
+          "verifiedAt": "25 SET 2026"
+        },
+        {
+          "platform": "YouTube",
+          "label": "Matt Pocock · workflow completo · 424k views · publicado 16 JUL",
+          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
+          "views": 424060,
+          "publishedAt": "2026-07-16",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência recente verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mattpocock/skills",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 671 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/ClaudeAI · skills com subagentes especialistas · 3 votos públicos · publicado 23 SET",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnszxk/matt_pococks_skills_my_own_specialist_subagents/",
+          "kind": "social"
+        },
+        {
+          "label": "YouTube · Matt Pocock · workflow completo · 424k views · publicado 16 JUL",
+          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=mattpocock%20skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Skills%20para%20agentes%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Skills%20para%20agentes%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 2
     },
     {
       "repo": "vectorize-io/hindsight",
@@ -130,13 +192,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/vectorize-io/hindsight",
-      "stars": 27792,
-      "forks": 2682,
-      "issues": 194,
+      "stars": 28769,
+      "forks": 2901,
+      "issues": 127,
       "language": "Python",
-      "pushedAt": "2026-09-25T00:16:59Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 1668,
+      "pushedAt": "2026-09-25T15:09:30Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1652,
       "score": 76,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -167,7 +229,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "repo": "dream-num/univer",
@@ -183,14 +245,14 @@
         "fluxo com worktree"
       ],
       "url": "https://github.com/dream-num/univer",
-      "stars": 17693,
-      "forks": 1530,
-      "issues": 141,
+      "stars": 18200,
+      "forks": 1554,
+      "issues": 146,
       "language": "TypeScript",
       "pushedAt": "2026-09-24T14:02:42Z",
-      "pushedLabel": "push há 11h",
-      "trendingStarsToday": 1082,
-      "score": 73,
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 1048,
+      "score": 72,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -200,7 +262,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,1 mil stars hoje",
+          "label": "GitHub Trending · 1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -225,60 +287,74 @@
           "kind": "busca"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
-      "repo": "rohitg00/ai-engineering-from-scratch",
-      "title": "ai-engineering-from-scratch",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 347 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Learn it. Build it. Ship it for others.",
+      "repo": "obra/superpowers",
+      "title": "Superpowers",
+      "type": "Metodologia para agentes",
+      "status": "Gravar agora",
+      "hook": "Este projeto tenta acabar com o vibe coding: o agente precisa planejar, testar e revisar antes de dizer que terminou.",
+      "thesis": "Skills em Markdown estão virando uma camada de engenharia reutilizável entre Claude, Codex, Cursor e outros agentes.",
       "broll": [
-        "GitHub Trending",
+        "fluxo brainstorming → plano → TDD",
+        "lista de skills",
         "README",
-        "demo oficial",
-        "histórico do projeto"
+        "vídeo demonstrativo"
       ],
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": 56571,
-      "forks": 9932,
-      "issues": 43,
-      "language": "Python",
-      "pushedAt": "2026-09-24T19:37:55Z",
-      "pushedLabel": "push há 6h",
-      "trendingStarsToday": 347,
-      "score": 67,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "url": "https://github.com/obra/superpowers",
+      "stars": 291491,
+      "forks": 26082,
+      "issues": 403,
+      "language": "Shell",
+      "pushedAt": "2026-09-25T03:16:22Z",
+      "pushedLabel": "push há 12h",
+      "trendingStarsToday": 465,
+      "score": 72,
+      "social": [
+        {
+          "platform": "Bilibili",
+          "label": "Guia completo do workflow Superpowers · 17k views · publicado 04 MAR",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "views": 17000,
+          "publishedAt": "2026-03-04",
+          "verifiedAt": "09 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/obra/superpowers",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 347 stars hoje",
+          "label": "GitHub Trending · 465 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
+          "label": "Bilibili · Guia completo do workflow Superpowers · 17k views · publicado 04 MAR",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "kind": "social"
+        },
+        {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=rohitg00%20ai-engineering-from-scratch%20AI",
+          "url": "https://www.youtube.com/results?search_query=obra%20superpowers%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=ai-engineering-from-scratch%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Superpowers%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=ai-engineering-from-scratch%20AI",
+          "url": "https://www.tiktok.com/search?q=Superpowers%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "repo": "NousResearch/hermes-agent",
@@ -294,11 +370,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 248729,
-      "forks": 52648,
-      "issues": 43366,
+      "stars": 248887,
+      "forks": 52732,
+      "issues": 43197,
       "language": "Python",
-      "pushedAt": "2026-09-25T01:20:08Z",
+      "pushedAt": "2026-09-25T15:10:48Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -340,7 +416,60 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "repo": "anthropics/skills",
+      "title": "skills",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 155 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Public repository for Agent Skills",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/anthropics/skills",
+      "stars": 178124,
+      "forks": 21101,
+      "issues": 1293,
+      "language": "Python",
+      "pushedAt": "2026-09-24T16:20:39Z",
+      "pushedLabel": "push há 23h",
+      "trendingStarsToday": 155,
+      "score": 64,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/anthropics/skills",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 155 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=anthropics%20skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=skills%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 7
     },
     {
       "repo": "tt-a1i/archify",
@@ -356,12 +485,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 71240,
-      "forks": 4787,
-      "issues": 161,
+      "stars": 71536,
+      "forks": 4818,
+      "issues": 170,
       "language": "JavaScript",
-      "pushedAt": "2026-09-24T18:07:36Z",
-      "pushedLabel": "push há 7h",
+      "pushedAt": "2026-09-25T12:29:58Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -402,60 +531,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
-    },
-    {
-      "repo": "HKUDS/CLI-Anything",
-      "title": "CLI-Anything",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 413 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars": 50336,
-      "forks": 4615,
-      "issues": 106,
-      "language": "Python",
-      "pushedAt": "2026-09-22T02:01:29Z",
-      "pushedLabel": "push há 3d",
-      "trendingStarsToday": 413,
-      "score": 61,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/HKUDS/CLI-Anything",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 413 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=HKUDS%20CLI-Anything%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=CLI-Anything%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=CLI-Anything%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 7
+      "rank": 8
     },
     {
       "repo": "alibaba/open-code-review",
@@ -472,12 +548,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 40804,
-      "forks": 2932,
-      "issues": 216,
+      "stars": 41167,
+      "forks": 2959,
+      "issues": 217,
       "language": "Go",
       "pushedAt": "2026-09-24T09:59:47Z",
-      "pushedLabel": "push há 15h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -534,60 +610,60 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 9
     },
     {
-      "repo": "NVIDIA/Model-Optimizer",
-      "title": "Model-Optimizer",
+      "repo": "anthropics/claude-plugins-official",
+      "title": "claude-plugins-official",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 44 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "hook": "Este repositório ganhou 62 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "stars": 4082,
-      "forks": 628,
-      "issues": 417,
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "stars": 36789,
+      "forks": 4149,
+      "issues": 1033,
       "language": "Python",
-      "pushedAt": "2026-09-25T00:53:57Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 44,
-      "score": 49,
+      "pushedAt": "2026-09-25T06:00:17Z",
+      "pushedLabel": "push há 9h",
+      "trendingStarsToday": 62,
+      "score": 55,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/NVIDIA/Model-Optimizer",
+          "url": "https://github.com/anthropics/claude-plugins-official",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 44 stars hoje",
+          "label": "GitHub Trending · 62 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=NVIDIA%20Model-Optimizer%20AI",
+          "url": "https://www.youtube.com/results?search_query=anthropics%20claude-plugins-official%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Model-Optimizer%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-plugins-official%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Model-Optimizer%20AI",
+          "url": "https://www.tiktok.com/search?q=claude-plugins-official%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -602,12 +678,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27247,
-      "forks": 2616,
-      "issues": 830,
+      "stars": 27267,
+      "forks": 2617,
+      "issues": 832,
       "language": "TypeScript",
       "pushedAt": "2026-09-24T06:37:04Z",
-      "pushedLabel": "push há 19h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -634,7 +710,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
+      "rank": 11
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -649,12 +725,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85280,
-      "forks": 7488,
+      "stars": 85389,
+      "forks": 7493,
       "issues": 158,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 9d",
+      "pushedLabel": "push há 10d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -697,40 +773,48 @@
           "kind": "busca"
         }
       ],
-      "rank": 11
+      "rank": 12
     }
   ],
   "news": [
     {
       "title": "Feds Target AI Critics as \"Foreign Agents\"",
       "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-      "points": 372,
-      "comments": 411,
+      "points": 383,
+      "comments": 431,
       "publishedAt": "2026-09-24T00:41:31Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
       "url": "https://transluce.org/agent-activity",
-      "points": 242,
-      "comments": 237,
+      "points": 261,
+      "comments": 289,
       "publishedAt": "2026-09-24T05:21:10Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Cloud Agents Are Inevitable AI Prisons",
-      "url": "https://normanponte.io/19df691f",
-      "points": 70,
-      "comments": 148,
-      "publishedAt": "2026-09-23T18:16:41Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "url": "https://github.com/devdotfast/whiteboard",
-      "points": 189,
-      "comments": 81,
+      "points": 356,
+      "comments": 125,
       "publishedAt": "2026-09-24T17:21:36Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Cloud Agents Are Inevitable AI Prisons",
+      "url": "https://normanponte.io/19df691f",
+      "points": 71,
+      "comments": 153,
+      "publishedAt": "2026-09-23T18:16:41Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+      "url": "https://github.com/Parcha-ai/agentrun",
+      "points": 44,
+      "comments": 10,
+      "publishedAt": "2026-09-23T19:42:58Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -740,64 +824,56 @@
       "comments": 21,
       "publishedAt": "2026-09-24T01:14:43Z",
       "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
-      "url": "https://github.com/Parcha-ai/agentrun",
-      "points": 40,
-      "comments": 8,
-      "publishedAt": "2026-09-23T19:42:58Z",
-      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
-      "repo": "rohitg00/ai-engineering-from-scratch",
-      "starsToday": 347
+      "repo": "paperclipai/paperclip",
+      "starsToday": 1853
+    },
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "starsToday": 62
     },
     {
       "repo": "vectorize-io/hindsight",
-      "starsToday": 1668
-    },
-    {
-      "repo": "dream-num/univer",
-      "starsToday": 1082
-    },
-    {
-      "repo": "google/ax",
-      "starsToday": 1373
-    },
-    {
-      "repo": "NVIDIA/Model-Optimizer",
-      "starsToday": 44
-    },
-    {
-      "repo": "FxEmbed/FxEmbed",
-      "starsToday": 182
-    },
-    {
-      "repo": "anthropics/financial-services",
-      "starsToday": 509
-    },
-    {
-      "repo": "HKUDS/CLI-Anything",
-      "starsToday": 413
-    },
-    {
-      "repo": "mvt-project/mvt",
-      "starsToday": 272
+      "starsToday": 1652
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 611
+      "starsToday": 465
     },
     {
-      "repo": "strands-agents/harness-sdk",
-      "starsToday": 455
+      "repo": "mattpocock/skills",
+      "starsToday": 671
     },
     {
-      "repo": "julyx10/lap",
-      "starsToday": 122
+      "repo": "dream-num/univer",
+      "starsToday": 1048
+    },
+    {
+      "repo": "anthropics/skills",
+      "starsToday": 155
+    },
+    {
+      "repo": "androoAGI/starnet",
+      "starsToday": 118
+    },
+    {
+      "repo": "derv82/wifit3",
+      "starsToday": 168
+    },
+    {
+      "repo": "kelseyhightower/kubernetes-the-hard-way",
+      "starsToday": 105
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "starsToday": 1181
+    },
+    {
+      "repo": "shy3130/tick-stock-panel",
+      "starsToday": 31
     }
   ],
   "monitored": [
@@ -814,12 +890,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27247,
-      "forks": 2616,
-      "issues": 830,
+      "stars": 27267,
+      "forks": 2617,
+      "issues": 832,
       "language": "TypeScript",
       "pushedAt": "2026-09-24T06:37:04Z",
-      "pushedLabel": "push há 19h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -846,7 +922,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
+      "rank": 11
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -861,12 +937,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85280,
-      "forks": 7488,
+      "stars": 85389,
+      "forks": 7493,
       "issues": 158,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 9d",
+      "pushedLabel": "push há 10d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -909,7 +985,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 11
+      "rank": 12
     }
   ]
 }

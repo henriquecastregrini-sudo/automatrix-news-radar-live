@@ -81,11 +81,15 @@ const officialProofs = {
 };
 
 const socialReferences = {
+  'paperclipai/paperclip': [{ platform: 'Reddit', label: 'r/ClaudeAI · uso real em equipe multiagente · 8 votos públicos · publicado 16 SET', url: 'https://www.reddit.com/r/ClaudeAI/comments/1whvupz/anyone_actually_running_a_multiagent_team_that/', engagement: 8, publishedAt: '2026-09-16', verifiedAt: '25 SET 2026' }],
   'google/ax': [
     { platform: 'Reddit', label: 'r/GoogleGeminiAI · lançamento do AX · 8 votos públicos', url: 'https://www.reddit.com/r/GoogleGeminiAI/comments/1wmhlpx/google_opensourced_ax_their_agentic_orchestrator/', engagement: 8, publishedAt: '2026-09-21', verifiedAt: '22 SET 2026' },
     { platform: 'Reddit', label: 'r/AIDeveloperNews · explicação técnica do AX · 61 votos públicos', url: 'https://www.reddit.com/r/AIDeveloperNews/comments/1wmr4uo/google_has_opensourced_ax_a_declarative_agentic/', engagement: 61, publishedAt: '2026-09-21', verifiedAt: '22 SET 2026' },
   ],
-  'mattpocock/skills': [{ platform: 'YouTube', label: 'Matt Pocock · workflow completo · 424k views · publicado 16 JUL', url: 'https://www.youtube.com/watch?v=M6mYodf0dJM', views: 424060, publishedAt: '2026-07-16', verifiedAt: '07 SET 2026' }],
+  'mattpocock/skills': [
+    { platform: 'Reddit', label: 'r/ClaudeAI · skills com subagentes especialistas · 3 votos públicos · publicado 23 SET', url: 'https://www.reddit.com/r/ClaudeAI/comments/1wnszxk/matt_pococks_skills_my_own_specialist_subagents/', engagement: 3, publishedAt: '2026-09-23', verifiedAt: '25 SET 2026' },
+    { platform: 'YouTube', label: 'Matt Pocock · workflow completo · 424k views · publicado 16 JUL', url: 'https://www.youtube.com/watch?v=M6mYodf0dJM', views: 424060, publishedAt: '2026-07-16', verifiedAt: '07 SET 2026' },
+  ],
   'tt-a1i/archify': [{ platform: 'YouTube', label: 'The Next New Thing · Archify entre os repos em alta · 111k views · publicado 04 SET', url: 'https://www.youtube.com/watch?v=AWzzmrCPe-A', views: 111709, publishedAt: '2026-09-04', verifiedAt: '07 SET 2026' }],
   'NousResearch/hermes-agent': [{ platform: 'YouTube', label: 'Metics Media · tutorial completo · 225k views · publicado 31 AGO', url: 'https://www.youtube.com/watch?v=DYdvJCxWd6M', views: 225904, publishedAt: '2026-08-31', verifiedAt: '07 SET 2026' }],
   'affaan-m/ECC': [{ platform: 'YouTube', label: 'DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO', url: 'https://www.youtube.com/watch?v=5ZgBoOBhHzo', views: 1139, publishedAt: '2026-08-27', verifiedAt: '08 SET 2026' }],
