@@ -67,6 +67,7 @@ const editorialOverrides = {
   'google/ax': { title: 'Google AX', type: 'Orquestração de agentes', status: 'Gravar agora', hook: 'O Google abriu um sistema que funciona como um Kubernetes para executar agentes autônomos em escala.', thesis: 'AX transforma agentes em workloads isolados, observáveis e pausáveis, mas o próprio projeto avisa que ainda está em fase inicial e pode sofrer breaking changes.', broll: ['README oficial', 'manifesto Task/Workspace/Gateway/Model', 'demo ax apply e ax watch', 'GitHub Trending'] },
   'agent-substrate/substrate': { title: 'Agent Substrate', type: 'Runtime para agentes', status: 'Monitorar hoje', hook: 'Este runtime promete colocar centenas de agentes com estado em poucos workers isolados.', thesis: 'Infraestrutura de agentes está adotando conceitos de Kubernetes, suspensão de estado e sandboxes para reduzir o custo de workloads que passam muito tempo ociosos.', broll: ['demo de 250 atores em 8 pods', 'arquitetura do runtime', 'suspend e resume', 'README oficial'] },
   'dream-num/univer': { title: 'Univer', type: 'Office para agentes', status: 'Monitorar hoje', hook: 'Este projeto dá aos agentes uma superfície local para criar e revisar planilhas, documentos e apresentações.', thesis: 'Ferramentas de escritório estão virando runtimes programáveis nos quais agentes editam conteúdo estruturado e humanos revisam o resultado.', broll: ['showcase oficial', 'planilha sendo editada', 'documentos e slides', 'fluxo com worktree'] },
+  'vectorize-io/hindsight': { title: 'Hindsight', type: 'Memória para agentes', status: 'Monitorar hoje', hook: 'Este sistema de memória para agentes explodiu no GitHub, mas os números do benchmark e a origem do hype precisam de verificação independente.', thesis: 'O crescimento no Trending é factual; já as alegações de superioridade dependem de benchmark ligado ao próprio ecossistema do projeto e devem ser apresentadas com contraponto.', broll: ['demo oficial de memória', 'benchmark publicado', 'README', 'análise independente do crescimento e das métricas'] },
   'superdesigndev/treg': { title: 'Treg', type: 'Roteador de ferramentas para agentes', status: 'Monitorar hoje', hook: 'Este projeto quer ser um OpenRouter para ferramentas: o agente chama capacidades externas por uma interface única.', thesis: 'O mercado de agentes está criando uma camada de roteamento, identidade e cobrança não apenas para modelos, mas também para ferramentas.', broll: ['catálogo de ferramentas', 'dashboard Ledger', 'chamada por CLI', 'README oficial'] },
 };
 
@@ -78,6 +79,10 @@ const officialProofs = {
   'google/ax': [{ label: 'Google AX · demo oficial do ciclo de uma tarefa', url: 'https://github.com/google/ax/blob/main/demo.sh', kind: 'oficial' }],
   'agent-substrate/substrate': [{ label: 'Agent Substrate · demos oficiais', url: 'https://github.com/agent-substrate/substrate/tree/main/demos', kind: 'oficial' }],
   'dream-num/univer': [{ label: 'Univer · showcase oficial', url: 'https://docs.univer.ai/showcase', kind: 'oficial' }],
+};
+
+const editorialSources = {
+  'vectorize-io/hindsight': [{ label: 'SoloSoft · auditoria independente do benchmark e do crescimento · 25 SET', url: 'https://www.solosoft.dev/post/hindsight-agent-memory-audit/', kind: 'análise independente' }],
 };
 
 const socialReferences = {
@@ -258,6 +263,7 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
       { label: 'GitHub', url: api.html_url || `https://github.com/${item.repo}`, kind: 'oficial' },
       ...(starsToday ? [{ label: `GitHub Trending · ${compact(starsToday)} stars hoje`, url: 'https://github.com/trending', kind: 'tendência' }] : []),
       ...(officialProofs[item.repo] || []),
+      ...(editorialSources[item.repo] || []),
       ...social.map(({ label, url, platform }) => ({ label: `${platform} · ${label}`, url, kind: 'social' })),
       { label: 'Buscar YouTube', url: `https://www.youtube.com/results?search_query=${encodeURIComponent(item.repo.replace('/', ' ') + ' AI')}`, kind: 'busca' },
       { label: 'Buscar Instagram', url: `https://www.instagram.com/explore/search/keyword/?q=${encodeURIComponent((item.title || api.name || item.repo.split('/')[1]) + ' AI')}`, kind: 'busca' },
