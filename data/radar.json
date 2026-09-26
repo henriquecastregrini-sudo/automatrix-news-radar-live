@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T19:31:34.223Z",
-  "generatedLabel": "26 de set. de 2026 · 16:31",
+  "generatedAt": "2026-09-26T23:37:27.758Z",
+  "generatedLabel": "26 de set. de 2026 · 20:37",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,12 +45,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/paperclipai/paperclip",
-      "stars": 86868,
-      "forks": 15393,
-      "issues": 5734,
+      "stars": 87230,
+      "forks": 15422,
+      "issues": 5742,
       "language": "TypeScript",
       "pushedAt": "2026-09-26T16:50:06Z",
-      "pushedLabel": "push há 3h",
+      "pushedLabel": "push há 7h",
       "trendingStarsToday": 2589,
       "score": 88,
       "social": [
@@ -112,12 +112,12 @@
         "análise independente do crescimento e das métricas"
       ],
       "url": "https://github.com/vectorize-io/hindsight",
-      "stars": 31847,
-      "forks": 3538,
-      "issues": 148,
+      "stars": 32121,
+      "forks": 3566,
+      "issues": 150,
       "language": "Python",
       "pushedAt": "2026-09-26T14:14:46Z",
-      "pushedLabel": "push há 5h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": 2152,
       "score": 76,
       "social": [],
@@ -170,12 +170,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": 58238,
-      "forks": 10108,
+      "stars": 58345,
+      "forks": 10118,
       "issues": 47,
       "language": "Python",
       "pushedAt": "2026-09-26T08:12:38Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": 828,
       "score": 73,
       "social": [],
@@ -223,11 +223,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 249197,
-      "forks": 52900,
-      "issues": 43960,
+      "stars": 249235,
+      "forks": 52920,
+      "issues": 44106,
       "language": "Python",
-      "pushedAt": "2026-09-26T19:27:23Z",
+      "pushedAt": "2026-09-26T23:27:12Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -285,9 +285,9 @@
         "fluxo com worktree"
       ],
       "url": "https://github.com/dream-num/univer",
-      "stars": 19122,
-      "forks": 1627,
-      "issues": 147,
+      "stars": 19191,
+      "forks": 1633,
+      "issues": 149,
       "language": "TypeScript",
       "pushedAt": "2026-09-24T14:02:42Z",
       "pushedLabel": "push há 2d",
@@ -330,59 +330,6 @@
       "rank": 5
     },
     {
-      "repo": "openbao/openbao",
-      "title": "openbao",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 360 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/openbao/openbao",
-      "stars": 7956,
-      "forks": 590,
-      "issues": 326,
-      "language": "Go",
-      "pushedAt": "2026-09-24T20:34:53Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 360,
-      "score": 64,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/openbao/openbao",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 360 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=openbao%20openbao%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=openbao%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=openbao%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 6
-    },
-    {
       "repo": "NVIDIA/Model-Optimizer",
       "title": "Model-Optimizer",
       "type": "Novo no GitHub Trending",
@@ -396,11 +343,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "stars": 4691,
-      "forks": 664,
-      "issues": 421,
+      "stars": 4736,
+      "forks": 667,
+      "issues": 423,
       "language": "Python",
-      "pushedAt": "2026-09-26T18:29:27Z",
+      "pushedAt": "2026-09-26T22:48:10Z",
       "pushedLabel": "push há 1h",
       "trendingStarsToday": 354,
       "score": 63,
@@ -433,7 +380,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 6
     },
     {
       "repo": "tt-a1i/archify",
@@ -449,12 +396,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 72185,
-      "forks": 4868,
-      "issues": 172,
+      "stars": 72267,
+      "forks": 4874,
+      "issues": 174,
       "language": "JavaScript",
       "pushedAt": "2026-09-26T16:50:45Z",
-      "pushedLabel": "push há 3h",
+      "pushedLabel": "push há 7h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -495,6 +442,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 7
+    },
+    {
+      "repo": "openbao/openbao",
+      "title": "openbao",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 360 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/openbao/openbao",
+      "stars": 7999,
+      "forks": 590,
+      "issues": 327,
+      "language": "Go",
+      "pushedAt": "2026-09-24T20:34:53Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 360,
+      "score": 57,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/openbao/openbao",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 360 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=openbao%20openbao%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=openbao%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=openbao%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 8
     },
     {
@@ -510,7 +510,7 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27295,
+      "stars": 27296,
       "forks": 2625,
       "issues": 837,
       "language": "TypeScript",
@@ -557,8 +557,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85582,
-      "forks": 7522,
+      "stars": 85599,
+      "forks": 7524,
       "issues": 161,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -613,15 +613,15 @@
       "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
       "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
       "points": 56,
-      "comments": 65,
+      "comments": 70,
       "publishedAt": "2026-09-26T13:05:36Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "FTC chair suggests AI developers should be liable for conduct of agents",
       "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
-      "points": 61,
-      "comments": 20,
+      "points": 65,
+      "comments": 21,
       "publishedAt": "2026-09-25T22:49:41Z",
       "source": "Hacker News / Algolia"
     },
@@ -642,19 +642,19 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Vibe Coding Production Kit – a production workflow for AI coding agents",
-      "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit",
-      "points": 9,
-      "comments": 6,
-      "publishedAt": "2026-09-24T21:02:34Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
       "title": "Speculative Reward Hacking in Coding Agents",
       "url": "https://joinhandshake.com/research/ai/deepswe-reward-hacking/",
       "points": 3,
       "comments": 2,
       "publishedAt": "2026-09-25T23:13:52Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: AI coding agents that prove their work",
+      "url": "https://daneb.github.io/keel/",
+      "points": 2,
+      "comments": 2,
+      "publishedAt": "2026-09-26T13:31:40Z",
       "source": "Hacker News / Algolia"
     }
   ],
@@ -722,7 +722,7 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27295,
+      "stars": 27296,
       "forks": 2625,
       "issues": 837,
       "language": "TypeScript",
@@ -769,8 +769,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85582,
-      "forks": 7522,
+      "stars": 85599,
+      "forks": 7524,
       "issues": 161,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
