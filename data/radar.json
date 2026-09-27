@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T01:16:45.492Z",
-  "generatedLabel": "26 de set. de 2026 · 22:16",
+  "generatedAt": "2026-09-27T15:24:49.798Z",
+  "generatedLabel": "27 de set. de 2026 · 12:24",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -36,7 +36,7 @@
       "title": "paperclip",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 2,6 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 2,5 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "The open-source app everyone uses to manage agents at work",
       "broll": [
         "GitHub Trending",
@@ -45,13 +45,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/paperclipai/paperclip",
-      "stars": 87364,
-      "forks": 15433,
-      "issues": 5745,
+      "stars": 88886,
+      "forks": 15576,
+      "issues": 5809,
       "language": "TypeScript",
-      "pushedAt": "2026-09-27T01:14:04Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 2608,
+      "pushedAt": "2026-09-27T12:25:56Z",
+      "pushedLabel": "push há 3h",
+      "trendingStarsToday": 2527,
       "score": 88,
       "social": [
         {
@@ -71,7 +71,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,6 mil stars hoje",
+          "label": "GitHub Trending · 2,5 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -112,13 +112,13 @@
         "análise independente do crescimento e das métricas"
       ],
       "url": "https://github.com/vectorize-io/hindsight",
-      "stars": 32221,
-      "forks": 3575,
-      "issues": 151,
+      "stars": 35909,
+      "forks": 4566,
+      "issues": 164,
       "language": "Python",
       "pushedAt": "2026-09-26T14:14:46Z",
-      "pushedLabel": "push há 11h",
-      "trendingStarsToday": 2147,
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 4463,
       "score": 76,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -129,7 +129,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,1 mil stars hoje",
+          "label": "GitHub Trending · 4,5 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -157,11 +157,93 @@
       "rank": 2
     },
     {
+      "repo": "debpalash/VoiceStudio",
+      "title": "VoiceStudio",
+      "type": "Voz e dublagem local",
+      "status": "Gravar agora",
+      "hook": "Esta alternativa aberta ao ElevenLabs clona vozes, dubla vídeos e roda localmente sem assinatura.",
+      "thesis": "Voz generativa está virando infraestrutura local: privacidade, custo zero por uso e centenas de idiomas criam uma narrativa forte contra plataformas fechadas.",
+      "broll": [
+        "galeria de vozes",
+        "clonagem com amostra curta",
+        "editor de dublagem",
+        "comparação local versus nuvem"
+      ],
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "stars": 39048,
+      "forks": 4649,
+      "issues": 13,
+      "language": "Python",
+      "pushedAt": "2026-09-27T13:29:55Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 3060,
+      "score": 76,
+      "social": [
+        {
+          "platform": "Instagram",
+          "label": "@niyi.tech · alternativa local ao ElevenLabs · 1,9k likes públicos · observado 21 AGO",
+          "url": "https://www.instagram.com/reel/DYg7o7Um4Qb/",
+          "likes": 1900,
+          "publishedAt": "2026-08-21",
+          "verifiedAt": "14 SET 2026"
+        },
+        {
+          "platform": "YouTube",
+          "label": "AiThatSpeaks · clonagem e dublagem local · 7,8k views · 158 likes · publicado 17 JUL",
+          "url": "https://www.youtube.com/watch?v=xkFkvxYKe1Q",
+          "views": 7823,
+          "likes": 158,
+          "comments": 58,
+          "publishedAt": "2026-07-17",
+          "verifiedAt": "15 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 3,1 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Instagram · @niyi.tech · alternativa local ao ElevenLabs · 1,9k likes públicos · observado 21 AGO",
+          "url": "https://www.instagram.com/reel/DYg7o7Um4Qb/",
+          "kind": "social"
+        },
+        {
+          "label": "YouTube · AiThatSpeaks · clonagem e dublagem local · 7,8k views · 158 likes · publicado 17 JUL",
+          "url": "https://www.youtube.com/watch?v=xkFkvxYKe1Q",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=debpalash%20VoiceStudio%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=VoiceStudio%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=VoiceStudio%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "repo": "rohitg00/ai-engineering-from-scratch",
       "title": "ai-engineering-from-scratch",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 827 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 848 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Learn it. Build it. Ship it for others.",
       "broll": [
         "GitHub Trending",
@@ -170,13 +252,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": 58390,
-      "forks": 10125,
-      "issues": 47,
+      "stars": 58912,
+      "forks": 10196,
+      "issues": 44,
       "language": "Python",
-      "pushedAt": "2026-09-26T08:12:38Z",
-      "pushedLabel": "push há 17h",
-      "trendingStarsToday": 827,
+      "pushedAt": "2026-09-27T11:54:19Z",
+      "pushedLabel": "push há 4h",
+      "trendingStarsToday": 848,
       "score": 73,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -187,7 +269,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 827 stars hoje",
+          "label": "GitHub Trending · 848 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -207,7 +289,65 @@
           "kind": "busca"
         }
       ],
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "repo": "dream-num/univer",
+      "title": "Univer",
+      "type": "Office para agentes",
+      "status": "Monitorar hoje",
+      "hook": "Este projeto dá aos agentes uma superfície local para criar e revisar planilhas, documentos e apresentações.",
+      "thesis": "Ferramentas de escritório estão virando runtimes programáveis nos quais agentes editam conteúdo estruturado e humanos revisam o resultado.",
+      "broll": [
+        "showcase oficial",
+        "planilha sendo editada",
+        "documentos e slides",
+        "fluxo com worktree"
+      ],
+      "url": "https://github.com/dream-num/univer",
+      "stars": 19966,
+      "forks": 1695,
+      "issues": 152,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-27T13:11:49Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 920,
+      "score": 72,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/dream-num/univer",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 920 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Univer · showcase oficial",
+          "url": "https://docs.univer.ai/showcase",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=dream-num%20univer%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Univer%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Univer%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 5
     },
     {
       "repo": "NousResearch/hermes-agent",
@@ -223,11 +363,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 249248,
-      "forks": 52931,
-      "issues": 44154,
+      "stars": 249397,
+      "forks": 53006,
+      "issues": 44443,
       "language": "Python",
-      "pushedAt": "2026-09-27T01:13:59Z",
+      "pushedAt": "2026-09-27T15:19:08Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -269,117 +409,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
-    },
-    {
-      "repo": "dream-num/univer",
-      "title": "Univer",
-      "type": "Office para agentes",
-      "status": "Monitorar hoje",
-      "hook": "Este projeto dá aos agentes uma superfície local para criar e revisar planilhas, documentos e apresentações.",
-      "thesis": "Ferramentas de escritório estão virando runtimes programáveis nos quais agentes editam conteúdo estruturado e humanos revisam o resultado.",
-      "broll": [
-        "showcase oficial",
-        "planilha sendo editada",
-        "documentos e slides",
-        "fluxo com worktree"
-      ],
-      "url": "https://github.com/dream-num/univer",
-      "stars": 19234,
-      "forks": 1635,
-      "issues": 149,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-24T14:02:42Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 849,
-      "score": 64,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/dream-num/univer",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 849 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Univer · showcase oficial",
-          "url": "https://docs.univer.ai/showcase",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=dream-num%20univer%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Univer%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Univer%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "repo": "NVIDIA/Model-Optimizer",
-      "title": "Model-Optimizer",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 357 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "stars": 4757,
-      "forks": 669,
-      "issues": 423,
-      "language": "Python",
-      "pushedAt": "2026-09-27T01:01:53Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 357,
-      "score": 63,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/NVIDIA/Model-Optimizer",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 357 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=NVIDIA%20Model-Optimizer%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Model-Optimizer%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Model-Optimizer%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 6
     },
     {
@@ -396,11 +425,11 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 72292,
-      "forks": 4877,
-      "issues": 175,
+      "stars": 72607,
+      "forks": 4905,
+      "issues": 179,
       "language": "JavaScript",
-      "pushedAt": "2026-09-27T01:06:55Z",
+      "pushedAt": "2026-09-27T15:24:15Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 62,
@@ -445,53 +474,53 @@
       "rank": 7
     },
     {
-      "repo": "openbao/openbao",
-      "title": "openbao",
+      "repo": "mvschwarz/openrig",
+      "title": "openrig",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 364 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "hook": "Este repositório ganhou 114 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/openbao/openbao",
-      "stars": 8010,
-      "forks": 590,
-      "issues": 327,
-      "language": "Go",
-      "pushedAt": "2026-09-24T20:34:53Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 364,
-      "score": 57,
+      "url": "https://github.com/mvschwarz/openrig",
+      "stars": 710,
+      "forks": 85,
+      "issues": 40,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-27T07:43:07Z",
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 114,
+      "score": 52,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/openbao/openbao",
+          "url": "https://github.com/mvschwarz/openrig",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 364 stars hoje",
+          "label": "GitHub Trending · 114 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=openbao%20openbao%20AI",
+          "url": "https://www.youtube.com/results?search_query=mvschwarz%20openrig%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=openbao%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=openrig%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=openbao%20AI",
+          "url": "https://www.tiktok.com/search?q=openrig%20AI",
           "kind": "busca"
         }
       ],
@@ -510,12 +539,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27296,
-      "forks": 2625,
-      "issues": 837,
+      "stars": 27309,
+      "forks": 2631,
+      "issues": 848,
       "language": "TypeScript",
       "pushedAt": "2026-09-25T17:56:35Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -557,12 +586,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85610,
-      "forks": 7526,
+      "stars": 85724,
+      "forks": 7538,
       "issues": 161,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 11d",
+      "pushedLabel": "push há 12d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -613,14 +642,14 @@
       "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
       "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
       "points": 56,
-      "comments": 70,
+      "comments": 71,
       "publishedAt": "2026-09-26T13:05:36Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "FTC chair suggests AI developers should be liable for conduct of agents",
       "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
-      "points": 65,
+      "points": 67,
       "comments": 21,
       "publishedAt": "2026-09-25T22:49:41Z",
       "source": "Hacker News / Algolia"
@@ -634,78 +663,66 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Show HN: Agentic CUDA Kernel Optimizer",
-      "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-      "points": 36,
-      "comments": 11,
-      "publishedAt": "2026-09-25T10:32:58Z",
+      "title": "OpenAI pauses training of latest models after agents probed US Government sites",
+      "url": "https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20",
+      "points": 15,
+      "comments": 1,
+      "publishedAt": "2026-09-27T09:07:03Z",
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Speculative Reward Hacking in Coding Agents",
-      "url": "https://joinhandshake.com/research/ai/deepswe-reward-hacking/",
-      "points": 3,
-      "comments": 2,
-      "publishedAt": "2026-09-25T23:13:52Z",
+      "title": "Show HN: PeerTalk.ai - Let your agent talk to a friend's agent",
+      "url": "https://peertalk.ai",
+      "points": 4,
+      "comments": 3,
+      "publishedAt": "2026-09-27T02:56:26Z",
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Show HN: AI coding agents that prove their work",
-      "url": "https://daneb.github.io/keel/",
+      "title": "Show HN: Wallstreetclaws.com – Create AI Agents for Trading",
+      "url": "https://wallstreetclaws.com",
       "points": 2,
-      "comments": 2,
-      "publishedAt": "2026-09-26T13:31:40Z",
+      "comments": 4,
+      "publishedAt": "2026-09-25T22:37:15Z",
       "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "paperclipai/paperclip",
-      "starsToday": 2608
+      "starsToday": 2527
     },
     {
       "repo": "vectorize-io/hindsight",
-      "starsToday": 2147
+      "starsToday": 4463
     },
     {
-      "repo": "NVIDIA/Model-Optimizer",
-      "starsToday": 357
-    },
-    {
-      "repo": "dream-num/univer",
-      "starsToday": 849
-    },
-    {
-      "repo": "tensorflow/tensorflow",
-      "starsToday": 46
+      "repo": "debpalash/VoiceStudio",
+      "starsToday": 3060
     },
     {
       "repo": "rohitg00/ai-engineering-from-scratch",
-      "starsToday": 827
+      "starsToday": 848
     },
     {
-      "repo": "openbao/openbao",
-      "starsToday": 364
+      "repo": "InfinityLoop1308/PipePipe",
+      "starsToday": 139
     },
     {
-      "repo": "block/buzz",
-      "starsToday": 339
+      "repo": "vercel-labs/scriptc",
+      "starsToday": 76
     },
     {
-      "repo": "microsoft/vscode",
-      "starsToday": 95
+      "repo": "mvschwarz/openrig",
+      "starsToday": 114
     },
     {
-      "repo": "zhaoxuya520/reverse-skill",
-      "starsToday": 361
+      "repo": "dream-num/univer",
+      "starsToday": 920
     },
     {
-      "repo": "llvm/llvm-project",
-      "starsToday": 41
-    },
-    {
-      "repo": "anthropics/claude-code-action",
-      "starsToday": 31
+      "repo": "willfaust/Madeira",
+      "starsToday": 171
     }
   ],
   "monitored": [
@@ -722,12 +739,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27296,
-      "forks": 2625,
-      "issues": 837,
+      "stars": 27309,
+      "forks": 2631,
+      "issues": 848,
       "language": "TypeScript",
       "pushedAt": "2026-09-25T17:56:35Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -769,12 +786,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85610,
-      "forks": 7526,
+      "stars": 85724,
+      "forks": 7538,
       "issues": 161,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 11d",
+      "pushedLabel": "push há 12d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
