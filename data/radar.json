@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T23:37:27.758Z",
-  "generatedLabel": "26 de set. de 2026 · 20:37",
+  "generatedAt": "2026-09-27T01:16:45.492Z",
+  "generatedLabel": "26 de set. de 2026 · 22:16",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,13 +45,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/paperclipai/paperclip",
-      "stars": 87230,
-      "forks": 15422,
-      "issues": 5742,
+      "stars": 87364,
+      "forks": 15433,
+      "issues": 5745,
       "language": "TypeScript",
-      "pushedAt": "2026-09-26T16:50:06Z",
-      "pushedLabel": "push há 7h",
-      "trendingStarsToday": 2589,
+      "pushedAt": "2026-09-27T01:14:04Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 2608,
       "score": 88,
       "social": [
         {
@@ -112,13 +112,13 @@
         "análise independente do crescimento e das métricas"
       ],
       "url": "https://github.com/vectorize-io/hindsight",
-      "stars": 32121,
-      "forks": 3566,
-      "issues": 150,
+      "stars": 32221,
+      "forks": 3575,
+      "issues": 151,
       "language": "Python",
       "pushedAt": "2026-09-26T14:14:46Z",
-      "pushedLabel": "push há 9h",
-      "trendingStarsToday": 2152,
+      "pushedLabel": "push há 11h",
+      "trendingStarsToday": 2147,
       "score": 76,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -129,7 +129,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,2 mil stars hoje",
+          "label": "GitHub Trending · 2,1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -161,7 +161,7 @@
       "title": "ai-engineering-from-scratch",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 828 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 827 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Learn it. Build it. Ship it for others.",
       "broll": [
         "GitHub Trending",
@@ -170,13 +170,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": 58345,
-      "forks": 10118,
+      "stars": 58390,
+      "forks": 10125,
       "issues": 47,
       "language": "Python",
       "pushedAt": "2026-09-26T08:12:38Z",
-      "pushedLabel": "push há 15h",
-      "trendingStarsToday": 828,
+      "pushedLabel": "push há 17h",
+      "trendingStarsToday": 827,
       "score": 73,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -187,7 +187,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 828 stars hoje",
+          "label": "GitHub Trending · 827 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -223,11 +223,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 249235,
-      "forks": 52920,
-      "issues": 44106,
+      "stars": 249248,
+      "forks": 52931,
+      "issues": 44154,
       "language": "Python",
-      "pushedAt": "2026-09-26T23:27:12Z",
+      "pushedAt": "2026-09-27T01:13:59Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -285,13 +285,13 @@
         "fluxo com worktree"
       ],
       "url": "https://github.com/dream-num/univer",
-      "stars": 19191,
-      "forks": 1633,
+      "stars": 19234,
+      "forks": 1635,
       "issues": 149,
       "language": "TypeScript",
       "pushedAt": "2026-09-24T14:02:42Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 845,
+      "trendingStarsToday": 849,
       "score": 64,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -302,7 +302,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 845 stars hoje",
+          "label": "GitHub Trending · 849 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -334,7 +334,7 @@
       "title": "Model-Optimizer",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 354 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 357 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "broll": [
         "GitHub Trending",
@@ -343,13 +343,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "stars": 4736,
-      "forks": 667,
+      "stars": 4757,
+      "forks": 669,
       "issues": 423,
       "language": "Python",
-      "pushedAt": "2026-09-26T22:48:10Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 354,
+      "pushedAt": "2026-09-27T01:01:53Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 357,
       "score": 63,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -360,7 +360,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 354 stars hoje",
+          "label": "GitHub Trending · 357 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -396,12 +396,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 72267,
-      "forks": 4874,
-      "issues": 174,
+      "stars": 72292,
+      "forks": 4877,
+      "issues": 175,
       "language": "JavaScript",
-      "pushedAt": "2026-09-26T16:50:45Z",
-      "pushedLabel": "push há 7h",
+      "pushedAt": "2026-09-27T01:06:55Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -449,7 +449,7 @@
       "title": "openbao",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 360 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 364 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "broll": [
         "GitHub Trending",
@@ -458,13 +458,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/openbao/openbao",
-      "stars": 7999,
+      "stars": 8010,
       "forks": 590,
       "issues": 327,
       "language": "Go",
       "pushedAt": "2026-09-24T20:34:53Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 360,
+      "trendingStarsToday": 364,
       "score": 57,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -475,7 +475,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 360 stars hoje",
+          "label": "GitHub Trending · 364 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -557,8 +557,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85599,
-      "forks": 7524,
+      "stars": 85610,
+      "forks": 7526,
       "issues": 161,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -661,51 +661,51 @@
   "trending": [
     {
       "repo": "paperclipai/paperclip",
-      "starsToday": 2589
+      "starsToday": 2608
     },
     {
       "repo": "vectorize-io/hindsight",
-      "starsToday": 2152
+      "starsToday": 2147
     },
     {
       "repo": "NVIDIA/Model-Optimizer",
-      "starsToday": 354
+      "starsToday": 357
     },
     {
       "repo": "dream-num/univer",
-      "starsToday": 845
+      "starsToday": 849
     },
     {
       "repo": "tensorflow/tensorflow",
-      "starsToday": 31
+      "starsToday": 46
     },
     {
       "repo": "rohitg00/ai-engineering-from-scratch",
-      "starsToday": 828
+      "starsToday": 827
     },
     {
       "repo": "openbao/openbao",
-      "starsToday": 360
+      "starsToday": 364
     },
     {
       "repo": "block/buzz",
-      "starsToday": 367
+      "starsToday": 339
     },
     {
       "repo": "microsoft/vscode",
-      "starsToday": 78
+      "starsToday": 95
     },
     {
       "repo": "zhaoxuya520/reverse-skill",
-      "starsToday": 409
+      "starsToday": 361
     },
     {
       "repo": "llvm/llvm-project",
-      "starsToday": 29
+      "starsToday": 41
     },
     {
       "repo": "anthropics/claude-code-action",
-      "starsToday": 15
+      "starsToday": 31
     }
   ],
   "monitored": [
@@ -769,8 +769,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85599,
-      "forks": 7524,
+      "stars": 85610,
+      "forks": 7526,
       "issues": 161,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
