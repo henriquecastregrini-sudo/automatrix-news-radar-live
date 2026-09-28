@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T11:18:23.304Z",
-  "generatedLabel": "28 de set. de 2026 · 08:18",
+  "generatedAt": "2026-09-28T17:02:35.551Z",
+  "generatedLabel": "28 de set. de 2026 · 14:02",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -36,7 +36,7 @@
       "title": "paperclip",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 2,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 3,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "The open-source app everyone uses to manage agents at work",
       "broll": [
         "GitHub Trending",
@@ -45,13 +45,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/paperclipai/paperclip",
-      "stars": 91489,
-      "forks": 15800,
-      "issues": 5906,
+      "stars": 92176,
+      "forks": 15842,
+      "issues": 5934,
       "language": "TypeScript",
-      "pushedAt": "2026-09-28T09:47:18Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 2401,
+      "pushedAt": "2026-09-28T16:59:58Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 3185,
       "score": 88,
       "social": [
         {
@@ -71,7 +71,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,4 mil stars hoje",
+          "label": "GitHub Trending · 3,2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -99,64 +99,6 @@
       "rank": 1
     },
     {
-      "repo": "vectorize-io/hindsight",
-      "title": "Hindsight",
-      "type": "Memória para agentes",
-      "status": "Monitorar hoje",
-      "hook": "Este sistema de memória para agentes explodiu no GitHub, mas os números do benchmark e a origem do hype precisam de verificação independente.",
-      "thesis": "O crescimento no Trending é factual; já as alegações de superioridade dependem de benchmark ligado ao próprio ecossistema do projeto e devem ser apresentadas com contraponto.",
-      "broll": [
-        "demo oficial de memória",
-        "benchmark publicado",
-        "README",
-        "análise independente do crescimento e das métricas"
-      ],
-      "url": "https://github.com/vectorize-io/hindsight",
-      "stars": 39432,
-      "forks": 5215,
-      "issues": 173,
-      "language": "Python",
-      "pushedAt": "2026-09-28T10:09:27Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 4520,
-      "score": 76,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/vectorize-io/hindsight",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 4,5 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "SoloSoft · auditoria independente do benchmark e do crescimento · 25 SET",
-          "url": "https://www.solosoft.dev/post/hindsight-agent-memory-audit/",
-          "kind": "análise independente"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=vectorize-io%20hindsight%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Hindsight%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Hindsight%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "repo": "debpalash/VoiceStudio",
       "title": "VoiceStudio",
       "type": "Voz e dublagem local",
@@ -170,14 +112,14 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 41520,
-      "forks": 4918,
-      "issues": 28,
+      "stars": 42910,
+      "forks": 5010,
+      "issues": 43,
       "language": "Python",
-      "pushedAt": "2026-09-27T13:29:55Z",
-      "pushedLabel": "push há 22h",
-      "trendingStarsToday": 3086,
-      "score": 76,
+      "pushedAt": "2026-09-28T13:59:06Z",
+      "pushedLabel": "push há 3h",
+      "trendingStarsToday": 3274,
+      "score": 77,
       "social": [
         {
           "platform": "Instagram",
@@ -206,7 +148,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 3,1 mil stars hoje",
+          "label": "GitHub Trending · 3,3 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -236,6 +178,64 @@
           "kind": "busca"
         }
       ],
+      "rank": 2
+    },
+    {
+      "repo": "vectorize-io/hindsight",
+      "title": "Hindsight",
+      "type": "Memória para agentes",
+      "status": "Monitorar hoje",
+      "hook": "Este sistema de memória para agentes explodiu no GitHub, mas os números do benchmark e a origem do hype precisam de verificação independente.",
+      "thesis": "O crescimento no Trending é factual; já as alegações de superioridade dependem de benchmark ligado ao próprio ecossistema do projeto e devem ser apresentadas com contraponto.",
+      "broll": [
+        "demo oficial de memória",
+        "benchmark publicado",
+        "README",
+        "análise independente do crescimento e das métricas"
+      ],
+      "url": "https://github.com/vectorize-io/hindsight",
+      "stars": 40511,
+      "forks": 5468,
+      "issues": 176,
+      "language": "Python",
+      "pushedAt": "2026-09-28T16:52:59Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 4413,
+      "score": 76,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 4,4 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "SoloSoft · auditoria independente do benchmark e do crescimento · 25 SET",
+          "url": "https://www.solosoft.dev/post/hindsight-agent-memory-audit/",
+          "kind": "análise independente"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=vectorize-io%20hindsight%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Hindsight%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Hindsight%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 3
     },
     {
@@ -252,14 +252,14 @@
         "fluxo com worktree"
       ],
       "url": "https://github.com/dream-num/univer",
-      "stars": 20904,
-      "forks": 1773,
-      "issues": 148,
+      "stars": 21085,
+      "forks": 1793,
+      "issues": 146,
       "language": "TypeScript",
-      "pushedAt": "2026-09-28T10:39:08Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 895,
-      "score": 72,
+      "pushedAt": "2026-09-28T13:11:29Z",
+      "pushedLabel": "push há 4h",
+      "trendingStarsToday": 1105,
+      "score": 73,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -269,7 +269,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 895 stars hoje",
+          "label": "GitHub Trending · 1,1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -297,6 +297,89 @@
       "rank": 4
     },
     {
+      "repo": "mvschwarz/openrig",
+      "title": "OpenRig",
+      "type": "Orquestração multiagente",
+      "status": "Gravar agora",
+      "hook": "Este harness coloca Claude Code e Codex para trabalhar juntos como uma equipe persistente.",
+      "thesis": "Em vez de escolher um único agente, OpenRig distribui implementação, revisão e handoffs entre sessões observáveis no terminal.",
+      "broll": [
+        "Claude e Codex em terminais lado a lado",
+        "fila de tarefas e handoffs",
+        "demo oficial",
+        "README e FAQ"
+      ],
+      "url": "https://github.com/mvschwarz/openrig",
+      "stars": 1530,
+      "forks": 128,
+      "issues": 52,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-28T10:36:40Z",
+      "pushedLabel": "push há 6h",
+      "trendingStarsToday": 781,
+      "score": 66,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/ClaudeCode · sessões Claude e Codex trabalhando juntas · publicado 28 SET · métrica a verificar",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1ws81k4/i_used_to_run_4_claude_code_sessions_in_tmux_and/",
+          "publishedAt": "2026-09-28",
+          "verifiedAt": "28 SET 2026"
+        },
+        {
+          "platform": "Reddit",
+          "label": "r/ClaudeWorkflows · workflow multiagente OpenRig · publicado 28 SET · métrica a verificar",
+          "url": "https://www.reddit.com/r/ClaudeWorkflows/comments/1ws989l/workflow_openrig_orchestrating_multiagent_claude/",
+          "publishedAt": "2026-09-28",
+          "verifiedAt": "28 SET 2026"
+        }
+      ],
+      "socialStatus": "referência recente direta — métrica pública precisa verificação",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mvschwarz/openrig",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 781 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "OpenRig · FAQ oficial sobre Claude Code + Codex",
+          "url": "https://openrig.dev/docs/faq",
+          "kind": "oficial"
+        },
+        {
+          "label": "Reddit · r/ClaudeCode · sessões Claude e Codex trabalhando juntas · publicado 28 SET · métrica a verificar",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1ws81k4/i_used_to_run_4_claude_code_sessions_in_tmux_and/",
+          "kind": "social"
+        },
+        {
+          "label": "Reddit · r/ClaudeWorkflows · workflow multiagente OpenRig · publicado 28 SET · métrica a verificar",
+          "url": "https://www.reddit.com/r/ClaudeWorkflows/comments/1ws989l/workflow_openrig_orchestrating_multiagent_claude/",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=mvschwarz%20openrig%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=OpenRig%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=OpenRig%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 5
+    },
+    {
       "repo": "NousResearch/hermes-agent",
       "title": "Hermes Agent",
       "type": "Agente open-source",
@@ -310,11 +393,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 249655,
-      "forks": 53124,
-      "issues": 44793,
+      "stars": 249730,
+      "forks": 53182,
+      "issues": 44885,
       "language": "Python",
-      "pushedAt": "2026-09-28T11:12:09Z",
+      "pushedAt": "2026-09-28T17:02:08Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -356,7 +439,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "repo": "tt-a1i/archify",
@@ -372,12 +455,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 73203,
-      "forks": 4948,
-      "issues": 172,
+      "stars": 73387,
+      "forks": 4955,
+      "issues": 182,
       "language": "JavaScript",
-      "pushedAt": "2026-09-28T11:13:22Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-09-28T15:45:30Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -418,7 +501,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 7
     },
     {
       "repo": "byoungd/up",
@@ -434,12 +517,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/byoungd/up",
-      "stars": 64323,
-      "forks": 6488,
+      "stars": 64547,
+      "forks": 6505,
       "issues": 32,
       "language": "JavaScript",
       "pushedAt": "2026-09-20T04:50:30Z",
-      "pushedLabel": "push há 8d",
+      "pushedLabel": "push há 9d",
       "trendingStarsToday": 310,
       "score": 60,
       "social": [],
@@ -471,7 +554,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "repo": "alibaba/open-code-review",
@@ -488,12 +571,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 42111,
-      "forks": 3024,
-      "issues": 234,
+      "stars": 42223,
+      "forks": 3029,
+      "issues": 239,
       "language": "Go",
       "pushedAt": "2026-09-28T09:09:11Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 8h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -550,60 +633,54 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 9
     },
     {
-      "repo": "mvschwarz/openrig",
-      "title": "openrig",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 114 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
       "broll": [
-        "GitHub Trending",
         "README",
-        "demo oficial",
-        "histórico do projeto"
+        "arquitetura de memória",
+        "code graph"
       ],
-      "url": "https://github.com/mvschwarz/openrig",
-      "stars": 1318,
-      "forks": 119,
-      "issues": 51,
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 27410,
+      "forks": 2639,
+      "issues": 859,
       "language": "TypeScript",
-      "pushedAt": "2026-09-28T10:36:40Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 114,
-      "score": 53,
+      "pushedAt": "2026-09-28T11:27:14Z",
+      "pushedLabel": "push há 6h",
+      "trendingStarsToday": null,
+      "score": 40,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/mvschwarz/openrig",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 114 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=mvschwarz%20openrig%20AI",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=openrig%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=openrig%20AI",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -618,9 +695,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85897,
-      "forks": 7550,
-      "issues": 163,
+      "stars": 85950,
+      "forks": 7557,
+      "issues": 164,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 13d",
@@ -666,53 +743,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
-    },
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27396,
-      "forks": 2638,
-      "issues": 856,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-25T17:56:35Z",
-      "pushedLabel": "push há 3d",
-      "trendingStarsToday": null,
-      "score": 33,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 11
     }
   ],
@@ -720,64 +750,64 @@
     {
       "title": "There are no \"rogue\" AI agents",
       "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "points": 369,
-      "comments": 252,
+      "points": 384,
+      "comments": 265,
       "publishedAt": "2026-09-27T16:19:46Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
       "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-      "points": 57,
-      "comments": 113,
+      "points": 58,
+      "comments": 118,
       "publishedAt": "2026-09-27T16:29:38Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-      "points": 57,
-      "comments": 71,
-      "publishedAt": "2026-09-26T13:05:36Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Show HN: TinyAIArena watch AI agents battle it out",
       "url": "https://tinyaiarena.com/",
-      "points": 110,
-      "comments": 44,
+      "points": 116,
+      "comments": 45,
       "publishedAt": "2026-09-27T15:51:28Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "url": "https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/",
+      "points": 31,
+      "comments": 58,
+      "publishedAt": "2026-09-28T15:46:36Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
+      "url": "https://www.openappa.com/",
+      "points": 21,
+      "comments": 11,
+      "publishedAt": "2026-09-28T13:20:44Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "OpenAI pauses training of latest models after agents probed US Government sites",
       "url": "https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20",
-      "points": 26,
-      "comments": 2,
+      "points": 29,
+      "comments": 3,
       "publishedAt": "2026-09-28T01:20:50Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
-      "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
-      "points": 8,
-      "comments": 1,
-      "publishedAt": "2026-09-27T18:55:48Z",
       "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "debpalash/VoiceStudio",
-      "starsToday": 3086
+      "starsToday": 3274
     },
     {
       "repo": "paperclipai/paperclip",
-      "starsToday": 2401
+      "starsToday": 3185
     },
     {
       "repo": "vectorize-io/hindsight",
-      "starsToday": 4520
+      "starsToday": 4413
     },
     {
       "repo": "NawfalMotii79/PLFM_RADAR",
@@ -793,14 +823,61 @@
     },
     {
       "repo": "mvschwarz/openrig",
-      "starsToday": 114
+      "starsToday": 781
     },
     {
       "repo": "dream-num/univer",
-      "starsToday": 895
+      "starsToday": 1105
     }
   ],
   "monitored": [
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 27410,
+      "forks": 2639,
+      "issues": 859,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-28T11:27:14Z",
+      "pushedLabel": "push há 6h",
+      "trendingStarsToday": null,
+      "score": 40,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 10
+    },
     {
       "repo": "Panniantong/Agent-Reach",
       "type": "Repo monitorado",
@@ -814,9 +891,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85897,
-      "forks": 7550,
-      "issues": 163,
+      "stars": 85950,
+      "forks": 7557,
+      "issues": 164,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 13d",
@@ -859,53 +936,6 @@
         {
           "label": "Buscar TikTok",
           "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 10
-    },
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27396,
-      "forks": 2638,
-      "issues": 856,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-25T17:56:35Z",
-      "pushedLabel": "push há 3d",
-      "trendingStarsToday": null,
-      "score": 33,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
           "kind": "busca"
         }
       ],

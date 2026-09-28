@@ -68,6 +68,7 @@ const editorialOverrides = {
   'agent-substrate/substrate': { title: 'Agent Substrate', type: 'Runtime para agentes', status: 'Monitorar hoje', hook: 'Este runtime promete colocar centenas de agentes com estado em poucos workers isolados.', thesis: 'Infraestrutura de agentes está adotando conceitos de Kubernetes, suspensão de estado e sandboxes para reduzir o custo de workloads que passam muito tempo ociosos.', broll: ['demo de 250 atores em 8 pods', 'arquitetura do runtime', 'suspend e resume', 'README oficial'] },
   'dream-num/univer': { title: 'Univer', type: 'Office para agentes', status: 'Monitorar hoje', hook: 'Este projeto dá aos agentes uma superfície local para criar e revisar planilhas, documentos e apresentações.', thesis: 'Ferramentas de escritório estão virando runtimes programáveis nos quais agentes editam conteúdo estruturado e humanos revisam o resultado.', broll: ['showcase oficial', 'planilha sendo editada', 'documentos e slides', 'fluxo com worktree'] },
   'vectorize-io/hindsight': { title: 'Hindsight', type: 'Memória para agentes', status: 'Monitorar hoje', hook: 'Este sistema de memória para agentes explodiu no GitHub, mas os números do benchmark e a origem do hype precisam de verificação independente.', thesis: 'O crescimento no Trending é factual; já as alegações de superioridade dependem de benchmark ligado ao próprio ecossistema do projeto e devem ser apresentadas com contraponto.', broll: ['demo oficial de memória', 'benchmark publicado', 'README', 'análise independente do crescimento e das métricas'] },
+  'mvschwarz/openrig': { title: 'OpenRig', type: 'Orquestração multiagente', status: 'Gravar agora', hook: 'Este harness coloca Claude Code e Codex para trabalhar juntos como uma equipe persistente.', thesis: 'Em vez de escolher um único agente, OpenRig distribui implementação, revisão e handoffs entre sessões observáveis no terminal.', broll: ['Claude e Codex em terminais lado a lado', 'fila de tarefas e handoffs', 'demo oficial', 'README e FAQ'] },
   'superdesigndev/treg': { title: 'Treg', type: 'Roteador de ferramentas para agentes', status: 'Monitorar hoje', hook: 'Este projeto quer ser um OpenRouter para ferramentas: o agente chama capacidades externas por uma interface única.', thesis: 'O mercado de agentes está criando uma camada de roteamento, identidade e cobrança não apenas para modelos, mas também para ferramentas.', broll: ['catálogo de ferramentas', 'dashboard Ledger', 'chamada por CLI', 'README oficial'] },
 };
 
@@ -79,6 +80,7 @@ const officialProofs = {
   'google/ax': [{ label: 'Google AX · demo oficial do ciclo de uma tarefa', url: 'https://github.com/google/ax/blob/main/demo.sh', kind: 'oficial' }],
   'agent-substrate/substrate': [{ label: 'Agent Substrate · demos oficiais', url: 'https://github.com/agent-substrate/substrate/tree/main/demos', kind: 'oficial' }],
   'dream-num/univer': [{ label: 'Univer · showcase oficial', url: 'https://docs.univer.ai/showcase', kind: 'oficial' }],
+  'mvschwarz/openrig': [{ label: 'OpenRig · FAQ oficial sobre Claude Code + Codex', url: 'https://openrig.dev/docs/faq', kind: 'oficial' }],
 };
 
 const editorialSources = {
@@ -86,6 +88,10 @@ const editorialSources = {
 };
 
 const socialReferences = {
+  'mvschwarz/openrig': [
+    { platform: 'Reddit', label: 'r/ClaudeCode · sessões Claude e Codex trabalhando juntas · publicado 28 SET · métrica a verificar', url: 'https://www.reddit.com/r/ClaudeCode/comments/1ws81k4/i_used_to_run_4_claude_code_sessions_in_tmux_and/', publishedAt: '2026-09-28', verifiedAt: '28 SET 2026' },
+    { platform: 'Reddit', label: 'r/ClaudeWorkflows · workflow multiagente OpenRig · publicado 28 SET · métrica a verificar', url: 'https://www.reddit.com/r/ClaudeWorkflows/comments/1ws989l/workflow_openrig_orchestrating_multiagent_claude/', publishedAt: '2026-09-28', verifiedAt: '28 SET 2026' },
+  ],
   'paperclipai/paperclip': [{ platform: 'Reddit', label: 'r/ClaudeAI · uso real em equipe multiagente · 8 votos públicos · publicado 16 SET', url: 'https://www.reddit.com/r/ClaudeAI/comments/1whvupz/anyone_actually_running_a_multiagent_team_that/', engagement: 8, publishedAt: '2026-09-16', verifiedAt: '25 SET 2026' }],
   'google/ax': [
     { platform: 'Reddit', label: 'r/GoogleGeminiAI · lançamento do AX · 8 votos públicos', url: 'https://www.reddit.com/r/GoogleGeminiAI/comments/1wmhlpx/google_opensourced_ax_their_agentic_orchestrator/', engagement: 8, publishedAt: '2026-09-21', verifiedAt: '22 SET 2026' },
@@ -233,8 +239,10 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
   const social = socialReferences[item.repo] || [];
   const recentSocial = social.filter((reference) => reference.publishedAt
     && Date.now() - new Date(`${reference.publishedAt}T12:00:00Z`).getTime() <= 30 * 864e5);
-  const socialSignal = Math.max(0, ...recentSocial.map((reference) => reference.views || reference.engagement || 0));
-  const socialScore = recentSocial.length ? Math.min(22, 8 + Math.log10(socialSignal + 1) * 2.5) : 0;
+  const verifiedRecentSocial = recentSocial.filter((reference) => ['views', 'engagement', 'likes', 'comments']
+    .some((metric) => Number.isFinite(reference[metric])));
+  const socialSignal = Math.max(0, ...verifiedRecentSocial.map((reference) => reference.views || reference.engagement || reference.likes || reference.comments || 0));
+  const socialScore = verifiedRecentSocial.length ? Math.min(22, 8 + Math.log10(socialSignal + 1) * 2.5) : 0;
   const score = Math.min(100, Math.round(
     (starsToday ? Math.min(48, Math.log10(starsToday + 1) * 15) : 12) +
     Math.min(22, Math.log10((api.stargazers_count || 1) + 1) * 4) +
@@ -243,7 +251,7 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
   ));
   return {
     ...editorial,
-    status: editorial.status === 'Gravar agora' && !starsToday && !recentSocial.length
+    status: editorial.status === 'Gravar agora' && !starsToday && !verifiedRecentSocial.length
       ? 'Usar como comparação' : editorial.status,
     title: item.title || api.name || item.repo.split('/')[1],
     url: api.html_url || `https://github.com/${item.repo}`,
@@ -256,7 +264,8 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
     trendingStarsToday: starsToday || null,
     score,
     social,
-    socialStatus: recentSocial.length ? 'referência recente verificada'
+    socialStatus: verifiedRecentSocial.length ? 'referência recente verificada'
+      : recentSocial.length ? 'referência recente direta — métrica pública precisa verificação'
       : social.length ? 'somente referência histórica — sem prova social recente'
         : 'sem post direto verificado — precisa varredura social',
     sources: [
