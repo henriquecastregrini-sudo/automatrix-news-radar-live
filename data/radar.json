@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T01:30:25.103Z",
-  "generatedLabel": "27 de set. de 2026 · 22:30",
+  "generatedAt": "2026-09-28T11:18:23.304Z",
+  "generatedLabel": "28 de set. de 2026 · 08:18",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,12 +45,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/paperclipai/paperclip",
-      "stars": 89972,
-      "forks": 15672,
-      "issues": 5862,
+      "stars": 91489,
+      "forks": 15800,
+      "issues": 5906,
       "language": "TypeScript",
-      "pushedAt": "2026-09-28T01:05:57Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-09-28T09:47:18Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": 2401,
       "score": 88,
       "social": [
@@ -112,12 +112,12 @@
         "análise independente do crescimento e das métricas"
       ],
       "url": "https://github.com/vectorize-io/hindsight",
-      "stars": 37377,
-      "forks": 4842,
-      "issues": 167,
+      "stars": 39432,
+      "forks": 5215,
+      "issues": 173,
       "language": "Python",
-      "pushedAt": "2026-09-26T14:14:46Z",
-      "pushedLabel": "push há 1d",
+      "pushedAt": "2026-09-28T10:09:27Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 4520,
       "score": 76,
       "social": [],
@@ -170,12 +170,12 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 40212,
-      "forks": 4781,
-      "issues": 18,
+      "stars": 41520,
+      "forks": 4918,
+      "issues": 28,
       "language": "Python",
       "pushedAt": "2026-09-27T13:29:55Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 22h",
       "trendingStarsToday": 3086,
       "score": 76,
       "social": [
@@ -239,59 +239,6 @@
       "rank": 3
     },
     {
-      "repo": "rohitg00/ai-engineering-from-scratch",
-      "title": "ai-engineering-from-scratch",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 790 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Learn it. Build it. Ship it for others.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": 59326,
-      "forks": 10240,
-      "issues": 44,
-      "language": "Python",
-      "pushedAt": "2026-09-27T11:54:19Z",
-      "pushedLabel": "push há 14h",
-      "trendingStarsToday": 790,
-      "score": 73,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 790 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=rohitg00%20ai-engineering-from-scratch%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=ai-engineering-from-scratch%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=ai-engineering-from-scratch%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
-    },
-    {
       "repo": "dream-num/univer",
       "title": "Univer",
       "type": "Office para agentes",
@@ -305,12 +252,12 @@
         "fluxo com worktree"
       ],
       "url": "https://github.com/dream-num/univer",
-      "stars": 20288,
-      "forks": 1717,
-      "issues": 157,
+      "stars": 20904,
+      "forks": 1773,
+      "issues": 148,
       "language": "TypeScript",
-      "pushedAt": "2026-09-27T19:58:06Z",
-      "pushedLabel": "push há 6h",
+      "pushedAt": "2026-09-28T10:39:08Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 895,
       "score": 72,
       "social": [],
@@ -347,7 +294,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "repo": "NousResearch/hermes-agent",
@@ -363,11 +310,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 249512,
-      "forks": 53064,
-      "issues": 44552,
+      "stars": 249655,
+      "forks": 53124,
+      "issues": 44793,
       "language": "Python",
-      "pushedAt": "2026-09-28T01:28:50Z",
+      "pushedAt": "2026-09-28T11:12:09Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -409,7 +356,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "repo": "tt-a1i/archify",
@@ -425,12 +372,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 72823,
-      "forks": 4921,
-      "issues": 179,
+      "stars": 73203,
+      "forks": 4948,
+      "issues": 172,
       "language": "JavaScript",
-      "pushedAt": "2026-09-27T16:14:12Z",
-      "pushedLabel": "push há 9h",
+      "pushedAt": "2026-09-28T11:13:22Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -471,7 +418,139 @@
           "kind": "busca"
         }
       ],
+      "rank": 6
+    },
+    {
+      "repo": "byoungd/up",
+      "title": "up",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 310 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/byoungd/up",
+      "stars": 64323,
+      "forks": 6488,
+      "issues": 32,
+      "language": "JavaScript",
+      "pushedAt": "2026-09-20T04:50:30Z",
+      "pushedLabel": "push há 8d",
+      "trendingStarsToday": 310,
+      "score": 60,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/byoungd/up",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 310 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=byoungd%20up%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=up%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=up%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 7
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "title": "Open Code Review",
+      "type": "Revisão de código com IA",
+      "status": "Gravar agora",
+      "priority": 1,
+      "hook": "A Alibaba abriu o agente de revisão de código usado internamente por dezenas de milhares de desenvolvedores.",
+      "thesis": "A próxima disputa dos agentes de código pode estar na revisão especializada, com regras determinísticas e menor custo, não apenas na geração de código.",
+      "broll": [
+        "CLI revisando um PR",
+        "comentários linha a linha",
+        "paper e benchmark",
+        "diff com falhas encontradas"
+      ],
+      "url": "https://github.com/alibaba/open-code-review",
+      "stars": 42111,
+      "forks": 3024,
+      "issues": 234,
+      "language": "Go",
+      "pushedAt": "2026-09-28T09:09:11Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": null,
+      "score": 59,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "The Next New Thing · Open Code Review entre os repos explicados · 21,1k views · 325 likes · publicado 18 SET",
+          "url": "https://www.youtube.com/watch?v=1fHsIveXRa8",
+          "views": 21140,
+          "likes": 325,
+          "publishedAt": "2026-09-18",
+          "verifiedAt": "19 SET 2026"
+        },
+        {
+          "platform": "YouTube",
+          "label": "Signal Coders · agente de revisão da Alibaba · 6,4k views · 230 likes · publicado 25 JUL",
+          "url": "https://www.youtube.com/watch?v=Wt9b0xdBi28",
+          "views": 6443,
+          "likes": 230,
+          "comments": 4,
+          "publishedAt": "2026-07-25",
+          "verifiedAt": "15 SET 2026"
+        }
+      ],
+      "socialStatus": "referência recente verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/alibaba/open-code-review",
+          "kind": "oficial"
+        },
+        {
+          "label": "YouTube · The Next New Thing · Open Code Review entre os repos explicados · 21,1k views · 325 likes · publicado 18 SET",
+          "url": "https://www.youtube.com/watch?v=1fHsIveXRa8",
+          "kind": "social"
+        },
+        {
+          "label": "YouTube · Signal Coders · agente de revisão da Alibaba · 6,4k views · 230 likes · publicado 25 JUL",
+          "url": "https://www.youtube.com/watch?v=Wt9b0xdBi28",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=alibaba%20open-code-review%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Open%20Code%20Review%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Open%20Code%20Review%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 8
     },
     {
       "repo": "mvschwarz/openrig",
@@ -487,12 +566,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mvschwarz/openrig",
-      "stars": 998,
-      "forks": 105,
-      "issues": 52,
+      "stars": 1318,
+      "forks": 119,
+      "issues": 51,
       "language": "TypeScript",
-      "pushedAt": "2026-09-27T17:06:55Z",
-      "pushedLabel": "push há 8h",
+      "pushedAt": "2026-09-28T10:36:40Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 114,
       "score": 53,
       "social": [],
@@ -524,7 +603,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -539,12 +618,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85801,
-      "forks": 7542,
-      "issues": 162,
+      "stars": 85897,
+      "forks": 7550,
+      "issues": 163,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 12d",
+      "pushedLabel": "push há 13d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -587,7 +666,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -602,12 +681,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27332,
-      "forks": 2634,
-      "issues": 850,
+      "stars": 27396,
+      "forks": 2638,
+      "issues": 856,
       "language": "TypeScript",
       "pushedAt": "2026-09-25T17:56:35Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
@@ -634,30 +713,30 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
+      "rank": 11
     }
   ],
   "news": [
     {
       "title": "There are no \"rogue\" AI agents",
       "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "points": 335,
-      "comments": 244,
+      "points": 369,
+      "comments": 252,
       "publishedAt": "2026-09-27T16:19:46Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
       "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-      "points": 53,
-      "comments": 105,
+      "points": 57,
+      "comments": 113,
       "publishedAt": "2026-09-27T16:29:38Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
       "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-      "points": 56,
+      "points": 57,
       "comments": 71,
       "publishedAt": "2026-09-26T13:05:36Z",
       "source": "Hacker News / Algolia"
@@ -665,29 +744,33 @@
     {
       "title": "Show HN: TinyAIArena watch AI agents battle it out",
       "url": "https://tinyaiarena.com/",
-      "points": 99,
-      "comments": 40,
+      "points": 110,
+      "comments": 44,
       "publishedAt": "2026-09-27T15:51:28Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Can AI Shopping Agents Be Trusted?",
-      "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
-      "points": 15,
-      "comments": 28,
-      "publishedAt": "2026-09-26T05:36:46Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "OpenAI pauses training of latest models after agents probed US Government sites",
       "url": "https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20",
-      "points": 16,
+      "points": 26,
+      "comments": 2,
+      "publishedAt": "2026-09-28T01:20:50Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+      "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
+      "points": 8,
       "comments": 1,
-      "publishedAt": "2026-09-27T09:07:03Z",
+      "publishedAt": "2026-09-27T18:55:48Z",
       "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
+    {
+      "repo": "debpalash/VoiceStudio",
+      "starsToday": 3086
+    },
     {
       "repo": "paperclipai/paperclip",
       "starsToday": 2401
@@ -697,20 +780,16 @@
       "starsToday": 4520
     },
     {
-      "repo": "debpalash/VoiceStudio",
-      "starsToday": 3086
+      "repo": "NawfalMotii79/PLFM_RADAR",
+      "starsToday": 145
     },
     {
-      "repo": "rohitg00/ai-engineering-from-scratch",
-      "starsToday": 790
+      "repo": "cs341-illinois/coursebook",
+      "starsToday": 265
     },
     {
-      "repo": "InfinityLoop1308/PipePipe",
-      "starsToday": 242
-    },
-    {
-      "repo": "vercel-labs/scriptc",
-      "starsToday": 102
+      "repo": "byoungd/up",
+      "starsToday": 310
     },
     {
       "repo": "mvschwarz/openrig",
@@ -719,10 +798,6 @@
     {
       "repo": "dream-num/univer",
       "starsToday": 895
-    },
-    {
-      "repo": "willfaust/Madeira",
-      "starsToday": 83
     }
   ],
   "monitored": [
@@ -739,12 +814,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85801,
-      "forks": 7542,
-      "issues": 162,
+      "stars": 85897,
+      "forks": 7550,
+      "issues": 163,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 12d",
+      "pushedLabel": "push há 13d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -787,7 +862,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -802,12 +877,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27332,
-      "forks": 2634,
-      "issues": 850,
+      "stars": 27396,
+      "forks": 2638,
+      "issues": 856,
       "language": "TypeScript",
       "pushedAt": "2026-09-25T17:56:35Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
@@ -834,7 +909,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
+      "rank": 11
     }
   ]
 }
