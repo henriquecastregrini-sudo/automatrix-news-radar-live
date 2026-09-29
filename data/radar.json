@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T23:02:36.265Z",
-  "generatedLabel": "28 de set. de 2026 · 20:02",
+  "generatedAt": "2026-09-29T02:32:27.328Z",
+  "generatedLabel": "28 de set. de 2026 · 23:32",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,13 +45,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/paperclipai/paperclip",
-      "stars": 92668,
-      "forks": 15874,
-      "issues": 5988,
+      "stars": 92978,
+      "forks": 15909,
+      "issues": 6000,
       "language": "TypeScript",
-      "pushedAt": "2026-09-28T23:00:48Z",
+      "pushedAt": "2026-09-29T02:16:03Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 3185,
+      "trendingStarsToday": 3197,
       "score": 88,
       "social": [
         {
@@ -112,13 +112,13 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 43866,
-      "forks": 5082,
-      "issues": 50,
+      "stars": 44387,
+      "forks": 5114,
+      "issues": 47,
       "language": "Python",
-      "pushedAt": "2026-09-28T23:00:39Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 3274,
+      "pushedAt": "2026-09-29T00:58:42Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 3221,
       "score": 77,
       "social": [
         {
@@ -148,7 +148,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 3,3 mil stars hoje",
+          "label": "GitHub Trending · 3,2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -194,13 +194,13 @@
         "análise independente do crescimento e das métricas"
       ],
       "url": "https://github.com/vectorize-io/hindsight",
-      "stars": 40893,
-      "forks": 5531,
-      "issues": 181,
+      "stars": 41134,
+      "forks": 5550,
+      "issues": 185,
       "language": "Python",
-      "pushedAt": "2026-09-28T21:27:19Z",
+      "pushedAt": "2026-09-29T00:09:54Z",
       "pushedLabel": "push há 2h",
-      "trendingStarsToday": 4413,
+      "trendingStarsToday": 4561,
       "score": 76,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -211,7 +211,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 4,4 mil stars hoje",
+          "label": "GitHub Trending · 4,6 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -252,13 +252,13 @@
         "fluxo com worktree"
       ],
       "url": "https://github.com/dream-num/univer",
-      "stars": 21212,
-      "forks": 1798,
-      "issues": 148,
+      "stars": 21317,
+      "forks": 1806,
+      "issues": 146,
       "language": "TypeScript",
-      "pushedAt": "2026-09-28T20:00:34Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 1105,
+      "pushedAt": "2026-09-29T01:40:19Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 1099,
       "score": 73,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -310,13 +310,13 @@
         "README e FAQ"
       ],
       "url": "https://github.com/mvschwarz/openrig",
-      "stars": 1675,
-      "forks": 135,
-      "issues": 63,
+      "stars": 1784,
+      "forks": 141,
+      "issues": 65,
       "language": "TypeScript",
-      "pushedAt": "2026-09-28T22:32:24Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 781,
+      "pushedAt": "2026-09-29T02:21:36Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 734,
       "score": 66,
       "social": [
         {
@@ -342,7 +342,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 781 stars hoje",
+          "label": "GitHub Trending · 734 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -393,11 +393,11 @@
         "exemplos de automação"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 249786,
-      "forks": 53219,
-      "issues": 44902,
+      "stars": 249820,
+      "forks": 53237,
+      "issues": 45010,
       "language": "Python",
-      "pushedAt": "2026-09-28T22:58:31Z",
+      "pushedAt": "2026-09-29T02:31:30Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 65,
@@ -455,12 +455,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 73512,
-      "forks": 4964,
-      "issues": 182,
+      "stars": 73607,
+      "forks": 4970,
+      "issues": 184,
       "language": "JavaScript",
       "pushedAt": "2026-09-28T15:45:30Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 11h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -508,7 +508,7 @@
       "title": "up",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 310 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 327 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
       "broll": [
         "GitHub Trending",
@@ -517,13 +517,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/byoungd/up",
-      "stars": 64621,
-      "forks": 6509,
+      "stars": 64783,
+      "forks": 6519,
       "issues": 32,
       "language": "JavaScript",
       "pushedAt": "2026-09-20T04:50:30Z",
       "pushedLabel": "push há 9d",
-      "trendingStarsToday": 310,
+      "trendingStarsToday": 327,
       "score": 60,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -534,7 +534,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 310 stars hoje",
+          "label": "GitHub Trending · 327 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -571,12 +571,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 42274,
-      "forks": 3034,
-      "issues": 240,
+      "stars": 42323,
+      "forks": 3039,
+      "issues": 242,
       "language": "Go",
       "pushedAt": "2026-09-28T09:09:11Z",
-      "pushedLabel": "push há 14h",
+      "pushedLabel": "push há 17h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -648,12 +648,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27414,
-      "forks": 2639,
-      "issues": 856,
+      "stars": 27427,
+      "forks": 2641,
+      "issues": 857,
       "language": "TypeScript",
       "pushedAt": "2026-09-28T11:27:14Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -695,8 +695,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85988,
-      "forks": 7560,
+      "stars": 86017,
+      "forks": 7562,
       "issues": 164,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -750,16 +750,16 @@
     {
       "title": "There are no \"rogue\" AI agents",
       "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "points": 388,
-      "comments": 267,
+      "points": 390,
+      "comments": 268,
       "publishedAt": "2026-09-27T16:19:46Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Nvidia wants to put a watchdog chip next to every AI agent",
       "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "points": 76,
-      "comments": 124,
+      "points": 109,
+      "comments": 148,
       "publishedAt": "2026-09-28T15:46:36Z",
       "source": "Hacker News / Algolia"
     },
@@ -782,16 +782,16 @@
     {
       "title": "Who should be held accountable when an AI Agent (accidentally) acts maliciously?",
       "url": "https://blog.greenpants.net/ai-accountability/",
-      "points": 22,
-      "comments": 25,
+      "points": 33,
+      "comments": 72,
       "publishedAt": "2026-09-28T22:05:46Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
       "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
-      "points": 29,
-      "comments": 8,
+      "points": 32,
+      "comments": 9,
       "publishedAt": "2026-09-28T17:34:36Z",
       "source": "Hacker News / Algolia"
     }
@@ -799,35 +799,35 @@
   "trending": [
     {
       "repo": "debpalash/VoiceStudio",
-      "starsToday": 3274
+      "starsToday": 3221
     },
     {
       "repo": "paperclipai/paperclip",
-      "starsToday": 3185
+      "starsToday": 3197
     },
     {
       "repo": "vectorize-io/hindsight",
-      "starsToday": 4413
+      "starsToday": 4561
     },
     {
       "repo": "NawfalMotii79/PLFM_RADAR",
-      "starsToday": 145
+      "starsToday": 158
     },
     {
       "repo": "cs341-illinois/coursebook",
-      "starsToday": 316
+      "starsToday": 195
     },
     {
       "repo": "byoungd/up",
-      "starsToday": 310
+      "starsToday": 327
     },
     {
       "repo": "mvschwarz/openrig",
-      "starsToday": 781
+      "starsToday": 734
     },
     {
       "repo": "dream-num/univer",
-      "starsToday": 1105
+      "starsToday": 1099
     }
   ],
   "monitored": [
@@ -844,12 +844,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27414,
-      "forks": 2639,
-      "issues": 856,
+      "stars": 27427,
+      "forks": 2641,
+      "issues": 857,
       "language": "TypeScript",
       "pushedAt": "2026-09-28T11:27:14Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -891,8 +891,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 85988,
-      "forks": 7560,
+      "stars": 86017,
+      "forks": 7562,
       "issues": 164,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
