@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T16:31:59.564Z",
-  "generatedLabel": "30 de set. de 2026 · 13:31",
+  "generatedAt": "2026-09-30T21:11:47.602Z",
+  "generatedLabel": "30 de set. de 2026 · 18:11",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,14 +45,14 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 272768,
-      "forks": 22949,
-      "issues": 538,
+      "stars": 272915,
+      "forks": 22954,
+      "issues": 539,
       "language": "Shell",
       "pushedAt": "2026-09-29T12:38:37Z",
       "pushedLabel": "push há 1d",
-      "trendingStarsToday": 736,
-      "score": 84,
+      "trendingStarsToday": 908,
+      "score": 86,
       "social": [
         {
           "platform": "Reddit",
@@ -79,7 +79,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 736 stars hoje",
+          "label": "GitHub Trending · 908 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -125,9 +125,9 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 50012,
-      "forks": 5557,
-      "issues": 76,
+      "stars": 50276,
+      "forks": 5583,
+      "issues": 77,
       "language": "Python",
       "pushedAt": "2026-09-29T15:45:28Z",
       "pushedLabel": "push há 1d",
@@ -207,11 +207,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/NVIDIA/OpenShell",
-      "stars": 11864,
-      "forks": 1499,
-      "issues": 510,
+      "stars": 12388,
+      "forks": 1532,
+      "issues": 522,
       "language": "Rust",
-      "pushedAt": "2026-09-30T16:16:19Z",
+      "pushedAt": "2026-09-30T21:09:47Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 1280,
       "score": 73,
@@ -260,12 +260,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "stars": 127384,
-      "forks": 19923,
+      "stars": 127485,
+      "forks": 19944,
       "issues": 40,
       "language": "Python",
       "pushedAt": "2026-09-30T12:59:35Z",
-      "pushedLabel": "push há 4h",
+      "pushedLabel": "push há 8h",
       "trendingStarsToday": 464,
       "score": 70,
       "social": [],
@@ -313,14 +313,14 @@
         "antes e depois do código"
       ],
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 148844,
-      "forks": 8004,
-      "issues": 318,
+      "stars": 149069,
+      "forks": 8013,
+      "issues": 319,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T14:34:56Z",
       "pushedLabel": "push há 16d",
-      "trendingStarsToday": 675,
-      "score": 66,
+      "trendingStarsToday": 865,
+      "score": 68,
       "social": [
         {
           "platform": "YouTube",
@@ -339,7 +339,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 675 stars hoje",
+          "label": "GitHub Trending · 865 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -380,11 +380,11 @@
         "README e FAQ"
       ],
       "url": "https://github.com/mvschwarz/openrig",
-      "stars": 2823,
-      "forks": 199,
-      "issues": 113,
+      "stars": 2953,
+      "forks": 204,
+      "issues": 105,
       "language": "TypeScript",
-      "pushedAt": "2026-09-30T16:31:55Z",
+      "pushedAt": "2026-09-30T21:08:25Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 622,
       "score": 66,
@@ -463,12 +463,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 75022,
-      "forks": 5040,
-      "issues": 195,
+      "stars": 75169,
+      "forks": 5049,
+      "issues": 194,
       "language": "JavaScript",
       "pushedAt": "2026-09-30T15:57:42Z",
-      "pushedLabel": "push há 1h",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -526,9 +526,9 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 42836,
-      "forks": 3082,
-      "issues": 244,
+      "stars": 42895,
+      "forks": 3086,
+      "issues": 245,
       "language": "Go",
       "pushedAt": "2026-09-29T14:33:37Z",
       "pushedLabel": "push há 1d",
@@ -604,12 +604,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mksglu/context-mode",
-      "stars": 24371,
-      "forks": 1763,
-      "issues": 304,
+      "stars": 24446,
+      "forks": 1767,
+      "issues": 303,
       "language": "TypeScript",
       "pushedAt": "2026-09-30T12:07:33Z",
-      "pushedLabel": "push há 4h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": 88,
       "score": 57,
       "social": [],
@@ -656,12 +656,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27584,
-      "forks": 2659,
+      "stars": 27589,
+      "forks": 2660,
       "issues": 868,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -703,8 +703,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 86386,
-      "forks": 7585,
+      "stars": 86517,
+      "forks": 7599,
       "issues": 169,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -758,7 +758,7 @@
     {
       "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
       "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "points": 420,
+      "points": 421,
       "comments": 136,
       "publishedAt": "2026-09-29T09:03:41Z",
       "source": "Hacker News / Algolia"
@@ -766,17 +766,9 @@
     {
       "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
       "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
-      "points": 160,
-      "comments": 41,
+      "points": 161,
+      "comments": 42,
       "publishedAt": "2026-09-29T14:15:24Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Who should be held accountable when an AI Agent (accidentally) acts maliciously?",
-      "url": "https://blog.greenpants.net/ai-accountability/",
-      "points": 37,
-      "comments": 94,
-      "publishedAt": "2026-09-28T22:05:46Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -788,19 +780,27 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Show HN: Corral – Kill every command your agent starts",
-      "url": "https://github.com/Cardinal44/corral",
-      "points": 12,
+      "title": "OpenAPPA: Deterministic guardrails that don't break agents",
+      "url": "https://github.com/archestra-ai/OpenAPPA",
+      "points": 10,
       "comments": 2,
-      "publishedAt": "2026-09-29T00:35:05Z",
+      "publishedAt": "2026-09-30T19:57:44Z",
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Show HN: Talktome - let your AI Agent call you",
-      "url": "https://github.com/rohanprichard/talktome",
-      "points": 4,
-      "comments": 4,
-      "publishedAt": "2026-09-29T02:01:08Z",
+      "title": "TIRx Harness: An Open Compiler Harness for Agentic GPU Programming",
+      "url": "https://blog.mlc.ai/2026/09/29/tirx-harness-an-open-compiler-harness-for-agentic-gpu-programming",
+      "points": 9,
+      "comments": 0,
+      "publishedAt": "2026-09-29T19:17:32Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: How we made web agents 3x faster by building the missing memory layer",
+      "url": "https://blog.reduck.ai/browser-action-memory-layer-for-faster-agents/",
+      "points": 6,
+      "comments": 1,
+      "publishedAt": "2026-09-30T15:20:26Z",
       "source": "Hacker News / Algolia"
     }
   ],
@@ -823,7 +823,7 @@
     },
     {
       "repo": "DietrichGebert/ponytail",
-      "starsToday": 675
+      "starsToday": 865
     },
     {
       "repo": "harry0703/MoneyPrinterTurbo",
@@ -839,7 +839,7 @@
     },
     {
       "repo": "mattpocock/skills",
-      "starsToday": 736
+      "starsToday": 908
     },
     {
       "repo": "heygen-com/hyperframes",
@@ -868,12 +868,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27584,
-      "forks": 2659,
+      "stars": 27589,
+      "forks": 2660,
       "issues": 868,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -915,8 +915,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 86386,
-      "forks": 7585,
+      "stars": 86517,
+      "forks": 7599,
       "issues": 169,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
