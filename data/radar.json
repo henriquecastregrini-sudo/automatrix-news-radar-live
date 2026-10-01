@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T12:34:24.398Z",
-  "generatedLabel": "1 de out. de 2026 · 09:34",
+  "generatedAt": "2026-10-01T17:01:32.504Z",
+  "generatedLabel": "1 de out. de 2026 · 14:01",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -32,6 +32,186 @@
   ],
   "repos": [
     {
+      "repo": "NVIDIA/OpenShell",
+      "title": "NVIDIA OpenShell",
+      "type": "Sandbox de segurança para agentes",
+      "status": "Gravar agora",
+      "hook": "Se um agente pode executar comandos, quem limita o que ele consegue tocar?",
+      "thesis": "OpenShell aplica limites técnicos a arquivos, processos e rede enquanto o agente executa; a avaliação independente encontrou proteções úteis e configurações que ainda exigem cuidado.",
+      "broll": [
+        "README e quickstart oficial",
+        "política de arquivos e rede",
+        "teste independente com e sem sandbox",
+        "limitação: Windows via WSL 2 ainda experimental"
+      ],
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "stars": 13836,
+      "forks": 1613,
+      "issues": 504,
+      "language": "Rust",
+      "pushedAt": "2026-10-01T16:57:41Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 2503,
+      "score": 85,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/BestGitHubRepos · nova postagem sobre o sandbox · 3 votos públicos no momento da checagem · publicado 01 OUT",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wuwati/nvidias_openshell_gives_ai_agents_a_sandboxed/",
+          "engagement": 3,
+          "publishedAt": "2026-10-01",
+          "verifiedAt": "01 OUT 2026"
+        },
+        {
+          "platform": "Reddit",
+          "label": "r/cybersecurity · teste independente com 123 execuções e ressalvas de configuração · 13 votos públicos · publicado 29 SET",
+          "url": "https://www.reddit.com/r/cybersecurity/comments/1wt5mnc/we_tested_nvidias_new_ai_agent_sandbox_openshell/",
+          "engagement": 13,
+          "publishedAt": "2026-09-29",
+          "verifiedAt": "01 OUT 2026"
+        }
+      ],
+      "socialStatus": "referência recente verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 2,5 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "NVIDIA · anúncio oficial da Open Agent Safety Platform · 28 SET",
+          "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+          "kind": "oficial"
+        },
+        {
+          "label": "NVIDIA · guia oficial para executar o primeiro agente",
+          "url": "https://docs.nvidia.com/openshell/latest/about/run-your-first-agent",
+          "kind": "oficial"
+        },
+        {
+          "label": "Sorami · avaliação independente de OpenShell v0.1.2 e logs de teste · 29 SET",
+          "url": "https://sorami.com.au/research/nvidia-openshell-agent-sandbox-test/",
+          "kind": "análise independente"
+        },
+        {
+          "label": "Sorami · resumo dos quatro ajustes de política que merecem atenção · 29 SET",
+          "url": "https://sorami.com.au/guides/we-tested-nvidia-openshell/",
+          "kind": "análise independente"
+        },
+        {
+          "label": "Reddit · r/BestGitHubRepos · nova postagem sobre o sandbox · 3 votos públicos no momento da checagem · publicado 01 OUT",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wuwati/nvidias_openshell_gives_ai_agents_a_sandboxed/",
+          "kind": "social"
+        },
+        {
+          "label": "Reddit · r/cybersecurity · teste independente com 123 execuções e ressalvas de configuração · 13 votos públicos · publicado 29 SET",
+          "url": "https://www.reddit.com/r/cybersecurity/comments/1wt5mnc/we_tested_nvidias_new_ai_agent_sandbox_openshell/",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=NVIDIA%20OpenShell%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=NVIDIA%20OpenShell%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=NVIDIA%20OpenShell%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "title": "Ponytail",
+      "type": "Skill para agentes",
+      "status": "Gravar agora",
+      "hook": "Um repo está ensinando agentes a pensar como o desenvolvedor sênior mais preguiçoso da equipe.",
+      "thesis": "A habilidade mais valiosa de um agente pode ser evitar código desnecessário.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "exemplos YAGNI",
+        "antes e depois do código"
+      ],
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars": 150099,
+      "forks": 8063,
+      "issues": 327,
+      "language": "JavaScript",
+      "pushedAt": "2026-09-14T14:34:56Z",
+      "pushedLabel": "push há 17d",
+      "trendingStarsToday": 1179,
+      "score": 83,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/AgentSkills · comparação de packs de skills que cita Ponytail e Matt Pocock · 105 votos públicos · publicado 05 SET",
+          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
+          "engagement": 105,
+          "publishedAt": "2026-09-05",
+          "verifiedAt": "01 OUT 2026"
+        },
+        {
+          "platform": "YouTube",
+          "label": "Better Stack · demonstração de Ponytail · 254k views · publicado 20 JUN · referência histórica",
+          "url": "https://www.youtube.com/watch?v=2xuFcmUAQUc",
+          "views": 254926,
+          "publishedAt": "2026-06-20",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência recente verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,2 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/AgentSkills · comparação de packs de skills que cita Ponytail e Matt Pocock · 105 votos públicos · publicado 05 SET",
+          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
+          "kind": "social"
+        },
+        {
+          "label": "YouTube · Better Stack · demonstração de Ponytail · 254k views · publicado 20 JUN · referência histórica",
+          "url": "https://www.youtube.com/watch?v=2xuFcmUAQUc",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=DietrichGebert%20ponytail%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Ponytail%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Ponytail%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "repo": "mattpocock/skills",
       "title": "Skills para agentes",
       "type": "Skills para agentes",
@@ -45,14 +225,14 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 273426,
-      "forks": 22978,
-      "issues": 541,
+      "stars": 273621,
+      "forks": 22986,
+      "issues": 543,
       "language": "Shell",
       "pushedAt": "2026-09-29T12:38:37Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": 888,
-      "score": 89,
+      "score": 82,
       "social": [
         {
           "platform": "Reddit",
@@ -122,173 +302,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 1
-    },
-    {
-      "repo": "NVIDIA/OpenShell",
-      "title": "NVIDIA OpenShell",
-      "type": "Sandbox de segurança para agentes",
-      "status": "Gravar agora",
-      "hook": "Se um agente pode executar comandos, quem limita o que ele consegue tocar?",
-      "thesis": "OpenShell aplica limites técnicos a arquivos, processos e rede enquanto o agente executa; a avaliação independente encontrou proteções úteis e configurações que ainda exigem cuidado.",
-      "broll": [
-        "README e quickstart oficial",
-        "política de arquivos e rede",
-        "teste independente com e sem sandbox",
-        "limitação: Windows via WSL 2 ainda experimental"
-      ],
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "stars": 13676,
-      "forks": 1601,
-      "issues": 523,
-      "language": "Rust",
-      "pushedAt": "2026-10-01T12:31:54Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 2503,
-      "score": 85,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/cybersecurity · teste independente com 123 execuções e ressalvas de configuração · 13 votos públicos · publicado 29 SET",
-          "url": "https://www.reddit.com/r/cybersecurity/comments/1wt5mnc/we_tested_nvidias_new_ai_agent_sandbox_openshell/",
-          "engagement": 13,
-          "publishedAt": "2026-09-29",
-          "verifiedAt": "01 OUT 2026"
-        }
-      ],
-      "socialStatus": "referência recente verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/NVIDIA/OpenShell",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 2,5 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "NVIDIA · anúncio oficial da Open Agent Safety Platform · 28 SET",
-          "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
-          "kind": "oficial"
-        },
-        {
-          "label": "NVIDIA · guia oficial para executar o primeiro agente",
-          "url": "https://docs.nvidia.com/openshell/latest/about/run-your-first-agent",
-          "kind": "oficial"
-        },
-        {
-          "label": "Sorami · avaliação independente de OpenShell v0.1.2 e logs de teste · 29 SET",
-          "url": "https://sorami.com.au/research/nvidia-openshell-agent-sandbox-test/",
-          "kind": "análise independente"
-        },
-        {
-          "label": "Sorami · resumo dos quatro ajustes de política que merecem atenção · 29 SET",
-          "url": "https://sorami.com.au/guides/we-tested-nvidia-openshell/",
-          "kind": "análise independente"
-        },
-        {
-          "label": "Reddit · r/cybersecurity · teste independente com 123 execuções e ressalvas de configuração · 13 votos públicos · publicado 29 SET",
-          "url": "https://www.reddit.com/r/cybersecurity/comments/1wt5mnc/we_tested_nvidias_new_ai_agent_sandbox_openshell/",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=NVIDIA%20OpenShell%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=NVIDIA%20OpenShell%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=NVIDIA%20OpenShell%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "repo": "DietrichGebert/ponytail",
-      "title": "Ponytail",
-      "type": "Skill para agentes",
-      "status": "Gravar agora",
-      "hook": "Um repo está ensinando agentes a pensar como o desenvolvedor sênior mais preguiçoso da equipe.",
-      "thesis": "A habilidade mais valiosa de um agente pode ser evitar código desnecessário.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "exemplos YAGNI",
-        "antes e depois do código"
-      ],
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 149785,
-      "forks": 8047,
-      "issues": 326,
-      "language": "JavaScript",
-      "pushedAt": "2026-09-14T14:34:56Z",
-      "pushedLabel": "push há 17d",
-      "trendingStarsToday": 1179,
-      "score": 83,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/AgentSkills · comparação de packs de skills que cita Ponytail e Matt Pocock · 105 votos públicos · publicado 05 SET",
-          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
-          "engagement": 105,
-          "publishedAt": "2026-09-05",
-          "verifiedAt": "01 OUT 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "Better Stack · demonstração de Ponytail · 254k views · publicado 20 JUN · referência histórica",
-          "url": "https://www.youtube.com/watch?v=2xuFcmUAQUc",
-          "views": 254926,
-          "publishedAt": "2026-06-20",
-          "verifiedAt": "07 SET 2026"
-        }
-      ],
-      "socialStatus": "referência recente verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/DietrichGebert/ponytail",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,2 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Reddit · r/AgentSkills · comparação de packs de skills que cita Ponytail e Matt Pocock · 105 votos públicos · publicado 05 SET",
-          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · Better Stack · demonstração de Ponytail · 254k views · publicado 20 JUN · referência histórica",
-          "url": "https://www.youtube.com/watch?v=2xuFcmUAQUc",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=DietrichGebert%20ponytail%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Ponytail%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Ponytail%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 3
     },
     {
@@ -305,14 +318,14 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 293689,
-      "forks": 26274,
-      "issues": 288,
+      "stars": 293811,
+      "forks": 26277,
+      "issues": 289,
       "language": "Shell",
       "pushedAt": "2026-09-27T02:37:47Z",
-      "pushedLabel": "push há 4d",
-      "trendingStarsToday": 594,
-      "score": 81,
+      "pushedLabel": "push há 5d",
+      "trendingStarsToday": 476,
+      "score": 79,
       "social": [
         {
           "platform": "Reddit",
@@ -339,7 +352,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 594 stars hoje",
+          "label": "GitHub Trending · 476 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -385,11 +398,11 @@
         "README e FAQ"
       ],
       "url": "https://github.com/mvschwarz/openrig",
-      "stars": 3343,
-      "forks": 227,
-      "issues": 88,
+      "stars": 3503,
+      "forks": 236,
+      "issues": 89,
       "language": "TypeScript",
-      "pushedAt": "2026-10-01T12:15:50Z",
+      "pushedAt": "2026-10-01T17:00:16Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 640,
       "score": 78,
@@ -400,6 +413,14 @@
           "url": "https://www.reddit.com/r/AI_Agents/comments/1wqij2i/my_friend_gave_claude_code_and_codex_agents_a_way/",
           "engagement": 35,
           "publishedAt": "2026-09-26",
+          "verifiedAt": "01 OUT 2026"
+        },
+        {
+          "platform": "Reddit",
+          "label": "r/BuildWithClaude · demonstração do fluxo de planos Claude + Codex · 3 votos públicos · publicado 29 SET",
+          "url": "https://www.reddit.com/r/BuildWithClaude/comments/1wswlyy/codex_and_claude_code_write_competing_plans_then/",
+          "engagement": 3,
+          "publishedAt": "2026-09-29",
           "verifiedAt": "01 OUT 2026"
         },
         {
@@ -444,6 +465,11 @@
         {
           "label": "Reddit · r/AI_Agents · relato do autor sobre equipes de Claude Code + Codex · 35 votos públicos · publicado 26 SET",
           "url": "https://www.reddit.com/r/AI_Agents/comments/1wqij2i/my_friend_gave_claude_code_and_codex_agents_a_way/",
+          "kind": "social"
+        },
+        {
+          "label": "Reddit · r/BuildWithClaude · demonstração do fluxo de planos Claude + Codex · 3 votos públicos · publicado 29 SET",
+          "url": "https://www.reddit.com/r/BuildWithClaude/comments/1wswlyy/codex_and_claude_code_write_competing_plans_then/",
           "kind": "social"
         },
         {
@@ -493,12 +519,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mksglu/context-mode",
-      "stars": 24657,
+      "stars": 24709,
       "forks": 1777,
-      "issues": 308,
+      "issues": 309,
       "language": "TypeScript",
       "pushedAt": "2026-10-01T12:07:41Z",
-      "pushedLabel": "push há 0h",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": 357,
       "score": 66,
       "social": [],
@@ -546,12 +572,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 75554,
-      "forks": 5078,
-      "issues": 198,
+      "stars": 75674,
+      "forks": 5085,
+      "issues": 199,
       "language": "JavaScript",
       "pushedAt": "2026-09-30T15:57:42Z",
-      "pushedLabel": "push há 21h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -595,85 +621,6 @@
       "rank": 7
     },
     {
-      "repo": "alibaba/open-code-review",
-      "title": "Open Code Review",
-      "type": "Revisão de código com IA",
-      "status": "Gravar agora",
-      "priority": 1,
-      "hook": "A Alibaba abriu o agente de revisão de código usado internamente por dezenas de milhares de desenvolvedores.",
-      "thesis": "A próxima disputa dos agentes de código pode estar na revisão especializada, com regras determinísticas e menor custo, não apenas na geração de código.",
-      "broll": [
-        "CLI revisando um PR",
-        "comentários linha a linha",
-        "paper e benchmark",
-        "diff com falhas encontradas"
-      ],
-      "url": "https://github.com/alibaba/open-code-review",
-      "stars": 43060,
-      "forks": 3098,
-      "issues": 249,
-      "language": "Go",
-      "pushedAt": "2026-09-29T14:33:37Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": null,
-      "score": 59,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "The Next New Thing · Open Code Review entre os repos explicados · 21,1k views · 325 likes · publicado 18 SET",
-          "url": "https://www.youtube.com/watch?v=1fHsIveXRa8",
-          "views": 21140,
-          "likes": 325,
-          "publishedAt": "2026-09-18",
-          "verifiedAt": "19 SET 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "Signal Coders · agente de revisão da Alibaba · 6,4k views · 230 likes · publicado 25 JUL",
-          "url": "https://www.youtube.com/watch?v=Wt9b0xdBi28",
-          "views": 6443,
-          "likes": 230,
-          "comments": 4,
-          "publishedAt": "2026-07-25",
-          "verifiedAt": "15 SET 2026"
-        }
-      ],
-      "socialStatus": "referência recente verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/alibaba/open-code-review",
-          "kind": "oficial"
-        },
-        {
-          "label": "YouTube · The Next New Thing · Open Code Review entre os repos explicados · 21,1k views · 325 likes · publicado 18 SET",
-          "url": "https://www.youtube.com/watch?v=1fHsIveXRa8",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · Signal Coders · agente de revisão da Alibaba · 6,4k views · 230 likes · publicado 25 JUL",
-          "url": "https://www.youtube.com/watch?v=Wt9b0xdBi28",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=alibaba%20open-code-review%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Open%20Code%20Review%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Open%20Code%20Review%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 8
-    },
-    {
       "repo": "firebase/firebase-ios-sdk",
       "title": "firebase-ios-sdk",
       "type": "Novo no GitHub Trending",
@@ -687,12 +634,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/firebase/firebase-ios-sdk",
-      "stars": 6810,
-      "forks": 1801,
-      "issues": 441,
+      "stars": 6833,
+      "forks": 1805,
+      "issues": 456,
       "language": "C++",
-      "pushedAt": "2026-10-01T03:16:25Z",
-      "pushedLabel": "push há 9h",
+      "pushedAt": "2026-10-01T16:33:49Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 112,
       "score": 56,
       "social": [],
@@ -724,7 +671,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 8
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -739,8 +686,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 87092,
-      "forks": 7666,
+      "stars": 87267,
+      "forks": 7683,
       "issues": 170,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -787,7 +734,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
+      "rank": 9
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -802,9 +749,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27610,
-      "forks": 2661,
-      "issues": 879,
+      "stars": 27616,
+      "forks": 2660,
+      "issues": 880,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
       "pushedLabel": "push há 2d",
@@ -834,14 +781,22 @@
           "kind": "busca"
         }
       ],
-      "rank": 11
+      "rank": 10
     }
   ],
   "news": [
     {
+      "title": "OpenID Foundation: Identity Management for Agentic AI [pdf] (2025)",
+      "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+      "points": 39,
+      "comments": 6,
+      "publishedAt": "2026-10-01T15:11:10Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
       "title": "Show HN: Perspica – A semantic diff for reviewing code",
       "url": "https://github.com/sshah03/perspica",
-      "points": 13,
+      "points": 14,
       "comments": 5,
       "publishedAt": "2026-09-30T20:34:49Z",
       "source": "Hacker News / Algolia"
@@ -852,14 +807,6 @@
       "points": 10,
       "comments": 2,
       "publishedAt": "2026-09-30T19:57:44Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "TIRx Harness: An Open Compiler Harness for Agentic GPU Programming",
-      "url": "https://blog.mlc.ai/2026/09/29/tirx-harness-an-open-compiler-harness-for-agentic-gpu-programming",
-      "points": 9,
-      "comments": 0,
-      "publishedAt": "2026-09-29T19:17:32Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -914,7 +861,7 @@
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 594
+      "starsToday": 476
     },
     {
       "repo": "mksglu/context-mode",
@@ -951,8 +898,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 87092,
-      "forks": 7666,
+      "stars": 87267,
+      "forks": 7683,
       "issues": 170,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -999,7 +946,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
+      "rank": 9
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -1014,9 +961,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27610,
-      "forks": 2661,
-      "issues": 879,
+      "stars": 27616,
+      "forks": 2660,
+      "issues": 880,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
       "pushedLabel": "push há 2d",
@@ -1046,7 +993,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 11
+      "rank": 10
     }
   ]
 }
