@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T17:09:41.714Z",
-  "generatedLabel": "1 de out. de 2026 · 14:09",
+  "generatedAt": "2026-10-01T21:33:26.059Z",
+  "generatedLabel": "1 de out. de 2026 · 18:33",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,11 +45,11 @@
         "limitação: Windows via WSL 2 ainda experimental"
       ],
       "url": "https://github.com/NVIDIA/OpenShell",
-      "stars": 13843,
-      "forks": 1613,
-      "issues": 502,
+      "stars": 13955,
+      "forks": 1621,
+      "issues": 507,
       "language": "Rust",
-      "pushedAt": "2026-10-01T17:06:41Z",
+      "pushedAt": "2026-10-01T21:29:14Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 2503,
       "score": 85,
@@ -145,9 +145,9 @@
         "antes e depois do código"
       ],
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 150108,
-      "forks": 8065,
-      "issues": 327,
+      "stars": 150372,
+      "forks": 8075,
+      "issues": 330,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T14:34:56Z",
       "pushedLabel": "push há 17d",
@@ -225,9 +225,9 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 273627,
-      "forks": 22986,
-      "issues": 543,
+      "stars": 273795,
+      "forks": 22991,
+      "issues": 542,
       "language": "Shell",
       "pushedAt": "2026-09-29T12:38:37Z",
       "pushedLabel": "push há 2d",
@@ -318,9 +318,9 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 293814,
-      "forks": 26277,
-      "issues": 289,
+      "stars": 293913,
+      "forks": 26289,
+      "issues": 293,
       "language": "Shell",
       "pushedAt": "2026-09-27T02:37:47Z",
       "pushedLabel": "push há 5d",
@@ -398,11 +398,11 @@
         "README e FAQ"
       ],
       "url": "https://github.com/mvschwarz/openrig",
-      "stars": 3506,
-      "forks": 236,
-      "issues": 86,
+      "stars": 3641,
+      "forks": 244,
+      "issues": 85,
       "language": "TypeScript",
-      "pushedAt": "2026-10-01T17:07:55Z",
+      "pushedAt": "2026-10-01T21:09:29Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 640,
       "score": 78,
@@ -518,12 +518,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mksglu/context-mode",
-      "stars": 24709,
-      "forks": 1777,
+      "stars": 24749,
+      "forks": 1783,
       "issues": 309,
       "language": "TypeScript",
       "pushedAt": "2026-10-01T12:07:41Z",
-      "pushedLabel": "push há 5h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": 357,
       "score": 66,
       "social": [],
@@ -571,8 +571,8 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 75678,
-      "forks": 5085,
+      "stars": 75772,
+      "forks": 5090,
       "issues": 199,
       "language": "JavaScript",
       "pushedAt": "2026-09-30T15:57:42Z",
@@ -620,6 +620,85 @@
       "rank": 7
     },
     {
+      "repo": "alibaba/open-code-review",
+      "title": "Open Code Review",
+      "type": "Revisão de código com IA",
+      "status": "Gravar agora",
+      "priority": 1,
+      "hook": "A Alibaba abriu o agente de revisão de código usado internamente por dezenas de milhares de desenvolvedores.",
+      "thesis": "A próxima disputa dos agentes de código pode estar na revisão especializada, com regras determinísticas e menor custo, não apenas na geração de código.",
+      "broll": [
+        "CLI revisando um PR",
+        "comentários linha a linha",
+        "paper e benchmark",
+        "diff com falhas encontradas"
+      ],
+      "url": "https://github.com/alibaba/open-code-review",
+      "stars": 43165,
+      "forks": 3107,
+      "issues": 257,
+      "language": "Go",
+      "pushedAt": "2026-10-01T20:40:46Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": null,
+      "score": 59,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "The Next New Thing · Open Code Review entre os repos explicados · 21,1k views · 325 likes · publicado 18 SET",
+          "url": "https://www.youtube.com/watch?v=1fHsIveXRa8",
+          "views": 21140,
+          "likes": 325,
+          "publishedAt": "2026-09-18",
+          "verifiedAt": "19 SET 2026"
+        },
+        {
+          "platform": "YouTube",
+          "label": "Signal Coders · agente de revisão da Alibaba · 6,4k views · 230 likes · publicado 25 JUL",
+          "url": "https://www.youtube.com/watch?v=Wt9b0xdBi28",
+          "views": 6443,
+          "likes": 230,
+          "comments": 4,
+          "publishedAt": "2026-07-25",
+          "verifiedAt": "15 SET 2026"
+        }
+      ],
+      "socialStatus": "referência recente verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/alibaba/open-code-review",
+          "kind": "oficial"
+        },
+        {
+          "label": "YouTube · The Next New Thing · Open Code Review entre os repos explicados · 21,1k views · 325 likes · publicado 18 SET",
+          "url": "https://www.youtube.com/watch?v=1fHsIveXRa8",
+          "kind": "social"
+        },
+        {
+          "label": "YouTube · Signal Coders · agente de revisão da Alibaba · 6,4k views · 230 likes · publicado 25 JUL",
+          "url": "https://www.youtube.com/watch?v=Wt9b0xdBi28",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=alibaba%20open-code-review%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Open%20Code%20Review%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Open%20Code%20Review%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 8
+    },
+    {
       "repo": "firebase/firebase-ios-sdk",
       "title": "firebase-ios-sdk",
       "type": "Novo no GitHub Trending",
@@ -633,12 +712,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/firebase/firebase-ios-sdk",
-      "stars": 6833,
-      "forks": 1805,
-      "issues": 457,
+      "stars": 6846,
+      "forks": 1806,
+      "issues": 465,
       "language": "C++",
-      "pushedAt": "2026-10-01T16:33:49Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-10-01T21:16:48Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 112,
       "score": 56,
       "social": [],
@@ -670,7 +749,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -685,9 +764,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 87270,
-      "forks": 7683,
-      "issues": 170,
+      "stars": 87395,
+      "forks": 7704,
+      "issues": 174,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 16d",
@@ -733,7 +812,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -748,12 +827,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27616,
-      "forks": 2660,
+      "stars": 27621,
+      "forks": 2661,
       "issues": 880,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
@@ -780,15 +859,15 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
+      "rank": 11
     }
   ],
   "news": [
     {
       "title": "Identity Management for Agentic AI [pdf] (2025)",
       "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-      "points": 39,
-      "comments": 6,
+      "points": 64,
+      "comments": 19,
       "publishedAt": "2026-10-01T15:11:10Z",
       "source": "Hacker News / Algolia"
     },
@@ -796,7 +875,7 @@
       "title": "Show HN: Perspica – A semantic diff for reviewing code",
       "url": "https://github.com/sshah03/perspica",
       "points": 14,
-      "comments": 5,
+      "comments": 6,
       "publishedAt": "2026-09-30T20:34:49Z",
       "source": "Hacker News / Algolia"
     },
@@ -817,19 +896,19 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Meta wants people to use 'AI agents' to do daily tasks. Why that's a problem",
-      "url": "https://theconversation.com/meta-wants-people-to-use-ai-agents-to-do-daily-tasks-for-them-heres-why-thats-a-problem-292962",
+      "title": "Where We Expect AMD EPYC 9006 CPUs in the Era of Agentic AI – ServeTheHome",
+      "url": "https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/",
       "points": 6,
       "comments": 0,
-      "publishedAt": "2026-10-01T06:52:51Z",
+      "publishedAt": "2026-10-01T17:50:27Z",
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Show HN: Datastory, Data storytelling with AI and an open knowledge graph",
-      "url": "https://www.datastory.tech",
+      "title": "Show HN: Fast browser agent (using Jev) with deep reasoning as needed",
+      "url": "https://github.com/ironbee-ai/ironbee-express",
       "points": 6,
       "comments": 0,
-      "publishedAt": "2026-09-30T16:52:41Z",
+      "publishedAt": "2026-10-01T15:15:33Z",
       "source": "Hacker News / Algolia"
     }
   ],
@@ -897,9 +976,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 87270,
-      "forks": 7683,
-      "issues": 170,
+      "stars": 87395,
+      "forks": 7704,
+      "issues": 174,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 16d",
@@ -945,7 +1024,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -960,12 +1039,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27616,
-      "forks": 2660,
+      "stars": 27621,
+      "forks": 2661,
       "issues": 880,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
@@ -992,7 +1071,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
+      "rank": 11
     }
   ]
 }
