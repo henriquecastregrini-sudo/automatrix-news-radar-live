@@ -98,7 +98,7 @@ const socialReferences = {
   'mvschwarz/openrig': [
     { platform: 'Reddit', label: 'r/AI_Agents · relato do autor sobre equipes de Claude Code + Codex · 35 votos públicos · publicado 26 SET', url: 'https://www.reddit.com/r/AI_Agents/comments/1wqij2i/my_friend_gave_claude_code_and_codex_agents_a_way/', engagement: 35, publishedAt: '2026-09-26', verifiedAt: '01 OUT 2026' },
     { platform: 'Reddit', label: 'r/BuildWithClaude · demonstração do fluxo de planos Claude + Codex · 3 votos públicos · publicado 29 SET', url: 'https://www.reddit.com/r/BuildWithClaude/comments/1wswlyy/codex_and_claude_code_write_competing_plans_then/', engagement: 3, publishedAt: '2026-09-29', verifiedAt: '01 OUT 2026' },
-    { platform: 'YouTube', label: 'OpenRig · walkthrough de 25 minutos citado pelo autor · métricas públicas não verificadas', url: 'https://www.youtube.com/watch?v=AL-PQuB2wy0', publishedAt: '2026-09-26', verifiedAt: '01 OUT 2026' },
+    { platform: 'YouTube', label: 'OpenRig · walkthrough de 25 minutos citado no Reddit · data de publicação e métricas públicas não verificadas', url: 'https://www.youtube.com/watch?v=AL-PQuB2wy0', verifiedAt: '01 OUT 2026' },
     { platform: 'Reddit', label: 'r/ClaudeCode · sessões Claude e Codex trabalhando juntas · publicado 28 SET · métrica a verificar', url: 'https://www.reddit.com/r/ClaudeCode/comments/1ws81k4/i_used_to_run_4_claude_code_sessions_in_tmux_and/', publishedAt: '2026-09-28', verifiedAt: '28 SET 2026' },
     { platform: 'Reddit', label: 'r/ClaudeWorkflows · workflow multiagente OpenRig · publicado 28 SET · métrica a verificar', url: 'https://www.reddit.com/r/ClaudeWorkflows/comments/1ws989l/workflow_openrig_orchestrating_multiagent_claude/', publishedAt: '2026-09-28', verifiedAt: '28 SET 2026' },
   ],

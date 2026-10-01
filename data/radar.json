@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T17:01:32.504Z",
-  "generatedLabel": "1 de out. de 2026 · 14:01",
+  "generatedAt": "2026-10-01T17:03:41.752Z",
+  "generatedLabel": "1 de out. de 2026 · 14:03",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,11 +45,11 @@
         "limitação: Windows via WSL 2 ainda experimental"
       ],
       "url": "https://github.com/NVIDIA/OpenShell",
-      "stars": 13836,
+      "stars": 13837,
       "forks": 1613,
-      "issues": 504,
+      "issues": 503,
       "language": "Rust",
-      "pushedAt": "2026-10-01T16:57:41Z",
+      "pushedAt": "2026-10-01T17:03:05Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 2503,
       "score": 85,
@@ -145,7 +145,7 @@
         "antes e depois do código"
       ],
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 150099,
+      "stars": 150103,
       "forks": 8063,
       "issues": 327,
       "language": "JavaScript",
@@ -318,7 +318,7 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 293811,
+      "stars": 293812,
       "forks": 26277,
       "issues": 289,
       "language": "Shell",
@@ -425,9 +425,8 @@
         },
         {
           "platform": "YouTube",
-          "label": "OpenRig · walkthrough de 25 minutos citado pelo autor · métricas públicas não verificadas",
+          "label": "OpenRig · walkthrough de 25 minutos citado no Reddit · data de publicação e métricas públicas não verificadas",
           "url": "https://www.youtube.com/watch?v=AL-PQuB2wy0",
-          "publishedAt": "2026-09-26",
           "verifiedAt": "01 OUT 2026"
         },
         {
@@ -473,7 +472,7 @@
           "kind": "social"
         },
         {
-          "label": "YouTube · OpenRig · walkthrough de 25 minutos citado pelo autor · métricas públicas não verificadas",
+          "label": "YouTube · OpenRig · walkthrough de 25 minutos citado no Reddit · data de publicação e métricas públicas não verificadas",
           "url": "https://www.youtube.com/watch?v=AL-PQuB2wy0",
           "kind": "social"
         },
@@ -572,7 +571,7 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 75674,
+      "stars": 75677,
       "forks": 5085,
       "issues": 199,
       "language": "JavaScript",
@@ -686,7 +685,7 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 87267,
+      "stars": 87269,
       "forks": 7683,
       "issues": 170,
       "language": "Python",
@@ -898,7 +897,7 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 87267,
+      "stars": 87269,
       "forks": 7683,
       "issues": 170,
       "language": "Python",
