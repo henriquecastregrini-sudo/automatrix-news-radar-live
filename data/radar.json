@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T01:57:32.741Z",
-  "generatedLabel": "30 de set. de 2026 · 22:57",
+  "generatedAt": "2026-10-01T12:34:24.398Z",
+  "generatedLabel": "1 de out. de 2026 · 09:34",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,15 +45,23 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 273031,
-      "forks": 22961,
-      "issues": 540,
+      "stars": 273426,
+      "forks": 22978,
+      "issues": 541,
       "language": "Shell",
       "pushedAt": "2026-09-29T12:38:37Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 876,
-      "score": 85,
+      "trendingStarsToday": 888,
+      "score": 89,
       "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/AgentSkills · comparação de packs de skills que inclui mattpocock/skills · 105 votos públicos · publicado 05 SET",
+          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
+          "engagement": 105,
+          "publishedAt": "2026-09-05",
+          "verifiedAt": "01 OUT 2026"
+        },
         {
           "platform": "Reddit",
           "label": "r/ClaudeAI · skills com subagentes especialistas · 3 votos públicos · publicado 23 SET",
@@ -79,9 +87,14 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 876 stars hoje",
+          "label": "GitHub Trending · 888 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/AgentSkills · comparação de packs de skills que inclui mattpocock/skills · 105 votos públicos · publicado 05 SET",
+          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
+          "kind": "social"
         },
         {
           "label": "Reddit · r/ClaudeAI · skills com subagentes especialistas · 3 votos públicos · publicado 23 SET",
@@ -112,111 +125,38 @@
       "rank": 1
     },
     {
-      "repo": "debpalash/VoiceStudio",
-      "title": "VoiceStudio",
-      "type": "Voz e dublagem local",
-      "status": "Gravar agora",
-      "hook": "Esta alternativa aberta ao ElevenLabs clona vozes, dubla vídeos e roda localmente sem assinatura.",
-      "thesis": "Voz generativa está virando infraestrutura local: privacidade, custo zero por uso e centenas de idiomas criam uma narrativa forte contra plataformas fechadas.",
-      "broll": [
-        "galeria de vozes",
-        "clonagem com amostra curta",
-        "editor de dublagem",
-        "comparação local versus nuvem"
-      ],
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 50495,
-      "forks": 5604,
-      "issues": 77,
-      "language": "Python",
-      "pushedAt": "2026-09-29T15:45:28Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 3483,
-      "score": 77,
-      "social": [
-        {
-          "platform": "Instagram",
-          "label": "@niyi.tech · alternativa local ao ElevenLabs · 1,9k likes públicos · observado 21 AGO",
-          "url": "https://www.instagram.com/reel/DYg7o7Um4Qb/",
-          "likes": 1900,
-          "publishedAt": "2026-08-21",
-          "verifiedAt": "14 SET 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "AiThatSpeaks · clonagem e dublagem local · 7,8k views · 158 likes · publicado 17 JUL",
-          "url": "https://www.youtube.com/watch?v=xkFkvxYKe1Q",
-          "views": 7823,
-          "likes": 158,
-          "comments": 58,
-          "publishedAt": "2026-07-17",
-          "verifiedAt": "15 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/debpalash/VoiceStudio",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 3,5 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Instagram · @niyi.tech · alternativa local ao ElevenLabs · 1,9k likes públicos · observado 21 AGO",
-          "url": "https://www.instagram.com/reel/DYg7o7Um4Qb/",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · AiThatSpeaks · clonagem e dublagem local · 7,8k views · 158 likes · publicado 17 JUL",
-          "url": "https://www.youtube.com/watch?v=xkFkvxYKe1Q",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=debpalash%20VoiceStudio%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=VoiceStudio%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=VoiceStudio%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "repo": "NVIDIA/OpenShell",
-      "title": "OpenShell",
-      "type": "Novo no GitHub Trending",
+      "title": "NVIDIA OpenShell",
+      "type": "Sandbox de segurança para agentes",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,3 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "hook": "Se um agente pode executar comandos, quem limita o que ele consegue tocar?",
+      "thesis": "OpenShell aplica limites técnicos a arquivos, processos e rede enquanto o agente executa; a avaliação independente encontrou proteções úteis e configurações que ainda exigem cuidado.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "README e quickstart oficial",
+        "política de arquivos e rede",
+        "teste independente com e sem sandbox",
+        "limitação: Windows via WSL 2 ainda experimental"
       ],
       "url": "https://github.com/NVIDIA/OpenShell",
-      "stars": 12758,
-      "forks": 1552,
-      "issues": 510,
+      "stars": 13676,
+      "forks": 1601,
+      "issues": 523,
       "language": "Rust",
-      "pushedAt": "2026-10-01T01:21:35Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 1281,
-      "score": 73,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "pushedAt": "2026-10-01T12:31:54Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 2503,
+      "score": 85,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/cybersecurity · teste independente com 123 execuções e ressalvas de configuração · 13 votos públicos · publicado 29 SET",
+          "url": "https://www.reddit.com/r/cybersecurity/comments/1wt5mnc/we_tested_nvidias_new_ai_agent_sandbox_openshell/",
+          "engagement": 13,
+          "publishedAt": "2026-09-29",
+          "verifiedAt": "01 OUT 2026"
+        }
+      ],
+      "socialStatus": "referência recente verificada",
       "sources": [
         {
           "label": "GitHub",
@@ -224,9 +164,34 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,3 mil stars hoje",
+          "label": "GitHub Trending · 2,5 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
+        },
+        {
+          "label": "NVIDIA · anúncio oficial da Open Agent Safety Platform · 28 SET",
+          "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+          "kind": "oficial"
+        },
+        {
+          "label": "NVIDIA · guia oficial para executar o primeiro agente",
+          "url": "https://docs.nvidia.com/openshell/latest/about/run-your-first-agent",
+          "kind": "oficial"
+        },
+        {
+          "label": "Sorami · avaliação independente de OpenShell v0.1.2 e logs de teste · 29 SET",
+          "url": "https://sorami.com.au/research/nvidia-openshell-agent-sandbox-test/",
+          "kind": "análise independente"
+        },
+        {
+          "label": "Sorami · resumo dos quatro ajustes de política que merecem atenção · 29 SET",
+          "url": "https://sorami.com.au/guides/we-tested-nvidia-openshell/",
+          "kind": "análise independente"
+        },
+        {
+          "label": "Reddit · r/cybersecurity · teste independente com 123 execuções e ressalvas de configuração · 13 votos públicos · publicado 29 SET",
+          "url": "https://www.reddit.com/r/cybersecurity/comments/1wt5mnc/we_tested_nvidias_new_ai_agent_sandbox_openshell/",
+          "kind": "social"
         },
         {
           "label": "Buscar YouTube",
@@ -235,69 +200,16 @@
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=OpenShell%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=NVIDIA%20OpenShell%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=OpenShell%20AI",
+          "url": "https://www.tiktok.com/search?q=NVIDIA%20OpenShell%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 3
-    },
-    {
-      "repo": "harry0703/MoneyPrinterTurbo",
-      "title": "MoneyPrinterTurbo",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 431 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "stars": 127586,
-      "forks": 19957,
-      "issues": 43,
-      "language": "Python",
-      "pushedAt": "2026-09-30T12:59:35Z",
-      "pushedLabel": "push há 13h",
-      "trendingStarsToday": 431,
-      "score": 70,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 431 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=harry0703%20MoneyPrinterTurbo%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=MoneyPrinterTurbo%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=MoneyPrinterTurbo%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
+      "rank": 2
     },
     {
       "repo": "DietrichGebert/ponytail",
@@ -313,25 +225,33 @@
         "antes e depois do código"
       ],
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 149228,
-      "forks": 8022,
-      "issues": 319,
+      "stars": 149785,
+      "forks": 8047,
+      "issues": 326,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T14:34:56Z",
-      "pushedLabel": "push há 16d",
-      "trendingStarsToday": 743,
-      "score": 67,
+      "pushedLabel": "push há 17d",
+      "trendingStarsToday": 1179,
+      "score": 83,
       "social": [
         {
+          "platform": "Reddit",
+          "label": "r/AgentSkills · comparação de packs de skills que cita Ponytail e Matt Pocock · 105 votos públicos · publicado 05 SET",
+          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
+          "engagement": 105,
+          "publishedAt": "2026-09-05",
+          "verifiedAt": "01 OUT 2026"
+        },
+        {
           "platform": "YouTube",
-          "label": "Better Stack · Ponytail escreve 94% menos código · 254k views · publicado 20 JUN",
+          "label": "Better Stack · demonstração de Ponytail · 254k views · publicado 20 JUN · referência histórica",
           "url": "https://www.youtube.com/watch?v=2xuFcmUAQUc",
           "views": 254926,
           "publishedAt": "2026-06-20",
           "verifiedAt": "07 SET 2026"
         }
       ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
+      "socialStatus": "referência recente verificada",
       "sources": [
         {
           "label": "GitHub",
@@ -339,12 +259,17 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 743 stars hoje",
+          "label": "GitHub Trending · 1,2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "YouTube · Better Stack · Ponytail escreve 94% menos código · 254k views · publicado 20 JUN",
+          "label": "Reddit · r/AgentSkills · comparação de packs de skills que cita Ponytail e Matt Pocock · 105 votos públicos · publicado 05 SET",
+          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
+          "kind": "social"
+        },
+        {
+          "label": "YouTube · Better Stack · demonstração de Ponytail · 254k views · publicado 20 JUN · referência histórica",
           "url": "https://www.youtube.com/watch?v=2xuFcmUAQUc",
           "kind": "social"
         },
@@ -364,7 +289,87 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 3
+    },
+    {
+      "repo": "obra/superpowers",
+      "title": "Superpowers",
+      "type": "Metodologia para agentes",
+      "status": "Gravar agora",
+      "hook": "Este projeto tenta acabar com o vibe coding: o agente precisa planejar, testar e revisar antes de dizer que terminou.",
+      "thesis": "Skills em Markdown estão virando uma camada de engenharia reutilizável entre Claude, Codex, Cursor e outros agentes.",
+      "broll": [
+        "fluxo brainstorming → plano → TDD",
+        "lista de skills",
+        "README",
+        "vídeo demonstrativo"
+      ],
+      "url": "https://github.com/obra/superpowers",
+      "stars": 293689,
+      "forks": 26274,
+      "issues": 288,
+      "language": "Shell",
+      "pushedAt": "2026-09-27T02:37:47Z",
+      "pushedLabel": "push há 4d",
+      "trendingStarsToday": 594,
+      "score": 81,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
+          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
+          "engagement": 324,
+          "publishedAt": "2026-09-26",
+          "verifiedAt": "01 OUT 2026"
+        },
+        {
+          "platform": "Bilibili",
+          "label": "Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "views": 17000,
+          "publishedAt": "2026-03-04",
+          "verifiedAt": "09 SET 2026"
+        }
+      ],
+      "socialStatus": "referência recente verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/obra/superpowers",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 594 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
+          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
+          "kind": "social"
+        },
+        {
+          "label": "Bilibili · Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=obra%20superpowers%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Superpowers%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Superpowers%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
     },
     {
       "repo": "mvschwarz/openrig",
@@ -380,15 +385,30 @@
         "README e FAQ"
       ],
       "url": "https://github.com/mvschwarz/openrig",
-      "stars": 3048,
-      "forks": 214,
-      "issues": 102,
+      "stars": 3343,
+      "forks": 227,
+      "issues": 88,
       "language": "TypeScript",
-      "pushedAt": "2026-10-01T01:38:25Z",
+      "pushedAt": "2026-10-01T12:15:50Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 624,
-      "score": 66,
+      "trendingStarsToday": 640,
+      "score": 78,
       "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/AI_Agents · relato do autor sobre equipes de Claude Code + Codex · 35 votos públicos · publicado 26 SET",
+          "url": "https://www.reddit.com/r/AI_Agents/comments/1wqij2i/my_friend_gave_claude_code_and_codex_agents_a_way/",
+          "engagement": 35,
+          "publishedAt": "2026-09-26",
+          "verifiedAt": "01 OUT 2026"
+        },
+        {
+          "platform": "YouTube",
+          "label": "OpenRig · walkthrough de 25 minutos citado pelo autor · métricas públicas não verificadas",
+          "url": "https://www.youtube.com/watch?v=AL-PQuB2wy0",
+          "publishedAt": "2026-09-26",
+          "verifiedAt": "01 OUT 2026"
+        },
         {
           "platform": "Reddit",
           "label": "r/ClaudeCode · sessões Claude e Codex trabalhando juntas · publicado 28 SET · métrica a verificar",
@@ -404,7 +424,7 @@
           "verifiedAt": "28 SET 2026"
         }
       ],
-      "socialStatus": "referência recente direta — métrica pública precisa verificação",
+      "socialStatus": "referência recente verificada",
       "sources": [
         {
           "label": "GitHub",
@@ -412,7 +432,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 624 stars hoje",
+          "label": "GitHub Trending · 640 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -420,6 +440,16 @@
           "label": "OpenRig · FAQ oficial sobre Claude Code + Codex",
           "url": "https://openrig.dev/docs/faq",
           "kind": "oficial"
+        },
+        {
+          "label": "Reddit · r/AI_Agents · relato do autor sobre equipes de Claude Code + Codex · 35 votos públicos · publicado 26 SET",
+          "url": "https://www.reddit.com/r/AI_Agents/comments/1wqij2i/my_friend_gave_claude_code_and_codex_agents_a_way/",
+          "kind": "social"
+        },
+        {
+          "label": "YouTube · OpenRig · walkthrough de 25 minutos citado pelo autor · métricas públicas não verificadas",
+          "url": "https://www.youtube.com/watch?v=AL-PQuB2wy0",
+          "kind": "social"
         },
         {
           "label": "Reddit · r/ClaudeCode · sessões Claude e Codex trabalhando juntas · publicado 28 SET · métrica a verificar",
@@ -447,6 +477,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 5
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "title": "context-mode",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 357 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/mksglu/context-mode",
+      "stars": 24657,
+      "forks": 1777,
+      "issues": 308,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-01T12:07:41Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 357,
+      "score": 66,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mksglu/context-mode",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 357 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=mksglu%20context-mode%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=context-mode%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=context-mode%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 6
     },
     {
@@ -463,12 +546,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 75274,
-      "forks": 5058,
-      "issues": 194,
+      "stars": 75554,
+      "forks": 5078,
+      "issues": 198,
       "language": "JavaScript",
       "pushedAt": "2026-09-30T15:57:42Z",
-      "pushedLabel": "push há 10h",
+      "pushedLabel": "push há 21h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -526,12 +609,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 42945,
-      "forks": 3089,
-      "issues": 245,
+      "stars": 43060,
+      "forks": 3098,
+      "issues": 249,
       "language": "Go",
       "pushedAt": "2026-09-29T14:33:37Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -591,104 +674,57 @@
       "rank": 8
     },
     {
-      "repo": "mksglu/context-mode",
-      "title": "context-mode",
+      "repo": "firebase/firebase-ios-sdk",
+      "title": "firebase-ios-sdk",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 90 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "hook": "Este repositório ganhou 112 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Firebase SDK for Apple App Development",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/mksglu/context-mode",
-      "stars": 24507,
-      "forks": 1769,
-      "issues": 302,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-01T00:15:35Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 90,
-      "score": 57,
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "stars": 6810,
+      "forks": 1801,
+      "issues": 441,
+      "language": "C++",
+      "pushedAt": "2026-10-01T03:16:25Z",
+      "pushedLabel": "push há 9h",
+      "trendingStarsToday": 112,
+      "score": 56,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/mksglu/context-mode",
+          "url": "https://github.com/firebase/firebase-ios-sdk",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 90 stars hoje",
+          "label": "GitHub Trending · 112 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=mksglu%20context-mode%20AI",
+          "url": "https://www.youtube.com/results?search_query=firebase%20firebase-ios-sdk%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=context-mode%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=firebase-ios-sdk%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=context-mode%20AI",
+          "url": "https://www.tiktok.com/search?q=firebase-ios-sdk%20AI",
           "kind": "busca"
         }
       ],
       "rank": 9
-    },
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27594,
-      "forks": 2660,
-      "issues": 870,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-29T08:48:49Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": null,
-      "score": 40,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 10
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -703,12 +739,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 86653,
-      "forks": 7617,
-      "issues": 169,
+      "stars": 87092,
+      "forks": 7666,
+      "issues": 170,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 15d",
+      "pushedLabel": "push há 16d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -751,16 +787,63 @@
           "kind": "busca"
         }
       ],
+      "rank": 10
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 27610,
+      "forks": 2661,
+      "issues": 879,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-29T08:48:49Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": null,
+      "score": 33,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 11
     }
   ],
   "news": [
     {
-      "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
-      "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
-      "points": 163,
-      "comments": 43,
-      "publishedAt": "2026-09-29T14:15:24Z",
+      "title": "Show HN: Perspica – A semantic diff for reviewing code",
+      "url": "https://github.com/sshah03/perspica",
+      "points": 13,
+      "comments": 5,
+      "publishedAt": "2026-09-30T20:34:49Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -769,14 +852,6 @@
       "points": 10,
       "comments": 2,
       "publishedAt": "2026-09-30T19:57:44Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Perspica – A semantic diff for reviewing code",
-      "url": "https://github.com/sshah03/perspica",
-      "points": 7,
-      "comments": 1,
-      "publishedAt": "2026-09-30T20:34:49Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -796,112 +871,73 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Show HN: CodeDiff – Fast (<100ms), robust (99.95%) syntax-aware code diff",
-      "url": "https://github.com/ivankovic/codediff",
+      "title": "Meta wants people to use 'AI agents' to do daily tasks. Why that's a problem",
+      "url": "https://theconversation.com/meta-wants-people-to-use-ai-agents-to-do-daily-tasks-for-them-heres-why-thats-a-problem-292962",
       "points": 6,
-      "comments": 1,
-      "publishedAt": "2026-09-29T12:22:44Z",
+      "comments": 0,
+      "publishedAt": "2026-10-01T06:52:51Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: Datastory, Data storytelling with AI and an open knowledge graph",
+      "url": "https://www.datastory.tech",
+      "points": 6,
+      "comments": 0,
+      "publishedAt": "2026-09-30T16:52:41Z",
       "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
-      "repo": "NVIDIA/OpenShell",
-      "starsToday": 1281
-    },
-    {
-      "repo": "debpalash/VoiceStudio",
-      "starsToday": 3483
-    },
-    {
-      "repo": "mvschwarz/openrig",
-      "starsToday": 624
-    },
-    {
-      "repo": "mksglu/context-mode",
-      "starsToday": 90
-    },
-    {
       "repo": "DietrichGebert/ponytail",
-      "starsToday": 743
-    },
-    {
-      "repo": "harry0703/MoneyPrinterTurbo",
-      "starsToday": 431
-    },
-    {
-      "repo": "openclaw/openclaw",
-      "starsToday": 136
-    },
-    {
-      "repo": "ComposioHQ/awesome-claude-skills",
-      "starsToday": 123
+      "starsToday": 1179
     },
     {
       "repo": "mattpocock/skills",
-      "starsToday": 876
+      "starsToday": 888
     },
     {
-      "repo": "heygen-com/hyperframes",
-      "starsToday": 349
+      "repo": "NVIDIA/OpenShell",
+      "starsToday": 2503
     },
     {
       "repo": "firebase/firebase-ios-sdk",
-      "starsToday": 8
+      "starsToday": 112
     },
     {
-      "repo": "modelcontextprotocol/servers",
-      "starsToday": 50
+      "repo": "mvschwarz/openrig",
+      "starsToday": 640
+    },
+    {
+      "repo": "cursor/plugins",
+      "starsToday": 157
+    },
+    {
+      "repo": "obra/superpowers",
+      "starsToday": 594
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "starsToday": 357
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "starsToday": 624
+    },
+    {
+      "repo": "earendil-works/pi",
+      "starsToday": 294
+    },
+    {
+      "repo": "tile-ai/tilelang",
+      "starsToday": 157
+    },
+    {
+      "repo": "pablostanley/yoinks",
+      "starsToday": 356
     }
   ],
   "monitored": [
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27594,
-      "forks": 2660,
-      "issues": 870,
-      "language": "TypeScript",
-      "pushedAt": "2026-09-29T08:48:49Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": null,
-      "score": 40,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 10
-    },
     {
       "repo": "Panniantong/Agent-Reach",
       "type": "Repo monitorado",
@@ -915,12 +951,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 86653,
-      "forks": 7617,
-      "issues": 169,
+      "stars": 87092,
+      "forks": 7666,
+      "issues": 170,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 15d",
+      "pushedLabel": "push há 16d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -960,6 +996,53 @@
         {
           "label": "Buscar TikTok",
           "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 27610,
+      "forks": 2661,
+      "issues": 879,
+      "language": "TypeScript",
+      "pushedAt": "2026-09-29T08:48:49Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": null,
+      "score": 33,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
           "kind": "busca"
         }
       ],
