@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T02:05:57.486Z",
-  "generatedLabel": "1 de out. de 2026 · 23:05",
+  "generatedAt": "2026-10-02T16:23:30.598Z",
+  "generatedLabel": "2 de out. de 2026 · 13:23",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -32,6 +32,259 @@
   ],
   "repos": [
     {
+      "repo": "DietrichGebert/ponytail",
+      "title": "Ponytail",
+      "type": "Skill para agentes",
+      "status": "Gravar agora",
+      "hook": "Um repo está ensinando agentes a pensar como o desenvolvedor sênior mais preguiçoso da equipe.",
+      "thesis": "A habilidade mais valiosa de um agente pode ser evitar código desnecessário.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "exemplos YAGNI",
+        "antes e depois do código"
+      ],
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars": 151354,
+      "forks": 8115,
+      "issues": 313,
+      "language": "JavaScript",
+      "pushedAt": "2026-10-02T16:22:48Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1429,
+      "score": 91,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/AgentSkills · comparação de packs de skills que cita Ponytail e Matt Pocock · 105 votos públicos · publicado 05 SET",
+          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
+          "engagement": 105,
+          "publishedAt": "2026-09-05",
+          "verifiedAt": "01 OUT 2026"
+        },
+        {
+          "platform": "YouTube",
+          "label": "Better Stack · demonstração de Ponytail · 254k views · publicado 20 JUN · referência histórica",
+          "url": "https://www.youtube.com/watch?v=2xuFcmUAQUc",
+          "views": 254926,
+          "publishedAt": "2026-06-20",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência recente verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,4 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/AgentSkills · comparação de packs de skills que cita Ponytail e Matt Pocock · 105 votos públicos · publicado 05 SET",
+          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
+          "kind": "social"
+        },
+        {
+          "label": "YouTube · Better Stack · demonstração de Ponytail · 254k views · publicado 20 JUN · referência histórica",
+          "url": "https://www.youtube.com/watch?v=2xuFcmUAQUc",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=DietrichGebert%20ponytail%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Ponytail%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Ponytail%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "repo": "mattpocock/skills",
+      "title": "Skills para agentes",
+      "type": "Skills para agentes",
+      "status": "Gravar agora",
+      "hook": "O jeito de programar com IA mudou: quem ainda usa só prompt está ficando para trás.",
+      "thesis": "Conhecimento de engenharia virou infraestrutura reutilizável para agentes.",
+      "broll": [
+        "README",
+        "diretório .agents",
+        "GitHub Trending",
+        "vídeo do criador"
+      ],
+      "url": "https://github.com/mattpocock/skills",
+      "stars": 274492,
+      "forks": 23050,
+      "issues": 544,
+      "language": "Shell",
+      "pushedAt": "2026-09-29T12:38:37Z",
+      "pushedLabel": "push há 3d",
+      "trendingStarsToday": 955,
+      "score": 83,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/AgentSkills · comparação de packs de skills que inclui mattpocock/skills · 105 votos públicos · publicado 05 SET",
+          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
+          "engagement": 105,
+          "publishedAt": "2026-09-05",
+          "verifiedAt": "01 OUT 2026"
+        },
+        {
+          "platform": "Reddit",
+          "label": "r/ClaudeAI · skills com subagentes especialistas · 3 votos públicos · publicado 23 SET",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnszxk/matt_pococks_skills_my_own_specialist_subagents/",
+          "engagement": 3,
+          "publishedAt": "2026-09-23",
+          "verifiedAt": "25 SET 2026"
+        },
+        {
+          "platform": "YouTube",
+          "label": "Matt Pocock · workflow completo · 424k views · publicado 16 JUL",
+          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
+          "views": 424060,
+          "publishedAt": "2026-07-16",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "referência recente verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mattpocock/skills",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 955 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/AgentSkills · comparação de packs de skills que inclui mattpocock/skills · 105 votos públicos · publicado 05 SET",
+          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
+          "kind": "social"
+        },
+        {
+          "label": "Reddit · r/ClaudeAI · skills com subagentes especialistas · 3 votos públicos · publicado 23 SET",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnszxk/matt_pococks_skills_my_own_specialist_subagents/",
+          "kind": "social"
+        },
+        {
+          "label": "YouTube · Matt Pocock · workflow completo · 424k views · publicado 16 JUL",
+          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=mattpocock%20skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Skills%20para%20agentes%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Skills%20para%20agentes%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "repo": "obra/superpowers",
+      "title": "Superpowers",
+      "type": "Metodologia para agentes",
+      "status": "Gravar agora",
+      "hook": "Este projeto tenta acabar com o vibe coding: o agente precisa planejar, testar e revisar antes de dizer que terminou.",
+      "thesis": "Skills em Markdown estão virando uma camada de engenharia reutilizável entre Claude, Codex, Cursor e outros agentes.",
+      "broll": [
+        "fluxo brainstorming → plano → TDD",
+        "lista de skills",
+        "README",
+        "vídeo demonstrativo"
+      ],
+      "url": "https://github.com/obra/superpowers",
+      "stars": 294285,
+      "forks": 26310,
+      "issues": 295,
+      "language": "Shell",
+      "pushedAt": "2026-09-27T02:37:47Z",
+      "pushedLabel": "push há 6d",
+      "trendingStarsToday": 561,
+      "score": 80,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
+          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
+          "engagement": 324,
+          "publishedAt": "2026-09-26",
+          "verifiedAt": "01 OUT 2026"
+        },
+        {
+          "platform": "Bilibili",
+          "label": "Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "views": 17000,
+          "publishedAt": "2026-03-04",
+          "verifiedAt": "09 SET 2026"
+        }
+      ],
+      "socialStatus": "referência recente verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/obra/superpowers",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 561 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
+          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
+          "kind": "social"
+        },
+        {
+          "label": "Bilibili · Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=obra%20superpowers%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Superpowers%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Superpowers%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "repo": "NVIDIA/OpenShell",
       "title": "NVIDIA OpenShell",
       "type": "Sandbox de segurança para agentes",
@@ -45,14 +298,14 @@
         "limitação: Windows via WSL 2 ainda experimental"
       ],
       "url": "https://github.com/NVIDIA/OpenShell",
-      "stars": 14044,
-      "forks": 1630,
-      "issues": 521,
+      "stars": 14310,
+      "forks": 1649,
+      "issues": 535,
       "language": "Rust",
-      "pushedAt": "2026-10-02T00:58:53Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 2456,
-      "score": 85,
+      "pushedAt": "2026-10-02T16:22:43Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 584,
+      "score": 79,
       "social": [
         {
           "platform": "Reddit",
@@ -79,7 +332,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,5 mil stars hoje",
+          "label": "GitHub Trending · 584 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -129,433 +382,181 @@
           "kind": "busca"
         }
       ],
-      "rank": 1
-    },
-    {
-      "repo": "DietrichGebert/ponytail",
-      "title": "Ponytail",
-      "type": "Skill para agentes",
-      "status": "Gravar agora",
-      "hook": "Um repo está ensinando agentes a pensar como o desenvolvedor sênior mais preguiçoso da equipe.",
-      "thesis": "A habilidade mais valiosa de um agente pode ser evitar código desnecessário.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "exemplos YAGNI",
-        "antes e depois do código"
-      ],
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 150568,
-      "forks": 8083,
-      "issues": 336,
-      "language": "JavaScript",
-      "pushedAt": "2026-09-14T14:34:56Z",
-      "pushedLabel": "push há 18d",
-      "trendingStarsToday": 1194,
-      "score": 83,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/AgentSkills · comparação de packs de skills que cita Ponytail e Matt Pocock · 105 votos públicos · publicado 05 SET",
-          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
-          "engagement": 105,
-          "publishedAt": "2026-09-05",
-          "verifiedAt": "01 OUT 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "Better Stack · demonstração de Ponytail · 254k views · publicado 20 JUN · referência histórica",
-          "url": "https://www.youtube.com/watch?v=2xuFcmUAQUc",
-          "views": 254926,
-          "publishedAt": "2026-06-20",
-          "verifiedAt": "07 SET 2026"
-        }
-      ],
-      "socialStatus": "referência recente verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/DietrichGebert/ponytail",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,2 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Reddit · r/AgentSkills · comparação de packs de skills que cita Ponytail e Matt Pocock · 105 votos públicos · publicado 05 SET",
-          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · Better Stack · demonstração de Ponytail · 254k views · publicado 20 JUN · referência histórica",
-          "url": "https://www.youtube.com/watch?v=2xuFcmUAQUc",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=DietrichGebert%20ponytail%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Ponytail%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Ponytail%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "repo": "mattpocock/skills",
-      "title": "Skills para agentes",
-      "type": "Skills para agentes",
-      "status": "Gravar agora",
-      "hook": "O jeito de programar com IA mudou: quem ainda usa só prompt está ficando para trás.",
-      "thesis": "Conhecimento de engenharia virou infraestrutura reutilizável para agentes.",
-      "broll": [
-        "README",
-        "diretório .agents",
-        "GitHub Trending",
-        "vídeo do criador"
-      ],
-      "url": "https://github.com/mattpocock/skills",
-      "stars": 273941,
-      "forks": 23000,
-      "issues": 542,
-      "language": "Shell",
-      "pushedAt": "2026-09-29T12:38:37Z",
-      "pushedLabel": "push há 3d",
-      "trendingStarsToday": 883,
-      "score": 82,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/AgentSkills · comparação de packs de skills que inclui mattpocock/skills · 105 votos públicos · publicado 05 SET",
-          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
-          "engagement": 105,
-          "publishedAt": "2026-09-05",
-          "verifiedAt": "01 OUT 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/ClaudeAI · skills com subagentes especialistas · 3 votos públicos · publicado 23 SET",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnszxk/matt_pococks_skills_my_own_specialist_subagents/",
-          "engagement": 3,
-          "publishedAt": "2026-09-23",
-          "verifiedAt": "25 SET 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "Matt Pocock · workflow completo · 424k views · publicado 16 JUL",
-          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
-          "views": 424060,
-          "publishedAt": "2026-07-16",
-          "verifiedAt": "07 SET 2026"
-        }
-      ],
-      "socialStatus": "referência recente verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/mattpocock/skills",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 883 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Reddit · r/AgentSkills · comparação de packs de skills que inclui mattpocock/skills · 105 votos públicos · publicado 05 SET",
-          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/ClaudeAI · skills com subagentes especialistas · 3 votos públicos · publicado 23 SET",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnszxk/matt_pococks_skills_my_own_specialist_subagents/",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · Matt Pocock · workflow completo · 424k views · publicado 16 JUL",
-          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=mattpocock%20skills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Skills%20para%20agentes%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Skills%20para%20agentes%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "repo": "obra/superpowers",
-      "title": "Superpowers",
-      "type": "Metodologia para agentes",
-      "status": "Gravar agora",
-      "hook": "Este projeto tenta acabar com o vibe coding: o agente precisa planejar, testar e revisar antes de dizer que terminou.",
-      "thesis": "Skills em Markdown estão virando uma camada de engenharia reutilizável entre Claude, Codex, Cursor e outros agentes.",
-      "broll": [
-        "fluxo brainstorming → plano → TDD",
-        "lista de skills",
-        "README",
-        "vídeo demonstrativo"
-      ],
-      "url": "https://github.com/obra/superpowers",
-      "stars": 293990,
-      "forks": 26296,
-      "issues": 293,
-      "language": "Shell",
-      "pushedAt": "2026-09-27T02:37:47Z",
-      "pushedLabel": "push há 5d",
-      "trendingStarsToday": 455,
-      "score": 79,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
-          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
-          "engagement": 324,
-          "publishedAt": "2026-09-26",
-          "verifiedAt": "01 OUT 2026"
-        },
-        {
-          "platform": "Bilibili",
-          "label": "Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
-          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
-          "views": 17000,
-          "publishedAt": "2026-03-04",
-          "verifiedAt": "09 SET 2026"
-        }
-      ],
-      "socialStatus": "referência recente verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/obra/superpowers",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 455 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Reddit · r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
-          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
-          "kind": "social"
-        },
-        {
-          "label": "Bilibili · Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
-          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=obra%20superpowers%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Superpowers%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Superpowers%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 4
     },
     {
-      "repo": "mvschwarz/openrig",
-      "title": "OpenRig",
-      "type": "Orquestração multiagente",
-      "status": "Gravar agora",
-      "hook": "Este harness coloca Claude Code e Codex para trabalhar juntos como uma equipe persistente.",
-      "thesis": "Em vez de escolher um único agente, OpenRig distribui implementação, revisão e handoffs entre sessões observáveis no terminal.",
-      "broll": [
-        "Claude e Codex em terminais lado a lado",
-        "fila de tarefas e handoffs",
-        "demo oficial",
-        "README e FAQ"
-      ],
-      "url": "https://github.com/mvschwarz/openrig",
-      "stars": 3754,
-      "forks": 249,
-      "issues": 94,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-02T01:48:23Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 642,
-      "score": 78,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/AI_Agents · relato do autor sobre equipes de Claude Code + Codex · 35 votos públicos · publicado 26 SET",
-          "url": "https://www.reddit.com/r/AI_Agents/comments/1wqij2i/my_friend_gave_claude_code_and_codex_agents_a_way/",
-          "engagement": 35,
-          "publishedAt": "2026-09-26",
-          "verifiedAt": "01 OUT 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/BuildWithClaude · demonstração do fluxo de planos Claude + Codex · 3 votos públicos · publicado 29 SET",
-          "url": "https://www.reddit.com/r/BuildWithClaude/comments/1wswlyy/codex_and_claude_code_write_competing_plans_then/",
-          "engagement": 3,
-          "publishedAt": "2026-09-29",
-          "verifiedAt": "01 OUT 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "OpenRig · walkthrough de 25 minutos citado no Reddit · data de publicação e métricas públicas não verificadas",
-          "url": "https://www.youtube.com/watch?v=AL-PQuB2wy0",
-          "verifiedAt": "01 OUT 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/ClaudeCode · sessões Claude e Codex trabalhando juntas · publicado 28 SET · métrica a verificar",
-          "url": "https://www.reddit.com/r/ClaudeCode/comments/1ws81k4/i_used_to_run_4_claude_code_sessions_in_tmux_and/",
-          "publishedAt": "2026-09-28",
-          "verifiedAt": "28 SET 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/ClaudeWorkflows · workflow multiagente OpenRig · publicado 28 SET · métrica a verificar",
-          "url": "https://www.reddit.com/r/ClaudeWorkflows/comments/1ws989l/workflow_openrig_orchestrating_multiagent_claude/",
-          "publishedAt": "2026-09-28",
-          "verifiedAt": "28 SET 2026"
-        }
-      ],
-      "socialStatus": "referência recente verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/mvschwarz/openrig",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 642 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "OpenRig · FAQ oficial sobre Claude Code + Codex",
-          "url": "https://openrig.dev/docs/faq",
-          "kind": "oficial"
-        },
-        {
-          "label": "Reddit · r/AI_Agents · relato do autor sobre equipes de Claude Code + Codex · 35 votos públicos · publicado 26 SET",
-          "url": "https://www.reddit.com/r/AI_Agents/comments/1wqij2i/my_friend_gave_claude_code_and_codex_agents_a_way/",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/BuildWithClaude · demonstração do fluxo de planos Claude + Codex · 3 votos públicos · publicado 29 SET",
-          "url": "https://www.reddit.com/r/BuildWithClaude/comments/1wswlyy/codex_and_claude_code_write_competing_plans_then/",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · OpenRig · walkthrough de 25 minutos citado no Reddit · data de publicação e métricas públicas não verificadas",
-          "url": "https://www.youtube.com/watch?v=AL-PQuB2wy0",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/ClaudeCode · sessões Claude e Codex trabalhando juntas · publicado 28 SET · métrica a verificar",
-          "url": "https://www.reddit.com/r/ClaudeCode/comments/1ws81k4/i_used_to_run_4_claude_code_sessions_in_tmux_and/",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/ClaudeWorkflows · workflow multiagente OpenRig · publicado 28 SET · métrica a verificar",
-          "url": "https://www.reddit.com/r/ClaudeWorkflows/comments/1ws989l/workflow_openrig_orchestrating_multiagent_claude/",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=mvschwarz%20openrig%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=OpenRig%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=OpenRig%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "repo": "mksglu/context-mode",
-      "title": "context-mode",
+      "repo": "pbakaus/impeccable",
+      "title": "impeccable",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 362 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 717 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "The design language that makes your AI harness better at design.",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/mksglu/context-mode",
-      "stars": 24793,
-      "forks": 1784,
-      "issues": 309,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-02T00:13:31Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 362,
-      "score": 66,
+      "url": "https://github.com/pbakaus/impeccable",
+      "stars": 74081,
+      "forks": 4467,
+      "issues": 54,
+      "language": "JavaScript",
+      "pushedAt": "2026-10-02T07:05:04Z",
+      "pushedLabel": "push há 9h",
+      "trendingStarsToday": 717,
+      "score": 72,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/mksglu/context-mode",
+          "url": "https://github.com/pbakaus/impeccable",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 362 stars hoje",
+          "label": "GitHub Trending · 717 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=mksglu%20context-mode%20AI",
+          "url": "https://www.youtube.com/results?search_query=pbakaus%20impeccable%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=context-mode%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=impeccable%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=context-mode%20AI",
+          "url": "https://www.tiktok.com/search?q=impeccable%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "title": "caveman",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 271 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "stars": 108943,
+      "forks": 6313,
+      "issues": 158,
+      "language": "Go",
+      "pushedAt": "2026-10-01T19:57:24Z",
+      "pushedLabel": "push há 20h",
+      "trendingStarsToday": 271,
+      "score": 67,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 271 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=JuliusBrussee%20caveman%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=caveman%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=caveman%20AI",
           "kind": "busca"
         }
       ],
       "rank": 6
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "type": "Repo monitorado",
+      "status": "Monitorar hoje",
+      "hook": "O agente que não navega está cego.",
+      "thesis": "Agentes com acesso à web ampliam pesquisa e automação.",
+      "broll": [
+        "README",
+        "lista de plataformas",
+        "exemplos web"
+      ],
+      "title": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars": 88167,
+      "forks": 7769,
+      "issues": 182,
+      "language": "Python",
+      "pushedAt": "2026-09-15T16:16:24Z",
+      "pushedLabel": "push há 17d",
+      "trendingStarsToday": 683,
+      "score": 65,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN",
+          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
+          "views": 17073,
+          "likes": 445,
+          "comments": 27,
+          "publishedAt": "2026-06-18",
+          "verifiedAt": "14 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 683 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN",
+          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=Panniantong%20Agent-Reach%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Reach%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 7
     },
     {
       "repo": "tt-a1i/archify",
@@ -571,12 +572,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 75850,
-      "forks": 5099,
-      "issues": 201,
+      "stars": 76148,
+      "forks": 5122,
+      "issues": 182,
       "language": "JavaScript",
-      "pushedAt": "2026-09-30T15:57:42Z",
-      "pushedLabel": "push há 1d",
+      "pushedAt": "2026-10-02T14:08:03Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -617,7 +618,74 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "title": "Marketing Skills",
+      "type": "Skills de marketing",
+      "status": "Gravar agora",
+      "hook": "Este repo transforma copy, SEO, CRO e analytics em habilidades reutilizáveis por agentes.",
+      "thesis": "Times de marketing estão começando a ser empacotados como infraestrutura para agentes.",
+      "broll": [
+        "diretório de skills",
+        "README",
+        "exemplos de copy e CRO",
+        "GitHub Trending"
+      ],
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "stars": 52300,
+      "forks": 7874,
+      "issues": 124,
+      "language": "JavaScript",
+      "pushedAt": "2026-10-02T16:20:03Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 139,
+      "score": 61,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "The Next New Thing · skills para Claude · 53,4k views · publicado 11 FEV",
+          "url": "https://www.youtube.com/watch?v=YajqB9RDdzI",
+          "views": 53450,
+          "publishedAt": "2026-02-11",
+          "verifiedAt": "08 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 139 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · The Next New Thing · skills para Claude · 53,4k views · publicado 11 FEV",
+          "url": "https://www.youtube.com/watch?v=YajqB9RDdzI",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=coreyhaines31%20marketingskills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Marketing%20Skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Marketing%20Skills%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 9
     },
     {
       "repo": "alibaba/open-code-review",
@@ -634,12 +702,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 43201,
-      "forks": 3111,
-      "issues": 257,
+      "stars": 43306,
+      "forks": 3119,
+      "issues": 259,
       "language": "Go",
       "pushedAt": "2026-10-01T20:40:46Z",
-      "pushedLabel": "push há 5h",
+      "pushedLabel": "push há 20h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -696,122 +764,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
-    },
-    {
-      "repo": "firebase/firebase-ios-sdk",
-      "title": "firebase-ios-sdk",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 112 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Firebase SDK for Apple App Development",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/firebase/firebase-ios-sdk",
-      "stars": 6865,
-      "forks": 1807,
-      "issues": 464,
-      "language": "C++",
-      "pushedAt": "2026-10-02T00:51:33Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 112,
-      "score": 56,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/firebase/firebase-ios-sdk",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 112 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=firebase%20firebase-ios-sdk%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=firebase-ios-sdk%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=firebase-ios-sdk%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "repo": "Panniantong/Agent-Reach",
-      "type": "Repo monitorado",
-      "status": "Monitorar hoje",
-      "hook": "O agente que não navega está cego.",
-      "thesis": "Agentes com acesso à web ampliam pesquisa e automação.",
-      "broll": [
-        "README",
-        "lista de plataformas",
-        "exemplos web"
-      ],
-      "title": "Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 87489,
-      "forks": 7712,
-      "issues": 174,
-      "language": "Python",
-      "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 16d",
-      "trendingStarsToday": null,
-      "score": 35,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN",
-          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
-          "views": 17073,
-          "likes": 445,
-          "comments": 27,
-          "publishedAt": "2026-06-18",
-          "verifiedAt": "14 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/Panniantong/Agent-Reach",
-          "kind": "oficial"
-        },
-        {
-          "label": "YouTube · Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN",
-          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=Panniantong%20Agent-Reach%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Reach%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 10
     },
     {
@@ -827,9 +779,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27627,
-      "forks": 2662,
-      "issues": 880,
+      "stars": 27636,
+      "forks": 2664,
+      "issues": 882,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
       "pushedLabel": "push há 3d",
@@ -866,33 +818,41 @@
     {
       "title": "Identity Management for Agentic AI [pdf] (2025)",
       "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-      "points": 70,
-      "comments": 23,
+      "points": 75,
+      "comments": 25,
       "publishedAt": "2026-10-01T15:11:10Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Aweb – Communication for AI Agents",
       "url": "https://aweb.ai",
-      "points": 22,
-      "comments": 14,
+      "points": 38,
+      "comments": 28,
       "publishedAt": "2026-10-01T22:02:31Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Perspica – A semantic diff for reviewing code",
-      "url": "https://github.com/sshah03/perspica",
-      "points": 14,
-      "comments": 6,
-      "publishedAt": "2026-09-30T20:34:49Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Show HN: Premortem – AI agents that red-team your startup idea",
       "url": "https://premortem.site",
-      "points": 7,
-      "comments": 7,
+      "points": 10,
+      "comments": 11,
       "publishedAt": "2026-10-01T20:30:02Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: Perspica – A semantic diff for reviewing code",
+      "url": "https://github.com/sshah03/perspica",
+      "points": 15,
+      "comments": 6,
+      "publishedAt": "2026-09-30T20:34:49Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
+      "url": "https://www.kapa.ai/blog/company-knowledge-bench",
+      "points": 16,
+      "comments": 0,
+      "publishedAt": "2026-10-02T13:37:18Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -902,64 +862,56 @@
       "comments": 2,
       "publishedAt": "2026-09-30T19:57:44Z",
       "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: How we made web agents 3x faster by building the missing memory layer",
-      "url": "https://blog.reduck.ai/browser-action-memory-layer-for-faster-agents/",
-      "points": 6,
-      "comments": 1,
-      "publishedAt": "2026-09-30T15:20:26Z",
-      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
-      "repo": "DietrichGebert/ponytail",
-      "starsToday": 1194
+      "repo": "Panniantong/Agent-Reach",
+      "starsToday": 683
     },
     {
-      "repo": "mattpocock/skills",
-      "starsToday": 883
-    },
-    {
-      "repo": "NVIDIA/OpenShell",
-      "starsToday": 2456
-    },
-    {
-      "repo": "firebase/firebase-ios-sdk",
-      "starsToday": 112
-    },
-    {
-      "repo": "mvschwarz/openrig",
-      "starsToday": 642
-    },
-    {
-      "repo": "cursor/plugins",
-      "starsToday": 150
+      "repo": "JuliusBrussee/caveman",
+      "starsToday": 271
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 455
+      "starsToday": 561
     },
     {
-      "repo": "mksglu/context-mode",
-      "starsToday": 362
+      "repo": "DietrichGebert/ponytail",
+      "starsToday": 1429
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "starsToday": 717
+    },
+    {
+      "repo": "mattpocock/skills",
+      "starsToday": 955
+    },
+    {
+      "repo": "NVIDIA/OpenShell",
+      "starsToday": 584
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "starsToday": 139
     },
     {
       "repo": "heygen-com/hyperframes",
-      "starsToday": 627
+      "starsToday": 584
     },
     {
-      "repo": "earendil-works/pi",
-      "starsToday": 298
+      "repo": "mksglu/context-mode",
+      "starsToday": 276
     },
     {
-      "repo": "tile-ai/tilelang",
-      "starsToday": 163
+      "repo": "google/skills",
+      "starsToday": 78
     },
     {
-      "repo": "pablostanley/yoinks",
-      "starsToday": 361
+      "repo": "getsentry/sentry",
+      "starsToday": 12
     }
   ],
   "monitored": [
@@ -976,14 +928,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 87489,
-      "forks": 7712,
-      "issues": 174,
+      "stars": 88167,
+      "forks": 7769,
+      "issues": 182,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 16d",
-      "trendingStarsToday": null,
-      "score": 35,
+      "pushedLabel": "push há 17d",
+      "trendingStarsToday": 683,
+      "score": 65,
       "social": [
         {
           "platform": "YouTube",
@@ -1002,6 +954,11 @@
           "label": "GitHub",
           "url": "https://github.com/Panniantong/Agent-Reach",
           "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 683 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
         },
         {
           "label": "YouTube · Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN",
@@ -1024,7 +981,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
+      "rank": 7
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -1039,9 +996,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27627,
-      "forks": 2662,
-      "issues": 880,
+      "stars": 27636,
+      "forks": 2664,
+      "issues": 882,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
       "pushedLabel": "push há 3d",
