@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T21:33:26.059Z",
-  "generatedLabel": "1 de out. de 2026 · 18:33",
+  "generatedAt": "2026-10-02T02:05:57.486Z",
+  "generatedLabel": "1 de out. de 2026 · 23:05",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,13 +45,13 @@
         "limitação: Windows via WSL 2 ainda experimental"
       ],
       "url": "https://github.com/NVIDIA/OpenShell",
-      "stars": 13955,
-      "forks": 1621,
-      "issues": 507,
+      "stars": 14044,
+      "forks": 1630,
+      "issues": 521,
       "language": "Rust",
-      "pushedAt": "2026-10-01T21:29:14Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 2503,
+      "pushedAt": "2026-10-02T00:58:53Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 2456,
       "score": 85,
       "social": [
         {
@@ -145,13 +145,13 @@
         "antes e depois do código"
       ],
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 150372,
-      "forks": 8075,
-      "issues": 330,
+      "stars": 150568,
+      "forks": 8083,
+      "issues": 336,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T14:34:56Z",
-      "pushedLabel": "push há 17d",
-      "trendingStarsToday": 1179,
+      "pushedLabel": "push há 18d",
+      "trendingStarsToday": 1194,
       "score": 83,
       "social": [
         {
@@ -225,13 +225,13 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 273795,
-      "forks": 22991,
+      "stars": 273941,
+      "forks": 23000,
       "issues": 542,
       "language": "Shell",
       "pushedAt": "2026-09-29T12:38:37Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 888,
+      "pushedLabel": "push há 3d",
+      "trendingStarsToday": 883,
       "score": 82,
       "social": [
         {
@@ -267,7 +267,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 888 stars hoje",
+          "label": "GitHub Trending · 883 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -318,13 +318,13 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 293913,
-      "forks": 26289,
+      "stars": 293990,
+      "forks": 26296,
       "issues": 293,
       "language": "Shell",
       "pushedAt": "2026-09-27T02:37:47Z",
       "pushedLabel": "push há 5d",
-      "trendingStarsToday": 476,
+      "trendingStarsToday": 455,
       "score": 79,
       "social": [
         {
@@ -352,7 +352,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 476 stars hoje",
+          "label": "GitHub Trending · 455 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -398,13 +398,13 @@
         "README e FAQ"
       ],
       "url": "https://github.com/mvschwarz/openrig",
-      "stars": 3641,
-      "forks": 244,
-      "issues": 85,
+      "stars": 3754,
+      "forks": 249,
+      "issues": 94,
       "language": "TypeScript",
-      "pushedAt": "2026-10-01T21:09:29Z",
+      "pushedAt": "2026-10-02T01:48:23Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 640,
+      "trendingStarsToday": 642,
       "score": 78,
       "social": [
         {
@@ -452,7 +452,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 640 stars hoje",
+          "label": "GitHub Trending · 642 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -509,7 +509,7 @@
       "title": "context-mode",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 357 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 362 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "broll": [
         "GitHub Trending",
@@ -518,13 +518,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mksglu/context-mode",
-      "stars": 24749,
-      "forks": 1783,
+      "stars": 24793,
+      "forks": 1784,
       "issues": 309,
       "language": "TypeScript",
-      "pushedAt": "2026-10-01T12:07:41Z",
-      "pushedLabel": "push há 9h",
-      "trendingStarsToday": 357,
+      "pushedAt": "2026-10-02T00:13:31Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 362,
       "score": 66,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -535,7 +535,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 357 stars hoje",
+          "label": "GitHub Trending · 362 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -571,9 +571,9 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 75772,
-      "forks": 5090,
-      "issues": 199,
+      "stars": 75850,
+      "forks": 5099,
+      "issues": 201,
       "language": "JavaScript",
       "pushedAt": "2026-09-30T15:57:42Z",
       "pushedLabel": "push há 1d",
@@ -634,12 +634,12 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 43165,
-      "forks": 3107,
+      "stars": 43201,
+      "forks": 3111,
       "issues": 257,
       "language": "Go",
       "pushedAt": "2026-10-01T20:40:46Z",
-      "pushedLabel": "push há 1h",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": null,
       "score": 59,
       "social": [
@@ -712,12 +712,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/firebase/firebase-ios-sdk",
-      "stars": 6846,
-      "forks": 1806,
-      "issues": 465,
+      "stars": 6865,
+      "forks": 1807,
+      "issues": 464,
       "language": "C++",
-      "pushedAt": "2026-10-01T21:16:48Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-10-02T00:51:33Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 112,
       "score": 56,
       "social": [],
@@ -764,8 +764,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 87395,
-      "forks": 7704,
+      "stars": 87489,
+      "forks": 7712,
       "issues": 174,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -827,8 +827,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27621,
-      "forks": 2661,
+      "stars": 27627,
+      "forks": 2662,
       "issues": 880,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
@@ -866,9 +866,17 @@
     {
       "title": "Identity Management for Agentic AI [pdf] (2025)",
       "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-      "points": 64,
-      "comments": 19,
+      "points": 70,
+      "comments": 23,
       "publishedAt": "2026-10-01T15:11:10Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Aweb – Communication for AI Agents",
+      "url": "https://aweb.ai",
+      "points": 22,
+      "comments": 14,
+      "publishedAt": "2026-10-01T22:02:31Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -877,6 +885,14 @@
       "points": 14,
       "comments": 6,
       "publishedAt": "2026-09-30T20:34:49Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: Premortem – AI agents that red-team your startup idea",
+      "url": "https://premortem.site",
+      "points": 7,
+      "comments": 7,
+      "publishedAt": "2026-10-01T20:30:02Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -894,36 +910,20 @@
       "comments": 1,
       "publishedAt": "2026-09-30T15:20:26Z",
       "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Where We Expect AMD EPYC 9006 CPUs in the Era of Agentic AI – ServeTheHome",
-      "url": "https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/",
-      "points": 6,
-      "comments": 0,
-      "publishedAt": "2026-10-01T17:50:27Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Fast browser agent (using Jev) with deep reasoning as needed",
-      "url": "https://github.com/ironbee-ai/ironbee-express",
-      "points": 6,
-      "comments": 0,
-      "publishedAt": "2026-10-01T15:15:33Z",
-      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "DietrichGebert/ponytail",
-      "starsToday": 1179
+      "starsToday": 1194
     },
     {
       "repo": "mattpocock/skills",
-      "starsToday": 888
+      "starsToday": 883
     },
     {
       "repo": "NVIDIA/OpenShell",
-      "starsToday": 2503
+      "starsToday": 2456
     },
     {
       "repo": "firebase/firebase-ios-sdk",
@@ -931,35 +931,35 @@
     },
     {
       "repo": "mvschwarz/openrig",
-      "starsToday": 640
+      "starsToday": 642
     },
     {
       "repo": "cursor/plugins",
-      "starsToday": 157
+      "starsToday": 150
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 476
+      "starsToday": 455
     },
     {
       "repo": "mksglu/context-mode",
-      "starsToday": 357
+      "starsToday": 362
     },
     {
       "repo": "heygen-com/hyperframes",
-      "starsToday": 624
+      "starsToday": 627
     },
     {
       "repo": "earendil-works/pi",
-      "starsToday": 294
+      "starsToday": 298
     },
     {
       "repo": "tile-ai/tilelang",
-      "starsToday": 157
+      "starsToday": 163
     },
     {
       "repo": "pablostanley/yoinks",
-      "starsToday": 356
+      "starsToday": 361
     }
   ],
   "monitored": [
@@ -976,8 +976,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 87395,
-      "forks": 7704,
+      "stars": 87489,
+      "forks": 7712,
       "issues": 174,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -1039,8 +1039,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27621,
-      "forks": 2661,
+      "stars": 27627,
+      "forks": 2662,
       "issues": 880,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
