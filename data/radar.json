@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T21:08:44.987Z",
-  "generatedLabel": "2 de out. de 2026 · 18:08",
+  "generatedAt": "2026-10-03T01:50:49.755Z",
+  "generatedLabel": "2 de out. de 2026 · 22:50",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,13 +45,13 @@
         "antes e depois do código"
       ],
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 151631,
-      "forks": 8130,
-      "issues": 309,
+      "stars": 151853,
+      "forks": 8143,
+      "issues": 272,
       "language": "JavaScript",
-      "pushedAt": "2026-10-02T16:22:48Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 1429,
+      "pushedAt": "2026-10-03T01:41:50Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1435,
       "score": 91,
       "social": [
         {
@@ -125,12 +125,12 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 274634,
-      "forks": 23057,
+      "stars": 274733,
+      "forks": 23062,
       "issues": 544,
       "language": "Shell",
       "pushedAt": "2026-09-29T12:38:37Z",
-      "pushedLabel": "push há 3d",
+      "pushedLabel": "push há 4d",
       "trendingStarsToday": 955,
       "score": 83,
       "social": [
@@ -218,13 +218,13 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 294397,
-      "forks": 26317,
-      "issues": 295,
+      "stars": 294482,
+      "forks": 26320,
+      "issues": 297,
       "language": "Shell",
       "pushedAt": "2026-09-27T02:37:47Z",
       "pushedLabel": "push há 6d",
-      "trendingStarsToday": 561,
+      "trendingStarsToday": 556,
       "score": 80,
       "social": [
         {
@@ -252,7 +252,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 561 stars hoje",
+          "label": "GitHub Trending · 556 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -298,13 +298,13 @@
         "limitação: Windows via WSL 2 ainda experimental"
       ],
       "url": "https://github.com/NVIDIA/OpenShell",
-      "stars": 14386,
-      "forks": 1657,
-      "issues": 532,
+      "stars": 14444,
+      "forks": 1660,
+      "issues": 534,
       "language": "Rust",
-      "pushedAt": "2026-10-02T21:08:38Z",
+      "pushedAt": "2026-10-03T01:40:12Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 584,
+      "trendingStarsToday": 594,
       "score": 79,
       "social": [
         {
@@ -332,7 +332,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 584 stars hoje",
+          "label": "GitHub Trending · 594 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -389,7 +389,7 @@
       "title": "impeccable",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 717 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 722 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "The design language that makes your AI harness better at design.",
       "broll": [
         "GitHub Trending",
@@ -398,13 +398,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 74233,
-      "forks": 4473,
-      "issues": 54,
+      "stars": 74344,
+      "forks": 4482,
+      "issues": 61,
       "language": "JavaScript",
-      "pushedAt": "2026-10-02T07:05:04Z",
-      "pushedLabel": "push há 14h",
-      "trendingStarsToday": 717,
+      "pushedAt": "2026-10-03T01:26:40Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 722,
       "score": 72,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -415,7 +415,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 717 stars hoje",
+          "label": "GitHub Trending · 722 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -438,59 +438,6 @@
       "rank": 5
     },
     {
-      "repo": "JuliusBrussee/caveman",
-      "title": "caveman",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 271 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "stars": 109035,
-      "forks": 6315,
-      "issues": 167,
-      "language": "Go",
-      "pushedAt": "2026-10-02T20:17:15Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 271,
-      "score": 67,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/JuliusBrussee/caveman",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 271 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=JuliusBrussee%20caveman%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=caveman%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=caveman%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 6
-    },
-    {
       "repo": "Panniantong/Agent-Reach",
       "type": "Repo monitorado",
       "status": "Monitorar hoje",
@@ -503,13 +450,13 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 88469,
-      "forks": 7790,
+      "stars": 88686,
+      "forks": 7807,
       "issues": 191,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 17d",
-      "trendingStarsToday": 683,
+      "trendingStarsToday": 696,
       "score": 65,
       "social": [
         {
@@ -531,7 +478,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 683 stars hoje",
+          "label": "GitHub Trending · 696 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -556,6 +503,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 6
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "title": "caveman",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 209 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "stars": 109111,
+      "forks": 6316,
+      "issues": 134,
+      "language": "Go",
+      "pushedAt": "2026-10-03T01:34:05Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 209,
+      "score": 65,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 209 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=JuliusBrussee%20caveman%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=caveman%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=caveman%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 7
     },
     {
@@ -572,12 +572,12 @@
       ],
       "title": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 76225,
-      "forks": 5127,
+      "stars": 76282,
+      "forks": 5132,
       "issues": 183,
       "language": "JavaScript",
       "pushedAt": "2026-10-02T14:08:03Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 12h",
       "trendingStarsToday": null,
       "score": 62,
       "social": [
@@ -634,13 +634,13 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/coreyhaines31/marketingskills",
-      "stars": 52360,
-      "forks": 7876,
-      "issues": 149,
+      "stars": 52424,
+      "forks": 7879,
+      "issues": 41,
       "language": "JavaScript",
-      "pushedAt": "2026-10-02T19:59:50Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 139,
+      "pushedAt": "2026-10-03T01:50:42Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 140,
       "score": 61,
       "social": [
         {
@@ -660,7 +660,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 139 stars hoje",
+          "label": "GitHub Trending · 140 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -702,9 +702,9 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 43339,
-      "forks": 3121,
-      "issues": 261,
+      "stars": 43357,
+      "forks": 3125,
+      "issues": 260,
       "language": "Go",
       "pushedAt": "2026-10-01T20:40:46Z",
       "pushedLabel": "push há 1d",
@@ -816,9 +816,17 @@
   ],
   "news": [
     {
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "points": 68,
+      "comments": 41,
+      "publishedAt": "2026-10-02T20:00:15Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
       "title": "Identity Management for Agentic AI [pdf] (2025)",
       "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-      "points": 77,
+      "points": 78,
       "comments": 28,
       "publishedAt": "2026-10-01T15:11:10Z",
       "source": "Hacker News / Algolia"
@@ -832,19 +840,19 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "url": "https://github.com/anteloc/ldraw-nova",
-      "points": 26,
-      "comments": 12,
-      "publishedAt": "2026-10-02T20:00:15Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
       "title": "Show HN: Premortem – AI agents that red-team your startup idea",
       "url": "https://premortem.site",
       "points": 11,
-      "comments": 11,
+      "comments": 12,
       "publishedAt": "2026-10-01T20:30:02Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "points": 18,
+      "comments": 7,
+      "publishedAt": "2026-10-02T19:03:03Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -854,36 +862,28 @@
       "comments": 2,
       "publishedAt": "2026-10-02T13:37:18Z",
       "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "points": 13,
-      "comments": 3,
-      "publishedAt": "2026-10-02T19:03:03Z",
-      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "Panniantong/Agent-Reach",
-      "starsToday": 683
+      "starsToday": 696
     },
     {
       "repo": "JuliusBrussee/caveman",
-      "starsToday": 271
+      "starsToday": 209
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 561
+      "starsToday": 556
     },
     {
       "repo": "DietrichGebert/ponytail",
-      "starsToday": 1429
+      "starsToday": 1435
     },
     {
       "repo": "pbakaus/impeccable",
-      "starsToday": 717
+      "starsToday": 722
     },
     {
       "repo": "mattpocock/skills",
@@ -891,27 +891,27 @@
     },
     {
       "repo": "NVIDIA/OpenShell",
-      "starsToday": 584
+      "starsToday": 594
     },
     {
       "repo": "coreyhaines31/marketingskills",
-      "starsToday": 139
+      "starsToday": 140
     },
     {
       "repo": "heygen-com/hyperframes",
-      "starsToday": 584
+      "starsToday": 580
     },
     {
       "repo": "mksglu/context-mode",
-      "starsToday": 276
+      "starsToday": 282
     },
     {
       "repo": "google/skills",
-      "starsToday": 78
+      "starsToday": 39
     },
     {
       "repo": "getsentry/sentry",
-      "starsToday": 12
+      "starsToday": 16
     }
   ],
   "monitored": [
@@ -928,13 +928,13 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 88469,
-      "forks": 7790,
+      "stars": 88686,
+      "forks": 7807,
       "issues": 191,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 17d",
-      "trendingStarsToday": 683,
+      "trendingStarsToday": 696,
       "score": 65,
       "social": [
         {
@@ -956,7 +956,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 683 stars hoje",
+          "label": "GitHub Trending · 696 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -981,7 +981,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 6
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
