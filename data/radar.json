@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:06:13.185Z",
-  "generatedLabel": "3 de out. de 2026 · 08:06",
+  "generatedAt": "2026-10-03T14:58:10.040Z",
+  "generatedLabel": "3 de out. de 2026 · 11:58",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,14 +45,14 @@
         "antes e depois do código"
       ],
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 152296,
-      "forks": 8174,
-      "issues": 209,
+      "stars": 152682,
+      "forks": 8192,
+      "issues": 210,
       "language": "JavaScript",
       "pushedAt": "2026-10-03T05:12:55Z",
-      "pushedLabel": "push há 6h",
-      "trendingStarsToday": 1435,
-      "score": 78,
+      "pushedLabel": "push há 10h",
+      "trendingStarsToday": 1289,
+      "score": 77,
       "social": [
         {
           "platform": "Reddit",
@@ -86,7 +86,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,4 mil stars hoje",
+          "label": "GitHub Trending · 1,3 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -137,14 +137,14 @@
         "comparação de agentes"
       ],
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 271722,
-      "forks": 40582,
+      "stars": 271887,
+      "forks": 40602,
       "issues": 340,
       "language": "JavaScript",
       "pushedAt": "2026-10-02T02:01:14Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 578,
-      "score": 73,
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 954,
+      "score": 76,
       "social": [
         {
           "platform": "YouTube",
@@ -163,7 +163,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 578 stars hoje",
+          "label": "GitHub Trending · 954 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -195,7 +195,7 @@
       "title": "impeccable",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 722 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 705 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "The design language that makes your AI harness better at design.",
       "broll": [
         "GitHub Trending",
@@ -204,13 +204,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 74611,
-      "forks": 4492,
+      "stars": 74842,
+      "forks": 4499,
       "issues": 64,
       "language": "JavaScript",
       "pushedAt": "2026-10-03T07:35:50Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 722,
+      "pushedLabel": "push há 7h",
+      "trendingStarsToday": 705,
       "score": 72,
       "social": [
         {
@@ -229,7 +229,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 722 stars hoje",
+          "label": "GitHub Trending · 705 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -257,6 +257,127 @@
       "rank": 3
     },
     {
+      "repo": "Panniantong/Agent-Reach",
+      "type": "Repo monitorado",
+      "status": "Monitorar hoje",
+      "hook": "O agente que não navega está cego.",
+      "thesis": "Agentes com acesso à web ampliam pesquisa e automação.",
+      "broll": [
+        "README",
+        "lista de plataformas",
+        "exemplos web"
+      ],
+      "title": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars": 89476,
+      "forks": 7874,
+      "issues": 195,
+      "language": "Python",
+      "pushedAt": "2026-09-15T16:16:24Z",
+      "pushedLabel": "push há 18d",
+      "trendingStarsToday": 1683,
+      "score": 71,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN",
+          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
+          "views": 17073,
+          "likes": 445,
+          "comments": 27,
+          "publishedAt": "2026-06-18",
+          "verifiedAt": "14 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,7 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN",
+          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=Panniantong%20Agent-Reach%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Reach%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "title": "caveman",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 505 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "stars": 109366,
+      "forks": 6326,
+      "issues": 144,
+      "language": "Go",
+      "pushedAt": "2026-10-03T08:07:10Z",
+      "pushedLabel": "push há 7h",
+      "trendingStarsToday": 505,
+      "score": 71,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 505 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=JuliusBrussee%20caveman%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=caveman%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=caveman%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 5
+    },
+    {
       "repo": "mattpocock/skills",
       "title": "Skills para agentes",
       "type": "Skills para agentes",
@@ -270,14 +391,14 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 274991,
-      "forks": 23079,
-      "issues": 545,
+      "stars": 275125,
+      "forks": 23087,
+      "issues": 546,
       "language": "Shell",
       "pushedAt": "2026-09-29T12:38:37Z",
       "pushedLabel": "push há 4d",
-      "trendingStarsToday": 955,
-      "score": 69,
+      "trendingStarsToday": 750,
+      "score": 68,
       "social": [
         {
           "platform": "Reddit",
@@ -312,7 +433,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 955 stars hoje",
+          "label": "GitHub Trending · 750 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -347,128 +468,60 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 6
     },
     {
-      "repo": "Panniantong/Agent-Reach",
-      "type": "Repo monitorado",
-      "status": "Monitorar hoje",
-      "hook": "O agente que não navega está cego.",
-      "thesis": "Agentes com acesso à web ampliam pesquisa e automação.",
-      "broll": [
-        "README",
-        "lista de plataformas",
-        "exemplos web"
-      ],
-      "title": "Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 89312,
-      "forks": 7860,
-      "issues": 195,
-      "language": "Python",
-      "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 18d",
-      "trendingStarsToday": 696,
-      "score": 65,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN",
-          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
-          "views": 17073,
-          "likes": 445,
-          "comments": 27,
-          "publishedAt": "2026-06-18",
-          "verifiedAt": "14 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/Panniantong/Agent-Reach",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 696 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN",
-          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=Panniantong%20Agent-Reach%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Reach%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "repo": "JuliusBrussee/caveman",
-      "title": "caveman",
+      "repo": "Effect-TS/effect",
+      "title": "effect",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 209 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "hook": "Este repositório ganhou 302 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Build production-ready applications in TypeScript",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "stars": 109289,
-      "forks": 6322,
-      "issues": 143,
-      "language": "Go",
-      "pushedAt": "2026-10-03T08:07:10Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 209,
-      "score": 65,
+      "url": "https://github.com/Effect-TS/effect",
+      "stars": 16712,
+      "forks": 808,
+      "issues": 308,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-03T13:43:40Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 302,
+      "score": 64,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/JuliusBrussee/caveman",
+          "url": "https://github.com/Effect-TS/effect",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 209 stars hoje",
+          "label": "GitHub Trending · 302 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=JuliusBrussee%20caveman%20AI",
+          "url": "https://www.youtube.com/results?search_query=Effect-TS%20effect%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=caveman%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=effect%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=caveman%20AI",
+          "url": "https://www.tiktok.com/search?q=effect%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 7
     },
     {
       "repo": "thedotmack/claude-mem",
@@ -484,12 +537,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 95220,
-      "forks": 8433,
-      "issues": 110,
+      "stars": 95336,
+      "forks": 8442,
+      "issues": 112,
       "language": "TypeScript",
       "pushedAt": "2026-10-03T06:33:20Z",
-      "pushedLabel": "push há 5h",
+      "pushedLabel": "push há 8h",
       "trendingStarsToday": 115,
       "score": 61,
       "social": [],
@@ -521,59 +574,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
-    },
-    {
-      "repo": "Effect-TS/effect",
-      "title": "effect",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 80 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Build production-ready applications in TypeScript",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/Effect-TS/effect",
-      "stars": 16672,
-      "forks": 808,
-      "issues": 306,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-03T07:39:53Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 80,
-      "score": 56,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/Effect-TS/effect",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 80 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=Effect-TS%20effect%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=effect%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=effect%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 8
     },
     {
@@ -589,9 +589,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27654,
-      "forks": 2665,
-      "issues": 887,
+      "stars": 27664,
+      "forks": 2666,
+      "issues": 894,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
       "pushedLabel": "push há 4d",
@@ -628,25 +628,25 @@
     {
       "title": "Show HN: Made an open-source Lego AI generator",
       "url": "https://github.com/anteloc/ldraw-nova",
-      "points": 116,
-      "comments": 45,
+      "points": 125,
+      "comments": 47,
       "publishedAt": "2026-10-02T20:00:15Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Identity Management for Agentic AI [pdf] (2025)",
-      "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-      "points": 78,
-      "comments": 28,
-      "publishedAt": "2026-10-01T15:11:10Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "An AI agent emailed researchers for help. It told us why",
       "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
-      "points": 24,
-      "comments": 36,
+      "points": 44,
+      "comments": 71,
       "publishedAt": "2026-10-03T10:07:08Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Identity Management for Agentic AI [pdf] (2025)",
+      "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+      "points": 81,
+      "comments": 28,
+      "publishedAt": "2026-10-01T15:11:10Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -668,7 +668,7 @@
     {
       "title": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
       "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "points": 18,
+      "points": 19,
       "comments": 7,
       "publishedAt": "2026-10-02T19:03:03Z",
       "source": "Hacker News / Algolia"
@@ -677,27 +677,27 @@
   "trending": [
     {
       "repo": "DietrichGebert/ponytail",
-      "starsToday": 1435
+      "starsToday": 1289
     },
     {
       "repo": "pbakaus/impeccable",
-      "starsToday": 722
+      "starsToday": 705
     },
     {
       "repo": "affaan-m/ECC",
-      "starsToday": 578
+      "starsToday": 954
     },
     {
       "repo": "Effect-TS/effect",
-      "starsToday": 80
+      "starsToday": 302
     },
     {
       "repo": "JuliusBrussee/caveman",
-      "starsToday": 209
+      "starsToday": 505
     },
     {
       "repo": "Panniantong/Agent-Reach",
-      "starsToday": 696
+      "starsToday": 1683
     },
     {
       "repo": "pingdotgg/t3code",
@@ -713,15 +713,15 @@
     },
     {
       "repo": "addyosmani/agent-skills",
-      "starsToday": 189
+      "starsToday": 305
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 556
+      "starsToday": 578
     },
     {
       "repo": "mattpocock/skills",
-      "starsToday": 955
+      "starsToday": 750
     }
   ],
   "monitored": [
@@ -738,14 +738,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 89312,
-      "forks": 7860,
+      "stars": 89476,
+      "forks": 7874,
       "issues": 195,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 18d",
-      "trendingStarsToday": 696,
-      "score": 65,
+      "trendingStarsToday": 1683,
+      "score": 71,
       "social": [
         {
           "platform": "YouTube",
@@ -766,7 +766,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 696 stars hoje",
+          "label": "GitHub Trending · 1,7 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -791,7 +791,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -806,9 +806,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27654,
-      "forks": 2665,
-      "issues": 887,
+      "stars": 27664,
+      "forks": 2666,
+      "issues": 894,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
       "pushedLabel": "push há 4d",
