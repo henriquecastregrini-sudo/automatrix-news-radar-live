@@ -119,7 +119,11 @@ const socialReferences = {
   'anomalyco/opencode': [{ platform: 'YouTube', label: 'Leon van Zyl · tutorial OpenCode · 208k views · publicado 05 MAI', url: 'https://www.youtube.com/watch?v=uZGDO0L-Dr4', views: 208689, publishedAt: '2026-05-05', verifiedAt: '07 SET 2026' }],
   'DietrichGebert/ponytail': [
     { platform: 'Reddit', label: 'r/AgentSkills · comparação de packs de skills que cita Ponytail e Matt Pocock · 105 votos públicos · publicado 05 SET', url: 'https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/', engagement: 105, publishedAt: '2026-09-05', verifiedAt: '01 OUT 2026' },
+    { platform: 'Reddit', label: 'r/BestGitHubRepos · discussão nova sobre a ideia de simplificar código gerado por agentes · comentários recentes; votos não visíveis na checagem', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1wvvn3b/ponytail_makes_your_ai_agent_think_like_the/', publishedAt: '2026-10-02', verifiedAt: '03 OUT 2026' },
     { platform: 'YouTube', label: 'Better Stack · demonstração de Ponytail · 254k views · publicado 20 JUN · referência histórica', url: 'https://www.youtube.com/watch?v=2xuFcmUAQUc', views: 254926, publishedAt: '2026-06-20', verifiedAt: '07 SET 2026' },
+  ],
+  'pbakaus/impeccable': [
+    { platform: 'Reddit', label: 'r/BestGitHubRepos · discussão nova sobre design de interfaces geradas por IA · votos não visíveis na checagem', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1wvg3vz/impeccable_is_a_design_language_that_actually/', publishedAt: '2026-10-02', verifiedAt: '03 OUT 2026' },
   ],
   'heygen-com/hyperframes': [{ platform: 'YouTube', label: 'HeyGen · fluxo de agentes com Hyperframes · 10,9k views · publicado 22 MAI', url: 'https://www.youtube.com/watch?v=9yx8Ja1gztI', views: 10956, publishedAt: '2026-05-22', verifiedAt: '08 SET 2026' }],
   'coreyhaines31/marketingskills': [{ platform: 'YouTube', label: 'The Next New Thing · skills para Claude · 53,4k views · publicado 11 FEV', url: 'https://www.youtube.com/watch?v=YajqB9RDdzI', views: 53450, publishedAt: '2026-02-11', verifiedAt: '08 SET 2026' }],
@@ -255,7 +259,7 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
   const starsToday = trendingMap.get(item.repo.toLowerCase()) || 0;
   const social = socialReferences[item.repo] || [];
   const recentSocial = social.filter((reference) => reference.publishedAt
-    && Date.now() - new Date(`${reference.publishedAt}T12:00:00Z`).getTime() <= 30 * 864e5);
+    && Date.now() - new Date(`${reference.publishedAt}T12:00:00Z`).getTime() <= 7 * 864e5);
   const verifiedRecentSocial = recentSocial.filter((reference) => ['views', 'engagement', 'likes', 'comments']
     .some((metric) => Number.isFinite(reference[metric])));
   const socialSignal = Math.max(0, ...verifiedRecentSocial.map((reference) => reference.views || reference.engagement || reference.likes || reference.comments || 0));
