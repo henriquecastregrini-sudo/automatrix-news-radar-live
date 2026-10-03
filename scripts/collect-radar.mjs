@@ -165,7 +165,10 @@ const socialReferences = {
   'jihe520/MathModelAgent': [{ platform: 'YouTube', label: 'hen ji · modelagem matemática automática · 801 views · publicado 01 MAI 2025', url: 'https://www.youtube.com/watch?v=PO9lGVyh2t8', views: 801, likes: 12, comments: 4, publishedAt: '2025-05-01', verifiedAt: '12 SET 2026' }],
   'magnitudedev/magnitude': [],
   'K-Dense-AI/scientific-agent-skills': [{ platform: 'YouTube', label: 'K-Dense · skills científicas · 13,5k views · publicado 18 FEV', url: 'https://www.youtube.com/watch?v=ZxbnDaD_FVg', views: 13534, publishedAt: '2026-02-18', verifiedAt: '07 SET 2026' }],
-  'Panniantong/Agent-Reach': [{ platform: 'YouTube', label: 'Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN', url: 'https://www.youtube.com/watch?v=aanqEqQwjNU', views: 17073, likes: 445, comments: 27, publishedAt: '2026-06-18', verifiedAt: '14 SET 2026' }],
+  'Panniantong/Agent-Reach': [
+    { platform: 'Reddit', label: 'r/BestGitHubRepos · post novo explica acesso a web, YouTube e redes para agentes · 22 votos públicos no momento da checagem · publicado 03 OUT; inclui ressalva sobre risco de bloqueio em serviços com login', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1wwip3m/agentreach_give_your_ai_coding_agent_access_to/', engagement: 22, publishedAt: '2026-10-03', verifiedAt: '03 OUT 2026' },
+    { platform: 'YouTube', label: 'Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN · referência histórica', url: 'https://www.youtube.com/watch?v=aanqEqQwjNU', views: 17073, likes: 445, comments: 27, publishedAt: '2026-06-18', verifiedAt: '14 SET 2026' },
+  ],
   'TencentCloud/TencentDB-Agent-Memory': [],
 };
 
