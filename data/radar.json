@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T19:40:19.702Z",
-  "generatedLabel": "3 de out. de 2026 · 16:40",
+  "generatedAt": "2026-10-04T02:29:44.558Z",
+  "generatedLabel": "3 de out. de 2026 · 23:29",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -44,13 +44,13 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 89660,
-      "forks": 7883,
-      "issues": 204,
+      "stars": 89877,
+      "forks": 7907,
+      "issues": 207,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 18d",
-      "trendingStarsToday": 1683,
+      "trendingStarsToday": 1696,
       "score": 82,
       "social": [
         {
@@ -126,13 +126,13 @@
         "antes e depois do código"
       ],
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 153099,
-      "forks": 8209,
-      "issues": 225,
+      "stars": 153506,
+      "forks": 8242,
+      "issues": 226,
       "language": "JavaScript",
       "pushedAt": "2026-10-03T05:12:55Z",
-      "pushedLabel": "push há 14h",
-      "trendingStarsToday": 1289,
+      "pushedLabel": "push há 21h",
+      "trendingStarsToday": 1281,
       "score": 77,
       "social": [
         {
@@ -205,78 +205,11 @@
       "rank": 2
     },
     {
-      "repo": "affaan-m/ECC",
-      "title": "ECC",
-      "type": "Otimização de agentes",
-      "status": "Gravar agora",
-      "hook": "Este sistema promete deixar Claude, Codex e outros agentes mais rápidos, seguros e consistentes.",
-      "thesis": "O próximo salto dos agentes pode vir do harness ao redor do modelo, não de um modelo maior.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "skills e memória",
-        "comparação de agentes"
-      ],
-      "url": "https://github.com/affaan-m/ECC",
-      "stars": 272095,
-      "forks": 40635,
-      "issues": 340,
-      "language": "JavaScript",
-      "pushedAt": "2026-10-02T02:01:14Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 954,
-      "score": 76,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO",
-          "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
-          "views": 1139,
-          "publishedAt": "2026-08-27",
-          "verifiedAt": "08 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/affaan-m/ECC",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 954 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO",
-          "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=affaan-m%20ECC%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=ECC%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=ECC%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "repo": "pbakaus/impeccable",
       "title": "impeccable",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 705 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 699 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "The design language that makes your AI harness better at design.",
       "broll": [
         "GitHub Trending",
@@ -285,13 +218,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 75091,
-      "forks": 4506,
+      "stars": 75371,
+      "forks": 4518,
       "issues": 64,
       "language": "JavaScript",
       "pushedAt": "2026-10-03T07:35:50Z",
-      "pushedLabel": "push há 12h",
-      "trendingStarsToday": 705,
+      "pushedLabel": "push há 19h",
+      "trendingStarsToday": 699,
       "score": 72,
       "social": [
         {
@@ -310,7 +243,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 705 stars hoje",
+          "label": "GitHub Trending · 699 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -335,14 +268,14 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "repo": "JuliusBrussee/caveman",
       "title": "caveman",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 505 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 507 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "broll": [
         "GitHub Trending",
@@ -351,13 +284,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/JuliusBrussee/caveman",
-      "stars": 109456,
-      "forks": 6329,
-      "issues": 144,
+      "stars": 109552,
+      "forks": 6337,
+      "issues": 145,
       "language": "Go",
-      "pushedAt": "2026-10-03T08:07:10Z",
-      "pushedLabel": "push há 12h",
-      "trendingStarsToday": 505,
+      "pushedAt": "2026-10-04T01:51:46Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 507,
       "score": 71,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -368,7 +301,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 505 stars hoje",
+          "label": "GitHub Trending · 507 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -388,6 +321,73 @@
           "kind": "busca"
         }
       ],
+      "rank": 4
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "title": "ECC",
+      "type": "Otimização de agentes",
+      "status": "Gravar agora",
+      "hook": "Este sistema promete deixar Claude, Codex e outros agentes mais rápidos, seguros e consistentes.",
+      "thesis": "O próximo salto dos agentes pode vir do harness ao redor do modelo, não de um modelo maior.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "skills e memória",
+        "comparação de agentes"
+      ],
+      "url": "https://github.com/affaan-m/ECC",
+      "stars": 272303,
+      "forks": 40659,
+      "issues": 340,
+      "language": "JavaScript",
+      "pushedAt": "2026-10-02T02:01:14Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 897,
+      "score": 69,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO",
+          "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
+          "views": 1139,
+          "publishedAt": "2026-08-27",
+          "verifiedAt": "08 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/affaan-m/ECC",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 897 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO",
+          "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=affaan-m%20ECC%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=ECC%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=ECC%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 5
     },
     {
@@ -404,13 +404,13 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 275273,
-      "forks": 23098,
-      "issues": 547,
+      "stars": 275401,
+      "forks": 23108,
+      "issues": 548,
       "language": "Shell",
       "pushedAt": "2026-09-29T12:38:37Z",
-      "pushedLabel": "push há 4d",
-      "trendingStarsToday": 750,
+      "pushedLabel": "push há 5d",
+      "trendingStarsToday": 751,
       "score": 68,
       "social": [
         {
@@ -446,7 +446,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 750 stars hoje",
+          "label": "GitHub Trending · 751 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -484,59 +484,6 @@
       "rank": 6
     },
     {
-      "repo": "thedotmack/claude-mem",
-      "title": "claude-mem",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 218 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 95470,
-      "forks": 8452,
-      "issues": 123,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-03T06:33:20Z",
-      "pushedLabel": "push há 13h",
-      "trendingStarsToday": 218,
-      "score": 65,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 218 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=thedotmack%20claude-mem%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-mem%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=claude-mem%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 7
-    },
-    {
       "repo": "Effect-TS/effect",
       "title": "effect",
       "type": "Novo no GitHub Trending",
@@ -550,11 +497,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Effect-TS/effect",
-      "stars": 16769,
-      "forks": 811,
-      "issues": 319,
+      "stars": 16836,
+      "forks": 814,
+      "issues": 309,
       "language": "TypeScript",
-      "pushedAt": "2026-10-03T19:39:50Z",
+      "pushedAt": "2026-10-04T02:11:54Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 302,
       "score": 64,
@@ -587,6 +534,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 7
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "title": "claude-mem",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 79 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/thedotmack/claude-mem",
+      "stars": 95621,
+      "forks": 8462,
+      "issues": 128,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-04T01:18:09Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 79,
+      "score": 58,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 79 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=thedotmack%20claude-mem%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-mem%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=claude-mem%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 8
     },
     {
@@ -602,12 +602,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27671,
-      "forks": 2667,
+      "stars": 27678,
+      "forks": 2668,
       "issues": 894,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
-      "pushedLabel": "push há 4d",
+      "pushedLabel": "push há 5d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
@@ -641,7 +641,7 @@
     {
       "title": "Show HN: Made an open-source Lego AI generator",
       "url": "https://github.com/anteloc/ldraw-nova",
-      "points": 135,
+      "points": 143,
       "comments": 49,
       "publishedAt": "2026-10-02T20:00:15Z",
       "source": "Hacker News / Algolia"
@@ -655,27 +655,11 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Aweb – Communication for AI Agents",
-      "url": "https://aweb.ai",
-      "points": 39,
-      "comments": 28,
-      "publishedAt": "2026-10-01T22:02:31Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
       "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
       "url": "https://pipod.dev/",
-      "points": 23,
-      "comments": 14,
+      "points": 78,
+      "comments": 30,
       "publishedAt": "2026-10-02T19:10:38Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Premortem – AI agents that red-team your startup idea",
-      "url": "https://premortem.site",
-      "points": 11,
-      "comments": 12,
-      "publishedAt": "2026-10-01T20:30:02Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -685,20 +669,36 @@
       "comments": 7,
       "publishedAt": "2026-10-02T19:03:03Z",
       "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
+      "url": "https://www.kapa.ai/blog/company-knowledge-bench",
+      "points": 26,
+      "comments": 3,
+      "publishedAt": "2026-10-02T13:37:18Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: Google Maps Scraper MCP",
+      "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
+      "points": 9,
+      "comments": 5,
+      "publishedAt": "2026-10-03T01:46:39Z",
+      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "DietrichGebert/ponytail",
-      "starsToday": 1289
+      "starsToday": 1281
     },
     {
       "repo": "pbakaus/impeccable",
-      "starsToday": 705
+      "starsToday": 699
     },
     {
       "repo": "affaan-m/ECC",
-      "starsToday": 954
+      "starsToday": 897
     },
     {
       "repo": "Effect-TS/effect",
@@ -706,35 +706,35 @@
     },
     {
       "repo": "JuliusBrussee/caveman",
-      "starsToday": 505
+      "starsToday": 507
     },
     {
       "repo": "Panniantong/Agent-Reach",
-      "starsToday": 1683
+      "starsToday": 1696
     },
     {
       "repo": "pingdotgg/t3code",
-      "starsToday": 251
+      "starsToday": 252
     },
     {
       "repo": "thedotmack/claude-mem",
-      "starsToday": 218
+      "starsToday": 79
     },
     {
       "repo": "cloudflare/cloudflare-os",
-      "starsToday": 84
+      "starsToday": 85
     },
     {
       "repo": "addyosmani/agent-skills",
-      "starsToday": 305
+      "starsToday": 252
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 578
+      "starsToday": 577
     },
     {
       "repo": "mattpocock/skills",
-      "starsToday": 750
+      "starsToday": 751
     }
   ],
   "monitored": [
@@ -751,13 +751,13 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 89660,
-      "forks": 7883,
-      "issues": 204,
+      "stars": 89877,
+      "forks": 7907,
+      "issues": 207,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 18d",
-      "trendingStarsToday": 1683,
+      "trendingStarsToday": 1696,
       "score": 82,
       "social": [
         {
@@ -832,12 +832,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27671,
-      "forks": 2667,
+      "stars": 27678,
+      "forks": 2668,
       "issues": 894,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
-      "pushedLabel": "push há 4d",
+      "pushedLabel": "push há 5d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
