@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T15:31:14.047Z",
-  "generatedLabel": "4 de out. de 2026 · 12:31",
+  "generatedAt": "2026-10-04T19:53:39.468Z",
+  "generatedLabel": "4 de out. de 2026 · 16:53",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,12 +45,12 @@
         "antes e depois do código"
       ],
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 154407,
-      "forks": 8306,
-      "issues": 227,
+      "stars": 154673,
+      "forks": 8317,
+      "issues": 229,
       "language": "JavaScript",
       "pushedAt": "2026-10-03T05:12:55Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": 1894,
       "score": 79,
       "social": [
@@ -136,9 +136,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 90514,
-      "forks": 7957,
-      "issues": 208,
+      "stars": 90695,
+      "forks": 7972,
+      "issues": 209,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 19d",
@@ -218,12 +218,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 75958,
-      "forks": 4543,
-      "issues": 57,
+      "stars": 76154,
+      "forks": 4544,
+      "issues": 59,
       "language": "JavaScript",
-      "pushedAt": "2026-10-04T09:42:55Z",
-      "pushedLabel": "push há 6h",
+      "pushedAt": "2026-10-04T18:13:24Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": 1170,
       "score": 76,
       "social": [
@@ -271,73 +271,6 @@
       "rank": 3
     },
     {
-      "repo": "coreyhaines31/marketingskills",
-      "title": "Marketing Skills",
-      "type": "Skills de marketing",
-      "status": "Gravar agora",
-      "hook": "Este repo transforma copy, SEO, CRO e analytics em habilidades reutilizáveis por agentes.",
-      "thesis": "Times de marketing estão começando a ser empacotados como infraestrutura para agentes.",
-      "broll": [
-        "diretório de skills",
-        "README",
-        "exemplos de copy e CRO",
-        "GitHub Trending"
-      ],
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "stars": 52866,
-      "forks": 7911,
-      "issues": 84,
-      "language": "JavaScript",
-      "pushedAt": "2026-10-03T01:51:50Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 345,
-      "score": 67,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "The Next New Thing · skills para Claude · 53,4k views · publicado 11 FEV",
-          "url": "https://www.youtube.com/watch?v=YajqB9RDdzI",
-          "views": 53450,
-          "publishedAt": "2026-02-11",
-          "verifiedAt": "08 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/coreyhaines31/marketingskills",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 345 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · The Next New Thing · skills para Claude · 53,4k views · publicado 11 FEV",
-          "url": "https://www.youtube.com/watch?v=YajqB9RDdzI",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=coreyhaines31%20marketingskills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Marketing%20Skills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Marketing%20Skills%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
-    },
-    {
       "repo": "calesthio/OpenMontage",
       "title": "OpenMontage",
       "type": "Produção de vídeo por agentes",
@@ -351,14 +284,14 @@
         "vídeo final e relatório de proveniência"
       ],
       "url": "https://github.com/calesthio/OpenMontage",
-      "stars": 62948,
-      "forks": 8034,
-      "issues": 342,
+      "stars": 63084,
+      "forks": 8044,
+      "issues": 341,
       "language": "Python",
       "pushedAt": "2026-10-03T16:28:55Z",
-      "pushedLabel": "push há 23h",
-      "trendingStarsToday": 292,
-      "score": 66,
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 361,
+      "score": 68,
       "social": [
         {
           "platform": "YouTube",
@@ -379,7 +312,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 292 stars hoje",
+          "label": "GitHub Trending · 361 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -404,6 +337,73 @@
           "kind": "busca"
         }
       ],
+      "rank": 4
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "title": "Marketing Skills",
+      "type": "Skills de marketing",
+      "status": "Gravar agora",
+      "hook": "Este repo transforma copy, SEO, CRO e analytics em habilidades reutilizáveis por agentes.",
+      "thesis": "Times de marketing estão começando a ser empacotados como infraestrutura para agentes.",
+      "broll": [
+        "diretório de skills",
+        "README",
+        "exemplos de copy e CRO",
+        "GitHub Trending"
+      ],
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "stars": 52977,
+      "forks": 7915,
+      "issues": 97,
+      "language": "JavaScript",
+      "pushedAt": "2026-10-03T01:51:50Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 270,
+      "score": 65,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "The Next New Thing · skills para Claude · 53,4k views · publicado 11 FEV",
+          "url": "https://www.youtube.com/watch?v=YajqB9RDdzI",
+          "views": 53450,
+          "publishedAt": "2026-02-11",
+          "verifiedAt": "08 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 270 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · The Next New Thing · skills para Claude · 53,4k views · publicado 11 FEV",
+          "url": "https://www.youtube.com/watch?v=YajqB9RDdzI",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=coreyhaines31%20marketingskills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Marketing%20Skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Marketing%20Skills%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 5
     },
     {
@@ -420,12 +420,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/getsentry/sentry",
-      "stars": 45299,
-      "forks": 4900,
+      "stars": 45348,
+      "forks": 4901,
       "issues": 2289,
       "language": "Python",
       "pushedAt": "2026-10-04T12:53:53Z",
-      "pushedLabel": "push há 3h",
+      "pushedLabel": "push há 7h",
       "trendingStarsToday": 152,
       "score": 61,
       "social": [],
@@ -473,12 +473,12 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/earthtojake/text-to-cad",
-      "stars": 16718,
-      "forks": 1730,
+      "stars": 16792,
+      "forks": 1736,
       "issues": 31,
       "language": "Python",
-      "pushedAt": "2026-10-04T14:45:29Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-10-04T17:24:20Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": 75,
       "score": 55,
       "social": [],
@@ -525,7 +525,7 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27685,
+      "stars": 27688,
       "forks": 2671,
       "issues": 896,
       "language": "TypeScript",
@@ -564,8 +564,8 @@
     {
       "title": "Show HN: Made an open-source Lego AI generator",
       "url": "https://github.com/anteloc/ldraw-nova",
-      "points": 149,
-      "comments": 49,
+      "points": 153,
+      "comments": 50,
       "publishedAt": "2026-10-02T20:00:15Z",
       "source": "Hacker News / Algolia"
     },
@@ -573,32 +573,16 @@
       "title": "An AI agent emailed researchers for help. It told us why",
       "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
       "points": 49,
-      "comments": 78,
+      "comments": 79,
       "publishedAt": "2026-10-03T10:07:08Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-      "url": "https://pipod.dev/",
-      "points": 108,
-      "comments": 41,
-      "publishedAt": "2026-10-02T19:10:38Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Three AI agents, two countries, and one uneven world wide web",
       "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-      "points": 38,
+      "points": 40,
       "comments": 1,
       "publishedAt": "2026-10-02T20:39:05Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "points": 19,
-      "comments": 7,
-      "publishedAt": "2026-10-02T19:03:03Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -607,6 +591,22 @@
       "points": 9,
       "comments": 5,
       "publishedAt": "2026-10-03T01:46:39Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Apple will limit Mac disk access as AI agents 'substantially' increase risk",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "points": 9,
+      "comments": 1,
+      "publishedAt": "2026-10-02T20:33:32Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Nobody Asked AI to Hack Hugging Face. So Why Did It?",
+      "url": "https://ankitjain.info/ankit/2026/09/28/ai-agents-sandboxes-hugging-face-incident/",
+      "points": 5,
+      "comments": 2,
+      "publishedAt": "2026-10-03T08:42:07Z",
       "source": "Hacker News / Algolia"
     }
   ],
@@ -621,7 +621,7 @@
     },
     {
       "repo": "coreyhaines31/marketingskills",
-      "starsToday": 345
+      "starsToday": 270
     },
     {
       "repo": "DietrichGebert/ponytail",
@@ -641,7 +641,7 @@
     },
     {
       "repo": "calesthio/OpenMontage",
-      "starsToday": 292
+      "starsToday": 361
     },
     {
       "repo": "pingdotgg/t3code",
@@ -674,9 +674,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 90514,
-      "forks": 7957,
-      "issues": 208,
+      "stars": 90695,
+      "forks": 7972,
+      "issues": 209,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 19d",
@@ -755,7 +755,7 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27685,
+      "stars": 27688,
       "forks": 2671,
       "issues": 896,
       "language": "TypeScript",
