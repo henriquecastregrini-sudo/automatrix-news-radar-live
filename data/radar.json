@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T19:53:39.468Z",
-  "generatedLabel": "4 de out. de 2026 · 16:53",
+  "generatedAt": "2026-10-05T01:46:50.951Z",
+  "generatedLabel": "4 de out. de 2026 · 22:46",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,12 +45,12 @@
         "antes e depois do código"
       ],
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 154673,
-      "forks": 8317,
-      "issues": 229,
+      "stars": 154919,
+      "forks": 8326,
+      "issues": 153,
       "language": "JavaScript",
-      "pushedAt": "2026-10-03T05:12:55Z",
-      "pushedLabel": "push há 2d",
+      "pushedAt": "2026-10-05T01:14:15Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 1894,
       "score": 79,
       "social": [
@@ -136,13 +136,13 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 90695,
-      "forks": 7972,
-      "issues": 209,
+      "stars": 90925,
+      "forks": 7987,
+      "issues": 210,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 19d",
-      "trendingStarsToday": 979,
+      "trendingStarsToday": 980,
       "score": 79,
       "social": [
         {
@@ -172,7 +172,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 979 stars hoje",
+          "label": "GitHub Trending · 980 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -218,13 +218,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 76154,
-      "forks": 4544,
-      "issues": 59,
+      "stars": 76326,
+      "forks": 4551,
+      "issues": 56,
       "language": "JavaScript",
-      "pushedAt": "2026-10-04T18:13:24Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 1170,
+      "pushedAt": "2026-10-05T01:38:28Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1171,
       "score": 76,
       "social": [
         {
@@ -284,14 +284,14 @@
         "vídeo final e relatório de proveniência"
       ],
       "url": "https://github.com/calesthio/OpenMontage",
-      "stars": 63084,
-      "forks": 8044,
-      "issues": 341,
+      "stars": 63245,
+      "forks": 8062,
+      "issues": 351,
       "language": "Python",
       "pushedAt": "2026-10-03T16:28:55Z",
       "pushedLabel": "push há 1d",
-      "trendingStarsToday": 361,
-      "score": 68,
+      "trendingStarsToday": 245,
+      "score": 65,
       "social": [
         {
           "platform": "YouTube",
@@ -312,7 +312,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 361 stars hoje",
+          "label": "GitHub Trending · 245 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -353,14 +353,14 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/coreyhaines31/marketingskills",
-      "stars": 52977,
-      "forks": 7915,
-      "issues": 97,
+      "stars": 53095,
+      "forks": 7920,
+      "issues": 116,
       "language": "JavaScript",
       "pushedAt": "2026-10-03T01:51:50Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 270,
-      "score": 65,
+      "trendingStarsToday": 197,
+      "score": 63,
       "social": [
         {
           "platform": "YouTube",
@@ -379,7 +379,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 270 stars hoje",
+          "label": "GitHub Trending · 197 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -420,12 +420,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/getsentry/sentry",
-      "stars": 45348,
-      "forks": 4901,
-      "issues": 2289,
+      "stars": 45393,
+      "forks": 4904,
+      "issues": 2291,
       "language": "Python",
-      "pushedAt": "2026-10-04T12:53:53Z",
-      "pushedLabel": "push há 7h",
+      "pushedAt": "2026-10-04T21:01:13Z",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": 152,
       "score": 61,
       "social": [],
@@ -473,14 +473,14 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/earthtojake/text-to-cad",
-      "stars": 16792,
-      "forks": 1736,
-      "issues": 31,
+      "stars": 16883,
+      "forks": 1743,
+      "issues": 45,
       "language": "Python",
-      "pushedAt": "2026-10-04T17:24:20Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 75,
-      "score": 55,
+      "pushedAt": "2026-10-05T01:29:19Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 83,
+      "score": 56,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -490,7 +490,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 75 stars hoje",
+          "label": "GitHub Trending · 83 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -525,12 +525,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27688,
-      "forks": 2671,
+      "stars": 27692,
+      "forks": 2672,
       "issues": 896,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
-      "pushedLabel": "push há 5d",
+      "pushedLabel": "push há 6d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
@@ -562,43 +562,11 @@
   ],
   "news": [
     {
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "url": "https://github.com/anteloc/ldraw-nova",
-      "points": 153,
-      "comments": 50,
-      "publishedAt": "2026-10-02T20:00:15Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
       "title": "An AI agent emailed researchers for help. It told us why",
       "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
       "points": 49,
       "comments": 79,
       "publishedAt": "2026-10-03T10:07:08Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Three AI agents, two countries, and one uneven world wide web",
-      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-      "points": 40,
-      "comments": 1,
-      "publishedAt": "2026-10-02T20:39:05Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Google Maps Scraper MCP",
-      "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
-      "points": 9,
-      "comments": 5,
-      "publishedAt": "2026-10-03T01:46:39Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Apple will limit Mac disk access as AI agents 'substantially' increase risk",
-      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "points": 9,
-      "comments": 1,
-      "publishedAt": "2026-10-02T20:33:32Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -608,20 +576,52 @@
       "comments": 2,
       "publishedAt": "2026-10-03T08:42:07Z",
       "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "98% of US households aren't paying for AI yet",
+      "url": "https://www.a16z.news/p/state-of-markets-ii",
+      "points": 6,
+      "comments": 1,
+      "publishedAt": "2026-10-04T12:16:13Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "How many AI agents could run on the AI chips shipped through 2027?",
+      "url": "https://epoch.ai/publications/estimating-the-agent-population",
+      "points": 4,
+      "comments": 2,
+      "publishedAt": "2026-10-03T14:17:36Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "points": 6,
+      "comments": 0,
+      "publishedAt": "2026-10-03T07:18:45Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Apple says it's tightening macOS privacy controls amid the rise of AI agents",
+      "url": "https://9to5mac.com/2026/10/02/apple-says-its-tightening-macos-privacy-controls-amid-the-rise-of-ai-agents/",
+      "points": 1,
+      "comments": 2,
+      "publishedAt": "2026-10-04T16:02:07Z",
+      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "tester-army/e2e",
-      "starsToday": 344
+      "starsToday": 345
     },
     {
       "repo": "pbakaus/impeccable",
-      "starsToday": 1170
+      "starsToday": 1171
     },
     {
       "repo": "coreyhaines31/marketingskills",
-      "starsToday": 270
+      "starsToday": 197
     },
     {
       "repo": "DietrichGebert/ponytail",
@@ -629,11 +629,11 @@
     },
     {
       "repo": "earthtojake/text-to-cad",
-      "starsToday": 75
+      "starsToday": 83
     },
     {
       "repo": "Panniantong/Agent-Reach",
-      "starsToday": 979
+      "starsToday": 980
     },
     {
       "repo": "getsentry/sentry",
@@ -641,23 +641,23 @@
     },
     {
       "repo": "calesthio/OpenMontage",
-      "starsToday": 361
+      "starsToday": 245
     },
     {
       "repo": "pingdotgg/t3code",
-      "starsToday": 492
+      "starsToday": 490
     },
     {
       "repo": "caddyserver/caddy",
-      "starsToday": 31
+      "starsToday": 24
+    },
+    {
+      "repo": "michael-denyer/pstack-claude",
+      "starsToday": 232
     },
     {
       "repo": "addyosmani/agent-skills",
       "starsToday": 336
-    },
-    {
-      "repo": "thedotmack/claude-mem",
-      "starsToday": 627
     }
   ],
   "monitored": [
@@ -674,13 +674,13 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 90695,
-      "forks": 7972,
-      "issues": 209,
+      "stars": 90925,
+      "forks": 7987,
+      "issues": 210,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 19d",
-      "trendingStarsToday": 979,
+      "trendingStarsToday": 980,
       "score": 79,
       "social": [
         {
@@ -710,7 +710,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 979 stars hoje",
+          "label": "GitHub Trending · 980 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -755,12 +755,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27688,
-      "forks": 2671,
+      "stars": 27692,
+      "forks": 2672,
       "issues": 896,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
-      "pushedLabel": "push há 5d",
+      "pushedLabel": "push há 6d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
