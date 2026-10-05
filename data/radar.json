@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T01:46:50.951Z",
-  "generatedLabel": "4 de out. de 2026 · 22:46",
+  "generatedAt": "2026-10-05T19:24:44.217Z",
+  "generatedLabel": "5 de out. de 2026 · 16:24",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -32,98 +32,6 @@
   ],
   "repos": [
     {
-      "repo": "DietrichGebert/ponytail",
-      "title": "Ponytail",
-      "type": "Skill para agentes",
-      "status": "Gravar agora",
-      "hook": "Um repo está ensinando agentes a pensar como o desenvolvedor sênior mais preguiçoso da equipe.",
-      "thesis": "A habilidade mais valiosa de um agente pode ser evitar código desnecessário.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "exemplos YAGNI",
-        "antes e depois do código"
-      ],
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 154919,
-      "forks": 8326,
-      "issues": 153,
-      "language": "JavaScript",
-      "pushedAt": "2026-10-05T01:14:15Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 1894,
-      "score": 79,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/AgentSkills · comparação de packs de skills que cita Ponytail e Matt Pocock · 105 votos públicos · publicado 05 SET",
-          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
-          "engagement": 105,
-          "publishedAt": "2026-09-05",
-          "verifiedAt": "01 OUT 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/BestGitHubRepos · discussão nova sobre a ideia de simplificar código gerado por agentes · comentários recentes; votos não visíveis na checagem",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wvvn3b/ponytail_makes_your_ai_agent_think_like_the/",
-          "publishedAt": "2026-10-02",
-          "verifiedAt": "03 OUT 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "Better Stack · demonstração de Ponytail · 254k views · publicado 20 JUN · referência histórica",
-          "url": "https://www.youtube.com/watch?v=2xuFcmUAQUc",
-          "views": 254926,
-          "publishedAt": "2026-06-20",
-          "verifiedAt": "07 SET 2026"
-        }
-      ],
-      "socialStatus": "referência recente direta — métrica pública precisa verificação",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/DietrichGebert/ponytail",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,9 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Reddit · r/AgentSkills · comparação de packs de skills que cita Ponytail e Matt Pocock · 105 votos públicos · publicado 05 SET",
-          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/BestGitHubRepos · discussão nova sobre a ideia de simplificar código gerado por agentes · comentários recentes; votos não visíveis na checagem",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wvvn3b/ponytail_makes_your_ai_agent_think_like_the/",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · Better Stack · demonstração de Ponytail · 254k views · publicado 20 JUN · referência histórica",
-          "url": "https://www.youtube.com/watch?v=2xuFcmUAQUc",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=DietrichGebert%20ponytail%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Ponytail%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Ponytail%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 1
-    },
-    {
       "repo": "Panniantong/Agent-Reach",
       "type": "Repo monitorado",
       "status": "Monitorar hoje",
@@ -136,14 +44,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 90925,
-      "forks": 7987,
-      "issues": 210,
+      "stars": 91749,
+      "forks": 8057,
+      "issues": 213,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 19d",
-      "trendingStarsToday": 980,
-      "score": 79,
+      "pushedLabel": "push há 20d",
+      "trendingStarsToday": 1156,
+      "score": 80,
       "social": [
         {
           "platform": "Reddit",
@@ -172,7 +80,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 980 stars hoje",
+          "label": "GitHub Trending · 1,2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -202,73 +110,219 @@
           "kind": "busca"
         }
       ],
-      "rank": 2
+      "rank": 1
     },
     {
-      "repo": "pbakaus/impeccable",
-      "title": "impeccable",
+      "repo": "DuarteSantos8/openGym",
+      "title": "openGym",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "The design language that makes your AI harness better at design.",
+      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/pbakaus/impeccable",
-      "stars": 76326,
-      "forks": 4551,
-      "issues": 56,
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "stars": 3985,
+      "forks": 627,
+      "issues": 133,
       "language": "JavaScript",
-      "pushedAt": "2026-10-05T01:38:28Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1171,
-      "score": 76,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/BestGitHubRepos · discussão nova sobre design de interfaces geradas por IA · votos não visíveis na checagem",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wvg3vz/impeccable_is_a_design_language_that_actually/",
-          "publishedAt": "2026-10-02",
-          "verifiedAt": "03 OUT 2026"
-        }
-      ],
-      "socialStatus": "referência recente direta — métrica pública precisa verificação",
+      "pushedAt": "2026-10-04T10:11:01Z",
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 1444,
+      "score": 72,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/pbakaus/impeccable",
+          "url": "https://github.com/DuarteSantos8/openGym",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,2 mil stars hoje",
+          "label": "GitHub Trending · 1,4 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "Reddit · r/BestGitHubRepos · discussão nova sobre design de interfaces geradas por IA · votos não visíveis na checagem",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wvg3vz/impeccable_is_a_design_language_that_actually/",
-          "kind": "social"
-        },
-        {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=pbakaus%20impeccable%20AI",
+          "url": "https://www.youtube.com/results?search_query=DuarteSantos8%20openGym%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=impeccable%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=openGym%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=impeccable%20AI",
+          "url": "https://www.tiktok.com/search?q=openGym%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "title": "agency-agents",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 595 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "stars": 157143,
+      "forks": 25358,
+      "issues": 181,
+      "language": "Shell",
+      "pushedAt": "2026-10-04T21:17:44Z",
+      "pushedLabel": "push há 22h",
+      "trendingStarsToday": 595,
+      "score": 72,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 595 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=msitarzewski%20agency-agents%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=agency-agents%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=agency-agents%20AI",
           "kind": "busca"
         }
       ],
       "rank": 3
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "title": "claude-mem",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 534 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/thedotmack/claude-mem",
+      "stars": 96542,
+      "forks": 8519,
+      "issues": 140,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-05T18:25:25Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 534,
+      "score": 71,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 534 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=thedotmack%20claude-mem%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-mem%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=claude-mem%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "repo": "earthtojake/text-to-cad",
+      "title": "Text to CAD",
+      "type": "CAD para agentes",
+      "status": "Monitorar hoje",
+      "hook": "Uma biblioteca de skills quer transformar instruções de texto em tarefas de CAD, CAE e CAM.",
+      "thesis": "Agentes estão saindo do código e entrando em fluxos de engenharia e fabricação.",
+      "broll": [
+        "skills CAD/CAE/CAM",
+        "modelos 3D",
+        "README",
+        "GitHub Trending"
+      ],
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "stars": 17298,
+      "forks": 1761,
+      "issues": 34,
+      "language": "Python",
+      "pushedAt": "2026-10-05T19:23:11Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 456,
+      "score": 67,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 456 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=earthtojake%20text-to-cad%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Text%20to%20CAD%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Text%20to%20CAD%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 5
     },
     {
       "repo": "calesthio/OpenMontage",
@@ -284,13 +338,13 @@
         "vídeo final e relatório de proveniência"
       ],
       "url": "https://github.com/calesthio/OpenMontage",
-      "stars": 63245,
-      "forks": 8062,
-      "issues": 351,
+      "stars": 63858,
+      "forks": 8116,
+      "issues": 355,
       "language": "Python",
       "pushedAt": "2026-10-03T16:28:55Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 245,
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 758,
       "score": 65,
       "social": [
         {
@@ -312,7 +366,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 245 stars hoje",
+          "label": "GitHub Trending · 758 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -337,176 +391,56 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 6
     },
     {
-      "repo": "coreyhaines31/marketingskills",
-      "title": "Marketing Skills",
-      "type": "Skills de marketing",
-      "status": "Gravar agora",
-      "hook": "Este repo transforma copy, SEO, CRO e analytics em habilidades reutilizáveis por agentes.",
-      "thesis": "Times de marketing estão começando a ser empacotados como infraestrutura para agentes.",
-      "broll": [
-        "diretório de skills",
-        "README",
-        "exemplos de copy e CRO",
-        "GitHub Trending"
-      ],
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "stars": 53095,
-      "forks": 7920,
-      "issues": 116,
-      "language": "JavaScript",
-      "pushedAt": "2026-10-03T01:51:50Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 197,
-      "score": 63,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "The Next New Thing · skills para Claude · 53,4k views · publicado 11 FEV",
-          "url": "https://www.youtube.com/watch?v=YajqB9RDdzI",
-          "views": 53450,
-          "publishedAt": "2026-02-11",
-          "verifiedAt": "08 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/coreyhaines31/marketingskills",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 197 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · The Next New Thing · skills para Claude · 53,4k views · publicado 11 FEV",
-          "url": "https://www.youtube.com/watch?v=YajqB9RDdzI",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=coreyhaines31%20marketingskills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Marketing%20Skills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Marketing%20Skills%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "repo": "getsentry/sentry",
-      "title": "sentry",
+      "repo": "cloudflare/cloudflare-os",
+      "title": "cloudflare-os",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 152 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Developer-first error tracking and performance monitoring",
+      "hook": "Este repositório ganhou 102 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/getsentry/sentry",
-      "stars": 45393,
-      "forks": 4904,
-      "issues": 2291,
-      "language": "Python",
-      "pushedAt": "2026-10-04T21:01:13Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 152,
-      "score": 61,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/getsentry/sentry",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 152 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=getsentry%20sentry%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=sentry%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=sentry%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 6
-    },
-    {
-      "repo": "earthtojake/text-to-cad",
-      "title": "Text to CAD",
-      "type": "CAD para agentes",
-      "status": "Monitorar hoje",
-      "hook": "Uma biblioteca de skills quer transformar instruções de texto em tarefas de CAD, CAE e CAM.",
-      "thesis": "Agentes estão saindo do código e entrando em fluxos de engenharia e fabricação.",
-      "broll": [
-        "skills CAD/CAE/CAM",
-        "modelos 3D",
-        "README",
-        "GitHub Trending"
-      ],
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "stars": 16883,
-      "forks": 1743,
-      "issues": 45,
-      "language": "Python",
-      "pushedAt": "2026-10-05T01:29:19Z",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "stars": 10941,
+      "forks": 1304,
+      "issues": 129,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-05T19:24:39Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 83,
+      "trendingStarsToday": 102,
       "score": 56,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/earthtojake/text-to-cad",
+          "url": "https://github.com/cloudflare/cloudflare-os",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 83 stars hoje",
+          "label": "GitHub Trending · 102 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=earthtojake%20text-to-cad%20AI",
+          "url": "https://www.youtube.com/results?search_query=cloudflare%20cloudflare-os%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Text%20to%20CAD%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=cloudflare-os%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Text%20to%20CAD%20AI",
+          "url": "https://www.tiktok.com/search?q=cloudflare-os%20AI",
           "kind": "busca"
         }
       ],
@@ -525,9 +459,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27692,
-      "forks": 2672,
-      "issues": 896,
+      "stars": 27703,
+      "forks": 2676,
+      "issues": 897,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
       "pushedLabel": "push há 6d",
@@ -562,22 +496,6 @@
   ],
   "news": [
     {
-      "title": "An AI agent emailed researchers for help. It told us why",
-      "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
-      "points": 49,
-      "comments": 79,
-      "publishedAt": "2026-10-03T10:07:08Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Nobody Asked AI to Hack Hugging Face. So Why Did It?",
-      "url": "https://ankitjain.info/ankit/2026/09/28/ai-agents-sandboxes-hugging-face-incident/",
-      "points": 5,
-      "comments": 2,
-      "publishedAt": "2026-10-03T08:42:07Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
       "title": "98% of US households aren't paying for AI yet",
       "url": "https://www.a16z.news/p/state-of-markets-ii",
       "points": 6,
@@ -586,19 +504,19 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "How many AI agents could run on the AI chips shipped through 2027?",
-      "url": "https://epoch.ai/publications/estimating-the-agent-population",
+      "title": "AI agents are rewriting the economics of computing",
+      "url": "https://ig.ft.com/ai-tokens/",
       "points": 4,
-      "comments": 2,
-      "publishedAt": "2026-10-03T14:17:36Z",
+      "comments": 1,
+      "publishedAt": "2026-10-05T11:00:43Z",
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "points": 6,
-      "comments": 0,
-      "publishedAt": "2026-10-03T07:18:45Z",
+      "title": "Give your agent a valet key",
+      "url": "https://tenuo.ai/blog/give-your-agent-a-valet-key.html",
+      "points": 3,
+      "comments": 1,
+      "publishedAt": "2026-10-05T13:48:40Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -608,56 +526,72 @@
       "comments": 2,
       "publishedAt": "2026-10-04T16:02:07Z",
       "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: SuperLocalMemory 4.0 \"Governed Memory Operating System for AI Agents\"",
+      "url": "https://arxiv.org/abs/2608.08253",
+      "points": 5,
+      "comments": 0,
+      "publishedAt": "2026-10-04T03:57:16Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: Self-bench – benchmark coding agents on real-world software",
+      "url": "https://github.com/mupt-ai/self-bench",
+      "points": 4,
+      "comments": 0,
+      "publishedAt": "2026-10-05T16:58:47Z",
+      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "tester-army/e2e",
-      "starsToday": 345
+      "starsToday": 1430
     },
     {
-      "repo": "pbakaus/impeccable",
-      "starsToday": 1171
-    },
-    {
-      "repo": "coreyhaines31/marketingskills",
-      "starsToday": 197
-    },
-    {
-      "repo": "DietrichGebert/ponytail",
-      "starsToday": 1894
+      "repo": "thedotmack/claude-mem",
+      "starsToday": 534
     },
     {
       "repo": "earthtojake/text-to-cad",
-      "starsToday": 83
-    },
-    {
-      "repo": "Panniantong/Agent-Reach",
-      "starsToday": 980
-    },
-    {
-      "repo": "getsentry/sentry",
-      "starsToday": 152
-    },
-    {
-      "repo": "calesthio/OpenMontage",
-      "starsToday": 245
+      "starsToday": 456
     },
     {
       "repo": "pingdotgg/t3code",
-      "starsToday": 490
+      "starsToday": 487
+    },
+    {
+      "repo": "boykopovar/AnyPS5",
+      "starsToday": 994
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "starsToday": 1156
+    },
+    {
+      "repo": "calesthio/OpenMontage",
+      "starsToday": 758
     },
     {
       "repo": "caddyserver/caddy",
-      "starsToday": 24
+      "starsToday": 526
     },
     {
-      "repo": "michael-denyer/pstack-claude",
-      "starsToday": 232
+      "repo": "DuarteSantos8/openGym",
+      "starsToday": 1444
     },
     {
-      "repo": "addyosmani/agent-skills",
-      "starsToday": 336
+      "repo": "cloudflare/cloudflare-os",
+      "starsToday": 102
+    },
+    {
+      "repo": "Stremio/stremio-web",
+      "starsToday": 111
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "starsToday": 595
     }
   ],
   "monitored": [
@@ -674,14 +608,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 90925,
-      "forks": 7987,
-      "issues": 210,
+      "stars": 91749,
+      "forks": 8057,
+      "issues": 213,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 19d",
-      "trendingStarsToday": 980,
-      "score": 79,
+      "pushedLabel": "push há 20d",
+      "trendingStarsToday": 1156,
+      "score": 80,
       "social": [
         {
           "platform": "Reddit",
@@ -710,7 +644,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 980 stars hoje",
+          "label": "GitHub Trending · 1,2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -740,7 +674,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 2
+      "rank": 1
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -755,9 +689,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27692,
-      "forks": 2672,
-      "issues": 896,
+      "stars": 27703,
+      "forks": 2676,
+      "issues": 897,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
       "pushedLabel": "push há 6d",
