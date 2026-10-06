@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T23:03:00.437Z",
-  "generatedLabel": "5 de out. de 2026 · 20:02",
+  "generatedAt": "2026-10-06T02:50:31.379Z",
+  "generatedLabel": "5 de out. de 2026 · 23:50",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -44,13 +44,13 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 91846,
-      "forks": 8062,
+      "stars": 91964,
+      "forks": 8072,
       "issues": 213,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 20d",
-      "trendingStarsToday": 1156,
+      "trendingStarsToday": 1155,
       "score": 80,
       "social": [
         {
@@ -117,7 +117,7 @@
       "title": "agency-agents",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 687 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 744 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "broll": [
         "GitHub Trending",
@@ -126,14 +126,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/msitarzewski/agency-agents",
-      "stars": 157225,
-      "forks": 25364,
-      "issues": 181,
+      "stars": 157316,
+      "forks": 25373,
+      "issues": 183,
       "language": "Shell",
       "pushedAt": "2026-10-04T21:17:44Z",
       "pushedLabel": "push há 1d",
-      "trendingStarsToday": 687,
-      "score": 73,
+      "trendingStarsToday": 744,
+      "score": 74,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -143,7 +143,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 687 stars hoje",
+          "label": "GitHub Trending · 744 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -179,13 +179,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/DuarteSantos8/openGym",
-      "stars": 4148,
-      "forks": 650,
+      "stars": 4303,
+      "forks": 659,
       "issues": 133,
       "language": "JavaScript",
       "pushedAt": "2026-10-04T10:11:01Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 1444,
+      "trendingStarsToday": 1433,
       "score": 72,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -232,11 +232,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 96607,
-      "forks": 8520,
-      "issues": 143,
+      "stars": 96673,
+      "forks": 8529,
+      "issues": 104,
       "language": "TypeScript",
-      "pushedAt": "2026-10-05T22:56:20Z",
+      "pushedAt": "2026-10-06T02:48:25Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 534,
       "score": 71,
@@ -285,13 +285,13 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/earthtojake/text-to-cad",
-      "stars": 17378,
-      "forks": 1768,
+      "stars": 17479,
+      "forks": 1770,
       "issues": 34,
       "language": "Python",
       "pushedAt": "2026-10-05T21:22:33Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 456,
+      "pushedLabel": "push há 5h",
+      "trendingStarsToday": 437,
       "score": 67,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -302,7 +302,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 456 stars hoje",
+          "label": "GitHub Trending · 437 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -338,13 +338,13 @@
         "vídeo final e relatório de proveniência"
       ],
       "url": "https://github.com/calesthio/OpenMontage",
-      "stars": 63984,
-      "forks": 8122,
-      "issues": 355,
+      "stars": 64113,
+      "forks": 8134,
+      "issues": 356,
       "language": "Python",
       "pushedAt": "2026-10-03T16:28:55Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 758,
+      "trendingStarsToday": 742,
       "score": 65,
       "social": [
         {
@@ -366,7 +366,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 758 stars hoje",
+          "label": "GitHub Trending · 742 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -398,7 +398,7 @@
       "title": "cloudflare-os",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 102 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 101 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
       "broll": [
         "GitHub Trending",
@@ -407,13 +407,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/cloudflare/cloudflare-os",
-      "stars": 10989,
-      "forks": 1308,
+      "stars": 11039,
+      "forks": 1310,
       "issues": 128,
       "language": "TypeScript",
-      "pushedAt": "2026-10-05T21:55:29Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 102,
+      "pushedAt": "2026-10-05T23:52:14Z",
+      "pushedLabel": "push há 3h",
+      "trendingStarsToday": 101,
       "score": 56,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -424,7 +424,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 102 stars hoje",
+          "label": "GitHub Trending · 101 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -459,9 +459,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27706,
-      "forks": 2677,
-      "issues": 898,
+      "stars": 27714,
+      "forks": 2679,
+      "issues": 899,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
       "pushedLabel": "push há 7d",
@@ -498,9 +498,17 @@
     {
       "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
       "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "points": 139,
-      "comments": 112,
+      "points": 229,
+      "comments": 167,
       "publishedAt": "2026-10-05T21:00:21Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent",
+      "url": "https://apps.apple.com/us/app/halo-personal-ai/id6783715054",
+      "points": 2,
+      "comments": 3,
+      "publishedAt": "2026-10-05T20:11:08Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -512,11 +520,11 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent",
-      "url": "https://apps.apple.com/us/app/halo-personal-ai/id6783715054",
-      "points": 2,
-      "comments": 2,
-      "publishedAt": "2026-10-05T20:11:08Z",
+      "title": "\"The Dangerous Myths Behind AI Agent Hacks\" – Yoshua Bengio",
+      "url": "https://www.ft.com/content/7afaf77b-b027-4a0f-8d53-5e88e7d6f5e4",
+      "points": 4,
+      "comments": 1,
+      "publishedAt": "2026-10-05T18:09:16Z",
       "source": "Hacker News / Algolia"
     },
     {
@@ -528,26 +536,18 @@
       "source": "Hacker News / Algolia"
     },
     {
-      "title": "Give your agent a valet key",
-      "url": "https://tenuo.ai/blog/give-your-agent-a-valet-key.html",
+      "title": "Show HN: Moching – AI desktop agent with 219 built-in tools (Rust)",
+      "url": "https://github.com/moching-ai-dev/moching",
       "points": 3,
       "comments": 1,
-      "publishedAt": "2026-10-05T13:48:40Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Apple says it's tightening macOS privacy controls amid the rise of AI agents",
-      "url": "https://9to5mac.com/2026/10/02/apple-says-its-tightening-macos-privacy-controls-amid-the-rise-of-ai-agents/",
-      "points": 1,
-      "comments": 2,
-      "publishedAt": "2026-10-04T16:02:07Z",
+      "publishedAt": "2026-10-06T02:00:24Z",
       "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "tester-army/e2e",
-      "starsToday": 1430
+      "starsToday": 1398
     },
     {
       "repo": "thedotmack/claude-mem",
@@ -555,35 +555,35 @@
     },
     {
       "repo": "earthtojake/text-to-cad",
-      "starsToday": 456
+      "starsToday": 437
     },
     {
       "repo": "pingdotgg/t3code",
-      "starsToday": 487
+      "starsToday": 485
     },
     {
       "repo": "boykopovar/AnyPS5",
-      "starsToday": 994
+      "starsToday": 997
     },
     {
       "repo": "Panniantong/Agent-Reach",
-      "starsToday": 1156
+      "starsToday": 1155
     },
     {
       "repo": "calesthio/OpenMontage",
-      "starsToday": 758
+      "starsToday": 742
     },
     {
       "repo": "caddyserver/caddy",
-      "starsToday": 526
+      "starsToday": 515
     },
     {
       "repo": "DuarteSantos8/openGym",
-      "starsToday": 1444
+      "starsToday": 1433
     },
     {
       "repo": "cloudflare/cloudflare-os",
-      "starsToday": 102
+      "starsToday": 101
     },
     {
       "repo": "Stremio/stremio-web",
@@ -591,7 +591,7 @@
     },
     {
       "repo": "msitarzewski/agency-agents",
-      "starsToday": 687
+      "starsToday": 744
     }
   ],
   "monitored": [
@@ -608,13 +608,13 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 91846,
-      "forks": 8062,
+      "stars": 91964,
+      "forks": 8072,
       "issues": 213,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
       "pushedLabel": "push há 20d",
-      "trendingStarsToday": 1156,
+      "trendingStarsToday": 1155,
       "score": 80,
       "social": [
         {
@@ -689,9 +689,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27706,
-      "forks": 2677,
-      "issues": 898,
+      "stars": 27714,
+      "forks": 2679,
+      "issues": 899,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
       "pushedLabel": "push há 7d",
