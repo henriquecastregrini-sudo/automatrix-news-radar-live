@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T02:12:08.515Z",
-  "generatedLabel": "6 de out. de 2026 · 23:12",
+  "generatedAt": "2026-10-07T17:07:49.910Z",
+  "generatedLabel": "7 de out. de 2026 · 14:07",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -18,6 +18,16 @@
       "name": "Hacker News / Algolia",
       "url": "https://hn.algolia.com",
       "status": "ativo"
+    },
+    {
+      "name": "Vals AI · fonte primária da pauta científica",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "status": "verificado nesta coleta"
+    },
+    {
+      "name": "TIME · reportagem sobre Meta Muse",
+      "url": "https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/",
+      "status": "reportagem recente; conferir ressalvas da empresa"
     },
     {
       "name": "Trendshift",
@@ -45,15 +55,23 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 278202,
-      "forks": 23292,
-      "issues": 323,
+      "stars": 279203,
+      "forks": 23394,
+      "issues": 154,
       "language": "Shell",
-      "pushedAt": "2026-10-06T19:04:26Z",
+      "pushedAt": "2026-10-07T10:23:10Z",
       "pushedLabel": "push há 7h",
-      "trendingStarsToday": 889,
-      "score": 76,
+      "trendingStarsToday": 1406,
+      "score": 92,
       "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/claudeskills · usuários comparam Matt Pocock, Superpowers e OpenSpec; discussão sobre utilidade vs. custo de contexto · 84 votos públicos · publicado 03 OUT",
+          "url": "https://www.reddit.com/r/claudeskills/comments/1wwqyom/matt_pocock_superpowers_openspec_do_you_pick_one/",
+          "engagement": 84,
+          "publishedAt": "2026-10-03",
+          "verifiedAt": "07 OUT 2026"
+        },
         {
           "platform": "Reddit",
           "label": "r/AgentSkills · comparação de packs de skills que inclui mattpocock/skills · 105 votos públicos · publicado 05 SET",
@@ -79,7 +97,7 @@
           "verifiedAt": "07 SET 2026"
         }
       ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
+      "socialStatus": "referência recente verificada",
       "sources": [
         {
           "label": "GitHub",
@@ -87,9 +105,14 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 889 stars hoje",
+          "label": "GitHub Trending · 1,4 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/claudeskills · usuários comparam Matt Pocock, Superpowers e OpenSpec; discussão sobre utilidade vs. custo de contexto · 84 votos públicos · publicado 03 OUT",
+          "url": "https://www.reddit.com/r/claudeskills/comments/1wwqyom/matt_pocock_superpowers_openspec_do_you_pick_one/",
+          "kind": "social"
         },
         {
           "label": "Reddit · r/AgentSkills · comparação de packs de skills que inclui mattpocock/skills · 105 votos públicos · publicado 05 SET",
@@ -125,282 +148,84 @@
       "rank": 1
     },
     {
-      "repo": "morluto/rea",
-      "title": "rea",
-      "type": "Novo no GitHub Trending",
+      "repo": "cathrynlavery/diagram-design",
+      "title": "Diagram Design",
+      "type": "Visual para agentes",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 3 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "hook": "Uma coleção de skills está ensinando agentes a criar diagramas editoriais sem o visual genérico de IA.",
+      "thesis": "Design visual está virando uma habilidade reutilizável por agentes de código.",
       "broll": [
-        "GitHub Trending",
+        "galeria de diagramas",
+        "HTML e SVG",
         "README",
-        "demo oficial",
-        "histórico do projeto"
+        "GitHub Trending"
       ],
-      "url": "https://github.com/morluto/rea",
-      "stars": 9667,
-      "forks": 1071,
-      "issues": 106,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-07T02:11:58Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 2956,
-      "score": 74,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/morluto/rea",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 3 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=morluto%20rea%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=rea%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=rea%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "repo": "msitarzewski/agency-agents",
-      "title": "agency-agents",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 623 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "stars": 157856,
-      "forks": 25449,
-      "issues": 166,
-      "language": "Shell",
-      "pushedAt": "2026-10-06T17:53:59Z",
-      "pushedLabel": "push há 8h",
-      "trendingStarsToday": 623,
-      "score": 73,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/msitarzewski/agency-agents",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 623 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=msitarzewski%20agency-agents%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=agency-agents%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=agency-agents%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "repo": "pbakaus/impeccable",
-      "title": "impeccable",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 616 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "The design language that makes your AI harness better at design.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/pbakaus/impeccable",
-      "stars": 77730,
-      "forks": 4630,
-      "issues": 62,
-      "language": "JavaScript",
-      "pushedAt": "2026-10-07T02:06:58Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 616,
-      "score": 71,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars": 44696,
+      "forks": 2869,
+      "issues": 91,
+      "language": "HTML",
+      "pushedAt": "2026-10-06T16:12:51Z",
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 828,
+      "score": 83,
       "social": [
         {
           "platform": "Reddit",
-          "label": "r/BestGitHubRepos · discussão nova sobre design de interfaces geradas por IA · votos não visíveis na checagem",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wvg3vz/impeccable_is_a_design_language_that_actually/",
-          "publishedAt": "2026-10-02",
-          "verifiedAt": "03 OUT 2026"
+          "label": "r/BestGitHubRepos · post direto apresenta tipos de diagramas editoriais e compatibilidade com agentes · 9 votos públicos · publicado 07 OUT",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wzu0gm/diagram_design_editorial_diagrams_your_designer/",
+          "engagement": 9,
+          "publishedAt": "2026-10-07",
+          "verifiedAt": "07 OUT 2026"
+        },
+        {
+          "platform": "YouTube",
+          "label": "YAHA · Diagram Design em primeiro no GitHub · 20,9k views · publicado 03 SET · referência histórica",
+          "url": "https://www.youtube.com/watch?v=rq4EHbqaaAk",
+          "views": 20919,
+          "publishedAt": "2026-09-03",
+          "verifiedAt": "08 SET 2026"
         }
       ],
-      "socialStatus": "referência recente direta — métrica pública precisa verificação",
+      "socialStatus": "referência recente verificada",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/pbakaus/impeccable",
+          "url": "https://github.com/cathrynlavery/diagram-design",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 616 stars hoje",
+          "label": "GitHub Trending · 828 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "Reddit · r/BestGitHubRepos · discussão nova sobre design de interfaces geradas por IA · votos não visíveis na checagem",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wvg3vz/impeccable_is_a_design_language_that_actually/",
+          "label": "Reddit · r/BestGitHubRepos · post direto apresenta tipos de diagramas editoriais e compatibilidade com agentes · 9 votos públicos · publicado 07 OUT",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wzu0gm/diagram_design_editorial_diagrams_your_designer/",
+          "kind": "social"
+        },
+        {
+          "label": "YouTube · YAHA · Diagram Design em primeiro no GitHub · 20,9k views · publicado 03 SET · referência histórica",
+          "url": "https://www.youtube.com/watch?v=rq4EHbqaaAk",
           "kind": "social"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=pbakaus%20impeccable%20AI",
+          "url": "https://www.youtube.com/results?search_query=cathrynlavery%20diagram-design%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=impeccable%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Diagram%20Design%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=impeccable%20AI",
+          "url": "https://www.tiktok.com/search?q=Diagram%20Design%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 4
-    },
-    {
-      "repo": "thedotmack/claude-mem",
-      "title": "claude-mem",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 534 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 97207,
-      "forks": 8564,
-      "issues": 100,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-07T00:57:45Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 534,
-      "score": 71,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 534 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=thedotmack%20claude-mem%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-mem%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=claude-mem%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "repo": "earthtojake/text-to-cad",
-      "title": "Text to CAD",
-      "type": "CAD para agentes",
-      "status": "Monitorar hoje",
-      "hook": "Uma biblioteca de skills quer transformar instruções de texto em tarefas de CAD, CAE e CAM.",
-      "thesis": "Agentes estão saindo do código e entrando em fluxos de engenharia e fabricação.",
-      "broll": [
-        "skills CAD/CAE/CAM",
-        "modelos 3D",
-        "README",
-        "GitHub Trending"
-      ],
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "stars": 18014,
-      "forks": 1805,
-      "issues": 37,
-      "language": "Python",
-      "pushedAt": "2026-10-07T02:07:10Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 619,
-      "score": 69,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/earthtojake/text-to-cad",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 619 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=earthtojake%20text-to-cad%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Text%20to%20CAD%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Text%20to%20CAD%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 6
+      "rank": 2
     },
     {
       "repo": "ayghri/i-have-adhd",
@@ -416,25 +241,33 @@
         "comparação de tokens"
       ],
       "url": "https://github.com/ayghri/i-have-adhd",
-      "stars": 54441,
-      "forks": 3127,
-      "issues": 72,
+      "stars": 54904,
+      "forks": 3150,
+      "issues": 73,
       "language": "Python",
       "pushedAt": "2026-10-06T23:23:46Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 326,
-      "score": 67,
+      "pushedLabel": "push há 18h",
+      "trendingStarsToday": 620,
+      "score": 83,
       "social": [
         {
+          "platform": "Reddit",
+          "label": "r/BestGitHubRepos · post direto mostra a skill e suas 10 regras de resposta objetiva · 35 votos públicos · publicado 07 OUT",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wzu01h/ihaveadhd_adhdfriendly_outputs_no_adhd_diagnosis/",
+          "engagement": 35,
+          "publishedAt": "2026-10-07",
+          "verifiedAt": "07 OUT 2026"
+        },
+        {
           "platform": "YouTube",
-          "label": "AI Stack Engineer · I Have ADHD Skill · 1,7k views · publicado 08 AGO",
+          "label": "AI Stack Engineer · I Have ADHD Skill · 1,7k views · publicado 08 AGO · referência histórica",
           "url": "https://www.youtube.com/watch?v=Wu_Vos03Uxg",
           "views": 1719,
           "publishedAt": "2026-08-08",
           "verifiedAt": "08 SET 2026"
         }
       ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
+      "socialStatus": "referência recente verificada",
       "sources": [
         {
           "label": "GitHub",
@@ -442,12 +275,17 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 326 stars hoje",
+          "label": "GitHub Trending · 620 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "YouTube · AI Stack Engineer · I Have ADHD Skill · 1,7k views · publicado 08 AGO",
+          "label": "Reddit · r/BestGitHubRepos · post direto mostra a skill e suas 10 regras de resposta objetiva · 35 votos públicos · publicado 07 OUT",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wzu01h/ihaveadhd_adhdfriendly_outputs_no_adhd_diagnosis/",
+          "kind": "social"
+        },
+        {
+          "label": "YouTube · AI Stack Engineer · I Have ADHD Skill · 1,7k views · publicado 08 AGO · referência histórica",
           "url": "https://www.youtube.com/watch?v=Wu_Vos03Uxg",
           "kind": "social"
         },
@@ -467,6 +305,274 @@
           "kind": "busca"
         }
       ],
+      "rank": 3
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "title": "claude-mem",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 578 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/thedotmack/claude-mem",
+      "stars": 97544,
+      "forks": 8588,
+      "issues": 112,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-07T00:57:45Z",
+      "pushedLabel": "push há 16h",
+      "trendingStarsToday": 578,
+      "score": 83,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/BestGitHubRepos · caso de uso para memória persistente entre sessões e agentes · 17 votos públicos · publicado 01 OUT",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wv9d8g/claudemem_gives_your_ai_agents_persistent_memory/",
+          "engagement": 17,
+          "publishedAt": "2026-10-01",
+          "verifiedAt": "07 OUT 2026"
+        }
+      ],
+      "socialStatus": "referência recente verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 578 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/BestGitHubRepos · caso de uso para memória persistente entre sessões e agentes · 17 votos públicos · publicado 01 OUT",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wv9d8g/claudemem_gives_your_ai_agents_persistent_memory/",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=thedotmack%20claude-mem%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-mem%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=claude-mem%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "repo": "morluto/rea",
+      "title": "rea",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 4,7 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/morluto/rea",
+      "stars": 13194,
+      "forks": 1390,
+      "issues": 93,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-07T17:07:38Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 4666,
+      "score": 74,
+      "social": [
+        {
+          "platform": "TikTok (espelho)",
+          "label": "@whitewhoadie · demonstração de REA em vídeo; página espelho lista publicação em 04 OUT e comentários, mas contagens sem rótulos, então sem métricas usadas · validar no TikTok nativo",
+          "url": "https://tikwm.com/video/7692856072624770318.html",
+          "publishedAt": "2026-10-04",
+          "verifiedAt": "07 OUT 2026"
+        }
+      ],
+      "socialStatus": "referência recente direta — métrica pública precisa verificação",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/morluto/rea",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 4,7 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "TikTok (espelho) · @whitewhoadie · demonstração de REA em vídeo; página espelho lista publicação em 04 OUT e comentários, mas contagens sem rótulos, então sem métricas usadas · validar no TikTok nativo",
+          "url": "https://tikwm.com/video/7692856072624770318.html",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=morluto%20rea%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=rea%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=rea%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "title": "Agent Skills",
+      "type": "Skills para agentes de código",
+      "status": "Gravar agora",
+      "hook": "Addy Osmani reuniu padrões de engenharia para transformar agentes de código em especialistas reutilizáveis.",
+      "thesis": "Skills estão deixando de ser prompts isolados e virando pacotes versionados de conhecimento, processo e validação.",
+      "broll": [
+        "estrutura das skills",
+        "README e exemplos",
+        "comparação entre agentes",
+        "vídeos técnicos sobre skill packs"
+      ],
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars": 102557,
+      "forks": 10749,
+      "issues": 132,
+      "language": "JavaScript",
+      "pushedAt": "2026-10-03T18:21:11Z",
+      "pushedLabel": "push há 4d",
+      "trendingStarsToday": 453,
+      "score": 63,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "The Gray Cat · Matt Pocock vs Addy Osmani · 18,5k views · 183 likes · publicado 27 AGO",
+          "url": "https://www.youtube.com/watch?v=IDQs0VBL5UY",
+          "views": 18569,
+          "likes": 183,
+          "publishedAt": "2026-08-27",
+          "verifiedAt": "19 SET 2026"
+        },
+        {
+          "platform": "YouTube",
+          "label": "AI Engineer · Building Great Agent Skills · 174k views · 5k likes · publicado 29 JUN",
+          "url": "https://www.youtube.com/watch?v=UNzCG3lw6O0",
+          "views": 173966,
+          "likes": 4956,
+          "publishedAt": "2026-06-29",
+          "verifiedAt": "19 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 453 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · The Gray Cat · Matt Pocock vs Addy Osmani · 18,5k views · 183 likes · publicado 27 AGO",
+          "url": "https://www.youtube.com/watch?v=IDQs0VBL5UY",
+          "kind": "social"
+        },
+        {
+          "label": "YouTube · AI Engineer · Building Great Agent Skills · 174k views · 5k likes · publicado 29 JUN",
+          "url": "https://www.youtube.com/watch?v=UNzCG3lw6O0",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=addyosmani%20agent-skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent%20Skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Agent%20Skills%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "repo": "manaflow-ai/cmux",
+      "title": "cmux",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 96 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/manaflow-ai/cmux",
+      "stars": 27761,
+      "forks": 2458,
+      "issues": 3187,
+      "language": "Swift",
+      "pushedAt": "2026-10-07T17:06:09Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 96,
+      "score": 58,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/manaflow-ai/cmux",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 96 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=manaflow-ai%20cmux%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=cmux%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=cmux%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 7
     },
     {
@@ -482,14 +588,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 92656,
-      "forks": 8128,
-      "issues": 215,
+      "stars": 93077,
+      "forks": 8153,
+      "issues": 201,
       "language": "Python",
-      "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 21d",
+      "pushedAt": "2026-10-07T17:06:42Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
-      "score": 46,
+      "score": 53,
       "social": [
         {
           "platform": "Reddit",
@@ -558,9 +664,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27742,
-      "forks": 2686,
-      "issues": 901,
+      "stars": 27761,
+      "forks": 2690,
+      "issues": 903,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
       "pushedLabel": "push há 8d",
@@ -597,31 +703,40 @@
     {
       "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
       "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "points": 482,
-      "comments": 325,
+      "points": 487,
+      "comments": 333,
       "publishedAt": "2026-10-05T21:00:21Z",
+      "source": "Hacker News / Algolia",
+      "editorialNote": "São previsões computacionais para materiais candidatos; propriedades-chave ainda não foram medidas e a síntese/validação experimental é o próximo passo."
+    },
+    {
+      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+      "points": 95,
+      "comments": 29,
+      "publishedAt": "2026-10-06T23:50:33Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "url": "https://github.com/nano-muse/nanoMuse",
+      "points": 53,
+      "comments": 18,
+      "publishedAt": "2026-10-07T03:30:44Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
       "url": "https://github.com/longsurf-ai/openchart",
-      "points": 37,
-      "comments": 14,
+      "points": 43,
+      "comments": 19,
       "publishedAt": "2026-10-06T15:16:45Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
-      "points": 31,
-      "comments": 6,
-      "publishedAt": "2026-10-06T23:50:33Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Meta's Muse AI agent is building a dossier on you",
       "url": "https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/",
-      "points": 17,
+      "points": 18,
       "comments": 13,
       "publishedAt": "2026-10-06T20:24:45Z",
       "source": "Hacker News / Algolia"
@@ -633,64 +748,56 @@
       "comments": 0,
       "publishedAt": "2026-10-06T06:49:06Z",
       "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "What we learned from building the sandboxes our agents run in",
-      "url": "https://www.qawolf.com/blog/every-ai-agent-its-own-computer",
-      "points": 13,
-      "comments": 1,
-      "publishedAt": "2026-10-06T16:50:33Z",
-      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
-      "repo": "tester-army/e2e",
-      "starsToday": 1725
+      "repo": "morluto/rea",
+      "starsToday": 4666
     },
     {
       "repo": "mattpocock/skills",
-      "starsToday": 889
-    },
-    {
-      "repo": "earthtojake/text-to-cad",
-      "starsToday": 619
+      "starsToday": 1406
     },
     {
       "repo": "boykopovar/AnyPS5",
-      "starsToday": 949
-    },
-    {
-      "repo": "pbakaus/impeccable",
-      "starsToday": 616
-    },
-    {
-      "repo": "thedotmack/claude-mem",
-      "starsToday": 534
+      "starsToday": 2725
     },
     {
       "repo": "ayghri/i-have-adhd",
-      "starsToday": 326
-    },
-    {
-      "repo": "morluto/rea",
-      "starsToday": 2956
-    },
-    {
-      "repo": "deepseek-ai/DeepGEMM",
-      "starsToday": 199
-    },
-    {
-      "repo": "msitarzewski/agency-agents",
-      "starsToday": 623
-    },
-    {
-      "repo": "DuarteSantos8/openGym",
-      "starsToday": 1419
+      "starsToday": 620
     },
     {
       "repo": "cathrynlavery/diagram-design",
-      "starsToday": 228
+      "starsToday": 828
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "starsToday": 453
+    },
+    {
+      "repo": "EpicGames/raddebugger",
+      "starsToday": 82
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "starsToday": 578
+    },
+    {
+      "repo": "manaflow-ai/cmux",
+      "starsToday": 96
+    },
+    {
+      "repo": "trycua/cua",
+      "starsToday": 229
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "starsToday": 538
+    },
+    {
+      "repo": "tester-army/e2e",
+      "starsToday": 1391
     }
   ],
   "monitored": [
@@ -707,14 +814,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 92656,
-      "forks": 8128,
-      "issues": 215,
+      "stars": 93077,
+      "forks": 8153,
+      "issues": 201,
       "language": "Python",
-      "pushedAt": "2026-09-15T16:16:24Z",
-      "pushedLabel": "push há 21d",
+      "pushedAt": "2026-10-07T17:06:42Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
-      "score": 46,
+      "score": 53,
       "social": [
         {
           "platform": "Reddit",
@@ -783,9 +890,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27742,
-      "forks": 2686,
-      "issues": 901,
+      "stars": 27761,
+      "forks": 2690,
+      "issues": 903,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
       "pushedLabel": "push há 8d",

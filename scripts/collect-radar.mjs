@@ -108,6 +108,7 @@ const socialReferences = {
     { platform: 'Reddit', label: 'r/AIDeveloperNews · explicação técnica do AX · 61 votos públicos', url: 'https://www.reddit.com/r/AIDeveloperNews/comments/1wmr4uo/google_has_opensourced_ax_a_declarative_agentic/', engagement: 61, publishedAt: '2026-09-21', verifiedAt: '22 SET 2026' },
   ],
   'mattpocock/skills': [
+    { platform: 'Reddit', label: 'r/claudeskills · usuários comparam Matt Pocock, Superpowers e OpenSpec; discussão sobre utilidade vs. custo de contexto · 84 votos públicos · publicado 03 OUT', url: 'https://www.reddit.com/r/claudeskills/comments/1wwqyom/matt_pocock_superpowers_openspec_do_you_pick_one/', engagement: 84, publishedAt: '2026-10-03', verifiedAt: '07 OUT 2026' },
     { platform: 'Reddit', label: 'r/AgentSkills · comparação de packs de skills que inclui mattpocock/skills · 105 votos públicos · publicado 05 SET', url: 'https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/', engagement: 105, publishedAt: '2026-09-05', verifiedAt: '01 OUT 2026' },
     { platform: 'Reddit', label: 'r/ClaudeAI · skills com subagentes especialistas · 3 votos públicos · publicado 23 SET', url: 'https://www.reddit.com/r/ClaudeAI/comments/1wnszxk/matt_pococks_skills_my_own_specialist_subagents/', engagement: 3, publishedAt: '2026-09-23', verifiedAt: '25 SET 2026' },
     { platform: 'YouTube', label: 'Matt Pocock · workflow completo · 424k views · publicado 16 JUL', url: 'https://www.youtube.com/watch?v=M6mYodf0dJM', views: 424060, publishedAt: '2026-07-16', verifiedAt: '07 SET 2026' },
@@ -128,8 +129,14 @@ const socialReferences = {
   'heygen-com/hyperframes': [{ platform: 'YouTube', label: 'HeyGen · fluxo de agentes com Hyperframes · 10,9k views · publicado 22 MAI', url: 'https://www.youtube.com/watch?v=9yx8Ja1gztI', views: 10956, publishedAt: '2026-05-22', verifiedAt: '08 SET 2026' }],
   'coreyhaines31/marketingskills': [{ platform: 'YouTube', label: 'The Next New Thing · skills para Claude · 53,4k views · publicado 11 FEV', url: 'https://www.youtube.com/watch?v=YajqB9RDdzI', views: 53450, publishedAt: '2026-02-11', verifiedAt: '08 SET 2026' }],
   'jo-inc/camofox-browser': [{ platform: 'YouTube', label: 'Build Things With AI · CamoFox entre repos em alta · 1,8k views · publicado 02 MAI', url: 'https://www.youtube.com/watch?v=Hs-xdoaGH5o', views: 1855, publishedAt: '2026-05-02', verifiedAt: '07 SET 2026' }],
-  'cathrynlavery/diagram-design': [{ platform: 'YouTube', label: 'YAHA · Diagram Design em primeiro no GitHub · 20,9k views · publicado 03 SET', url: 'https://www.youtube.com/watch?v=rq4EHbqaaAk', views: 20919, publishedAt: '2026-09-03', verifiedAt: '08 SET 2026' }],
-  'ayghri/i-have-adhd': [{ platform: 'YouTube', label: 'AI Stack Engineer · I Have ADHD Skill · 1,7k views · publicado 08 AGO', url: 'https://www.youtube.com/watch?v=Wu_Vos03Uxg', views: 1719, publishedAt: '2026-08-08', verifiedAt: '08 SET 2026' }],
+  'cathrynlavery/diagram-design': [
+    { platform: 'Reddit', label: 'r/BestGitHubRepos · post direto apresenta tipos de diagramas editoriais e compatibilidade com agentes · 9 votos públicos · publicado 07 OUT', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1wzu0gm/diagram_design_editorial_diagrams_your_designer/', engagement: 9, publishedAt: '2026-10-07', verifiedAt: '07 OUT 2026' },
+    { platform: 'YouTube', label: 'YAHA · Diagram Design em primeiro no GitHub · 20,9k views · publicado 03 SET · referência histórica', url: 'https://www.youtube.com/watch?v=rq4EHbqaaAk', views: 20919, publishedAt: '2026-09-03', verifiedAt: '08 SET 2026' },
+  ],
+  'ayghri/i-have-adhd': [
+    { platform: 'Reddit', label: 'r/BestGitHubRepos · post direto mostra a skill e suas 10 regras de resposta objetiva · 35 votos públicos · publicado 07 OUT', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1wzu01h/ihaveadhd_adhdfriendly_outputs_no_adhd_diagnosis/', engagement: 35, publishedAt: '2026-10-07', verifiedAt: '07 OUT 2026' },
+    { platform: 'YouTube', label: 'AI Stack Engineer · I Have ADHD Skill · 1,7k views · publicado 08 AGO · referência histórica', url: 'https://www.youtube.com/watch?v=Wu_Vos03Uxg', views: 1719, publishedAt: '2026-08-08', verifiedAt: '08 SET 2026' },
+  ],
   'obra/superpowers': [
     { platform: 'Reddit', label: 'r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET', url: 'https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/', engagement: 324, publishedAt: '2026-09-26', verifiedAt: '01 OUT 2026' },
     { platform: 'Bilibili', label: 'Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica', url: 'https://www.bilibili.com/video/BV1w2PPzGENp/', views: 17000, publishedAt: '2026-03-04', verifiedAt: '09 SET 2026' },
@@ -165,6 +172,12 @@ const socialReferences = {
   'jihe520/MathModelAgent': [{ platform: 'YouTube', label: 'hen ji · modelagem matemática automática · 801 views · publicado 01 MAI 2025', url: 'https://www.youtube.com/watch?v=PO9lGVyh2t8', views: 801, likes: 12, comments: 4, publishedAt: '2025-05-01', verifiedAt: '12 SET 2026' }],
   'magnitudedev/magnitude': [],
   'K-Dense-AI/scientific-agent-skills': [{ platform: 'YouTube', label: 'K-Dense · skills científicas · 13,5k views · publicado 18 FEV', url: 'https://www.youtube.com/watch?v=ZxbnDaD_FVg', views: 13534, publishedAt: '2026-02-18', verifiedAt: '07 SET 2026' }],
+  'morluto/rea': [
+    { platform: 'TikTok (espelho)', label: '@whitewhoadie · demonstração de REA em vídeo; página espelho lista publicação em 04 OUT e comentários, mas contagens sem rótulos, então sem métricas usadas · validar no TikTok nativo', url: 'https://tikwm.com/video/7692856072624770318.html', publishedAt: '2026-10-04', verifiedAt: '07 OUT 2026' },
+  ],
+  'thedotmack/claude-mem': [
+    { platform: 'Reddit', label: 'r/BestGitHubRepos · caso de uso para memória persistente entre sessões e agentes · 17 votos públicos · publicado 01 OUT', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1wv9d8g/claudemem_gives_your_ai_agents_persistent_memory/', engagement: 17, publishedAt: '2026-10-01', verifiedAt: '07 OUT 2026' },
+  ],
   'Panniantong/Agent-Reach': [
     { platform: 'Reddit', label: 'r/BestGitHubRepos · post novo explica acesso a web, YouTube e redes para agentes · 22 votos públicos no momento da checagem · publicado 03 OUT; inclui ressalva sobre risco de bloqueio em serviços com login', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1wwip3m/agentreach_give_your_ai_coding_agent_access_to/', engagement: 22, publishedAt: '2026-10-03', verifiedAt: '03 OUT 2026' },
     { platform: 'YouTube', label: 'Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN · referência histórica', url: 'https://www.youtube.com/watch?v=aanqEqQwjNU', views: 17073, likes: 445, comments: 27, publishedAt: '2026-06-18', verifiedAt: '14 SET 2026' },
@@ -350,6 +363,9 @@ const news = uniqueNews(newsCandidates).map((item) => ({
   comments: item.num_comments ?? null,
   publishedAt: item.created_at || null,
   source: 'Hacker News / Algolia',
+  ...(String(item.url || item.story_url || '').includes('vals.ai/blogs/room-temperature-magnetic-semiconductors')
+    ? { editorialNote: 'São previsões computacionais para materiais candidatos; propriedades-chave ainda não foram medidas e a síntese/validação experimental é o próximo passo.' }
+    : {}),
   }));
 
 const data = {
@@ -361,6 +377,8 @@ const data = {
     { name: 'GitHub API', url: 'https://docs.github.com/rest', status: 'ativo' },
     { name: 'GitHub Trending', url: 'https://github.com/trending', status: 'ativo' },
     { name: 'Hacker News / Algolia', url: 'https://hn.algolia.com', status: 'ativo' },
+    { name: 'Vals AI · fonte primária da pauta científica', url: 'https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors', status: 'verificado nesta coleta' },
+    { name: 'TIME · reportagem sobre Meta Muse', url: 'https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/', status: 'reportagem recente; conferir ressalvas da empresa' },
     { name: 'Trendshift', url: 'https://trendshift.io/', status: 'verificação manual' },
     { name: 'YouTube / Instagram / TikTok', url: 'https://www.youtube.com/', status: 'links diretos ou busca; métricas exigem post público verificável' },
   ],
