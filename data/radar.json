@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T21:26:15.658Z",
-  "generatedLabel": "6 de out. de 2026 · 18:26",
+  "generatedAt": "2026-10-07T02:12:08.515Z",
+  "generatedLabel": "6 de out. de 2026 · 23:12",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -45,14 +45,14 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 278029,
-      "forks": 23282,
-      "issues": 319,
+      "stars": 278202,
+      "forks": 23292,
+      "issues": 323,
       "language": "Shell",
       "pushedAt": "2026-10-06T19:04:26Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 972,
-      "score": 77,
+      "pushedLabel": "push há 7h",
+      "trendingStarsToday": 889,
+      "score": 76,
       "social": [
         {
           "platform": "Reddit",
@@ -87,7 +87,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 972 stars hoje",
+          "label": "GitHub Trending · 889 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -138,13 +138,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 8769,
-      "forks": 954,
-      "issues": 94,
+      "stars": 9667,
+      "forks": 1071,
+      "issues": 106,
       "language": "TypeScript",
-      "pushedAt": "2026-10-06T21:25:19Z",
+      "pushedAt": "2026-10-07T02:11:58Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 2963,
+      "trendingStarsToday": 2956,
       "score": 74,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -182,7 +182,7 @@
       "title": "agency-agents",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 621 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 623 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "broll": [
         "GitHub Trending",
@@ -191,13 +191,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/msitarzewski/agency-agents",
-      "stars": 157752,
-      "forks": 25437,
-      "issues": 164,
+      "stars": 157856,
+      "forks": 25449,
+      "issues": 166,
       "language": "Shell",
       "pushedAt": "2026-10-06T17:53:59Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 621,
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 623,
       "score": 73,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -208,7 +208,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 621 stars hoje",
+          "label": "GitHub Trending · 623 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -235,7 +235,7 @@
       "title": "impeccable",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 609 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 616 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "The design language that makes your AI harness better at design.",
       "broll": [
         "GitHub Trending",
@@ -244,13 +244,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 77617,
-      "forks": 4622,
-      "issues": 60,
+      "stars": 77730,
+      "forks": 4630,
+      "issues": 62,
       "language": "JavaScript",
-      "pushedAt": "2026-10-06T19:35:49Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 609,
+      "pushedAt": "2026-10-07T02:06:58Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 616,
       "score": 71,
       "social": [
         {
@@ -269,7 +269,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 609 stars hoje",
+          "label": "GitHub Trending · 616 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -301,7 +301,7 @@
       "title": "claude-mem",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 536 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 534 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "broll": [
         "GitHub Trending",
@@ -310,13 +310,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 97098,
-      "forks": 8555,
-      "issues": 91,
+      "stars": 97207,
+      "forks": 8564,
+      "issues": 100,
       "language": "TypeScript",
-      "pushedAt": "2026-10-06T18:18:07Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 536,
+      "pushedAt": "2026-10-07T00:57:45Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 534,
       "score": 71,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -327,7 +327,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 536 stars hoje",
+          "label": "GitHub Trending · 534 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -363,13 +363,13 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/earthtojake/text-to-cad",
-      "stars": 17909,
-      "forks": 1797,
-      "issues": 36,
+      "stars": 18014,
+      "forks": 1805,
+      "issues": 37,
       "language": "Python",
-      "pushedAt": "2026-10-06T20:34:13Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 620,
+      "pushedAt": "2026-10-07T02:07:10Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 619,
       "score": 69,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -380,7 +380,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 620 stars hoje",
+          "label": "GitHub Trending · 619 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -416,14 +416,14 @@
         "comparação de tokens"
       ],
       "url": "https://github.com/ayghri/i-have-adhd",
-      "stars": 54332,
-      "forks": 3121,
-      "issues": 80,
+      "stars": 54441,
+      "forks": 3127,
+      "issues": 72,
       "language": "Python",
-      "pushedAt": "2026-09-19T16:44:46Z",
-      "pushedLabel": "push há 17d",
-      "trendingStarsToday": 318,
-      "score": 59,
+      "pushedAt": "2026-10-06T23:23:46Z",
+      "pushedLabel": "push há 3h",
+      "trendingStarsToday": 326,
+      "score": 67,
       "social": [
         {
           "platform": "YouTube",
@@ -442,7 +442,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 318 stars hoje",
+          "label": "GitHub Trending · 326 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -482,8 +482,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 92585,
-      "forks": 8121,
+      "stars": 92656,
+      "forks": 8128,
       "issues": 215,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -558,7 +558,7 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27738,
+      "stars": 27742,
       "forks": 2686,
       "issues": 901,
       "language": "TypeScript",
@@ -597,7 +597,7 @@
     {
       "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
       "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "points": 480,
+      "points": 482,
       "comments": 325,
       "publishedAt": "2026-10-05T21:00:21Z",
       "source": "Hacker News / Algolia"
@@ -605,16 +605,24 @@
     {
       "title": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
       "url": "https://github.com/longsurf-ai/openchart",
-      "points": 34,
-      "comments": 12,
+      "points": 37,
+      "comments": 14,
       "publishedAt": "2026-10-06T15:16:45Z",
+      "source": "Hacker News / Algolia"
+    },
+    {
+      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+      "points": 31,
+      "comments": 6,
+      "publishedAt": "2026-10-06T23:50:33Z",
       "source": "Hacker News / Algolia"
     },
     {
       "title": "Meta's Muse AI agent is building a dossier on you",
       "url": "https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/",
-      "points": 14,
-      "comments": 8,
+      "points": 17,
+      "comments": 13,
       "publishedAt": "2026-10-06T20:24:45Z",
       "source": "Hacker News / Algolia"
     },
@@ -633,56 +641,48 @@
       "comments": 1,
       "publishedAt": "2026-10-06T16:50:33Z",
       "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Tofu – let your agent deploy full-stack apps",
-      "url": "https://trytofu.ai",
-      "points": 4,
-      "comments": 4,
-      "publishedAt": "2026-10-06T11:12:02Z",
-      "source": "Hacker News / Algolia"
     }
   ],
   "trending": [
     {
       "repo": "tester-army/e2e",
-      "starsToday": 1720
+      "starsToday": 1725
     },
     {
       "repo": "mattpocock/skills",
-      "starsToday": 972
+      "starsToday": 889
     },
     {
       "repo": "earthtojake/text-to-cad",
-      "starsToday": 620
+      "starsToday": 619
     },
     {
       "repo": "boykopovar/AnyPS5",
-      "starsToday": 943
+      "starsToday": 949
     },
     {
       "repo": "pbakaus/impeccable",
-      "starsToday": 609
+      "starsToday": 616
     },
     {
       "repo": "thedotmack/claude-mem",
-      "starsToday": 536
+      "starsToday": 534
     },
     {
       "repo": "ayghri/i-have-adhd",
-      "starsToday": 318
+      "starsToday": 326
     },
     {
       "repo": "morluto/rea",
-      "starsToday": 2963
+      "starsToday": 2956
     },
     {
       "repo": "deepseek-ai/DeepGEMM",
-      "starsToday": 363
+      "starsToday": 199
     },
     {
       "repo": "msitarzewski/agency-agents",
-      "starsToday": 621
+      "starsToday": 623
     },
     {
       "repo": "DuarteSantos8/openGym",
@@ -690,7 +690,7 @@
     },
     {
       "repo": "cathrynlavery/diagram-design",
-      "starsToday": 227
+      "starsToday": 228
     }
   ],
   "monitored": [
@@ -707,8 +707,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 92585,
-      "forks": 8121,
+      "stars": 92656,
+      "forks": 8128,
       "issues": 215,
       "language": "Python",
       "pushedAt": "2026-09-15T16:16:24Z",
@@ -783,7 +783,7 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27738,
+      "stars": 27742,
       "forks": 2686,
       "issues": 901,
       "language": "TypeScript",
