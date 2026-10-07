@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T21:45:47.363Z",
-  "generatedLabel": "7 de out. de 2026 · 18:45",
+  "generatedAt": "2026-10-07T23:00:56.318Z",
+  "generatedLabel": "7 de out. de 2026 · 20:00",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -55,20 +55,20 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 279463,
-      "forks": 23412,
+      "stars": 279520,
+      "forks": 23419,
       "issues": 156,
       "language": "Shell",
       "pushedAt": "2026-10-07T18:55:04Z",
-      "pushedLabel": "push há 3h",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": 1406,
       "score": 92,
       "social": [
         {
           "platform": "Reddit",
-          "label": "r/claudeskills · usuários comparam Matt Pocock, Superpowers e OpenSpec; discussão sobre utilidade vs. custo de contexto · 84 votos públicos · publicado 03 OUT",
+          "label": "r/claudeskills · usuários comparam Matt Pocock, Superpowers e OpenSpec; discussão sobre utilidade vs. custo de contexto · 85 votos públicos · publicado 03 OUT",
           "url": "https://www.reddit.com/r/claudeskills/comments/1wwqyom/matt_pocock_superpowers_openspec_do_you_pick_one/",
-          "engagement": 84,
+          "engagement": 85,
           "publishedAt": "2026-10-03",
           "verifiedAt": "07 OUT 2026"
         },
@@ -110,7 +110,7 @@
           "kind": "tendência"
         },
         {
-          "label": "Reddit · r/claudeskills · usuários comparam Matt Pocock, Superpowers e OpenSpec; discussão sobre utilidade vs. custo de contexto · 84 votos públicos · publicado 03 OUT",
+          "label": "Reddit · r/claudeskills · usuários comparam Matt Pocock, Superpowers e OpenSpec; discussão sobre utilidade vs. custo de contexto · 85 votos públicos · publicado 03 OUT",
           "url": "https://www.reddit.com/r/claudeskills/comments/1wwqyom/matt_pocock_superpowers_openspec_do_you_pick_one/",
           "kind": "social"
         },
@@ -161,12 +161,12 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 44886,
-      "forks": 2882,
+      "stars": 44914,
+      "forks": 2883,
       "issues": 91,
       "language": "HTML",
-      "pushedAt": "2026-10-06T16:12:51Z",
-      "pushedLabel": "push há 1d",
+      "pushedAt": "2026-10-07T22:55:24Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 828,
       "score": 83,
       "social": [
@@ -241,12 +241,12 @@
         "comparação de tokens"
       ],
       "url": "https://github.com/ayghri/i-have-adhd",
-      "stars": 55036,
-      "forks": 3156,
+      "stars": 55066,
+      "forks": 3158,
       "issues": 73,
       "language": "Python",
       "pushedAt": "2026-10-06T23:23:46Z",
-      "pushedLabel": "push há 22h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": 620,
       "score": 83,
       "social": [
@@ -321,12 +321,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 97654,
-      "forks": 8597,
-      "issues": 113,
+      "stars": 97681,
+      "forks": 8601,
+      "issues": 114,
       "language": "TypeScript",
       "pushedAt": "2026-10-07T00:57:45Z",
-      "pushedLabel": "push há 21h",
+      "pushedLabel": "push há 22h",
       "trendingStarsToday": 578,
       "score": 83,
       "social": [
@@ -388,11 +388,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 14479,
-      "forks": 1520,
+      "stars": 14727,
+      "forks": 1542,
       "issues": 89,
       "language": "TypeScript",
-      "pushedAt": "2026-10-07T21:41:58Z",
+      "pushedAt": "2026-10-07T22:59:56Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 4666,
       "score": 75,
@@ -454,8 +454,8 @@
         "vídeos técnicos sobre skill packs"
       ],
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars": 102725,
-      "forks": 10763,
+      "stars": 102762,
+      "forks": 10766,
       "issues": 135,
       "language": "JavaScript",
       "pushedAt": "2026-10-03T18:21:11Z",
@@ -536,11 +536,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/manaflow-ai/cmux",
-      "stars": 27810,
+      "stars": 27822,
       "forks": 2460,
-      "issues": 3184,
+      "issues": 3196,
       "language": "Swift",
-      "pushedAt": "2026-10-07T21:44:23Z",
+      "pushedAt": "2026-10-07T23:00:28Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 96,
       "score": 58,
@@ -588,12 +588,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 93173,
-      "forks": 8160,
+      "stars": 93195,
+      "forks": 8163,
       "issues": 200,
       "language": "Python",
       "pushedAt": "2026-10-07T17:17:29Z",
-      "pushedLabel": "push há 4h",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": null,
       "score": 53,
       "social": [
@@ -704,9 +704,9 @@
       "title": "South Korea says AI agents appear to have been used to hack the country's banks",
       "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
       "points": 97,
-      "comments": 29,
+      "comments": 30,
       "publishedAt": "2026-10-06T23:50:33Z",
-      "source": "Hacker News / Algolia"
+      "source": "Hacker News official API"
     },
     {
       "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
@@ -714,7 +714,15 @@
       "points": 54,
       "comments": 20,
       "publishedAt": "2026-10-07T03:30:44Z",
-      "source": "Hacker News / Algolia"
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+      "url": "https://agent.reviews/",
+      "points": 28,
+      "comments": 31,
+      "publishedAt": "2026-10-07T16:59:11Z",
+      "source": "Hacker News official API"
     },
     {
       "title": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
@@ -722,15 +730,7 @@
       "points": 43,
       "comments": 19,
       "publishedAt": "2026-10-06T15:16:45Z",
-      "source": "Hacker News / Algolia"
-    },
-    {
-      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-      "url": "https://agent.reviews/",
-      "points": 20,
-      "comments": 28,
-      "publishedAt": "2026-10-07T16:59:11Z",
-      "source": "Hacker News / Algolia"
+      "source": "Hacker News official API"
     },
     {
       "title": "Meta's Muse AI agent is building a dossier on you",
@@ -738,7 +738,7 @@
       "points": 18,
       "comments": 13,
       "publishedAt": "2026-10-06T20:24:45Z",
-      "source": "Hacker News / Algolia"
+      "source": "Hacker News official API"
     },
     {
       "title": "Autolith: A self-modifiable general purpose Lisp AI agent",
@@ -746,7 +746,7 @@
       "points": 28,
       "comments": 0,
       "publishedAt": "2026-10-06T06:49:06Z",
-      "source": "Hacker News / Algolia"
+      "source": "Hacker News official API"
     }
   ],
   "trending": [
@@ -813,12 +813,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 93173,
-      "forks": 8160,
+      "stars": 93195,
+      "forks": 8163,
       "issues": 200,
       "language": "Python",
       "pushedAt": "2026-10-07T17:17:29Z",
-      "pushedLabel": "push há 4h",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": null,
       "score": 53,
       "social": [

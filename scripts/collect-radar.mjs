@@ -108,7 +108,7 @@ const socialReferences = {
     { platform: 'Reddit', label: 'r/AIDeveloperNews · explicação técnica do AX · 61 votos públicos', url: 'https://www.reddit.com/r/AIDeveloperNews/comments/1wmr4uo/google_has_opensourced_ax_a_declarative_agentic/', engagement: 61, publishedAt: '2026-09-21', verifiedAt: '22 SET 2026' },
   ],
   'mattpocock/skills': [
-    { platform: 'Reddit', label: 'r/claudeskills · usuários comparam Matt Pocock, Superpowers e OpenSpec; discussão sobre utilidade vs. custo de contexto · 84 votos públicos · publicado 03 OUT', url: 'https://www.reddit.com/r/claudeskills/comments/1wwqyom/matt_pocock_superpowers_openspec_do_you_pick_one/', engagement: 84, publishedAt: '2026-10-03', verifiedAt: '07 OUT 2026' },
+    { platform: 'Reddit', label: 'r/claudeskills · usuários comparam Matt Pocock, Superpowers e OpenSpec; discussão sobre utilidade vs. custo de contexto · 85 votos públicos · publicado 03 OUT', url: 'https://www.reddit.com/r/claudeskills/comments/1wwqyom/matt_pocock_superpowers_openspec_do_you_pick_one/', engagement: 85, publishedAt: '2026-10-03', verifiedAt: '07 OUT 2026' },
     { platform: 'Reddit', label: 'r/AgentSkills · comparação de packs de skills que inclui mattpocock/skills · 105 votos públicos · publicado 05 SET', url: 'https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/', engagement: 105, publishedAt: '2026-09-05', verifiedAt: '01 OUT 2026' },
     { platform: 'Reddit', label: 'r/ClaudeAI · skills com subagentes especialistas · 3 votos públicos · publicado 23 SET', url: 'https://www.reddit.com/r/ClaudeAI/comments/1wnszxk/matt_pococks_skills_my_own_specialist_subagents/', engagement: 3, publishedAt: '2026-09-23', verifiedAt: '25 SET 2026' },
     { platform: 'YouTube', label: 'Matt Pocock · workflow completo · 424k views · publicado 16 JUL', url: 'https://www.youtube.com/watch?v=M6mYodf0dJM', views: 424060, publishedAt: '2026-07-16', verifiedAt: '07 SET 2026' },
@@ -356,17 +356,22 @@ const newsCandidates = (hn.hits || [])
   .filter((item) => new Date(item.created_at || 0).getTime() >= newsCutoff)
   .filter((item) => newsRelevance.test(item.title || item.story_title || ''))
   .sort((a, b) => ((b.points || 0) + (b.num_comments || 0) * 2) - ((a.points || 0) + (a.num_comments || 0) * 2) || new Date(b.created_at || 0) - new Date(a.created_at || 0));
-const news = uniqueNews(newsCandidates).map((item) => ({
-  title: item.title || item.story_title,
-  url: item.url || item.story_url || `https://news.ycombinator.com/item?id=${item.objectID}`,
-  points: item.points ?? null,
-  comments: item.num_comments ?? null,
-  publishedAt: item.created_at || null,
-  source: 'Hacker News / Algolia',
-  ...(String(item.url || item.story_url || '').includes('vals.ai/blogs/room-temperature-magnetic-semiconductors')
-    ? { editorialNote: 'São previsões computacionais para materiais candidatos; propriedades-chave ainda não foram medidas e a síntese/validação experimental é o próximo passo.' }
-    : {}),
-  }));
+const news = await Promise.all(uniqueNews(newsCandidates).map(async (item) => {
+  const official = item.objectID
+    ? await getJson(`https://hacker-news.firebaseio.com/v0/item/${item.objectID}.json`, null)
+    : null;
+  return {
+    title: item.title || item.story_title,
+    url: item.url || item.story_url || `https://news.ycombinator.com/item?id=${item.objectID}`,
+    points: official?.score ?? item.points ?? null,
+    comments: official?.descendants ?? item.num_comments ?? null,
+    publishedAt: item.created_at || null,
+    source: official ? 'Hacker News official API' : 'Hacker News / Algolia',
+    ...(String(item.url || item.story_url || '').includes('vals.ai/blogs/room-temperature-magnetic-semiconductors')
+      ? { editorialNote: 'São previsões computacionais para materiais candidatos; propriedades-chave ainda não foram medidas e a síntese/validação experimental é o próximo passo.' }
+      : {}),
+  };
+}));
 
 const data = {
   schemaVersion: 1,
