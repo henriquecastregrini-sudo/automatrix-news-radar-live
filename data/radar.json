@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T21:41:07.440Z",
-  "generatedLabel": "8 de out. de 2026 · 18:41",
+  "generatedAt": "2026-10-08T21:49:05.610Z",
+  "generatedLabel": "8 de out. de 2026 · 18:49",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -55,8 +55,8 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 280958,
-      "forks": 23552,
+      "stars": 280959,
+      "forks": 23553,
       "issues": 164,
       "language": "Shell",
       "pushedAt": "2026-10-08T08:49:07Z",
@@ -175,11 +175,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 24489,
-      "forks": 2714,
-      "issues": 96,
+      "stars": 24562,
+      "forks": 2725,
+      "issues": 95,
       "language": "TypeScript",
-      "pushedAt": "2026-10-08T21:35:59Z",
+      "pushedAt": "2026-10-08T21:47:14Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 7744,
       "score": 91,
@@ -267,7 +267,7 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 46185,
+      "stars": 46192,
       "forks": 2942,
       "issues": 48,
       "language": "HTML",
@@ -347,8 +347,8 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/storytold/artcraft",
-      "stars": 7568,
-      "forks": 1033,
+      "stars": 7587,
+      "forks": 1035,
       "issues": 72,
       "language": "Rust",
       "pushedAt": "2026-10-07T00:56:15Z",
@@ -412,7 +412,7 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 98371,
+      "stars": 98372,
       "forks": 8630,
       "issues": 108,
       "language": "TypeScript",
@@ -479,7 +479,7 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars": 27464,
+      "stars": 27467,
       "forks": 3191,
       "issues": 135,
       "language": "Python",
@@ -531,7 +531,7 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 94076,
+      "stars": 94079,
       "forks": 8231,
       "issues": 202,
       "language": "Python",
@@ -744,7 +744,7 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 94076,
+      "stars": 94079,
       "forks": 8231,
       "issues": 202,
       "language": "Python",
