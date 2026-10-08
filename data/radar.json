@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T11:00:23.952Z",
-  "generatedLabel": "8 de out. de 2026 · 08:00",
+  "generatedAt": "2026-10-08T17:37:33.181Z",
+  "generatedLabel": "8 de out. de 2026 · 14:37",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -55,14 +55,14 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 280460,
-      "forks": 23498,
-      "issues": 161,
+      "stars": 280745,
+      "forks": 23532,
+      "issues": 163,
       "language": "Shell",
       "pushedAt": "2026-10-08T08:49:07Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 1403,
-      "score": 92,
+      "pushedLabel": "push há 9h",
+      "trendingStarsToday": 1770,
+      "score": 93,
       "social": [
         {
           "platform": "Reddit",
@@ -105,7 +105,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,4 mil stars hoje",
+          "label": "GitHub Trending · 1,8 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -161,14 +161,14 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 45537,
-      "forks": 2917,
-      "issues": 47,
+      "stars": 45964,
+      "forks": 2938,
+      "issues": 48,
       "language": "HTML",
       "pushedAt": "2026-10-08T01:34:39Z",
-      "pushedLabel": "push há 9h",
-      "trendingStarsToday": 825,
-      "score": 83,
+      "pushedLabel": "push há 16h",
+      "trendingStarsToday": 1163,
+      "score": 85,
       "social": [
         {
           "platform": "Reddit",
@@ -195,7 +195,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 825 stars hoje",
+          "label": "GitHub Trending · 1,2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -228,78 +228,11 @@
       "rank": 2
     },
     {
-      "repo": "thedotmack/claude-mem",
-      "title": "claude-mem",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 578 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 98029,
-      "forks": 8616,
-      "issues": 120,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-07T00:57:45Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 578,
-      "score": 83,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/BestGitHubRepos · caso de uso para memória persistente entre sessões e agentes · 17 votos públicos · publicado 01 OUT",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wv9d8g/claudemem_gives_your_ai_agents_persistent_memory/",
-          "engagement": 17,
-          "publishedAt": "2026-10-01",
-          "verifiedAt": "07 OUT 2026"
-        }
-      ],
-      "socialStatus": "referência recente verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 578 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Reddit · r/BestGitHubRepos · caso de uso para memória persistente entre sessões e agentes · 17 votos públicos · publicado 01 OUT",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wv9d8g/claudemem_gives_your_ai_agents_persistent_memory/",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=thedotmack%20claude-mem%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-mem%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=claude-mem%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "repo": "morluto/rea",
       "title": "rea",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 4,7 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 7,7 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "broll": [
         "GitHub Trending",
@@ -308,13 +241,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 18998,
-      "forks": 1995,
-      "issues": 91,
+      "stars": 21255,
+      "forks": 2296,
+      "issues": 79,
       "language": "TypeScript",
-      "pushedAt": "2026-10-08T10:46:21Z",
+      "pushedAt": "2026-10-08T17:35:51Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 4655,
+      "trendingStarsToday": 7744,
       "score": 75,
       "social": [
         {
@@ -333,7 +266,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 4,7 mil stars hoje",
+          "label": "GitHub Trending · 7,7 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -358,14 +291,14 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "repo": "storytold/artcraft",
       "title": "artcraft",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,5 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 2,5 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "broll": [
         "GitHub Trending",
@@ -374,13 +307,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/storytold/artcraft",
-      "stars": 5851,
-      "forks": 759,
-      "issues": 60,
+      "stars": 6944,
+      "forks": 911,
+      "issues": 67,
       "language": "Rust",
       "pushedAt": "2026-10-07T00:56:15Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 1465,
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 2510,
       "score": 73,
       "social": [
         {
@@ -398,7 +331,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,5 mil stars hoje",
+          "label": "GitHub Trending · 2,5 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -423,14 +356,81 @@
           "kind": "busca"
         }
       ],
+      "rank": 4
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "title": "claude-mem",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 662 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/thedotmack/claude-mem",
+      "stars": 98250,
+      "forks": 8625,
+      "issues": 111,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-08T17:32:28Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 662,
+      "score": 72,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/BestGitHubRepos · caso de uso para memória persistente entre sessões e agentes · 17 votos públicos · publicado 01 OUT",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wv9d8g/claudemem_gives_your_ai_agents_persistent_memory/",
+          "engagement": 17,
+          "publishedAt": "2026-10-01",
+          "verifiedAt": "07 OUT 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 662 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/BestGitHubRepos · caso de uso para memória persistente entre sessões e agentes · 17 votos públicos · publicado 01 OUT",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wv9d8g/claudemem_gives_your_ai_agents_persistent_memory/",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=thedotmack%20claude-mem%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-mem%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=claude-mem%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 5
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
       "title": "knowledge-work-plugins",
       "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 766 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 309 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "broll": [
         "GitHub Trending",
@@ -439,14 +439,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars": 27249,
-      "forks": 3182,
-      "issues": 132,
+      "stars": 27386,
+      "forks": 3187,
+      "issues": 135,
       "language": "Python",
-      "pushedAt": "2026-10-08T07:45:50Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 766,
-      "score": 71,
+      "pushedAt": "2026-10-08T15:35:19Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 309,
+      "score": 65,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -456,7 +456,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 766 stars hoje",
+          "label": "GitHub Trending · 309 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -491,12 +491,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 93803,
-      "forks": 8203,
-      "issues": 200,
+      "stars": 94000,
+      "forks": 8223,
+      "issues": 206,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
       "score": 53,
       "social": [
@@ -567,9 +567,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27806,
+      "stars": 27822,
       "forks": 2696,
-      "issues": 904,
+      "issues": 905,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
       "pushedLabel": "push há 9d",
@@ -614,31 +614,23 @@
     {
       "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
       "url": "https://agent.reviews/",
-      "points": 60,
-      "comments": 45,
+      "points": 64,
+      "comments": 47,
       "publishedAt": "2026-10-07T16:59:11Z",
       "source": "Hacker News official API"
     },
     {
       "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
       "url": "https://github.com/nano-muse/nanoMuse",
-      "points": 57,
+      "points": 58,
       "comments": 21,
       "publishedAt": "2026-10-07T03:30:44Z",
       "source": "Hacker News official API"
     },
     {
-      "title": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
-      "url": "https://github.com/longsurf-ai/openchart",
-      "points": 44,
-      "comments": 20,
-      "publishedAt": "2026-10-06T15:16:45Z",
-      "source": "Hacker News official API"
-    },
-    {
       "title": "Meta's Muse AI agent is building a dossier on you",
       "url": "https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/",
-      "points": 18,
+      "points": 19,
       "comments": 13,
       "publishedAt": "2026-10-06T20:24:45Z",
       "source": "Hacker News official API"
@@ -650,40 +642,48 @@
       "comments": 10,
       "publishedAt": "2026-10-07T15:02:57Z",
       "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: An AI agent runs ten web errands a day, every transcript published",
+      "url": "https://agentability.org/",
+      "points": 14,
+      "comments": 2,
+      "publishedAt": "2026-10-06T22:00:58Z",
+      "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "boykopovar/AnyPS5",
-      "starsToday": 2716
+      "starsToday": 4640
     },
     {
       "repo": "cathrynlavery/diagram-design",
-      "starsToday": 825
+      "starsToday": 1163
     },
     {
       "repo": "morluto/rea",
-      "starsToday": 4655
+      "starsToday": 7744
     },
     {
       "repo": "mattpocock/skills",
-      "starsToday": 1403
+      "starsToday": 1770
     },
     {
       "repo": "thedotmack/claude-mem",
-      "starsToday": 578
+      "starsToday": 662
     },
     {
       "repo": "EpicGames/raddebugger",
-      "starsToday": 90
+      "starsToday": 283
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
-      "starsToday": 766
+      "starsToday": 309
     },
     {
       "repo": "storytold/artcraft",
-      "starsToday": 1465
+      "starsToday": 2510
     },
     {
       "repo": "liquidslr/system-design-notes",
@@ -704,12 +704,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 93803,
-      "forks": 8203,
-      "issues": 200,
+      "stars": 94000,
+      "forks": 8223,
+      "issues": 206,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
       "score": 53,
       "social": [
@@ -780,9 +780,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27806,
+      "stars": 27822,
       "forks": 2696,
-      "issues": 904,
+      "issues": 905,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
       "pushedLabel": "push há 9d",
