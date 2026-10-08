@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T02:37:32.754Z",
-  "generatedLabel": "7 de out. de 2026 · 23:37",
+  "generatedAt": "2026-10-08T11:00:23.952Z",
+  "generatedLabel": "8 de out. de 2026 · 08:00",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -55,12 +55,12 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 279734,
-      "forks": 23450,
-      "issues": 156,
+      "stars": 280460,
+      "forks": 23498,
+      "issues": 161,
       "language": "Shell",
-      "pushedAt": "2026-10-07T18:55:04Z",
-      "pushedLabel": "push há 8h",
+      "pushedAt": "2026-10-08T08:49:07Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": 1403,
       "score": 92,
       "social": [
@@ -161,12 +161,12 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 45071,
-      "forks": 2895,
-      "issues": 46,
+      "stars": 45537,
+      "forks": 2917,
+      "issues": 47,
       "language": "HTML",
       "pushedAt": "2026-10-08T01:34:39Z",
-      "pushedLabel": "push há 1h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": 825,
       "score": 83,
       "social": [
@@ -228,86 +228,6 @@
       "rank": 2
     },
     {
-      "repo": "ayghri/i-have-adhd",
-      "title": "I Have ADHD",
-      "type": "Acessibilidade para agentes",
-      "status": "Gravar agora",
-      "hook": "Esta skill obriga o agente de código a parar de esconder a resposta em textos enormes.",
-      "thesis": "A próxima evolução dos agentes pode ser adaptar a comunicação ao cérebro de cada usuário.",
-      "broll": [
-        "resposta antes e depois",
-        "README",
-        "instalação da skill",
-        "comparação de tokens"
-      ],
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "stars": 55190,
-      "forks": 3163,
-      "issues": 73,
-      "language": "Python",
-      "pushedAt": "2026-10-06T23:23:46Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 619,
-      "score": 83,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/BestGitHubRepos · post direto mostra a skill e suas 10 regras de resposta objetiva · 35 votos públicos · publicado 07 OUT",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wzu01h/ihaveadhd_adhdfriendly_outputs_no_adhd_diagnosis/",
-          "engagement": 35,
-          "publishedAt": "2026-10-07",
-          "verifiedAt": "07 OUT 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "AI Stack Engineer · I Have ADHD Skill · 1,7k views · publicado 08 AGO · referência histórica",
-          "url": "https://www.youtube.com/watch?v=Wu_Vos03Uxg",
-          "views": 1719,
-          "publishedAt": "2026-08-08",
-          "verifiedAt": "08 SET 2026"
-        }
-      ],
-      "socialStatus": "referência recente verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/ayghri/i-have-adhd",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 619 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Reddit · r/BestGitHubRepos · post direto mostra a skill e suas 10 regras de resposta objetiva · 35 votos públicos · publicado 07 OUT",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wzu01h/ihaveadhd_adhdfriendly_outputs_no_adhd_diagnosis/",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · AI Stack Engineer · I Have ADHD Skill · 1,7k views · publicado 08 AGO · referência histórica",
-          "url": "https://www.youtube.com/watch?v=Wu_Vos03Uxg",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=ayghri%20i-have-adhd%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=I%20Have%20ADHD%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=I%20Have%20ADHD%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "repo": "thedotmack/claude-mem",
       "title": "claude-mem",
       "type": "Novo no GitHub Trending",
@@ -321,9 +241,9 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 97778,
-      "forks": 8607,
-      "issues": 115,
+      "stars": 98029,
+      "forks": 8616,
+      "issues": 120,
       "language": "TypeScript",
       "pushedAt": "2026-10-07T00:57:45Z",
       "pushedLabel": "push há 1d",
@@ -372,7 +292,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "repo": "morluto/rea",
@@ -388,11 +308,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 15807,
-      "forks": 1659,
-      "issues": 95,
+      "stars": 18998,
+      "forks": 1995,
+      "issues": 91,
       "language": "TypeScript",
-      "pushedAt": "2026-10-08T02:15:40Z",
+      "pushedAt": "2026-10-08T10:46:21Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 4655,
       "score": 75,
@@ -438,142 +358,125 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
-      "repo": "addyosmani/agent-skills",
-      "title": "Agent Skills",
-      "type": "Skills para agentes de código",
-      "status": "Gravar agora",
-      "hook": "Addy Osmani reuniu padrões de engenharia para transformar agentes de código em especialistas reutilizáveis.",
-      "thesis": "Skills estão deixando de ser prompts isolados e virando pacotes versionados de conhecimento, processo e validação.",
-      "broll": [
-        "estrutura das skills",
-        "README e exemplos",
-        "comparação entre agentes",
-        "vídeos técnicos sobre skill packs"
-      ],
-      "url": "https://github.com/addyosmani/agent-skills",
-      "stars": 102868,
-      "forks": 10776,
-      "issues": 137,
-      "language": "JavaScript",
-      "pushedAt": "2026-10-03T18:21:11Z",
-      "pushedLabel": "push há 4d",
-      "trendingStarsToday": 677,
-      "score": 66,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "The Gray Cat · Matt Pocock vs Addy Osmani · 18,5k views · 183 likes · publicado 27 AGO",
-          "url": "https://www.youtube.com/watch?v=IDQs0VBL5UY",
-          "views": 18569,
-          "likes": 183,
-          "publishedAt": "2026-08-27",
-          "verifiedAt": "19 SET 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "AI Engineer · Building Great Agent Skills · 174k views · 5k likes · publicado 29 JUN",
-          "url": "https://www.youtube.com/watch?v=UNzCG3lw6O0",
-          "views": 173966,
-          "likes": 4956,
-          "publishedAt": "2026-06-29",
-          "verifiedAt": "19 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 677 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · The Gray Cat · Matt Pocock vs Addy Osmani · 18,5k views · 183 likes · publicado 27 AGO",
-          "url": "https://www.youtube.com/watch?v=IDQs0VBL5UY",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · AI Engineer · Building Great Agent Skills · 174k views · 5k likes · publicado 29 JUN",
-          "url": "https://www.youtube.com/watch?v=UNzCG3lw6O0",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=addyosmani%20agent-skills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent%20Skills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Agent%20Skills%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 6
-    },
-    {
-      "repo": "manaflow-ai/cmux",
-      "title": "cmux",
+      "repo": "storytold/artcraft",
+      "title": "artcraft",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 44 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 1,5 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/manaflow-ai/cmux",
-      "stars": 27878,
-      "forks": 2463,
-      "issues": 3229,
-      "language": "Swift",
-      "pushedAt": "2026-10-08T02:37:21Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 44,
-      "score": 53,
+      "url": "https://github.com/storytold/artcraft",
+      "stars": 5851,
+      "forks": 759,
+      "issues": 60,
+      "language": "Rust",
+      "pushedAt": "2026-10-07T00:56:15Z",
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 1465,
+      "score": 73,
+      "social": [
+        {
+          "platform": "YouTube oficial",
+          "label": "Official ArtCraft Studios · demo de 2 minutos como referência de produto/B-roll; data e alcance do vídeo não verificados nesta varredura",
+          "url": "https://www.youtube.com/watch?v=kzvQMdg66Go",
+          "verifiedAt": "08 OUT 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/storytold/artcraft",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,5 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube oficial · Official ArtCraft Studios · demo de 2 minutos como referência de produto/B-roll; data e alcance do vídeo não verificados nesta varredura",
+          "url": "https://www.youtube.com/watch?v=kzvQMdg66Go",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=storytold%20artcraft%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=artcraft%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=artcraft%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "title": "knowledge-work-plugins",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 766 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "stars": 27249,
+      "forks": 3182,
+      "issues": 132,
+      "language": "Python",
+      "pushedAt": "2026-10-08T07:45:50Z",
+      "pushedLabel": "push há 3h",
+      "trendingStarsToday": 766,
+      "score": 71,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/manaflow-ai/cmux",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 44 stars hoje",
+          "label": "GitHub Trending · 766 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=manaflow-ai%20cmux%20AI",
+          "url": "https://www.youtube.com/results?search_query=anthropics%20knowledge-work-plugins%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=cmux%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=knowledge-work-plugins%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=cmux%20AI",
+          "url": "https://www.tiktok.com/search?q=knowledge-work-plugins%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 6
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -588,12 +491,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 93337,
-      "forks": 8173,
+      "stars": 93803,
+      "forks": 8203,
       "issues": 200,
       "language": "Python",
-      "pushedAt": "2026-10-07T17:17:29Z",
-      "pushedLabel": "push há 9h",
+      "pushedAt": "2026-10-08T08:31:08Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": null,
       "score": 53,
       "social": [
@@ -649,7 +552,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 7
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -664,9 +567,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27777,
-      "forks": 2691,
-      "issues": 903,
+      "stars": 27806,
+      "forks": 2696,
+      "issues": 904,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
       "pushedLabel": "push há 9d",
@@ -696,39 +599,39 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 8
     }
   ],
   "news": [
     {
-      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
-      "points": 97,
-      "comments": 31,
-      "publishedAt": "2026-10-06T23:50:33Z",
-      "source": "Hacker News official API"
+      "title": "CrowdStrike diz que suspeito de ataques a bancos sul-coreanos usou ferramentas de IA",
+      "url": "https://www.investing.com/news/stock-market-news/crowdstrike-says-chinabased-suspect-used-ai-tools-in-south-korean-bank-hacks-4937965",
+      "points": null,
+      "comments": null,
+      "publishedAt": "2026-10-08T02:35:00Z",
+      "source": "Reuters via Investing.com"
     },
     {
       "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
       "url": "https://agent.reviews/",
-      "points": 49,
-      "comments": 40,
+      "points": 60,
+      "comments": 45,
       "publishedAt": "2026-10-07T16:59:11Z",
       "source": "Hacker News official API"
     },
     {
       "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
       "url": "https://github.com/nano-muse/nanoMuse",
-      "points": 56,
-      "comments": 20,
+      "points": 57,
+      "comments": 21,
       "publishedAt": "2026-10-07T03:30:44Z",
       "source": "Hacker News official API"
     },
     {
       "title": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
       "url": "https://github.com/longsurf-ai/openchart",
-      "points": 43,
-      "comments": 19,
+      "points": 44,
+      "comments": 20,
       "publishedAt": "2026-10-06T15:16:45Z",
       "source": "Hacker News official API"
     },
@@ -741,15 +644,23 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "Autolith: A self-modifiable general purpose Lisp AI agent",
-      "url": "https://github.com/lambda-symbolics/autolith",
-      "points": 28,
-      "comments": 0,
-      "publishedAt": "2026-10-06T06:49:06Z",
+      "title": "We Built an Alternative to Vector RAG for AI Agent Memory",
+      "url": "https://www.claix.dev/blog/rag-for-ai-agents-agentic-retrieval",
+      "points": 4,
+      "comments": 10,
+      "publishedAt": "2026-10-07T15:02:57Z",
       "source": "Hacker News official API"
     }
   ],
   "trending": [
+    {
+      "repo": "boykopovar/AnyPS5",
+      "starsToday": 2716
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "starsToday": 825
+    },
     {
       "repo": "morluto/rea",
       "starsToday": 4655
@@ -759,44 +670,24 @@
       "starsToday": 1403
     },
     {
-      "repo": "boykopovar/AnyPS5",
-      "starsToday": 2716
-    },
-    {
-      "repo": "ayghri/i-have-adhd",
-      "starsToday": 619
-    },
-    {
-      "repo": "cathrynlavery/diagram-design",
-      "starsToday": 825
-    },
-    {
-      "repo": "addyosmani/agent-skills",
-      "starsToday": 677
+      "repo": "thedotmack/claude-mem",
+      "starsToday": 578
     },
     {
       "repo": "EpicGames/raddebugger",
       "starsToday": 90
     },
     {
-      "repo": "thedotmack/claude-mem",
-      "starsToday": 578
+      "repo": "anthropics/knowledge-work-plugins",
+      "starsToday": 766
     },
     {
-      "repo": "manaflow-ai/cmux",
-      "starsToday": 44
+      "repo": "storytold/artcraft",
+      "starsToday": 1465
     },
     {
-      "repo": "trycua/cua",
-      "starsToday": 228
-    },
-    {
-      "repo": "cloudflare/security-audit-skill",
-      "starsToday": 576
-    },
-    {
-      "repo": "tester-army/e2e",
-      "starsToday": 1390
+      "repo": "liquidslr/system-design-notes",
+      "starsToday": 398
     }
   ],
   "monitored": [
@@ -813,12 +704,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 93337,
-      "forks": 8173,
+      "stars": 93803,
+      "forks": 8203,
       "issues": 200,
       "language": "Python",
-      "pushedAt": "2026-10-07T17:17:29Z",
-      "pushedLabel": "push há 9h",
+      "pushedAt": "2026-10-08T08:31:08Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": null,
       "score": 53,
       "social": [
@@ -874,7 +765,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 7
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -889,9 +780,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27777,
-      "forks": 2691,
-      "issues": 903,
+      "stars": 27806,
+      "forks": 2696,
+      "issues": 904,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
       "pushedLabel": "push há 9d",
@@ -921,7 +812,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 8
     }
   ]
 }

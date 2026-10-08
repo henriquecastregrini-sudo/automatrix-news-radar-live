@@ -178,6 +178,9 @@ const socialReferences = {
   'thedotmack/claude-mem': [
     { platform: 'Reddit', label: 'r/BestGitHubRepos · caso de uso para memória persistente entre sessões e agentes · 17 votos públicos · publicado 01 OUT', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1wv9d8g/claudemem_gives_your_ai_agents_persistent_memory/', engagement: 17, publishedAt: '2026-10-01', verifiedAt: '07 OUT 2026' },
   ],
+  'storytold/artcraft': [
+    { platform: 'YouTube oficial', label: 'Official ArtCraft Studios · demo de 2 minutos como referência de produto/B-roll; data e alcance do vídeo não verificados nesta varredura', url: 'https://www.youtube.com/watch?v=kzvQMdg66Go', verifiedAt: '08 OUT 2026' },
+  ],
   'Panniantong/Agent-Reach': [
     { platform: 'Reddit', label: 'r/BestGitHubRepos · post novo explica acesso a web, YouTube e redes para agentes · 22 votos públicos no momento da checagem · publicado 03 OUT; inclui ressalva sobre risco de bloqueio em serviços com login', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1wwip3m/agentreach_give_your_ai_coding_agent_access_to/', engagement: 22, publishedAt: '2026-10-03', verifiedAt: '03 OUT 2026' },
     { platform: 'YouTube', label: 'Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN · referência histórica', url: 'https://www.youtube.com/watch?v=aanqEqQwjNU', views: 17073, likes: 445, comments: 27, publishedAt: '2026-06-18', verifiedAt: '14 SET 2026' },
@@ -354,9 +357,17 @@ function uniqueNews(items) {
 const newsCandidates = (hn.hits || [])
   .filter((item) => item.url || item.story_url)
   .filter((item) => new Date(item.created_at || 0).getTime() >= newsCutoff)
+  .filter((item) => !String(item.url || item.story_url || '').includes('/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/'))
   .filter((item) => newsRelevance.test(item.title || item.story_title || ''))
   .sort((a, b) => ((b.points || 0) + (b.num_comments || 0) * 2) - ((a.points || 0) + (a.num_comments || 0) * 2) || new Date(b.created_at || 0) - new Date(a.created_at || 0));
-const news = await Promise.all(uniqueNews(newsCandidates).map(async (item) => {
+const additionalNews = [{
+  title: 'CrowdStrike diz que suspeito de ataques a bancos sul-coreanos usou ferramentas de IA',
+  url: 'https://www.investing.com/news/stock-market-news/crowdstrike-says-chinabased-suspect-used-ai-tools-in-south-korean-bank-hacks-4937965',
+  publishedAt: '2026-10-08T02:35:00Z',
+  source: 'Reuters via Investing.com',
+  editorialNote: 'Atribuição e uso de ARTEX/Claude Code são alegações reportadas pela CrowdStrike; Reuters ressalva que a atividade não foi atribuída a um ator nomeado. Não tratar como confirmação independente de causalidade.',
+}].filter((item) => new Date(item.publishedAt).getTime() >= newsCutoff);
+const news = await Promise.all(uniqueNews([...additionalNews, ...newsCandidates]).map(async (item) => {
   const official = item.objectID
     ? await getJson(`https://hacker-news.firebaseio.com/v0/item/${item.objectID}.json`, null)
     : null;
@@ -365,8 +376,8 @@ const news = await Promise.all(uniqueNews(newsCandidates).map(async (item) => {
     url: item.url || item.story_url || `https://news.ycombinator.com/item?id=${item.objectID}`,
     points: official?.score ?? item.points ?? null,
     comments: official?.descendants ?? item.num_comments ?? null,
-    publishedAt: item.created_at || null,
-    source: official ? 'Hacker News official API' : 'Hacker News / Algolia',
+    publishedAt: item.created_at || item.publishedAt || null,
+    source: official ? 'Hacker News official API' : item.source || 'Hacker News / Algolia',
     ...(String(item.url || item.story_url || '').includes('vals.ai/blogs/room-temperature-magnetic-semiconductors')
       ? { editorialNote: 'São previsões computacionais para materiais candidatos; propriedades-chave ainda não foram medidas e a síntese/validação experimental é o próximo passo.' }
       : {}),
