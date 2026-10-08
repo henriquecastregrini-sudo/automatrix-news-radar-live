@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T17:37:33.181Z",
-  "generatedLabel": "8 de out. de 2026 · 14:37",
+  "generatedAt": "2026-10-08T21:39:25.320Z",
+  "generatedLabel": "8 de out. de 2026 · 18:39",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -55,15 +55,24 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 280745,
-      "forks": 23532,
-      "issues": 163,
+      "stars": 280957,
+      "forks": 23552,
+      "issues": 164,
       "language": "Shell",
       "pushedAt": "2026-10-08T08:49:07Z",
-      "pushedLabel": "push há 9h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": 1770,
-      "score": 93,
+      "score": 100,
       "social": [
+        {
+          "platform": "YouTube · métrica via espelho",
+          "label": "Matt Pocock · lançamento skills v1.3 (/pr, /implement-spec, /retro) · 214,1k views e 3,6k likes exibidos por espelho em 08 OUT; página nativa do YouTube limitou a verificação",
+          "url": "https://www.youtube.com/watch?v=BsJGo1wFTvQ",
+          "views": 214144,
+          "likes": 3600,
+          "publishedAt": "2026-10-05",
+          "verifiedAt": "08 OUT 2026"
+        },
         {
           "platform": "Reddit",
           "label": "r/claudeskills · usuários comparam Matt Pocock, Superpowers e OpenSpec; discussão sobre utilidade vs. custo de contexto · 85 votos públicos · publicado 03 OUT",
@@ -97,7 +106,7 @@
           "verifiedAt": "07 SET 2026"
         }
       ],
-      "socialStatus": "referência recente verificada",
+      "socialStatus": "métrica social via espelho; checagem nativa pendente",
       "sources": [
         {
           "label": "GitHub",
@@ -108,6 +117,11 @@
           "label": "GitHub Trending · 1,8 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
+        },
+        {
+          "label": "YouTube · métrica via espelho · Matt Pocock · lançamento skills v1.3 (/pr, /implement-spec, /retro) · 214,1k views e 3,6k likes exibidos por espelho em 08 OUT; página nativa do YouTube limitou a verificação",
+          "url": "https://www.youtube.com/watch?v=BsJGo1wFTvQ",
+          "kind": "social"
         },
         {
           "label": "Reddit · r/claudeskills · usuários comparam Matt Pocock, Superpowers e OpenSpec; discussão sobre utilidade vs. custo de contexto · 85 votos públicos · publicado 03 OUT",
@@ -148,6 +162,98 @@
       "rank": 1
     },
     {
+      "repo": "morluto/rea",
+      "title": "rea",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 7,7 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/morluto/rea",
+      "stars": 24470,
+      "forks": 2714,
+      "issues": 95,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-08T21:35:59Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 7744,
+      "score": 91,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/BestGitHubRepos · post de apresentação do REA com 1.032 votos públicos; conteúdo promocional baseado no README, então alcance orgânico ainda não corroborado · publicado 08 OUT",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1x0s6lv/rea_reverse_engineer_anything_18k_stars/",
+          "engagement": 1032,
+          "publishedAt": "2026-10-08",
+          "verifiedAt": "08 OUT 2026"
+        },
+        {
+          "platform": "Reddit",
+          "label": "r/LovingOpenSourceAI · compartilhamento do repo com 391 votos públicos; replies seguem até 08 OUT · publicado 05 OUT",
+          "url": "https://www.reddit.com/r/LovingOpenSourceAI/comments/1wyawik/rea_reverse_engineer_anything_reverse_engineer/",
+          "engagement": 391,
+          "publishedAt": "2026-10-05",
+          "verifiedAt": "08 OUT 2026"
+        },
+        {
+          "platform": "TikTok (espelho)",
+          "label": "@whitewhoadie · demonstração de REA em vídeo; página espelho lista publicação em 04 OUT e comentários, mas contagens sem rótulos, então sem métricas usadas · validar no TikTok nativo",
+          "url": "https://tikwm.com/video/7692856072624770318.html",
+          "publishedAt": "2026-10-04",
+          "verifiedAt": "07 OUT 2026"
+        }
+      ],
+      "socialStatus": "post de apresentação com alto engajamento; repercussão orgânica não corroborada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/morluto/rea",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 7,7 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/BestGitHubRepos · post de apresentação do REA com 1.032 votos públicos; conteúdo promocional baseado no README, então alcance orgânico ainda não corroborado · publicado 08 OUT",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1x0s6lv/rea_reverse_engineer_anything_18k_stars/",
+          "kind": "social"
+        },
+        {
+          "label": "Reddit · r/LovingOpenSourceAI · compartilhamento do repo com 391 votos públicos; replies seguem até 08 OUT · publicado 05 OUT",
+          "url": "https://www.reddit.com/r/LovingOpenSourceAI/comments/1wyawik/rea_reverse_engineer_anything_reverse_engineer/",
+          "kind": "social"
+        },
+        {
+          "label": "TikTok (espelho) · @whitewhoadie · demonstração de REA em vídeo; página espelho lista publicação em 04 OUT e comentários, mas contagens sem rótulos, então sem métricas usadas · validar no TikTok nativo",
+          "url": "https://tikwm.com/video/7692856072624770318.html",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=morluto%20rea%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=rea%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=rea%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "repo": "cathrynlavery/diagram-design",
       "title": "Diagram Design",
       "type": "Visual para agentes",
@@ -161,12 +267,12 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 45964,
-      "forks": 2938,
+      "stars": 46184,
+      "forks": 2942,
       "issues": 48,
       "language": "HTML",
       "pushedAt": "2026-10-08T01:34:39Z",
-      "pushedLabel": "push há 16h",
+      "pushedLabel": "push há 20h",
       "trendingStarsToday": 1163,
       "score": 85,
       "social": [
@@ -225,72 +331,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 2
-    },
-    {
-      "repo": "morluto/rea",
-      "title": "rea",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 7,7 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/morluto/rea",
-      "stars": 21255,
-      "forks": 2296,
-      "issues": 79,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-08T17:35:51Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 7744,
-      "score": 75,
-      "social": [
-        {
-          "platform": "TikTok (espelho)",
-          "label": "@whitewhoadie · demonstração de REA em vídeo; página espelho lista publicação em 04 OUT e comentários, mas contagens sem rótulos, então sem métricas usadas · validar no TikTok nativo",
-          "url": "https://tikwm.com/video/7692856072624770318.html",
-          "publishedAt": "2026-10-04",
-          "verifiedAt": "07 OUT 2026"
-        }
-      ],
-      "socialStatus": "referência recente direta — métrica pública precisa verificação",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/morluto/rea",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 7,7 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "TikTok (espelho) · @whitewhoadie · demonstração de REA em vídeo; página espelho lista publicação em 04 OUT e comentários, mas contagens sem rótulos, então sem métricas usadas · validar no TikTok nativo",
-          "url": "https://tikwm.com/video/7692856072624770318.html",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=morluto%20rea%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=rea%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=rea%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 3
     },
     {
@@ -307,14 +347,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/storytold/artcraft",
-      "stars": 6944,
-      "forks": 911,
-      "issues": 67,
+      "stars": 7561,
+      "forks": 1032,
+      "issues": 72,
       "language": "Rust",
       "pushedAt": "2026-10-07T00:56:15Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": 2510,
-      "score": 73,
+      "score": 74,
       "social": [
         {
           "platform": "YouTube oficial",
@@ -372,12 +412,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 98250,
-      "forks": 8625,
-      "issues": 111,
+      "stars": 98369,
+      "forks": 8630,
+      "issues": 108,
       "language": "TypeScript",
-      "pushedAt": "2026-10-08T17:32:28Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-10-08T18:58:36Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": 662,
       "score": 72,
       "social": [
@@ -439,12 +479,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars": 27386,
-      "forks": 3187,
+      "stars": 27464,
+      "forks": 3191,
       "issues": 135,
       "language": "Python",
       "pushedAt": "2026-10-08T15:35:19Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": 309,
       "score": 65,
       "social": [],
@@ -491,12 +531,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 94000,
-      "forks": 8223,
-      "issues": 206,
+      "stars": 94076,
+      "forks": 8231,
+      "issues": 202,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
-      "pushedLabel": "push há 9h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": null,
       "score": 53,
       "social": [
@@ -567,12 +607,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27822,
-      "forks": 2696,
-      "issues": 905,
+      "stars": 27824,
+      "forks": 2698,
+      "issues": 906,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
-      "pushedLabel": "push há 9d",
+      "pushedLabel": "push há 10d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
@@ -614,7 +654,7 @@
     {
       "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
       "url": "https://agent.reviews/",
-      "points": 64,
+      "points": 67,
       "comments": 47,
       "publishedAt": "2026-10-07T16:59:11Z",
       "source": "Hacker News official API"
@@ -622,17 +662,25 @@
     {
       "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
       "url": "https://github.com/nano-muse/nanoMuse",
-      "points": 58,
+      "points": 59,
       "comments": 21,
       "publishedAt": "2026-10-07T03:30:44Z",
       "source": "Hacker News official API"
     },
     {
-      "title": "Meta's Muse AI agent is building a dossier on you",
-      "url": "https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/",
-      "points": 19,
-      "comments": 13,
-      "publishedAt": "2026-10-06T20:24:45Z",
+      "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
+      "url": "https://github.com/edgedelta/project-arena",
+      "points": 22,
+      "comments": 8,
+      "publishedAt": "2026-10-08T17:13:08Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: I Put an AI Agent on a Nokia 110",
+      "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
+      "points": 22,
+      "comments": 7,
+      "publishedAt": "2026-10-08T14:18:51Z",
       "source": "Hacker News official API"
     },
     {
@@ -641,14 +689,6 @@
       "points": 4,
       "comments": 10,
       "publishedAt": "2026-10-07T15:02:57Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: An AI agent runs ten web errands a day, every transcript published",
-      "url": "https://agentability.org/",
-      "points": 14,
-      "comments": 2,
-      "publishedAt": "2026-10-06T22:00:58Z",
       "source": "Hacker News official API"
     }
   ],
@@ -704,12 +744,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 94000,
-      "forks": 8223,
-      "issues": 206,
+      "stars": 94076,
+      "forks": 8231,
+      "issues": 202,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
-      "pushedLabel": "push há 9h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": null,
       "score": 53,
       "social": [
@@ -780,12 +820,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27822,
-      "forks": 2696,
-      "issues": 905,
+      "stars": 27824,
+      "forks": 2698,
+      "issues": 906,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
-      "pushedLabel": "push há 9d",
+      "pushedLabel": "push há 10d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],

@@ -108,6 +108,7 @@ const socialReferences = {
     { platform: 'Reddit', label: 'r/AIDeveloperNews · explicação técnica do AX · 61 votos públicos', url: 'https://www.reddit.com/r/AIDeveloperNews/comments/1wmr4uo/google_has_opensourced_ax_a_declarative_agentic/', engagement: 61, publishedAt: '2026-09-21', verifiedAt: '22 SET 2026' },
   ],
   'mattpocock/skills': [
+    { platform: 'YouTube · métrica via espelho', label: 'Matt Pocock · lançamento skills v1.3 (/pr, /implement-spec, /retro) · 214,1k views e 3,6k likes exibidos por espelho em 08 OUT; página nativa do YouTube limitou a verificação', url: 'https://www.youtube.com/watch?v=BsJGo1wFTvQ', views: 214144, likes: 3600, publishedAt: '2026-10-05', verifiedAt: '08 OUT 2026' },
     { platform: 'Reddit', label: 'r/claudeskills · usuários comparam Matt Pocock, Superpowers e OpenSpec; discussão sobre utilidade vs. custo de contexto · 85 votos públicos · publicado 03 OUT', url: 'https://www.reddit.com/r/claudeskills/comments/1wwqyom/matt_pocock_superpowers_openspec_do_you_pick_one/', engagement: 85, publishedAt: '2026-10-03', verifiedAt: '07 OUT 2026' },
     { platform: 'Reddit', label: 'r/AgentSkills · comparação de packs de skills que inclui mattpocock/skills · 105 votos públicos · publicado 05 SET', url: 'https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/', engagement: 105, publishedAt: '2026-09-05', verifiedAt: '01 OUT 2026' },
     { platform: 'Reddit', label: 'r/ClaudeAI · skills com subagentes especialistas · 3 votos públicos · publicado 23 SET', url: 'https://www.reddit.com/r/ClaudeAI/comments/1wnszxk/matt_pococks_skills_my_own_specialist_subagents/', engagement: 3, publishedAt: '2026-09-23', verifiedAt: '25 SET 2026' },
@@ -173,6 +174,8 @@ const socialReferences = {
   'magnitudedev/magnitude': [],
   'K-Dense-AI/scientific-agent-skills': [{ platform: 'YouTube', label: 'K-Dense · skills científicas · 13,5k views · publicado 18 FEV', url: 'https://www.youtube.com/watch?v=ZxbnDaD_FVg', views: 13534, publishedAt: '2026-02-18', verifiedAt: '07 SET 2026' }],
   'morluto/rea': [
+    { platform: 'Reddit', label: 'r/BestGitHubRepos · post de apresentação do REA com 1.032 votos públicos; conteúdo promocional baseado no README, então alcance orgânico ainda não corroborado · publicado 08 OUT', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1x0s6lv/rea_reverse_engineer_anything_18k_stars/', engagement: 1032, publishedAt: '2026-10-08', verifiedAt: '08 OUT 2026' },
+    { platform: 'Reddit', label: 'r/LovingOpenSourceAI · compartilhamento do repo com 391 votos públicos; replies seguem até 08 OUT · publicado 05 OUT', url: 'https://www.reddit.com/r/LovingOpenSourceAI/comments/1wyawik/rea_reverse_engineer_anything_reverse_engineer/', engagement: 391, publishedAt: '2026-10-05', verifiedAt: '08 OUT 2026' },
     { platform: 'TikTok (espelho)', label: '@whitewhoadie · demonstração de REA em vídeo; página espelho lista publicação em 04 OUT e comentários, mas contagens sem rótulos, então sem métricas usadas · validar no TikTok nativo', url: 'https://tikwm.com/video/7692856072624770318.html', publishedAt: '2026-10-04', verifiedAt: '07 OUT 2026' },
   ],
   'thedotmack/claude-mem': [
@@ -281,6 +284,8 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
     && Date.now() - new Date(`${reference.publishedAt}T12:00:00Z`).getTime() <= 7 * 864e5);
   const verifiedRecentSocial = recentSocial.filter((reference) => ['views', 'engagement', 'likes', 'comments']
     .some((metric) => Number.isFinite(reference[metric])));
+  const promoSignalNeedsCorroboration = recentSocial.some((reference) => reference.label.includes('alcance orgânico ainda não corroborado'));
+  const mirroredSocialMetric = recentSocial.some((reference) => reference.platform.includes('métrica via espelho'));
   const socialSignal = Math.max(0, ...verifiedRecentSocial.map((reference) => reference.views || reference.engagement || reference.likes || reference.comments || 0));
   const socialScore = verifiedRecentSocial.length ? Math.min(22, 8 + Math.log10(socialSignal + 1) * 2.5) : 0;
   const score = Math.min(100, Math.round(
@@ -304,7 +309,9 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
     trendingStarsToday: starsToday || null,
     score,
     social,
-    socialStatus: verifiedRecentSocial.length ? 'referência recente verificada'
+    socialStatus: promoSignalNeedsCorroboration ? 'post de apresentação com alto engajamento; repercussão orgânica não corroborada'
+      : mirroredSocialMetric ? 'métrica social via espelho; checagem nativa pendente'
+      : verifiedRecentSocial.length ? 'referência recente verificada'
       : recentSocial.length ? 'referência recente direta — métrica pública precisa verificação'
       : social.length ? 'somente referência histórica — sem prova social recente'
         : 'sem post direto verificado — precisa varredura social',
