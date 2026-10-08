@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T21:49:05.610Z",
-  "generatedLabel": "8 de out. de 2026 · 18:49",
+  "generatedAt": "2026-10-08T23:05:24.222Z",
+  "generatedLabel": "8 de out. de 2026 · 20:05",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -17,6 +17,16 @@
     {
       "name": "Hacker News / Algolia",
       "url": "https://hn.algolia.com",
+      "status": "ativo"
+    },
+    {
+      "name": "OpenAI · anúncios oficiais",
+      "url": "https://openai.com/news/",
+      "status": "ativo"
+    },
+    {
+      "name": "Anthropic · newsroom oficial",
+      "url": "https://www.anthropic.com/news",
       "status": "ativo"
     },
     {
@@ -55,12 +65,12 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 280959,
-      "forks": 23553,
+      "stars": 281007,
+      "forks": 23554,
       "issues": 164,
       "language": "Shell",
       "pushedAt": "2026-10-08T08:49:07Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 14h",
       "trendingStarsToday": 1770,
       "score": 100,
       "social": [
@@ -175,11 +185,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 24562,
-      "forks": 2725,
-      "issues": 95,
+      "stars": 25358,
+      "forks": 2832,
+      "issues": 89,
       "language": "TypeScript",
-      "pushedAt": "2026-10-08T21:47:14Z",
+      "pushedAt": "2026-10-08T22:58:34Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 7744,
       "score": 91,
@@ -267,12 +277,12 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 46192,
-      "forks": 2942,
-      "issues": 48,
+      "stars": 46250,
+      "forks": 2943,
+      "issues": 49,
       "language": "HTML",
       "pushedAt": "2026-10-08T01:34:39Z",
-      "pushedLabel": "push há 20h",
+      "pushedLabel": "push há 22h",
       "trendingStarsToday": 1163,
       "score": 85,
       "social": [
@@ -347,9 +357,9 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/storytold/artcraft",
-      "stars": 7587,
-      "forks": 1035,
-      "issues": 72,
+      "stars": 7745,
+      "forks": 1064,
+      "issues": 73,
       "language": "Rust",
       "pushedAt": "2026-10-07T00:56:15Z",
       "pushedLabel": "push há 2d",
@@ -412,12 +422,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 98372,
-      "forks": 8630,
+      "stars": 98418,
+      "forks": 8633,
       "issues": 108,
       "language": "TypeScript",
       "pushedAt": "2026-10-08T18:58:36Z",
-      "pushedLabel": "push há 3h",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": 662,
       "score": 72,
       "social": [
@@ -479,12 +489,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars": 27467,
-      "forks": 3191,
+      "stars": 27495,
+      "forks": 3192,
       "issues": 135,
       "language": "Python",
       "pushedAt": "2026-10-08T15:35:19Z",
-      "pushedLabel": "push há 6h",
+      "pushedLabel": "push há 8h",
       "trendingStarsToday": 309,
       "score": 65,
       "social": [],
@@ -531,12 +541,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 94079,
+      "stars": 94111,
       "forks": 8231,
       "issues": 202,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": null,
       "score": 53,
       "social": [
@@ -607,8 +617,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27824,
-      "forks": 2698,
+      "stars": 27825,
+      "forks": 2699,
       "issues": 906,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
@@ -644,12 +654,39 @@
   ],
   "news": [
     {
+      "title": "Anthropic lança missão de cibersegurança e scanner gratuito opcional para projetos open source",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "points": null,
+      "comments": null,
+      "publishedAt": "2026-10-08",
+      "source": "Anthropic · anúncio oficial",
+      "editorialNote": "OSS Scanner envia relatórios gerados por modelo sem revisão humana; a própria Anthropic alerta que podem conter imprecisões, inclusive na severidade. Separar anúncio e eficácia demonstrada."
+    },
+    {
       "title": "CrowdStrike diz que suspeito de ataques a bancos sul-coreanos usou ferramentas de IA",
       "url": "https://www.investing.com/news/stock-market-news/crowdstrike-says-chinabased-suspect-used-ai-tools-in-south-korean-bank-hacks-4937965",
       "points": null,
       "comments": null,
       "publishedAt": "2026-10-08T02:35:00Z",
-      "source": "Reuters via Investing.com"
+      "source": "Reuters via Investing.com",
+      "editorialNote": "Atribuição e uso de ARTEX/Claude Code são alegações reportadas pela CrowdStrike; Reuters ressalva que a atividade não foi atribuída a um ator nomeado. Não tratar como confirmação independente de causalidade."
+    },
+    {
+      "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
+      "url": "https://github.com/edgedelta/project-arena",
+      "points": 22,
+      "comments": 8,
+      "publishedAt": "2026-10-08T17:13:08Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "GPT-6 chega ao ChatGPT com respostas interativas geradas sob demanda",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "points": null,
+      "comments": null,
+      "publishedAt": "2026-10-07",
+      "source": "OpenAI · anúncio oficial",
+      "editorialNote": "A OpenAI anuncia interfaces com gráficos, formulários e elementos interativos; a disponibilidade é gradual e muda conforme o plano. Métricas de desempenho citadas no post são avaliações internas da empresa."
     },
     {
       "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
@@ -662,33 +699,9 @@
     {
       "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
       "url": "https://github.com/nano-muse/nanoMuse",
-      "points": 59,
+      "points": 60,
       "comments": 21,
       "publishedAt": "2026-10-07T03:30:44Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
-      "url": "https://github.com/edgedelta/project-arena",
-      "points": 22,
-      "comments": 8,
-      "publishedAt": "2026-10-08T17:13:08Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: I Put an AI Agent on a Nokia 110",
-      "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
-      "points": 22,
-      "comments": 7,
-      "publishedAt": "2026-10-08T14:18:51Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "We Built an Alternative to Vector RAG for AI Agent Memory",
-      "url": "https://www.claix.dev/blog/rag-for-ai-agents-agentic-retrieval",
-      "points": 4,
-      "comments": 10,
-      "publishedAt": "2026-10-07T15:02:57Z",
       "source": "Hacker News official API"
     }
   ],
@@ -744,12 +757,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 94079,
+      "stars": 94111,
       "forks": 8231,
       "issues": 202,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": null,
       "score": 53,
       "social": [
@@ -820,8 +833,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27824,
-      "forks": 2698,
+      "stars": 27825,
+      "forks": 2699,
       "issues": 906,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",

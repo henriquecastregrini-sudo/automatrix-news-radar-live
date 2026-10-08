@@ -368,13 +368,25 @@ const newsCandidates = (hn.hits || [])
   .filter((item) => newsRelevance.test(item.title || item.story_title || ''))
   .sort((a, b) => ((b.points || 0) + (b.num_comments || 0) * 2) - ((a.points || 0) + (a.num_comments || 0) * 2) || new Date(b.created_at || 0) - new Date(a.created_at || 0));
 const additionalNews = [{
+  title: 'Anthropic lança missão de cibersegurança e scanner gratuito opcional para projetos open source',
+  url: 'https://www.anthropic.com/news/anthropic-cyber-mission',
+  publishedAt: '2026-10-08',
+  source: 'Anthropic · anúncio oficial',
+  editorialNote: 'OSS Scanner envia relatórios gerados por modelo sem revisão humana; a própria Anthropic alerta que podem conter imprecisões, inclusive na severidade. Separar anúncio e eficácia demonstrada.',
+}, {
   title: 'CrowdStrike diz que suspeito de ataques a bancos sul-coreanos usou ferramentas de IA',
   url: 'https://www.investing.com/news/stock-market-news/crowdstrike-says-chinabased-suspect-used-ai-tools-in-south-korean-bank-hacks-4937965',
   publishedAt: '2026-10-08T02:35:00Z',
   source: 'Reuters via Investing.com',
   editorialNote: 'Atribuição e uso de ARTEX/Claude Code são alegações reportadas pela CrowdStrike; Reuters ressalva que a atividade não foi atribuída a um ator nomeado. Não tratar como confirmação independente de causalidade.',
+}, {
+  title: 'GPT-6 chega ao ChatGPT com respostas interativas geradas sob demanda',
+  url: 'https://openai.com/index/gpt-6-for-everyone/',
+  publishedAt: '2026-10-07',
+  source: 'OpenAI · anúncio oficial',
+  editorialNote: 'A OpenAI anuncia interfaces com gráficos, formulários e elementos interativos; a disponibilidade é gradual e muda conforme o plano. Métricas de desempenho citadas no post são avaliações internas da empresa.',
 }].filter((item) => new Date(item.publishedAt).getTime() >= newsCutoff);
-const news = await Promise.all(uniqueNews([...additionalNews, ...newsCandidates]).map(async (item) => {
+const news = (await Promise.all(uniqueNews([...additionalNews, ...newsCandidates]).map(async (item) => {
   const official = item.objectID
     ? await getJson(`https://hacker-news.firebaseio.com/v0/item/${item.objectID}.json`, null)
     : null;
@@ -385,11 +397,12 @@ const news = await Promise.all(uniqueNews([...additionalNews, ...newsCandidates]
     comments: official?.descendants ?? item.num_comments ?? null,
     publishedAt: item.created_at || item.publishedAt || null,
     source: official ? 'Hacker News official API' : item.source || 'Hacker News / Algolia',
+    ...(item.editorialNote ? { editorialNote: item.editorialNote } : {}),
     ...(String(item.url || item.story_url || '').includes('vals.ai/blogs/room-temperature-magnetic-semiconductors')
       ? { editorialNote: 'São previsões computacionais para materiais candidatos; propriedades-chave ainda não foram medidas e a síntese/validação experimental é o próximo passo.' }
       : {}),
   };
-}));
+}))).sort((a, b) => String(b.publishedAt || '').slice(0, 10).localeCompare(String(a.publishedAt || '').slice(0, 10)));
 
 const data = {
   schemaVersion: 1,
@@ -400,6 +413,8 @@ const data = {
     { name: 'GitHub API', url: 'https://docs.github.com/rest', status: 'ativo' },
     { name: 'GitHub Trending', url: 'https://github.com/trending', status: 'ativo' },
     { name: 'Hacker News / Algolia', url: 'https://hn.algolia.com', status: 'ativo' },
+    { name: 'OpenAI · anúncios oficiais', url: 'https://openai.com/news/', status: 'ativo' },
+    { name: 'Anthropic · newsroom oficial', url: 'https://www.anthropic.com/news', status: 'ativo' },
     { name: 'Vals AI · fonte primária da pauta científica', url: 'https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors', status: 'verificado nesta coleta' },
     { name: 'TIME · reportagem sobre Meta Muse', url: 'https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/', status: 'reportagem recente; conferir ressalvas da empresa' },
     { name: 'Trendshift', url: 'https://trendshift.io/', status: 'verificação manual' },
