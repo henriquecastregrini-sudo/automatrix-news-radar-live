@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T23:05:24.222Z",
-  "generatedLabel": "8 de out. de 2026 · 20:05",
+  "generatedAt": "2026-10-09T02:52:51.044Z",
+  "generatedLabel": "8 de out. de 2026 · 23:52",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.",
   "sources": [
     {
@@ -65,13 +65,13 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 281007,
-      "forks": 23554,
+      "stars": 281238,
+      "forks": 23567,
       "issues": 164,
       "language": "Shell",
       "pushedAt": "2026-10-08T08:49:07Z",
-      "pushedLabel": "push há 14h",
-      "trendingStarsToday": 1770,
+      "pushedLabel": "push há 18h",
+      "trendingStarsToday": 1774,
       "score": 100,
       "social": [
         {
@@ -185,13 +185,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 25358,
-      "forks": 2832,
-      "issues": 89,
+      "stars": 28188,
+      "forks": 3270,
+      "issues": 73,
       "language": "TypeScript",
-      "pushedAt": "2026-10-08T22:58:34Z",
+      "pushedAt": "2026-10-09T02:49:18Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 7744,
+      "trendingStarsToday": 7738,
       "score": 91,
       "social": [
         {
@@ -277,13 +277,13 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 46250,
-      "forks": 2943,
-      "issues": 49,
+      "stars": 46535,
+      "forks": 2955,
+      "issues": 54,
       "language": "HTML",
       "pushedAt": "2026-10-08T01:34:39Z",
-      "pushedLabel": "push há 22h",
-      "trendingStarsToday": 1163,
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 1160,
       "score": 85,
       "social": [
         {
@@ -344,76 +344,11 @@
       "rank": 3
     },
     {
-      "repo": "storytold/artcraft",
-      "title": "artcraft",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 2,5 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/storytold/artcraft",
-      "stars": 7745,
-      "forks": 1064,
-      "issues": 73,
-      "language": "Rust",
-      "pushedAt": "2026-10-07T00:56:15Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 2510,
-      "score": 74,
-      "social": [
-        {
-          "platform": "YouTube oficial",
-          "label": "Official ArtCraft Studios · demo de 2 minutos como referência de produto/B-roll; data e alcance do vídeo não verificados nesta varredura",
-          "url": "https://www.youtube.com/watch?v=kzvQMdg66Go",
-          "verifiedAt": "08 OUT 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/storytold/artcraft",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 2,5 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube oficial · Official ArtCraft Studios · demo de 2 minutos como referência de produto/B-roll; data e alcance do vídeo não verificados nesta varredura",
-          "url": "https://www.youtube.com/watch?v=kzvQMdg66Go",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=storytold%20artcraft%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=artcraft%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=artcraft%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
-    },
-    {
       "repo": "thedotmack/claude-mem",
       "title": "claude-mem",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 662 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 670 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "broll": [
         "GitHub Trending",
@@ -422,13 +357,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 98418,
-      "forks": 8633,
-      "issues": 108,
+      "stars": 98566,
+      "forks": 8641,
+      "issues": 111,
       "language": "TypeScript",
-      "pushedAt": "2026-10-08T18:58:36Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 662,
+      "pushedAt": "2026-10-09T02:16:31Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 670,
       "score": 72,
       "social": [
         {
@@ -448,7 +383,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 662 stars hoje",
+          "label": "GitHub Trending · 670 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -473,6 +408,71 @@
           "kind": "busca"
         }
       ],
+      "rank": 4
+    },
+    {
+      "repo": "storytold/artcraft",
+      "title": "artcraft",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 2,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/storytold/artcraft",
+      "stars": 8254,
+      "forks": 1180,
+      "issues": 75,
+      "language": "Rust",
+      "pushedAt": "2026-10-07T00:56:15Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 2103,
+      "score": 67,
+      "social": [
+        {
+          "platform": "YouTube oficial",
+          "label": "Official ArtCraft Studios · demo de 2 minutos como referência de produto/B-roll; data e alcance do vídeo não verificados nesta varredura",
+          "url": "https://www.youtube.com/watch?v=kzvQMdg66Go",
+          "verifiedAt": "08 OUT 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/storytold/artcraft",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 2,1 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube oficial · Official ArtCraft Studios · demo de 2 minutos como referência de produto/B-roll; data e alcance do vídeo não verificados nesta varredura",
+          "url": "https://www.youtube.com/watch?v=kzvQMdg66Go",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=storytold%20artcraft%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=artcraft%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=artcraft%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 5
     },
     {
@@ -480,7 +480,7 @@
       "title": "knowledge-work-plugins",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 309 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 392 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "broll": [
         "GitHub Trending",
@@ -489,14 +489,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars": 27495,
-      "forks": 3192,
+      "stars": 27680,
+      "forks": 3211,
       "issues": 135,
       "language": "Python",
       "pushedAt": "2026-10-08T15:35:19Z",
-      "pushedLabel": "push há 8h",
-      "trendingStarsToday": 309,
-      "score": 65,
+      "pushedLabel": "push há 11h",
+      "trendingStarsToday": 392,
+      "score": 67,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -506,7 +506,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 309 stars hoje",
+          "label": "GitHub Trending · 392 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -541,12 +541,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 94111,
-      "forks": 8231,
+      "stars": 94218,
+      "forks": 8238,
       "issues": 202,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
-      "pushedLabel": "push há 15h",
+      "pushedLabel": "push há 18h",
       "trendingStarsToday": null,
       "score": 53,
       "social": [
@@ -617,8 +617,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27825,
-      "forks": 2699,
+      "stars": 27831,
+      "forks": 2700,
       "issues": 906,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
@@ -672,21 +672,20 @@
       "editorialNote": "Atribuição e uso de ARTEX/Claude Code são alegações reportadas pela CrowdStrike; Reuters ressalva que a atividade não foi atribuída a um ator nomeado. Não tratar como confirmação independente de causalidade."
     },
     {
+      "title": "Show HN: I Put an AI Agent on a Nokia 110",
+      "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
+      "points": 25,
+      "comments": 11,
+      "publishedAt": "2026-10-08T14:18:51Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
       "url": "https://github.com/edgedelta/project-arena",
       "points": 22,
       "comments": 8,
       "publishedAt": "2026-10-08T17:13:08Z",
       "source": "Hacker News official API"
-    },
-    {
-      "title": "GPT-6 chega ao ChatGPT com respostas interativas geradas sob demanda",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "points": null,
-      "comments": null,
-      "publishedAt": "2026-10-07",
-      "source": "OpenAI · anúncio oficial",
-      "editorialNote": "A OpenAI anuncia interfaces com gráficos, formulários e elementos interativos; a disponibilidade é gradual e muda conforme o plano. Métricas de desempenho citadas no post são avaliações internas da empresa."
     },
     {
       "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
@@ -699,8 +698,8 @@
     {
       "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
       "url": "https://github.com/nano-muse/nanoMuse",
-      "points": 60,
-      "comments": 21,
+      "points": 62,
+      "comments": 22,
       "publishedAt": "2026-10-07T03:30:44Z",
       "source": "Hacker News official API"
     }
@@ -708,39 +707,39 @@
   "trending": [
     {
       "repo": "boykopovar/AnyPS5",
-      "starsToday": 4640
+      "starsToday": 4669
     },
     {
       "repo": "cathrynlavery/diagram-design",
-      "starsToday": 1163
+      "starsToday": 1160
     },
     {
       "repo": "morluto/rea",
-      "starsToday": 7744
+      "starsToday": 7738
     },
     {
       "repo": "mattpocock/skills",
-      "starsToday": 1770
+      "starsToday": 1774
     },
     {
       "repo": "thedotmack/claude-mem",
-      "starsToday": 662
+      "starsToday": 670
     },
     {
       "repo": "EpicGames/raddebugger",
-      "starsToday": 283
+      "starsToday": 279
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
-      "starsToday": 309
+      "starsToday": 392
     },
     {
       "repo": "storytold/artcraft",
-      "starsToday": 2510
+      "starsToday": 2103
     },
     {
       "repo": "liquidslr/system-design-notes",
-      "starsToday": 398
+      "starsToday": 393
     }
   ],
   "monitored": [
@@ -757,12 +756,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 94111,
-      "forks": 8231,
+      "stars": 94218,
+      "forks": 8238,
       "issues": 202,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
-      "pushedLabel": "push há 15h",
+      "pushedLabel": "push há 18h",
       "trendingStarsToday": null,
       "score": 53,
       "social": [
@@ -833,8 +832,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27825,
-      "forks": 2699,
+      "stars": 27831,
+      "forks": 2700,
       "issues": 906,
       "language": "TypeScript",
       "pushedAt": "2026-09-29T08:48:49Z",
