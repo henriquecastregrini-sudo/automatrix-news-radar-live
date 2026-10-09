@@ -17,6 +17,7 @@ const today = new Intl.DateTimeFormat('pt-BR', {
 }).format(new Date()).replace(',', ' ·');
 
 const tracked = [
+  { repo: 'franzenzenhofer/big-arrow-on-the-screen', title: 'Agentes que desenham na sua tela', type: 'Agente visual para desktop', status: 'Gravar agora', hook: 'E se a IA não só dissesse onde clicar — mas desenhasse a seta na sua tela?', thesis: 'A interface visual pode virar uma ferramenta direta de agentes: marcações transitórias no desktop tornam instruções mais fáceis de seguir e renderizar em vídeo.', broll: ['demonstração do CLI desenhando setas e caixas', 'README e instalação', 'permissão de tela no macOS', 'discussão no Hacker News com pontos e comentários'] },
   { repo: 'alibaba/open-code-review', title: 'Open Code Review', type: 'Revisão de código com IA', status: 'Gravar agora', priority: 1, hook: 'A Alibaba abriu o agente de revisão de código usado internamente por dezenas de milhares de desenvolvedores.', thesis: 'A próxima disputa dos agentes de código pode estar na revisão especializada, com regras determinísticas e menor custo, não apenas na geração de código.', broll: ['CLI revisando um PR', 'comentários linha a linha', 'paper e benchmark', 'diff com falhas encontradas'] },
   { repo: 'ManimCommunity/manim', title: 'Manim Community Edition', type: 'Animação matemática e científica', status: 'Gravar agora', priority: 2, hook: 'A IA pode escrever o código — mas o Manim transforma esse código em animações que explicam matemática, ciência e até a própria IA.', thesis: 'Uma engine Python transforma fórmulas, gráficos, algoritmos e conceitos abstratos em cenas programáveis, precisas e visualmente fortes.', broll: ['fórmula virando animação', 'gráficos e vetores em movimento', 'código Python da cena', 'explicação visual de redes neurais'] },
   { repo: 'mattpocock/skills', title: 'Skills para agentes', type: 'Skills para agentes', status: 'Gravar agora', hook: 'O jeito de programar com IA mudou: quem ainda usa só prompt está ficando para trás.', thesis: 'Conhecimento de engenharia virou infraestrutura reutilizável para agentes.', broll: ['README', 'diretório .agents', 'GitHub Trending', 'vídeo do criador'] },
@@ -92,6 +93,9 @@ const editorialSources = {
 };
 
 const socialReferences = {
+  'franzenzenhofer/big-arrow-on-the-screen': [
+    { platform: 'Hacker News', label: 'Show HN · agentes desenham setas, caixas e texto na tela · 361 pontos e 160 comentários na API oficial; post publicado 09 OUT', url: 'https://news.ycombinator.com/item?id=50018817', engagement: 361, comments: 160, publishedAt: '2026-10-09T11:03:48Z', verifiedAt: '09 OUT 2026' },
+  ],
   'NVIDIA/OpenShell': [
     { platform: 'Reddit', label: 'r/BestGitHubRepos · nova postagem sobre o sandbox · 3 votos públicos no momento da checagem · publicado 01 OUT', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1wuwati/nvidias_openshell_gives_ai_agents_a_sandboxed/', engagement: 3, publishedAt: '2026-10-01', verifiedAt: '01 OUT 2026' },
     { platform: 'Reddit', label: 'r/cybersecurity · teste independente com 123 execuções e ressalvas de configuração · 13 votos públicos · publicado 29 SET', url: 'https://www.reddit.com/r/cybersecurity/comments/1wt5mnc/we_tested_nvidias_new_ai_agent_sandbox_openshell/', engagement: 13, publishedAt: '2026-09-29', verifiedAt: '01 OUT 2026' },
@@ -114,6 +118,9 @@ const socialReferences = {
     { platform: 'Reddit', label: 'r/AgentSkills · comparação de packs de skills que inclui mattpocock/skills · 105 votos públicos · publicado 05 SET', url: 'https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/', engagement: 105, publishedAt: '2026-09-05', verifiedAt: '01 OUT 2026' },
     { platform: 'Reddit', label: 'r/ClaudeAI · skills com subagentes especialistas · 3 votos públicos · publicado 23 SET', url: 'https://www.reddit.com/r/ClaudeAI/comments/1wnszxk/matt_pococks_skills_my_own_specialist_subagents/', engagement: 3, publishedAt: '2026-09-23', verifiedAt: '25 SET 2026' },
     { platform: 'YouTube', label: 'Matt Pocock · workflow completo · 424k views · publicado 16 JUL', url: 'https://www.youtube.com/watch?v=M6mYodf0dJM', views: 424060, publishedAt: '2026-07-16', verifiedAt: '07 SET 2026' },
+  ],
+  'anthropics/knowledge-work-plugins': [
+    { platform: 'Reddit', label: 'r/BestGitHubRepos · post de apresentação promocional cita e reproduz o README do repo · 3 votos públicos · alcance orgânico ainda não corroborado', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1x1ixkm/knowledge_work_plugins_plugins_that_turn_claude/', engagement: 3, publishedAt: '2026-10-09', verifiedAt: '09 OUT 2026' },
   ],
   'tt-a1i/archify': [{ platform: 'YouTube', label: 'The Next New Thing · Archify entre os repos em alta · 111k views · publicado 04 SET', url: 'https://www.youtube.com/watch?v=AWzzmrCPe-A', views: 111709, publishedAt: '2026-09-04', verifiedAt: '07 SET 2026' }],
   'NousResearch/hermes-agent': [{ platform: 'YouTube', label: 'Metics Media · tutorial completo · 225k views · publicado 31 AGO', url: 'https://www.youtube.com/watch?v=DYdvJCxWd6M', views: 225904, publishedAt: '2026-08-31', verifiedAt: '07 SET 2026' }],
@@ -281,18 +288,28 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
   const { _api, ...editorial } = item;
   const starsToday = trendingMap.get(item.repo.toLowerCase()) || 0;
   const social = socialReferences[item.repo] || [];
-  const recentSocial = social.filter((reference) => reference.publishedAt
-    && Date.now() - new Date(`${reference.publishedAt}T12:00:00Z`).getTime() <= 7 * 864e5);
-  const verifiedRecentSocial = recentSocial.filter((reference) => ['views', 'engagement', 'likes', 'comments']
-    .some((metric) => Number.isFinite(reference[metric])));
-  const promoSignalNeedsCorroboration = recentSocial.some((reference) => reference.label.includes('alcance orgânico ainda não corroborado'));
+  const recentSocial = social.filter((reference) => {
+    if (!reference.publishedAt) return false;
+    const publishedAt = reference.publishedAt.length === 10
+      ? `${reference.publishedAt}T12:00:00Z`
+      : reference.publishedAt;
+    const age = Date.now() - new Date(publishedAt).getTime();
+    return Number.isFinite(age) && age >= 0 && age <= 7 * 864e5;
+  });
+  const promoReferences = recentSocial.filter((reference) => reference.label.includes('alcance orgânico ainda não corroborado'));
+  const promoSignalNeedsCorroboration = promoReferences.length > 0;
+  const promoSignal = Math.max(0, ...promoReferences.map((reference) => reference.engagement || 0));
   const mirroredSocialMetric = recentSocial.some((reference) => reference.platform.includes('métrica via espelho'));
+  const hnDiscussionPoints = Math.max(0, ...recentSocial.filter((reference) => reference.platform === 'Hacker News').map((reference) => reference.engagement || 0));
+  const verifiedRecentSocial = recentSocial.filter((reference) => !reference.label.includes('alcance orgânico ainda não corroborado')
+    && ['views', 'engagement', 'likes', 'comments'].some((metric) => Number.isFinite(reference[metric])));
   const socialSignal = Math.max(0, ...verifiedRecentSocial.map((reference) => reference.views || reference.engagement || reference.likes || reference.comments || 0));
   const socialScore = verifiedRecentSocial.length ? Math.min(22, 8 + Math.log10(socialSignal + 1) * 2.5) : 0;
   const score = Math.min(100, Math.round(
     (starsToday ? Math.min(48, Math.log10(starsToday + 1) * 15) : 12) +
     Math.min(22, Math.log10((api.stargazers_count || 1) + 1) * 4) +
     socialScore +
+    (hnDiscussionPoints >= 100 ? Math.min(12, Math.log10(hnDiscussionPoints + 1) * 3) : 0) +
     (api.pushed_at && Date.now() - new Date(api.pushed_at).getTime() < 1728e5 ? 10 : 3)
   ));
   return {
@@ -310,7 +327,8 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
     trendingStarsToday: starsToday || null,
     score,
     social,
-    socialStatus: promoSignalNeedsCorroboration ? 'post de apresentação com alto engajamento; repercussão orgânica não corroborada'
+    socialStatus: promoSignalNeedsCorroboration ? (promoSignal >= 100 ? 'post promocional com alto engajamento; repercussão orgânica não corroborada'
+      : 'post promocional com baixa interação verificada; repercussão orgânica não corroborada')
       : mirroredSocialMetric ? 'métrica social via espelho; checagem nativa pendente'
       : verifiedRecentSocial.length ? 'referência recente verificada'
       : recentSocial.length ? 'referência recente direta — métrica pública precisa verificação'
@@ -369,6 +387,18 @@ const newsCandidates = (hn.hits || [])
   .filter((item) => newsRelevance.test(item.title || item.story_title || ''))
   .sort((a, b) => ((b.points || 0) + (b.num_comments || 0) * 2) - ((a.points || 0) + (a.num_comments || 0) * 2) || new Date(b.created_at || 0) - new Date(a.created_at || 0));
 const additionalNews = [{
+  title: 'Anthropic publica relatório sobre ações não intencionais de Claude em avaliações e uso interno',
+  url: 'https://www.anthropic.com/research/investigating-unintended-model-actions',
+  publishedAt: '2026-10-09',
+  source: 'Anthropic · relatório oficial',
+  editorialNote: 'A própria Anthropic relata ações em sites e sistemas externos durante avaliações e uso interno; diz que os impactos identificados foram mínimos, que não houve dados de clientes ou sistemas internos envolvidos até onde sabe, e que alguns testes internos perderam acesso à internet. É relato da empresa, não avaliação independente.',
+}, {
+  title: 'Axios relata exigência da Casa Branca para notificação de incidentes com sistemas de IA',
+  url: 'https://www.axios.com/2026/10/09/anthropic-ai-security-white-house',
+  publishedAt: '2026-10-09T22:47:21Z',
+  source: 'Axios · reportagem exclusiva',
+  editorialNote: 'A reportagem atribui a exigência a autoridades da Casa Branca e informa que aplicações de visto citadas não foram processadas nem houve comprometimento de sistemas, segundo autoridade do Departamento de Estado; relata também um falso tip enviado a uma polícia local. A nota não esclarece mecanismos de fiscalização. Distinguir esses episódios do relatório separado da Anthropic sobre avaliações.',
+}, {
   title: 'Google apresenta agente Gemini universal para trabalho integrado ao Workspace e sistemas corporativos',
   url: 'https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/',
   publishedAt: '2026-10-08',
@@ -379,7 +409,8 @@ const additionalNews = [{
   url: 'https://www.anthropic.com/news/anthropic-cyber-mission',
   publishedAt: '2026-10-08',
   source: 'Anthropic · anúncio oficial',
-  editorialNote: 'OSS Scanner envia relatórios gerados por modelo sem revisão humana; a própria Anthropic alerta que podem conter imprecisões, inclusive na severidade. Separar anúncio e eficácia demonstrada.',
+  editorialNote: 'OSS Scanner envia relatórios gerados por modelo sem revisão humana; a própria Anthropic alerta que podem conter imprecisões, inclusive na severidade. Separar anúncio e eficácia demonstrada. A conversa no Reddit sobre o lançamento tinha 92 votos públicos na checagem de 09 OUT; isso mede reação ao anúncio, não eficácia do scanner.',
+  socialSignals: [{ label: 'r/technology · discussão do lançamento do OSS Scanner · 92 votos públicos · reação ao anúncio, não validação da ferramenta', url: 'https://www.reddit.com/r/technology/comments/1x1nf1y/anthropic_now_offers_a_free_vulnerabilityfinding/', engagement: 92, publishedAt: '2026-10-09' }],
 }, {
   title: 'CrowdStrike diz que suspeito de ataques a bancos sul-coreanos usou ferramentas de IA',
   url: 'https://www.investing.com/news/stock-market-news/crowdstrike-says-chinabased-suspect-used-ai-tools-in-south-korean-bank-hacks-4937965',
@@ -399,12 +430,14 @@ const news = (await Promise.all(uniqueNews([...additionalNews, ...newsCandidates
     : null;
   return {
     title: item.title || item.story_title,
-    url: item.url || item.story_url || `https://news.ycombinator.com/item?id=${item.objectID}`,
+    url: item.objectID ? `https://news.ycombinator.com/item?id=${item.objectID}` : item.url || item.story_url,
+    ...(item.objectID && (item.url || item.story_url) ? { relatedUrl: item.url || item.story_url } : {}),
     points: official?.score ?? item.points ?? null,
     comments: official?.descendants ?? item.num_comments ?? null,
     publishedAt: item.created_at || item.publishedAt || null,
     source: official ? 'Hacker News official API' : item.source || 'Hacker News / Algolia',
     ...(item.editorialNote ? { editorialNote: item.editorialNote } : {}),
+    ...(item.socialSignals?.length ? { socialSignals: item.socialSignals } : {}),
     ...(String(item.url || item.story_url || '').includes('vals.ai/blogs/room-temperature-magnetic-semiconductors')
       ? { editorialNote: 'São previsões computacionais para materiais candidatos; propriedades-chave ainda não foram medidas e a síntese/validação experimental é o próximo passo.' }
       : {}),
@@ -415,13 +448,14 @@ const data = {
   schemaVersion: 1,
   generatedAt: new Date().toISOString(),
   generatedLabel: today,
-  dataPolicy: 'Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial. Posts sociais entram com link direto e métrica pública verificada; buscas não são prova social.',
+  dataPolicy: 'Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.',
   sources: [
     { name: 'GitHub API', url: 'https://docs.github.com/rest', status: 'ativo' },
     { name: 'GitHub Trending', url: 'https://github.com/trending', status: 'ativo' },
     { name: 'Hacker News / Algolia', url: 'https://hn.algolia.com', status: 'ativo' },
     { name: 'OpenAI · anúncios oficiais', url: 'https://openai.com/news/', status: 'ativo' },
     { name: 'Anthropic · newsroom oficial', url: 'https://www.anthropic.com/news', status: 'ativo' },
+    { name: 'Axios · reportagem exclusiva sobre notificação de incidentes com IA', url: 'https://www.axios.com/2026/10/09/anthropic-ai-security-white-house', status: 'verificado nesta coleta' },
     { name: 'Google Cloud · blog oficial', url: 'https://cloud.google.com/blog/products/ai-machine-learning/', status: 'ativo' },
     { name: 'Vals AI · fonte primária da pauta científica', url: 'https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors', status: 'verificado nesta coleta' },
     { name: 'TIME · reportagem sobre Meta Muse', url: 'https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/', status: 'reportagem recente; conferir ressalvas da empresa' },
