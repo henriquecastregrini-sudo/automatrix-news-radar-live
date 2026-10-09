@@ -87,6 +87,7 @@ const officialProofs = {
 
 const editorialSources = {
   'NVIDIA/OpenShell': [{ label: 'Sorami · avaliação independente de OpenShell v0.1.2 e logs de teste · 29 SET', url: 'https://sorami.com.au/research/nvidia-openshell-agent-sandbox-test/', kind: 'análise independente' }, { label: 'Sorami · resumo dos quatro ajustes de política que merecem atenção · 29 SET', url: 'https://sorami.com.au/guides/we-tested-nvidia-openshell/', kind: 'análise independente' }],
+  'morluto/rea': [{ label: 'Kingy AI · teste técnico limitado: recurso de exportação CSV de um app Electron passou em 14/14 casos declarados; não generalizar para outras classes de software', url: 'https://kingy.ai/blog/reverse-engineer-anything-ai-rea-guide/', kind: 'teste independente' }],
   'vectorize-io/hindsight': [{ label: 'SoloSoft · auditoria independente do benchmark e do crescimento · 25 SET', url: 'https://www.solosoft.dev/post/hindsight-agent-memory-audit/', kind: 'análise independente' }],
 };
 
@@ -131,7 +132,7 @@ const socialReferences = {
   'coreyhaines31/marketingskills': [{ platform: 'YouTube', label: 'The Next New Thing · skills para Claude · 53,4k views · publicado 11 FEV', url: 'https://www.youtube.com/watch?v=YajqB9RDdzI', views: 53450, publishedAt: '2026-02-11', verifiedAt: '08 SET 2026' }],
   'jo-inc/camofox-browser': [{ platform: 'YouTube', label: 'Build Things With AI · CamoFox entre repos em alta · 1,8k views · publicado 02 MAI', url: 'https://www.youtube.com/watch?v=Hs-xdoaGH5o', views: 1855, publishedAt: '2026-05-02', verifiedAt: '07 SET 2026' }],
   'cathrynlavery/diagram-design': [
-    { platform: 'Reddit', label: 'r/BestGitHubRepos · post direto apresenta tipos de diagramas editoriais e compatibilidade com agentes · 9 votos públicos · publicado 07 OUT', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1wzu0gm/diagram_design_editorial_diagrams_your_designer/', engagement: 9, publishedAt: '2026-10-07', verifiedAt: '07 OUT 2026' },
+    { platform: 'Reddit', label: 'r/BestGitHubRepos · post direto apresenta tipos de diagramas editoriais e compatibilidade com agentes · 57 votos públicos · publicado 07 OUT', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1wzu0gm/diagram_design_editorial_diagrams_your_designer/', engagement: 57, publishedAt: '2026-10-07', verifiedAt: '09 OUT 2026' },
     { platform: 'YouTube', label: 'YAHA · Diagram Design em primeiro no GitHub · 20,9k views · publicado 03 SET · referência histórica', url: 'https://www.youtube.com/watch?v=rq4EHbqaaAk', views: 20919, publishedAt: '2026-09-03', verifiedAt: '08 SET 2026' },
   ],
   'ayghri/i-have-adhd': [
@@ -368,6 +369,12 @@ const newsCandidates = (hn.hits || [])
   .filter((item) => newsRelevance.test(item.title || item.story_title || ''))
   .sort((a, b) => ((b.points || 0) + (b.num_comments || 0) * 2) - ((a.points || 0) + (a.num_comments || 0) * 2) || new Date(b.created_at || 0) - new Date(a.created_at || 0));
 const additionalNews = [{
+  title: 'Google apresenta agente Gemini universal para trabalho integrado ao Workspace e sistemas corporativos',
+  url: 'https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/',
+  publishedAt: '2026-10-08',
+  source: 'Google Cloud · anúncio oficial',
+  editorialNote: 'É um anúncio da própria Google Cloud; alegações de adoção corporativa e redução de custos são da empresa. O destaque verificável é o agente com skills, conectores, controles e integração declarada com servidores MCP.',
+}, {
   title: 'Anthropic lança missão de cibersegurança e scanner gratuito opcional para projetos open source',
   url: 'https://www.anthropic.com/news/anthropic-cyber-mission',
   publishedAt: '2026-10-08',
@@ -415,6 +422,7 @@ const data = {
     { name: 'Hacker News / Algolia', url: 'https://hn.algolia.com', status: 'ativo' },
     { name: 'OpenAI · anúncios oficiais', url: 'https://openai.com/news/', status: 'ativo' },
     { name: 'Anthropic · newsroom oficial', url: 'https://www.anthropic.com/news', status: 'ativo' },
+    { name: 'Google Cloud · blog oficial', url: 'https://cloud.google.com/blog/products/ai-machine-learning/', status: 'ativo' },
     { name: 'Vals AI · fonte primária da pauta científica', url: 'https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors', status: 'verificado nesta coleta' },
     { name: 'TIME · reportagem sobre Meta Muse', url: 'https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/', status: 'reportagem recente; conferir ressalvas da empresa' },
     { name: 'Trendshift', url: 'https://trendshift.io/', status: 'verificação manual' },
