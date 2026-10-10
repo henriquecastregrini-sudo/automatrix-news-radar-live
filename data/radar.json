@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T02:13:26.959Z",
-  "generatedLabel": "9 de out. de 2026 · 23:13",
+  "generatedAt": "2026-10-10T11:08:20.327Z",
+  "generatedLabel": "10 de out. de 2026 · 08:08",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -28,6 +28,11 @@
       "name": "Anthropic · newsroom oficial",
       "url": "https://www.anthropic.com/news",
       "status": "ativo"
+    },
+    {
+      "name": "Associated Press · cobertura de política e segurança em IA",
+      "url": "https://apnews.com/hub/artificial-intelligence",
+      "status": "verificado nesta coleta"
     },
     {
       "name": "Axios · reportagem exclusiva sobre notificação de incidentes com IA",
@@ -75,13 +80,13 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 282814,
-      "forks": 23696,
-      "issues": 161,
+      "stars": 283548,
+      "forks": 23746,
+      "issues": 163,
       "language": "Shell",
       "pushedAt": "2026-10-09T10:57:08Z",
-      "pushedLabel": "push há 15h",
-      "trendingStarsToday": 1687,
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 1737,
       "score": 100,
       "social": [
         {
@@ -186,7 +191,7 @@
       "title": "rea",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 14,9 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 25,8 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "broll": [
         "GitHub Trending",
@@ -195,15 +200,24 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 47948,
-      "forks": 7914,
-      "issues": 103,
+      "stars": 59624,
+      "forks": 11858,
+      "issues": 141,
       "language": "TypeScript",
-      "pushedAt": "2026-10-10T02:07:34Z",
+      "pushedAt": "2026-10-10T11:06:57Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 14927,
-      "score": 91,
+      "trendingStarsToday": 25784,
+      "score": 97,
       "social": [
+        {
+          "platform": "YouTube · métrica via espelho",
+          "label": "Rob Shocks · teste controlado do REA no próprio app compilado: 66,1 mil views e 1,3 mil likes exibidos por espelho em 09 OUT; métricas nativas não confirmadas nesta checagem; o vídeo contém patrocínio em segmento separado",
+          "url": "https://www.youtube.com/watch?v=OMobTlfjb8s",
+          "views": 66100,
+          "likes": 1300,
+          "publishedAt": "2026-10-09",
+          "verifiedAt": "10 OUT 2026"
+        },
         {
           "platform": "Reddit",
           "label": "r/BestGitHubRepos · post de apresentação do REA com 1.041 votos públicos; conteúdo promocional baseado no README, então alcance orgânico ainda não corroborado · publicado 08 OUT",
@@ -228,7 +242,7 @@
           "verifiedAt": "07 OUT 2026"
         }
       ],
-      "socialStatus": "post promocional com alto engajamento; repercussão orgânica não corroborada",
+      "socialStatus": "post promocional com repercussão orgânica não corroborada; vídeo independente tem métricas via espelho, checagem nativa pendente",
       "sources": [
         {
           "label": "GitHub",
@@ -236,7 +250,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 14,9 mil stars hoje",
+          "label": "GitHub Trending · 25,8 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -244,6 +258,11 @@
           "label": "Kingy AI · teste técnico limitado: recurso de exportação CSV de um app Electron passou em 14/14 casos declarados; não generalizar para outras classes de software",
           "url": "https://kingy.ai/blog/reverse-engineer-anything-ai-rea-guide/",
           "kind": "teste independente"
+        },
+        {
+          "label": "YouTube · métrica via espelho · Rob Shocks · teste controlado do REA no próprio app compilado: 66,1 mil views e 1,3 mil likes exibidos por espelho em 09 OUT; métricas nativas não confirmadas nesta checagem; o vídeo contém patrocínio em segmento separado",
+          "url": "https://www.youtube.com/watch?v=OMobTlfjb8s",
+          "kind": "social"
         },
         {
           "label": "Reddit · r/BestGitHubRepos · post de apresentação do REA com 1.041 votos públicos; conteúdo promocional baseado no README, então alcance orgânico ainda não corroborado · publicado 08 OUT",
@@ -292,14 +311,14 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 47950,
-      "forks": 3037,
+      "stars": 48430,
+      "forks": 3059,
       "issues": 81,
       "language": "HTML",
-      "pushedAt": "2026-10-09T23:02:12Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 1739,
-      "score": 89,
+      "pushedAt": "2026-10-10T04:32:06Z",
+      "pushedLabel": "push há 7h",
+      "trendingStarsToday": 1189,
+      "score": 87,
       "social": [
         {
           "platform": "Reddit",
@@ -326,7 +345,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,7 mil stars hoje",
+          "label": "GitHub Trending · 1,2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -363,7 +382,7 @@
       "title": "artcraft",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 3,8 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 3,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "broll": [
         "GitHub Trending",
@@ -372,15 +391,22 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/storytold/artcraft",
-      "stars": 11665,
-      "forks": 1761,
-      "issues": 101,
+      "stars": 12784,
+      "forks": 1965,
+      "issues": 111,
       "language": "Rust",
-      "pushedAt": "2026-10-09T17:03:51Z",
-      "pushedLabel": "push há 9h",
-      "trendingStarsToday": 3752,
+      "pushedAt": "2026-10-10T08:18:00Z",
+      "pushedLabel": "push há 3h",
+      "trendingStarsToday": 3217,
       "score": 74,
       "social": [
+        {
+          "platform": "TikTok (espelho)",
+          "label": "@quickfinesse · vídeo sobre a família ArtCraft e comparação com aplicativos da Adobe; espelho mostra comentários, mas contagens sem rótulos confirmados — métricas não contabilizadas; validar no TikTok nativo",
+          "url": "https://tikwm.com/video/7692488484338142495.html",
+          "publishedAt": "2026-10-03",
+          "verifiedAt": "10 OUT 2026"
+        },
         {
           "platform": "YouTube oficial",
           "label": "Official ArtCraft Studios · demo de 2 minutos como referência de produto/B-roll; data e alcance do vídeo não verificados nesta varredura",
@@ -388,7 +414,7 @@
           "verifiedAt": "08 OUT 2026"
         }
       ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
+      "socialStatus": "referência recente direta — métrica pública precisa verificação",
       "sources": [
         {
           "label": "GitHub",
@@ -396,9 +422,14 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 3,8 mil stars hoje",
+          "label": "GitHub Trending · 3,2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
+        },
+        {
+          "label": "TikTok (espelho) · @quickfinesse · vídeo sobre a família ArtCraft e comparação com aplicativos da Adobe; espelho mostra comentários, mas contagens sem rótulos confirmados — métricas não contabilizadas; validar no TikTok nativo",
+          "url": "https://tikwm.com/video/7692488484338142495.html",
+          "kind": "social"
         },
         {
           "label": "YouTube oficial · Official ArtCraft Studios · demo de 2 minutos como referência de produto/B-roll; data e alcance do vídeo não verificados nesta varredura",
@@ -424,290 +455,163 @@
       "rank": 4
     },
     {
-      "repo": "anthropics/knowledge-work-plugins",
-      "title": "knowledge-work-plugins",
+      "repo": "hugohe3/ppt-master",
+      "title": "ppt-master",
       "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 709 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 372 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars": 28300,
-      "forks": 3250,
-      "issues": 133,
+      "url": "https://github.com/hugohe3/ppt-master",
+      "stars": 58952,
+      "forks": 4654,
+      "issues": 6,
       "language": "Python",
-      "pushedAt": "2026-10-09T21:48:47Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 709,
-      "score": 71,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/BestGitHubRepos · post de apresentação promocional cita e reproduz o README do repo · 3 votos públicos · alcance orgânico ainda não corroborado",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1x1ixkm/knowledge_work_plugins_plugins_that_turn_claude/",
-          "engagement": 3,
-          "publishedAt": "2026-10-09",
-          "verifiedAt": "09 OUT 2026"
-        }
-      ],
-      "socialStatus": "post promocional com baixa interação verificada; repercussão orgânica não corroborada",
+      "pushedAt": "2026-10-08T07:45:46Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 372,
+      "score": 61,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "url": "https://github.com/hugohe3/ppt-master",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 709 stars hoje",
+          "label": "GitHub Trending · 372 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "Reddit · r/BestGitHubRepos · post de apresentação promocional cita e reproduz o README do repo · 3 votos públicos · alcance orgânico ainda não corroborado",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1x1ixkm/knowledge_work_plugins_plugins_that_turn_claude/",
-          "kind": "social"
-        },
-        {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=anthropics%20knowledge-work-plugins%20AI",
+          "url": "https://www.youtube.com/results?search_query=hugohe3%20ppt-master%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=knowledge-work-plugins%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=ppt-master%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=knowledge-work-plugins%20AI",
+          "url": "https://www.tiktok.com/search?q=ppt-master%20AI",
           "kind": "busca"
         }
       ],
       "rank": 5
     },
     {
-      "repo": "alibaba/open-code-review",
-      "title": "Open Code Review",
-      "type": "Revisão de código com IA",
-      "status": "Gravar agora",
-      "priority": 1,
-      "hook": "A Alibaba abriu o agente de revisão de código usado internamente por dezenas de milhares de desenvolvedores.",
-      "thesis": "A próxima disputa dos agentes de código pode estar na revisão especializada, com regras determinísticas e menor custo, não apenas na geração de código.",
-      "broll": [
-        "CLI revisando um PR",
-        "comentários linha a linha",
-        "paper e benchmark",
-        "diff com falhas encontradas"
-      ],
-      "url": "https://github.com/alibaba/open-code-review",
-      "stars": 45292,
-      "forks": 3267,
-      "issues": 282,
-      "language": "Go",
-      "pushedAt": "2026-10-10T00:55:20Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 326,
-      "score": 66,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "The Next New Thing · Open Code Review entre os repos explicados · 21,1k views · 325 likes · publicado 18 SET",
-          "url": "https://www.youtube.com/watch?v=1fHsIveXRa8",
-          "views": 21140,
-          "likes": 325,
-          "publishedAt": "2026-09-18",
-          "verifiedAt": "19 SET 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "Signal Coders · agente de revisão da Alibaba · 6,4k views · 230 likes · publicado 25 JUL",
-          "url": "https://www.youtube.com/watch?v=Wt9b0xdBi28",
-          "views": 6443,
-          "likes": 230,
-          "comments": 4,
-          "publishedAt": "2026-07-25",
-          "verifiedAt": "15 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/alibaba/open-code-review",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 326 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · The Next New Thing · Open Code Review entre os repos explicados · 21,1k views · 325 likes · publicado 18 SET",
-          "url": "https://www.youtube.com/watch?v=1fHsIveXRa8",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · Signal Coders · agente de revisão da Alibaba · 6,4k views · 230 likes · publicado 25 JUL",
-          "url": "https://www.youtube.com/watch?v=Wt9b0xdBi28",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=alibaba%20open-code-review%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Open%20Code%20Review%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Open%20Code%20Review%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 6
-    },
-    {
-      "repo": "addyosmani/agent-skills",
-      "title": "Agent Skills",
-      "type": "Skills para agentes de código",
-      "status": "Gravar agora",
-      "hook": "Addy Osmani reuniu padrões de engenharia para transformar agentes de código em especialistas reutilizáveis.",
-      "thesis": "Skills estão deixando de ser prompts isolados e virando pacotes versionados de conhecimento, processo e validação.",
-      "broll": [
-        "estrutura das skills",
-        "README e exemplos",
-        "comparação entre agentes",
-        "vídeos técnicos sobre skill packs"
-      ],
-      "url": "https://github.com/addyosmani/agent-skills",
-      "stars": 104027,
-      "forks": 10868,
-      "issues": 138,
-      "language": "JavaScript",
-      "pushedAt": "2026-10-03T18:21:11Z",
-      "pushedLabel": "push há 6d",
-      "trendingStarsToday": 436,
-      "score": 63,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "The Gray Cat · Matt Pocock vs Addy Osmani · 18,5k views · 183 likes · publicado 27 AGO",
-          "url": "https://www.youtube.com/watch?v=IDQs0VBL5UY",
-          "views": 18569,
-          "likes": 183,
-          "publishedAt": "2026-08-27",
-          "verifiedAt": "19 SET 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "AI Engineer · Building Great Agent Skills · 174k views · 5k likes · publicado 29 JUN",
-          "url": "https://www.youtube.com/watch?v=UNzCG3lw6O0",
-          "views": 173966,
-          "likes": 4956,
-          "publishedAt": "2026-06-29",
-          "verifiedAt": "19 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 436 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · The Gray Cat · Matt Pocock vs Addy Osmani · 18,5k views · 183 likes · publicado 27 AGO",
-          "url": "https://www.youtube.com/watch?v=IDQs0VBL5UY",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · AI Engineer · Building Great Agent Skills · 174k views · 5k likes · publicado 29 JUN",
-          "url": "https://www.youtube.com/watch?v=UNzCG3lw6O0",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=addyosmani%20agent-skills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent%20Skills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Agent%20Skills%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 7
-    },
-    {
-      "repo": "BerriAI/litellm",
-      "title": "litellm",
+      "repo": "mksglu/context-mode",
+      "title": "context-mode",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 95 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "hook": "Este repositório ganhou 178 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/BerriAI/litellm",
-      "stars": 60694,
-      "forks": 12192,
-      "issues": 5409,
-      "language": "Python",
-      "pushedAt": "2026-10-10T02:13:07Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 95,
-      "score": 59,
+      "url": "https://github.com/mksglu/context-mode",
+      "stars": 26032,
+      "forks": 1877,
+      "issues": 339,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-10T06:07:56Z",
+      "pushedLabel": "push há 5h",
+      "trendingStarsToday": 178,
+      "score": 61,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/BerriAI/litellm",
+          "url": "https://github.com/mksglu/context-mode",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 95 stars hoje",
+          "label": "GitHub Trending · 178 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=BerriAI%20litellm%20AI",
+          "url": "https://www.youtube.com/results?search_query=mksglu%20context-mode%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=litellm%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=context-mode%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=litellm%20AI",
+          "url": "https://www.tiktok.com/search?q=context-mode%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 6
+    },
+    {
+      "repo": "huggingface/transformers",
+      "title": "transformers",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 94 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/huggingface/transformers",
+      "stars": 166969,
+      "forks": 34783,
+      "issues": 2340,
+      "language": "Python",
+      "pushedAt": "2026-10-10T02:22:38Z",
+      "pushedLabel": "push há 9h",
+      "trendingStarsToday": 94,
+      "score": 61,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/huggingface/transformers",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 94 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=huggingface%20transformers%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=transformers%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=transformers%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 7
     },
     {
       "repo": "franzenzenhofer/big-arrow-on-the-screen",
@@ -723,12 +627,12 @@
         "discussão no Hacker News com pontos e comentários"
       ],
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "stars": 470,
-      "forks": 6,
+      "stars": 539,
+      "forks": 7,
       "issues": null,
       "language": "Swift",
-      "pushedAt": "2026-10-09T21:54:24Z",
-      "pushedLabel": "push há 4h",
+      "pushedAt": "2026-10-10T10:59:51Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": null,
       "score": 55,
       "social": [
@@ -770,7 +674,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 8
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -785,14 +689,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 94935,
-      "forks": 8301,
+      "stars": 95262,
+      "forks": 8332,
       "issues": 204,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
-      "score": 53,
+      "score": 46,
       "social": [
         {
           "platform": "Reddit",
@@ -846,7 +750,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
+      "rank": 9
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -861,12 +765,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27861,
-      "forks": 2705,
-      "issues": 902,
+      "stars": 27886,
+      "forks": 2711,
+      "issues": 901,
       "language": "TypeScript",
-      "pushedAt": "2026-10-09T13:41:22Z",
-      "pushedLabel": "push há 13h",
+      "pushedAt": "2026-10-10T02:31:39Z",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -893,10 +797,19 @@
           "kind": "busca"
         }
       ],
-      "rank": 11
+      "rank": 10
     }
   ],
   "news": [
+    {
+      "title": "AP: líderes de IA defendem autorregulação enquanto crescem dúvidas sobre segurança e fiscalização",
+      "url": "https://apnews.com/article/ai-safety-openai-tech-week-32064fde8ad68c68f71d82336f7db525",
+      "points": null,
+      "comments": null,
+      "publishedAt": "2026-10-10T07:42:47Z",
+      "source": "Associated Press · reportagem",
+      "editorialNote": "A AP relata que líderes e investidores de IA em eventos de San Francisco apoiaram a abordagem de autorregulação após um pacto voluntário da Casa Branca. O acordo citado tem 308 palavras e não detalha como prevenir danos; isso é a análise reportada pela AP, não uma norma obrigatória nem consenso de toda a indústria."
+    },
     {
       "title": "Anthropic publica relatório sobre ações não intencionais de Claude em avaliações e uso interno",
       "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
@@ -919,83 +832,78 @@
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://news.ycombinator.com/item?id=50018817",
       "relatedUrl": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "points": 381,
-      "comments": 167,
+      "points": 399,
+      "comments": 175,
       "publishedAt": "2026-10-09T11:03:48Z",
       "source": "Hacker News official API"
     },
     {
-      "title": "CrowdStrike diz que suspeito de ataques a bancos sul-coreanos usou ferramentas de IA",
-      "url": "https://www.investing.com/news/stock-market-news/crowdstrike-says-chinabased-suspect-used-ai-tools-in-south-korean-bank-hacks-4937965",
-      "points": null,
-      "comments": null,
-      "publishedAt": "2026-10-08T02:35:00Z",
-      "source": "Reuters via Investing.com",
-      "editorialNote": "Atribuição e uso de ARTEX/Claude Code são alegações reportadas pela CrowdStrike; Reuters ressalva que a atividade não foi atribuída a um ator nomeado. Não tratar como confirmação independente de causalidade."
+      "title": "Rewriting Prime Agent in Rust",
+      "url": "https://news.ycombinator.com/item?id=50027694",
+      "relatedUrl": "https://www.primeintellect.ai/blog/prime-agent-rust",
+      "points": 53,
+      "comments": 18,
+      "publishedAt": "2026-10-09T23:06:25Z",
+      "source": "Hacker News official API"
     },
     {
       "title": "Show HN: I Put an AI Agent on a Nokia 110",
       "url": "https://news.ycombinator.com/item?id=50006114",
       "relatedUrl": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
-      "points": 31,
+      "points": 33,
       "comments": 14,
       "publishedAt": "2026-10-08T14:18:51Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
-      "url": "https://news.ycombinator.com/item?id=50008642",
-      "relatedUrl": "https://github.com/edgedelta/project-arena",
-      "points": 24,
-      "comments": 9,
-      "publishedAt": "2026-10-08T17:13:08Z",
       "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "morluto/rea",
-      "starsToday": 14927
+      "starsToday": 25784
     },
     {
       "repo": "boykopovar/AnyPS5",
-      "starsToday": 5868
-    },
-    {
-      "repo": "mattpocock/skills",
-      "starsToday": 1687
-    },
-    {
-      "repo": "cathrynlavery/diagram-design",
-      "starsToday": 1739
-    },
-    {
-      "repo": "alibaba/open-code-review",
-      "starsToday": 326
-    },
-    {
-      "repo": "anthropics/knowledge-work-plugins",
-      "starsToday": 709
-    },
-    {
-      "repo": "BerriAI/litellm",
-      "starsToday": 95
-    },
-    {
-      "repo": "addyosmani/agent-skills",
-      "starsToday": 436
+      "starsToday": 5831
     },
     {
       "repo": "storytold/artcraft",
-      "starsToday": 3752
+      "starsToday": 3217
     },
     {
-      "repo": "Robbyant/lingbot-map",
-      "starsToday": 110
+      "repo": "cathrynlavery/diagram-design",
+      "starsToday": 1189
     },
     {
-      "repo": "twostraws/SwiftUI-Agent-Skill",
-      "starsToday": 65
+      "repo": "mksglu/context-mode",
+      "starsToday": 178
+    },
+    {
+      "repo": "mattpocock/skills",
+      "starsToday": 1737
+    },
+    {
+      "repo": "flutter/flutter",
+      "starsToday": 39
+    },
+    {
+      "repo": "tensorflow/tensorflow",
+      "starsToday": 24
+    },
+    {
+      "repo": "hugohe3/ppt-master",
+      "starsToday": 372
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "starsToday": 81
+    },
+    {
+      "repo": "huggingface/transformers",
+      "starsToday": 94
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "starsToday": 626
     }
   ],
   "monitored": [
@@ -1012,14 +920,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 94935,
-      "forks": 8301,
+      "stars": 95262,
+      "forks": 8332,
       "issues": 204,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
-      "score": 53,
+      "score": 46,
       "social": [
         {
           "platform": "Reddit",
@@ -1073,7 +981,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
+      "rank": 9
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -1088,12 +996,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27861,
-      "forks": 2705,
-      "issues": 902,
+      "stars": 27886,
+      "forks": 2711,
+      "issues": 901,
       "language": "TypeScript",
-      "pushedAt": "2026-10-09T13:41:22Z",
-      "pushedLabel": "push há 13h",
+      "pushedAt": "2026-10-10T02:31:39Z",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -1120,7 +1028,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 11
+      "rank": 10
     }
   ]
 }

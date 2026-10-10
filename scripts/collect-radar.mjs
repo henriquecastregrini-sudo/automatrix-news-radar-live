@@ -182,6 +182,7 @@ const socialReferences = {
   'magnitudedev/magnitude': [],
   'K-Dense-AI/scientific-agent-skills': [{ platform: 'YouTube', label: 'K-Dense · skills científicas · 13,5k views · publicado 18 FEV', url: 'https://www.youtube.com/watch?v=ZxbnDaD_FVg', views: 13534, publishedAt: '2026-02-18', verifiedAt: '07 SET 2026' }],
   'morluto/rea': [
+    { platform: 'YouTube · métrica via espelho', label: 'Rob Shocks · teste controlado do REA no próprio app compilado: 66,1 mil views e 1,3 mil likes exibidos por espelho em 09 OUT; métricas nativas não confirmadas nesta checagem; o vídeo contém patrocínio em segmento separado', url: 'https://www.youtube.com/watch?v=OMobTlfjb8s', views: 66100, likes: 1300, publishedAt: '2026-10-09', verifiedAt: '10 OUT 2026' },
     { platform: 'Reddit', label: 'r/BestGitHubRepos · post de apresentação do REA com 1.041 votos públicos; conteúdo promocional baseado no README, então alcance orgânico ainda não corroborado · publicado 08 OUT', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1x0s6lv/rea_reverse_engineer_anything_18k_stars/', engagement: 1041, publishedAt: '2026-10-08', verifiedAt: '08 OUT 2026' },
     { platform: 'Reddit', label: 'r/LovingOpenSourceAI · compartilhamento do repo com 391 votos públicos; replies seguem até 08 OUT · publicado 05 OUT', url: 'https://www.reddit.com/r/LovingOpenSourceAI/comments/1wyawik/rea_reverse_engineer_anything_reverse_engineer/', engagement: 391, publishedAt: '2026-10-05', verifiedAt: '08 OUT 2026' },
     { platform: 'TikTok (espelho)', label: '@whitewhoadie · demonstração de REA em vídeo; página espelho lista publicação em 04 OUT e comentários, mas contagens sem rótulos, então sem métricas usadas · validar no TikTok nativo', url: 'https://tikwm.com/video/7692856072624770318.html', publishedAt: '2026-10-04', verifiedAt: '07 OUT 2026' },
@@ -190,6 +191,7 @@ const socialReferences = {
     { platform: 'Reddit', label: 'r/BestGitHubRepos · caso de uso para memória persistente entre sessões e agentes · 17 votos públicos · publicado 01 OUT', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1wv9d8g/claudemem_gives_your_ai_agents_persistent_memory/', engagement: 17, publishedAt: '2026-10-01', verifiedAt: '07 OUT 2026' },
   ],
   'storytold/artcraft': [
+    { platform: 'TikTok (espelho)', label: '@quickfinesse · vídeo sobre a família ArtCraft e comparação com aplicativos da Adobe; espelho mostra comentários, mas contagens sem rótulos confirmados — métricas não contabilizadas; validar no TikTok nativo', url: 'https://tikwm.com/video/7692488484338142495.html', publishedAt: '2026-10-03', verifiedAt: '10 OUT 2026' },
     { platform: 'YouTube oficial', label: 'Official ArtCraft Studios · demo de 2 minutos como referência de produto/B-roll; data e alcance do vídeo não verificados nesta varredura', url: 'https://www.youtube.com/watch?v=kzvQMdg66Go', verifiedAt: '08 OUT 2026' },
   ],
   'Panniantong/Agent-Reach': [
@@ -327,7 +329,8 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
     trendingStarsToday: starsToday || null,
     score,
     social,
-    socialStatus: promoSignalNeedsCorroboration ? (promoSignal >= 100 ? 'post promocional com alto engajamento; repercussão orgânica não corroborada'
+    socialStatus: promoSignalNeedsCorroboration && mirroredSocialMetric ? 'post promocional com repercussão orgânica não corroborada; vídeo independente tem métricas via espelho, checagem nativa pendente'
+      : promoSignalNeedsCorroboration ? (promoSignal >= 100 ? 'post promocional com alto engajamento; repercussão orgânica não corroborada'
       : 'post promocional com baixa interação verificada; repercussão orgânica não corroborada')
       : mirroredSocialMetric ? 'métrica social via espelho; checagem nativa pendente'
       : verifiedRecentSocial.length ? 'referência recente verificada'
@@ -387,6 +390,12 @@ const newsCandidates = (hn.hits || [])
   .filter((item) => newsRelevance.test(item.title || item.story_title || ''))
   .sort((a, b) => ((b.points || 0) + (b.num_comments || 0) * 2) - ((a.points || 0) + (a.num_comments || 0) * 2) || new Date(b.created_at || 0) - new Date(a.created_at || 0));
 const additionalNews = [{
+  title: 'AP: líderes de IA defendem autorregulação enquanto crescem dúvidas sobre segurança e fiscalização',
+  url: 'https://apnews.com/article/ai-safety-openai-tech-week-32064fde8ad68c68f71d82336f7db525',
+  publishedAt: '2026-10-10T07:42:47Z',
+  source: 'Associated Press · reportagem',
+  editorialNote: 'A AP relata que líderes e investidores de IA em eventos de San Francisco apoiaram a abordagem de autorregulação após um pacto voluntário da Casa Branca. O acordo citado tem 308 palavras e não detalha como prevenir danos; isso é a análise reportada pela AP, não uma norma obrigatória nem consenso de toda a indústria.'
+}, {
   title: 'Anthropic publica relatório sobre ações não intencionais de Claude em avaliações e uso interno',
   url: 'https://www.anthropic.com/research/investigating-unintended-model-actions',
   publishedAt: '2026-10-09',
@@ -455,6 +464,7 @@ const data = {
     { name: 'Hacker News / Algolia', url: 'https://hn.algolia.com', status: 'ativo' },
     { name: 'OpenAI · anúncios oficiais', url: 'https://openai.com/news/', status: 'ativo' },
     { name: 'Anthropic · newsroom oficial', url: 'https://www.anthropic.com/news', status: 'ativo' },
+    { name: 'Associated Press · cobertura de política e segurança em IA', url: 'https://apnews.com/hub/artificial-intelligence', status: 'verificado nesta coleta' },
     { name: 'Axios · reportagem exclusiva sobre notificação de incidentes com IA', url: 'https://www.axios.com/2026/10/09/anthropic-ai-security-white-house', status: 'verificado nesta coleta' },
     { name: 'Google Cloud · blog oficial', url: 'https://cloud.google.com/blog/products/ai-machine-learning/', status: 'ativo' },
     { name: 'Vals AI · fonte primária da pauta científica', url: 'https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors', status: 'verificado nesta coleta' },
