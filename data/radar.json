@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T11:08:20.327Z",
-  "generatedLabel": "10 de out. de 2026 · 08:08",
+  "generatedAt": "2026-10-10T15:58:10.881Z",
+  "generatedLabel": "10 de out. de 2026 · 12:58",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -80,8 +80,8 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 283548,
-      "forks": 23746,
+      "stars": 283943,
+      "forks": 23783,
       "issues": 163,
       "language": "Shell",
       "pushedAt": "2026-10-09T10:57:08Z",
@@ -200,11 +200,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 59624,
-      "forks": 11858,
-      "issues": 141,
+      "stars": 64992,
+      "forks": 13459,
+      "issues": 131,
       "language": "TypeScript",
-      "pushedAt": "2026-10-10T11:06:57Z",
+      "pushedAt": "2026-10-10T15:52:22Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 25784,
       "score": 97,
@@ -311,12 +311,12 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 48430,
-      "forks": 3059,
-      "issues": 81,
+      "stars": 48617,
+      "forks": 3071,
+      "issues": 82,
       "language": "HTML",
       "pushedAt": "2026-10-10T04:32:06Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 11h",
       "trendingStarsToday": 1189,
       "score": 87,
       "social": [
@@ -391,14 +391,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/storytold/artcraft",
-      "stars": 12784,
-      "forks": 1965,
-      "issues": 111,
+      "stars": 13438,
+      "forks": 2082,
+      "issues": 120,
       "language": "Rust",
       "pushedAt": "2026-10-10T08:18:00Z",
-      "pushedLabel": "push há 3h",
+      "pushedLabel": "push há 8h",
       "trendingStarsToday": 3217,
-      "score": 74,
+      "score": 75,
       "social": [
         {
           "platform": "TikTok (espelho)",
@@ -414,7 +414,7 @@
           "verifiedAt": "08 OUT 2026"
         }
       ],
-      "socialStatus": "referência recente direta — métrica pública precisa verificação",
+      "socialStatus": "somente referência histórica — sem prova social recente",
       "sources": [
         {
           "label": "GitHub",
@@ -458,8 +458,8 @@
       "repo": "hugohe3/ppt-master",
       "title": "ppt-master",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 372 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 515 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
       "broll": [
         "GitHub Trending",
@@ -468,14 +468,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/hugohe3/ppt-master",
-      "stars": 58952,
-      "forks": 4654,
+      "stars": 59150,
+      "forks": 4665,
       "issues": 6,
       "language": "Python",
       "pushedAt": "2026-10-08T07:45:46Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 372,
-      "score": 61,
+      "trendingStarsToday": 515,
+      "score": 63,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -485,7 +485,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 372 stars hoje",
+          "label": "GitHub Trending · 515 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -521,12 +521,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mksglu/context-mode",
-      "stars": 26032,
-      "forks": 1877,
+      "stars": 26122,
+      "forks": 1881,
       "issues": 339,
       "language": "TypeScript",
-      "pushedAt": "2026-10-10T06:07:56Z",
-      "pushedLabel": "push há 5h",
+      "pushedAt": "2026-10-10T12:06:33Z",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": 178,
       "score": 61,
       "social": [],
@@ -574,12 +574,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/huggingface/transformers",
-      "stars": 166969,
-      "forks": 34783,
+      "stars": 167073,
+      "forks": 34791,
       "issues": 2340,
       "language": "Python",
       "pushedAt": "2026-10-10T02:22:38Z",
-      "pushedLabel": "push há 9h",
+      "pushedLabel": "push há 14h",
       "trendingStarsToday": 94,
       "score": 61,
       "social": [],
@@ -627,12 +627,12 @@
         "discussão no Hacker News com pontos e comentários"
       ],
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "stars": 539,
-      "forks": 7,
+      "stars": 551,
+      "forks": 9,
       "issues": null,
       "language": "Swift",
       "pushedAt": "2026-10-10T10:59:51Z",
-      "pushedLabel": "push há 0h",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": null,
       "score": 55,
       "social": [
@@ -677,6 +677,53 @@
       "rank": 8
     },
     {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 27889,
+      "forks": 2711,
+      "issues": 901,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-10T02:31:39Z",
+      "pushedLabel": "push há 13h",
+      "trendingStarsToday": null,
+      "score": 40,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 9
+    },
+    {
       "repo": "Panniantong/Agent-Reach",
       "type": "Repo monitorado",
       "status": "Monitorar hoje",
@@ -689,14 +736,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 95262,
-      "forks": 8332,
-      "issues": 204,
+      "stars": 95371,
+      "forks": 8345,
+      "issues": 205,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
-      "score": 46,
+      "score": 35,
       "social": [
         {
           "platform": "Reddit",
@@ -717,7 +764,7 @@
           "verifiedAt": "14 SET 2026"
         }
       ],
-      "socialStatus": "referência recente verificada",
+      "socialStatus": "somente referência histórica — sem prova social recente",
       "sources": [
         {
           "label": "GitHub",
@@ -750,53 +797,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
-    },
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27886,
-      "forks": 2711,
-      "issues": 901,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-10T02:31:39Z",
-      "pushedLabel": "push há 9h",
-      "trendingStarsToday": null,
-      "score": 40,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 10
     }
   ],
@@ -809,6 +809,24 @@
       "publishedAt": "2026-10-10T07:42:47Z",
       "source": "Associated Press · reportagem",
       "editorialNote": "A AP relata que líderes e investidores de IA em eventos de San Francisco apoiaram a abordagem de autorregulação após um pacto voluntário da Casa Branca. O acordo citado tem 308 palavras e não detalha como prevenir danos; isso é a análise reportada pela AP, não uma norma obrigatória nem consenso de toda a indústria."
+    },
+    {
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://news.ycombinator.com/item?id=50031614",
+      "relatedUrl": "https://github.com/rociiu/talorys",
+      "points": 124,
+      "comments": 62,
+      "publishedAt": "2026-10-10T10:52:09Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "There's little that's \"inevitable\" about AI",
+      "url": "https://news.ycombinator.com/item?id=50032064",
+      "relatedUrl": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+      "points": 35,
+      "comments": 72,
+      "publishedAt": "2026-10-10T12:04:04Z",
+      "source": "Hacker News official API"
     },
     {
       "title": "Anthropic publica relatório sobre ações não intencionais de Claude em avaliações e uso interno",
@@ -832,27 +850,9 @@
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://news.ycombinator.com/item?id=50018817",
       "relatedUrl": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "points": 399,
-      "comments": 175,
+      "points": 403,
+      "comments": 183,
       "publishedAt": "2026-10-09T11:03:48Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Rewriting Prime Agent in Rust",
-      "url": "https://news.ycombinator.com/item?id=50027694",
-      "relatedUrl": "https://www.primeintellect.ai/blog/prime-agent-rust",
-      "points": 53,
-      "comments": 18,
-      "publishedAt": "2026-10-09T23:06:25Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: I Put an AI Agent on a Nokia 110",
-      "url": "https://news.ycombinator.com/item?id=50006114",
-      "relatedUrl": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
-      "points": 33,
-      "comments": 14,
-      "publishedAt": "2026-10-08T14:18:51Z",
       "source": "Hacker News official API"
     }
   ],
@@ -891,7 +891,7 @@
     },
     {
       "repo": "hugohe3/ppt-master",
-      "starsToday": 372
+      "starsToday": 515
     },
     {
       "repo": "pytorch/pytorch",
@@ -908,6 +908,53 @@
   ],
   "monitored": [
     {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 27889,
+      "forks": 2711,
+      "issues": 901,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-10T02:31:39Z",
+      "pushedLabel": "push há 13h",
+      "trendingStarsToday": null,
+      "score": 40,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 9
+    },
+    {
       "repo": "Panniantong/Agent-Reach",
       "type": "Repo monitorado",
       "status": "Monitorar hoje",
@@ -920,14 +967,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 95262,
-      "forks": 8332,
-      "issues": 204,
+      "stars": 95371,
+      "forks": 8345,
+      "issues": 205,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
-      "score": 46,
+      "score": 35,
       "social": [
         {
           "platform": "Reddit",
@@ -948,7 +995,7 @@
           "verifiedAt": "14 SET 2026"
         }
       ],
-      "socialStatus": "referência recente verificada",
+      "socialStatus": "somente referência histórica — sem prova social recente",
       "sources": [
         {
           "label": "GitHub",
@@ -978,53 +1025,6 @@
         {
           "label": "Buscar TikTok",
           "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27886,
-      "forks": 2711,
-      "issues": 901,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-10T02:31:39Z",
-      "pushedLabel": "push há 9h",
-      "trendingStarsToday": null,
-      "score": 40,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
           "kind": "busca"
         }
       ],
