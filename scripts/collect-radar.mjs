@@ -390,6 +390,13 @@ const newsCandidates = (hn.hits || [])
   .filter((item) => newsRelevance.test(item.title || item.story_title || ''))
   .sort((a, b) => ((b.points || 0) + (b.num_comments || 0) * 2) - ((a.points || 0) + (a.num_comments || 0) * 2) || new Date(b.created_at || 0) - new Date(a.created_at || 0));
 const additionalNews = [{
+  title: 'Axios: empresas de IA simulam cenários de crise e reação pública após um possível grande incidente',
+  url: 'https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack',
+  publishedAt: '2026-10-09',
+  source: 'Axios · reportagem',
+  editorialNote: 'A Axios relata exercícios e conversas privadas sobre cenários de crise; isso não demonstra que um incidente seja inevitável. A própria matéria cita a OpenAI dizendo que seus exercícios não tratam os cenários como inevitáveis; Anthropic não comentou. Discussão no Reddit tem posições céticas e favoráveis, sem métrica de votos verificada nesta coleta.',
+  socialSignals: [{ label: 'r/Futurology · discussão pública da reportagem; comentários contestam a leitura de inevitabilidade e outros defendem planejamento de crise; votos não verificados nesta coleta', url: 'https://www.reddit.com/r/Futurology/comments/1x29fbd/ai_companies_plot_day_after_scenarios_for_public/', publishedAt: '2026-10-10' }],
+}, {
   title: 'AP: líderes de IA defendem autorregulação enquanto crescem dúvidas sobre segurança e fiscalização',
   url: 'https://apnews.com/article/ai-safety-openai-tech-week-32064fde8ad68c68f71d82336f7db525',
   publishedAt: '2026-10-10T07:42:47Z',
@@ -465,6 +472,7 @@ const data = {
     { name: 'OpenAI · anúncios oficiais', url: 'https://openai.com/news/', status: 'ativo' },
     { name: 'Anthropic · newsroom oficial', url: 'https://www.anthropic.com/news', status: 'ativo' },
     { name: 'Associated Press · cobertura de política e segurança em IA', url: 'https://apnews.com/hub/artificial-intelligence', status: 'verificado nesta coleta' },
+    { name: 'Axios · reportagem sobre planejamento de crises de IA', url: 'https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack', status: 'verificado nesta coleta' },
     { name: 'Axios · reportagem exclusiva sobre notificação de incidentes com IA', url: 'https://www.axios.com/2026/10/09/anthropic-ai-security-white-house', status: 'verificado nesta coleta' },
     { name: 'Google Cloud · blog oficial', url: 'https://cloud.google.com/blog/products/ai-machine-learning/', status: 'ativo' },
     { name: 'Vals AI · fonte primária da pauta científica', url: 'https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors', status: 'verificado nesta coleta' },

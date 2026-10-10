@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T15:58:10.881Z",
-  "generatedLabel": "10 de out. de 2026 · 12:58",
+  "generatedAt": "2026-10-10T17:08:47.444Z",
+  "generatedLabel": "10 de out. de 2026 · 14:08",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -32,6 +32,11 @@
     {
       "name": "Associated Press · cobertura de política e segurança em IA",
       "url": "https://apnews.com/hub/artificial-intelligence",
+      "status": "verificado nesta coleta"
+    },
+    {
+      "name": "Axios · reportagem sobre planejamento de crises de IA",
+      "url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
       "status": "verificado nesta coleta"
     },
     {
@@ -80,9 +85,9 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 283943,
-      "forks": 23783,
-      "issues": 163,
+      "stars": 284021,
+      "forks": 23787,
+      "issues": 164,
       "language": "Shell",
       "pushedAt": "2026-10-09T10:57:08Z",
       "pushedLabel": "push há 1d",
@@ -200,11 +205,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 64992,
-      "forks": 13459,
-      "issues": 131,
+      "stars": 66264,
+      "forks": 13882,
+      "issues": 136,
       "language": "TypeScript",
-      "pushedAt": "2026-10-10T15:52:22Z",
+      "pushedAt": "2026-10-10T17:04:49Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 25784,
       "score": 97,
@@ -311,12 +316,12 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 48617,
+      "stars": 48676,
       "forks": 3071,
       "issues": 82,
       "language": "HTML",
       "pushedAt": "2026-10-10T04:32:06Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": 1189,
       "score": 87,
       "social": [
@@ -391,12 +396,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/storytold/artcraft",
-      "stars": 13438,
-      "forks": 2082,
-      "issues": 120,
+      "stars": 13590,
+      "forks": 2111,
+      "issues": 124,
       "language": "Rust",
       "pushedAt": "2026-10-10T08:18:00Z",
-      "pushedLabel": "push há 8h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": 3217,
       "score": 75,
       "social": [
@@ -468,8 +473,8 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/hugohe3/ppt-master",
-      "stars": 59150,
-      "forks": 4665,
+      "stars": 59207,
+      "forks": 4666,
       "issues": 6,
       "language": "Python",
       "pushedAt": "2026-10-08T07:45:46Z",
@@ -521,12 +526,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mksglu/context-mode",
-      "stars": 26122,
-      "forks": 1881,
+      "stars": 26161,
+      "forks": 1882,
       "issues": 339,
       "language": "TypeScript",
       "pushedAt": "2026-10-10T12:06:33Z",
-      "pushedLabel": "push há 4h",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": 178,
       "score": 61,
       "social": [],
@@ -574,12 +579,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/huggingface/transformers",
-      "stars": 167073,
-      "forks": 34791,
-      "issues": 2340,
+      "stars": 167104,
+      "forks": 34794,
+      "issues": 2341,
       "language": "Python",
-      "pushedAt": "2026-10-10T02:22:38Z",
-      "pushedLabel": "push há 14h",
+      "pushedAt": "2026-10-10T16:56:52Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 94,
       "score": 61,
       "social": [],
@@ -627,12 +632,12 @@
         "discussão no Hacker News com pontos e comentários"
       ],
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "stars": 551,
+      "stars": 563,
       "forks": 9,
       "issues": null,
       "language": "Swift",
       "pushedAt": "2026-10-10T10:59:51Z",
-      "pushedLabel": "push há 5h",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": null,
       "score": 55,
       "social": [
@@ -689,12 +694,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27889,
+      "stars": 27892,
       "forks": 2711,
       "issues": 901,
       "language": "TypeScript",
       "pushedAt": "2026-10-10T02:31:39Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -736,8 +741,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 95371,
-      "forks": 8345,
+      "stars": 95398,
+      "forks": 8347,
       "issues": 205,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
@@ -814,19 +819,26 @@
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "url": "https://news.ycombinator.com/item?id=50031614",
       "relatedUrl": "https://github.com/rociiu/talorys",
-      "points": 124,
-      "comments": 62,
+      "points": 146,
+      "comments": 78,
       "publishedAt": "2026-10-10T10:52:09Z",
       "source": "Hacker News official API"
     },
     {
-      "title": "There's little that's \"inevitable\" about AI",
-      "url": "https://news.ycombinator.com/item?id=50032064",
-      "relatedUrl": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-      "points": 35,
-      "comments": 72,
-      "publishedAt": "2026-10-10T12:04:04Z",
-      "source": "Hacker News official API"
+      "title": "Axios: empresas de IA simulam cenários de crise e reação pública após um possível grande incidente",
+      "url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
+      "points": null,
+      "comments": null,
+      "publishedAt": "2026-10-09",
+      "source": "Axios · reportagem",
+      "editorialNote": "A Axios relata exercícios e conversas privadas sobre cenários de crise; isso não demonstra que um incidente seja inevitável. A própria matéria cita a OpenAI dizendo que seus exercícios não tratam os cenários como inevitáveis; Anthropic não comentou. Discussão no Reddit tem posições céticas e favoráveis, sem métrica de votos verificada nesta coleta.",
+      "socialSignals": [
+        {
+          "label": "r/Futurology · discussão pública da reportagem; comentários contestam a leitura de inevitabilidade e outros defendem planejamento de crise; votos não verificados nesta coleta",
+          "url": "https://www.reddit.com/r/Futurology/comments/1x29fbd/ai_companies_plot_day_after_scenarios_for_public/",
+          "publishedAt": "2026-10-10"
+        }
+      ]
     },
     {
       "title": "Anthropic publica relatório sobre ações não intencionais de Claude em avaliações e uso interno",
@@ -850,8 +862,8 @@
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://news.ycombinator.com/item?id=50018817",
       "relatedUrl": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "points": 403,
-      "comments": 183,
+      "points": 404,
+      "comments": 184,
       "publishedAt": "2026-10-09T11:03:48Z",
       "source": "Hacker News official API"
     }
@@ -883,7 +895,7 @@
     },
     {
       "repo": "flutter/flutter",
-      "starsToday": 39
+      "starsToday": 164
     },
     {
       "repo": "tensorflow/tensorflow",
@@ -920,12 +932,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27889,
+      "stars": 27892,
       "forks": 2711,
       "issues": 901,
       "language": "TypeScript",
       "pushedAt": "2026-10-10T02:31:39Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -967,8 +979,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 95371,
-      "forks": 8345,
+      "stars": 95398,
+      "forks": 8347,
       "issues": 205,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
