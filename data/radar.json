@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T23:35:07.060Z",
-  "generatedLabel": "9 de out. de 2026 · 20:35",
+  "generatedAt": "2026-10-10T02:13:26.959Z",
+  "generatedLabel": "9 de out. de 2026 · 23:13",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -75,13 +75,13 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 282623,
-      "forks": 23677,
-      "issues": 159,
+      "stars": 282814,
+      "forks": 23696,
+      "issues": 161,
       "language": "Shell",
       "pushedAt": "2026-10-09T10:57:08Z",
-      "pushedLabel": "push há 13h",
-      "trendingStarsToday": 1696,
+      "pushedLabel": "push há 15h",
+      "trendingStarsToday": 1687,
       "score": 100,
       "social": [
         {
@@ -186,7 +186,7 @@
       "title": "rea",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 15,3 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 14,9 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "broll": [
         "GitHub Trending",
@@ -195,13 +195,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 44991,
-      "forks": 7090,
-      "issues": 92,
+      "stars": 47948,
+      "forks": 7914,
+      "issues": 103,
       "language": "TypeScript",
-      "pushedAt": "2026-10-09T23:30:32Z",
+      "pushedAt": "2026-10-10T02:07:34Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 15335,
+      "trendingStarsToday": 14927,
       "score": 91,
       "social": [
         {
@@ -236,7 +236,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 15,3 mil stars hoje",
+          "label": "GitHub Trending · 14,9 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -292,13 +292,13 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 47824,
-      "forks": 3033,
+      "stars": 47950,
+      "forks": 3037,
       "issues": 81,
       "language": "HTML",
       "pushedAt": "2026-10-09T23:02:12Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 1744,
+      "pushedLabel": "push há 3h",
+      "trendingStarsToday": 1739,
       "score": 89,
       "social": [
         {
@@ -363,7 +363,7 @@
       "title": "artcraft",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 3,7 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 3,8 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "broll": [
         "GitHub Trending",
@@ -372,13 +372,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/storytold/artcraft",
-      "stars": 11364,
-      "forks": 1714,
-      "issues": 98,
+      "stars": 11665,
+      "forks": 1761,
+      "issues": 101,
       "language": "Rust",
       "pushedAt": "2026-10-09T17:03:51Z",
-      "pushedLabel": "push há 7h",
-      "trendingStarsToday": 3723,
+      "pushedLabel": "push há 9h",
+      "trendingStarsToday": 3752,
       "score": 74,
       "social": [
         {
@@ -396,7 +396,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 3,7 mil stars hoje",
+          "label": "GitHub Trending · 3,8 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -428,7 +428,7 @@
       "title": "knowledge-work-plugins",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 714 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 709 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "broll": [
         "GitHub Trending",
@@ -437,13 +437,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars": 28228,
-      "forks": 3244,
+      "stars": 28300,
+      "forks": 3250,
       "issues": 133,
       "language": "Python",
       "pushedAt": "2026-10-09T21:48:47Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 714,
+      "pushedLabel": "push há 4h",
+      "trendingStarsToday": 709,
       "score": 71,
       "social": [
         {
@@ -463,7 +463,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 714 stars hoje",
+          "label": "GitHub Trending · 709 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -505,13 +505,13 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 45175,
-      "forks": 3261,
-      "issues": 285,
+      "stars": 45292,
+      "forks": 3267,
+      "issues": 282,
       "language": "Go",
-      "pushedAt": "2026-10-08T11:52:10Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 323,
+      "pushedAt": "2026-10-10T00:55:20Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 326,
       "score": 66,
       "social": [
         {
@@ -542,7 +542,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 323 stars hoje",
+          "label": "GitHub Trending · 326 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -588,14 +588,14 @@
         "vídeos técnicos sobre skill packs"
       ],
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars": 103963,
+      "stars": 104027,
       "forks": 10868,
       "issues": 138,
       "language": "JavaScript",
       "pushedAt": "2026-10-03T18:21:11Z",
       "pushedLabel": "push há 6d",
-      "trendingStarsToday": 523,
-      "score": 64,
+      "trendingStarsToday": 436,
+      "score": 63,
       "social": [
         {
           "platform": "YouTube",
@@ -624,7 +624,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 523 stars hoje",
+          "label": "GitHub Trending · 436 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -670,11 +670,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 60643,
-      "forks": 12186,
-      "issues": 5418,
+      "stars": 60694,
+      "forks": 12192,
+      "issues": 5409,
       "language": "Python",
-      "pushedAt": "2026-10-09T23:33:43Z",
+      "pushedAt": "2026-10-10T02:13:07Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 95,
       "score": 59,
@@ -723,12 +723,12 @@
         "discussão no Hacker News com pontos e comentários"
       ],
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "stars": 439,
+      "stars": 470,
       "forks": 6,
       "issues": null,
       "language": "Swift",
       "pushedAt": "2026-10-09T21:54:24Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": null,
       "score": 55,
       "social": [
@@ -785,9 +785,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 94864,
-      "forks": 8295,
-      "issues": 203,
+      "stars": 94935,
+      "forks": 8301,
+      "issues": 204,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
       "pushedLabel": "push há 2d",
@@ -861,12 +861,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27859,
+      "stars": 27861,
       "forks": 2705,
       "issues": 902,
       "language": "TypeScript",
       "pushedAt": "2026-10-09T13:41:22Z",
-      "pushedLabel": "push há 10h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -919,36 +919,10 @@
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://news.ycombinator.com/item?id=50018817",
       "relatedUrl": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "points": 361,
-      "comments": 160,
+      "points": 381,
+      "comments": 167,
       "publishedAt": "2026-10-09T11:03:48Z",
       "source": "Hacker News official API"
-    },
-    {
-      "title": "Google apresenta agente Gemini universal para trabalho integrado ao Workspace e sistemas corporativos",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/",
-      "points": null,
-      "comments": null,
-      "publishedAt": "2026-10-08",
-      "source": "Google Cloud · anúncio oficial",
-      "editorialNote": "É um anúncio da própria Google Cloud; alegações de adoção corporativa e redução de custos são da empresa. O destaque verificável é o agente com skills, conectores, controles e integração declarada com servidores MCP."
-    },
-    {
-      "title": "Anthropic lança missão de cibersegurança e scanner gratuito opcional para projetos open source",
-      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
-      "points": null,
-      "comments": null,
-      "publishedAt": "2026-10-08",
-      "source": "Anthropic · anúncio oficial",
-      "editorialNote": "OSS Scanner envia relatórios gerados por modelo sem revisão humana; a própria Anthropic alerta que podem conter imprecisões, inclusive na severidade. Separar anúncio e eficácia demonstrada. A conversa no Reddit sobre o lançamento tinha 92 votos públicos na checagem de 09 OUT; isso mede reação ao anúncio, não eficácia do scanner.",
-      "socialSignals": [
-        {
-          "label": "r/technology · discussão do lançamento do OSS Scanner · 92 votos públicos · reação ao anúncio, não validação da ferramenta",
-          "url": "https://www.reddit.com/r/technology/comments/1x1nf1y/anthropic_now_offers_a_free_vulnerabilityfinding/",
-          "engagement": 92,
-          "publishedAt": "2026-10-09"
-        }
-      ]
     },
     {
       "title": "CrowdStrike diz que suspeito de ataques a bancos sul-coreanos usou ferramentas de IA",
@@ -958,32 +932,50 @@
       "publishedAt": "2026-10-08T02:35:00Z",
       "source": "Reuters via Investing.com",
       "editorialNote": "Atribuição e uso de ARTEX/Claude Code são alegações reportadas pela CrowdStrike; Reuters ressalva que a atividade não foi atribuída a um ator nomeado. Não tratar como confirmação independente de causalidade."
+    },
+    {
+      "title": "Show HN: I Put an AI Agent on a Nokia 110",
+      "url": "https://news.ycombinator.com/item?id=50006114",
+      "relatedUrl": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
+      "points": 31,
+      "comments": 14,
+      "publishedAt": "2026-10-08T14:18:51Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
+      "url": "https://news.ycombinator.com/item?id=50008642",
+      "relatedUrl": "https://github.com/edgedelta/project-arena",
+      "points": 24,
+      "comments": 9,
+      "publishedAt": "2026-10-08T17:13:08Z",
+      "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "morluto/rea",
-      "starsToday": 15335
+      "starsToday": 14927
     },
     {
       "repo": "boykopovar/AnyPS5",
-      "starsToday": 5925
+      "starsToday": 5868
     },
     {
       "repo": "mattpocock/skills",
-      "starsToday": 1696
+      "starsToday": 1687
     },
     {
       "repo": "cathrynlavery/diagram-design",
-      "starsToday": 1744
+      "starsToday": 1739
     },
     {
       "repo": "alibaba/open-code-review",
-      "starsToday": 323
+      "starsToday": 326
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
-      "starsToday": 714
+      "starsToday": 709
     },
     {
       "repo": "BerriAI/litellm",
@@ -991,19 +983,19 @@
     },
     {
       "repo": "addyosmani/agent-skills",
-      "starsToday": 523
+      "starsToday": 436
     },
     {
       "repo": "storytold/artcraft",
-      "starsToday": 3723
+      "starsToday": 3752
     },
     {
       "repo": "Robbyant/lingbot-map",
-      "starsToday": 109
+      "starsToday": 110
     },
     {
       "repo": "twostraws/SwiftUI-Agent-Skill",
-      "starsToday": 88
+      "starsToday": 65
     }
   ],
   "monitored": [
@@ -1020,9 +1012,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 94864,
-      "forks": 8295,
-      "issues": 203,
+      "stars": 94935,
+      "forks": 8301,
+      "issues": 204,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
       "pushedLabel": "push há 2d",
@@ -1096,12 +1088,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27859,
+      "stars": 27861,
       "forks": 2705,
       "issues": 902,
       "language": "TypeScript",
       "pushedAt": "2026-10-09T13:41:22Z",
-      "pushedLabel": "push há 10h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
