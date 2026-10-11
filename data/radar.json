@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T21:11:08.934Z",
-  "generatedLabel": "11 de out. de 2026 · 18:11",
+  "generatedAt": "2026-10-11T22:58:47.640Z",
+  "generatedLabel": "11 de out. de 2026 · 19:58",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,14 +85,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 99851,
-      "forks": 22053,
-      "issues": 154,
+      "stars": 102138,
+      "forks": 22413,
+      "issues": 169,
       "language": "TypeScript",
-      "pushedAt": "2026-10-11T21:09:57Z",
+      "pushedAt": "2026-10-11T22:41:22Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 25585,
-      "score": 92,
+      "score": 93,
       "social": [
         {
           "platform": "YouTube · espelhos com métricas divergentes",
@@ -206,8 +206,8 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 50158,
-      "forks": 3182,
+      "stars": 50249,
+      "forks": 3191,
       "issues": 87,
       "language": "HTML",
       "pushedAt": "2026-10-10T21:10:14Z",
@@ -298,12 +298,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/storytold/artcraft",
-      "stars": 17445,
-      "forks": 2855,
-      "issues": 174,
+      "stars": 17691,
+      "forks": 2894,
+      "issues": 175,
       "language": "Rust",
       "pushedAt": "2026-10-11T13:47:59Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": 2956,
       "score": 75,
       "social": [
@@ -375,12 +375,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/lyogavin/airllm",
-      "stars": 36376,
-      "forks": 3813,
+      "stars": 36430,
+      "forks": 3816,
       "issues": 160,
       "language": "Jupyter Notebook",
       "pushedAt": "2026-10-11T06:19:49Z",
-      "pushedLabel": "push há 15h",
+      "pushedLabel": "push há 17h",
       "trendingStarsToday": 541,
       "score": 69,
       "social": [],
@@ -428,12 +428,12 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 286071,
-      "forks": 23994,
+      "stars": 286137,
+      "forks": 24004,
       "issues": 166,
       "language": "Shell",
       "pushedAt": "2026-10-09T10:57:08Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 58,
       "social": [
@@ -543,12 +543,12 @@
         "discussão no Hacker News com pontos e comentários"
       ],
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "stars": 623,
+      "stars": 624,
       "forks": 13,
       "issues": null,
       "language": "Swift",
       "pushedAt": "2026-10-10T10:59:51Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 55,
       "social": [
@@ -605,9 +605,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27926,
+      "stars": 27927,
       "forks": 2718,
-      "issues": 906,
+      "issues": 907,
       "language": "TypeScript",
       "pushedAt": "2026-10-10T02:31:39Z",
       "pushedLabel": "push há 2d",
@@ -652,8 +652,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 95946,
-      "forks": 8402,
+      "stars": 95994,
+      "forks": 8406,
       "issues": 207,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
@@ -718,11 +718,11 @@
   ],
   "news": [
     {
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
       "url": "https://news.ycombinator.com/item?id=50039092",
       "relatedUrl": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "points": 126,
-      "comments": 94,
+      "points": 130,
+      "comments": 95,
       "publishedAt": "2026-10-11T02:02:38Z",
       "source": "Hacker News official API"
     },
@@ -739,7 +739,7 @@
       "title": "Meu agente pessoal publicou dados bancários no Slack da empresa",
       "url": "https://news.ycombinator.com/item?id=50033517",
       "relatedUrl": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
-      "points": 62,
+      "points": 63,
       "comments": 67,
       "publishedAt": "2026-10-10T14:46:16Z",
       "source": "Hacker News official API",
@@ -758,19 +758,19 @@
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "url": "https://news.ycombinator.com/item?id=50031614",
       "relatedUrl": "https://github.com/rociiu/talorys",
-      "points": 320,
+      "points": 321,
       "comments": 149,
       "publishedAt": "2026-10-10T10:52:09Z",
       "source": "Hacker News official API"
     },
     {
-      "title": "Axios relata exigência da Casa Branca para notificação de incidentes com sistemas de IA",
-      "url": "https://www.axios.com/2026/10/09/anthropic-ai-security-white-house",
-      "points": null,
-      "comments": null,
-      "publishedAt": "2026-10-09T22:47:21Z",
-      "source": "Axios · reportagem exclusiva",
-      "editorialNote": "A reportagem atribui a exigência a autoridades da Casa Branca e informa que aplicações de visto citadas não foram processadas nem houve comprometimento de sistemas, segundo autoridade do Departamento de Estado; relata também um falso tip enviado a uma polícia local. A nota não esclarece mecanismos de fiscalização. Distinguir esses episódios do relatório separado da Anthropic sobre avaliações."
+      "title": "There's little that's \"inevitable\" about AI",
+      "url": "https://news.ycombinator.com/item?id=50032064",
+      "relatedUrl": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+      "points": 40,
+      "comments": 97,
+      "publishedAt": "2026-10-10T12:04:04Z",
+      "source": "Hacker News official API"
     }
   ],
   "trending": [
@@ -804,7 +804,7 @@
     },
     {
       "repo": "chrislgarry/Apollo-11",
-      "starsToday": 496
+      "starsToday": 581
     }
   ],
   "monitored": [
@@ -821,9 +821,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27926,
+      "stars": 27927,
       "forks": 2718,
-      "issues": 906,
+      "issues": 907,
       "language": "TypeScript",
       "pushedAt": "2026-10-10T02:31:39Z",
       "pushedLabel": "push há 2d",
@@ -868,8 +868,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 95946,
-      "forks": 8402,
+      "stars": 95994,
+      "forks": 8406,
       "issues": 207,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
