@@ -139,6 +139,7 @@ const socialReferences = {
   'coreyhaines31/marketingskills': [{ platform: 'YouTube', label: 'The Next New Thing · skills para Claude · 53,4k views · publicado 11 FEV', url: 'https://www.youtube.com/watch?v=YajqB9RDdzI', views: 53450, publishedAt: '2026-02-11', verifiedAt: '08 SET 2026' }],
   'jo-inc/camofox-browser': [{ platform: 'YouTube', label: 'Build Things With AI · CamoFox entre repos em alta · 1,8k views · publicado 02 MAI', url: 'https://www.youtube.com/watch?v=Hs-xdoaGH5o', views: 1855, publishedAt: '2026-05-02', verifiedAt: '07 SET 2026' }],
   'cathrynlavery/diagram-design': [
+    { platform: 'X · menções indexadas pelo Trendshift', label: 'Três posts de 10 OUT; descrevem o recurso de diagramas para agentes e incluem crítica à consistência/editabilidade; métricas por post não visíveis nesta coleta', url: 'https://trendshift.io/repositories/26141', publishedAt: '2026-10-10', verifiedAt: '11 OUT 2026' },
     { platform: 'Reddit', label: 'r/BestGitHubRepos · post direto apresenta tipos de diagramas editoriais e compatibilidade com agentes · 57 votos públicos · publicado 07 OUT', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1wzu0gm/diagram_design_editorial_diagrams_your_designer/', engagement: 57, publishedAt: '2026-10-07', verifiedAt: '09 OUT 2026' },
     { platform: 'YouTube', label: 'YAHA · Diagram Design em primeiro no GitHub · 20,9k views · publicado 03 SET · referência histórica', url: 'https://www.youtube.com/watch?v=rq4EHbqaaAk', views: 20919, publishedAt: '2026-09-03', verifiedAt: '08 SET 2026' },
   ],
@@ -182,7 +183,8 @@ const socialReferences = {
   'magnitudedev/magnitude': [],
   'K-Dense-AI/scientific-agent-skills': [{ platform: 'YouTube', label: 'K-Dense · skills científicas · 13,5k views · publicado 18 FEV', url: 'https://www.youtube.com/watch?v=ZxbnDaD_FVg', views: 13534, publishedAt: '2026-02-18', verifiedAt: '07 SET 2026' }],
   'morluto/rea': [
-    { platform: 'YouTube · métrica via espelho', label: 'Rob Shocks · teste controlado do REA no próprio app compilado: 66,1 mil views e 1,3 mil likes exibidos por espelho em 09 OUT; métricas nativas não confirmadas nesta checagem; o vídeo contém patrocínio em segmento separado', url: 'https://www.youtube.com/watch?v=OMobTlfjb8s', views: 66100, likes: 1300, publishedAt: '2026-10-09', verifiedAt: '10 OUT 2026' },
+    { platform: 'YouTube · espelhos com métricas divergentes', label: 'Rob Shocks · demonstração independente do REA em app compilado; dois espelhos consultados exibem contagens diferentes e a página nativa do YouTube não foi confirmada, então métricas quantitativas foram excluídas; há segmento patrocinado separado', url: 'https://www.youtube.com/watch?v=OMobTlfjb8s', publishedAt: '2026-10-09', verifiedAt: '11 OUT 2026' },
+    { platform: 'Reddit', label: 'r/tech_x · discussão nova sobre o REA; comentários perguntam sobre limites de segurança e relatam testes com diferentes modelos; contagem de votos não visível nesta checagem', url: 'https://www.reddit.com/r/tech_x/comments/1x2d66l/github_project_called_rea_reverse_engineer/', publishedAt: '2026-10-11', verifiedAt: '11 OUT 2026' },
     { platform: 'Reddit', label: 'r/BestGitHubRepos · post de apresentação do REA com 1.041 votos públicos; conteúdo promocional baseado no README, então alcance orgânico ainda não corroborado · publicado 08 OUT', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1x0s6lv/rea_reverse_engineer_anything_18k_stars/', engagement: 1041, publishedAt: '2026-10-08', verifiedAt: '08 OUT 2026' },
     { platform: 'Reddit', label: 'r/LovingOpenSourceAI · compartilhamento do repo com 391 votos públicos; replies seguem até 08 OUT · publicado 05 OUT', url: 'https://www.reddit.com/r/LovingOpenSourceAI/comments/1wyawik/rea_reverse_engineer_anything_reverse_engineer/', engagement: 391, publishedAt: '2026-10-05', verifiedAt: '08 OUT 2026' },
     { platform: 'TikTok (espelho)', label: '@whitewhoadie · demonstração de REA em vídeo; página espelho lista publicação em 04 OUT e comentários, mas contagens sem rótulos, então sem métricas usadas · validar no TikTok nativo', url: 'https://tikwm.com/video/7692856072624770318.html', publishedAt: '2026-10-04', verifiedAt: '07 OUT 2026' },
@@ -191,7 +193,7 @@ const socialReferences = {
     { platform: 'Reddit', label: 'r/BestGitHubRepos · caso de uso para memória persistente entre sessões e agentes · 17 votos públicos · publicado 01 OUT', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1wv9d8g/claudemem_gives_your_ai_agents_persistent_memory/', engagement: 17, publishedAt: '2026-10-01', verifiedAt: '07 OUT 2026' },
   ],
   'storytold/artcraft': [
-    { platform: 'TikTok (espelho)', label: '@quickfinesse · vídeo sobre a família ArtCraft e comparação com aplicativos da Adobe; espelho mostra comentários, mas contagens sem rótulos confirmados — métricas não contabilizadas; validar no TikTok nativo', url: 'https://tikwm.com/video/7692488484338142495.html', publishedAt: '2026-10-03', verifiedAt: '10 OUT 2026' },
+    { platform: 'TikTok (espelho)', label: '@quickfinesse · vídeo sobre a família ArtCraft e comparação com aplicativos da Adobe; publicado 03 OUT, comentários visíveis até 08 OUT; contadores do espelho sem rótulos confirmados, fora da janela de sinal recente e não contabilizados; validar no TikTok nativo', url: 'https://tikwm.com/video/7692488484338142495.html', publishedAt: '2026-10-03', verifiedAt: '11 OUT 2026' },
     { platform: 'YouTube oficial', label: 'Official ArtCraft Studios · demo de 2 minutos como referência de produto/B-roll; data e alcance do vídeo não verificados nesta varredura', url: 'https://www.youtube.com/watch?v=kzvQMdg66Go', verifiedAt: '08 OUT 2026' },
   ],
   'Panniantong/Agent-Reach': [
@@ -301,6 +303,7 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
   const promoReferences = recentSocial.filter((reference) => reference.label.includes('alcance orgânico ainda não corroborado'));
   const promoSignalNeedsCorroboration = promoReferences.length > 0;
   const promoSignal = Math.max(0, ...promoReferences.map((reference) => reference.engagement || 0));
+  const independentRecentSocial = recentSocial.filter((reference) => !reference.label.includes('alcance orgânico ainda não corroborado'));
   const mirroredSocialMetric = recentSocial.some((reference) => reference.platform.includes('métrica via espelho'));
   const hnDiscussionPoints = Math.max(0, ...recentSocial.filter((reference) => reference.platform === 'Hacker News').map((reference) => reference.engagement || 0));
   const verifiedRecentSocial = recentSocial.filter((reference) => !reference.label.includes('alcance orgânico ainda não corroborado')
@@ -329,12 +332,13 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
     trendingStarsToday: starsToday || null,
     score,
     social,
-    socialStatus: promoSignalNeedsCorroboration && mirroredSocialMetric ? 'post promocional com repercussão orgânica não corroborada; vídeo independente tem métricas via espelho, checagem nativa pendente'
+    socialStatus: promoSignalNeedsCorroboration && independentRecentSocial.length ? 'post promocional com alto engajamento não comprova alcance orgânico; há discussão independente recente no Reddit, sem votos visíveis; métricas nativas do vídeo pendentes'
+      : promoSignalNeedsCorroboration && mirroredSocialMetric ? 'post promocional com repercussão orgânica não corroborada; vídeo independente tem métricas via espelho, checagem nativa pendente'
       : promoSignalNeedsCorroboration ? (promoSignal >= 100 ? 'post promocional com alto engajamento; repercussão orgânica não corroborada'
       : 'post promocional com baixa interação verificada; repercussão orgânica não corroborada')
       : mirroredSocialMetric ? 'métrica social via espelho; checagem nativa pendente'
       : verifiedRecentSocial.length ? 'referência recente verificada'
-      : recentSocial.length ? 'referência recente direta — métrica pública precisa verificação'
+      : recentSocial.length ? 'referência social recente — métrica direta precisa verificação'
       : social.length ? 'somente referência histórica — sem prova social recente'
         : 'sem post direto verificado — precisa varredura social',
     sources: [
@@ -390,6 +394,19 @@ const newsCandidates = (hn.hits || [])
   .filter((item) => newsRelevance.test(item.title || item.story_title || ''))
   .sort((a, b) => ((b.points || 0) + (b.num_comments || 0) * 2) - ((a.points || 0) + (a.num_comments || 0) * 2) || new Date(b.created_at || 0) - new Date(a.created_at || 0));
 const additionalNews = [{
+  title: 'AP: linha do tempo reúne incidentes recentes de segurança envolvendo agentes de IA',
+  url: 'https://apnews.com/article/f590b51073d8977a984c7c42b8f2a7a2',
+  publishedAt: '2026-10-10T16:41:38Z',
+  source: 'Associated Press · reportagem',
+  editorialNote: 'A AP reúne episódios reportados, incluindo um falso aviso enviado por um modelo da Anthropic a um portal policial. A matéria também registra críticas de especialistas que atribuem parte dos casos a falhas de segurança e controle; não prova que agentes tenham consciência ou intenção própria.'
+}, {
+  title: 'Meu agente pessoal publicou dados bancários no Slack da empresa',
+  url: 'https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10',
+  objectID: '50033517',
+  publishedAt: '2026-10-10T14:46:16Z',
+  source: 'Business Insider · relato do usuário; discussão no Hacker News',
+  editorialNote: 'Relato publicado pelo próprio usuário à Business Insider: o agente confundiu dois canais de Slack com nome semelhante após receber acesso a dados financeiros pessoais e ao Slack corporativo. No Hacker News, a discussão contrapõe erro de configuração/segregação com riscos de permissões e persistência. Não é auditoria independente nem prova de intenção autônoma do modelo.'
+}, {
   title: 'Axios: empresas de IA simulam cenários de crise e reação pública após um possível grande incidente',
   url: 'https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack',
   publishedAt: '2026-10-09',
