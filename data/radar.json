@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T20:01:01.445Z",
-  "generatedLabel": "12 de out. de 2026 · 17:00",
+  "generatedAt": "2026-10-12T23:00:54.795Z",
+  "generatedLabel": "12 de out. de 2026 · 20:00",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,14 +85,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 149033,
-      "forks": 34489,
-      "issues": 316,
+      "stars": 154206,
+      "forks": 35490,
+      "issues": 365,
       "language": "TypeScript",
-      "pushedAt": "2026-10-12T19:54:57Z",
+      "pushedAt": "2026-10-12T22:57:06Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 45495,
-      "score": 90,
+      "score": 95,
       "social": [
         {
           "platform": "V2EX · fórum de desenvolvedores",
@@ -100,6 +100,14 @@
           "url": "https://staging.v2ex.com/t/1248041",
           "engagement": 18,
           "publishedAt": "2026-10-12T09:40:34Z",
+          "verifiedAt": "12 OUT 2026"
+        },
+        {
+          "platform": "Reddit",
+          "label": "r/tech_x · discussão pública do REA com 1.452 votos visíveis; comentários atualizados em 12 OUT incluem um teste relatado em quatro binários pequenos, sem permitir generalização para alvos maiores ou obfuscados",
+          "url": "https://www.reddit.com/r/tech_x/comments/1x2d66l/github_project_called_rea_reverse_engineer/",
+          "engagement": 1452,
+          "publishedAt": "2026-10-10",
           "verifiedAt": "12 OUT 2026"
         },
         {
@@ -140,7 +148,7 @@
           "verifiedAt": "07 OUT 2026"
         }
       ],
-      "socialStatus": "post promocional com alto engajamento não comprova alcance orgânico; há discussão independente recente no Reddit, sem votos visíveis; métricas nativas do vídeo pendentes",
+      "socialStatus": "post promocional não comprova alcance orgânico; há discussão independente recente com votos públicos, mas relato técnico é limitado e não generalizável; métricas nativas do vídeo pendentes",
       "sources": [
         {
           "label": "GitHub",
@@ -160,6 +168,11 @@
         {
           "label": "V2EX · fórum de desenvolvedores · Discussão recente sobre REA e limites éticos da engenharia reversa · página pública mostra 2.787 visualizações e 18 respostas · sinal de discussão, não validação independente do produto",
           "url": "https://staging.v2ex.com/t/1248041",
+          "kind": "social"
+        },
+        {
+          "label": "Reddit · r/tech_x · discussão pública do REA com 1.452 votos visíveis; comentários atualizados em 12 OUT incluem um teste relatado em quatro binários pequenos, sem permitir generalização para alvos maiores ou obfuscados",
+          "url": "https://www.reddit.com/r/tech_x/comments/1x2d66l/github_project_called_rea_reverse_engineer/",
           "kind": "social"
         },
         {
@@ -219,18 +232,18 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 52328,
-      "forks": 3301,
-      "issues": 51,
+      "stars": 52497,
+      "forks": 3317,
+      "issues": 48,
       "language": "HTML",
-      "pushedAt": "2026-10-12T19:44:55Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-10-12T20:17:52Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": 2100,
       "score": 89,
       "social": [
         {
           "platform": "X · menções indexadas pelo Trendshift",
-          "label": "Menções indexadas em 12 OUT descrevem diagramas de arquitetura em HTML/SVG para agentes; posts também apontam limite de edição manual; métricas por post não visíveis nesta coleta",
+          "label": "Posts de @goan999999, @Levi_J_Peng, @YuzhiyanLucian, @olojiang e @shanyanggm em 12 OUT discutem diagramas HTML/SVG e editabilidade; métricas por post não visíveis",
           "url": "https://trendshift.io/repositories/26141",
           "publishedAt": "2026-10-12",
           "verifiedAt": "12 OUT 2026"
@@ -265,7 +278,7 @@
           "kind": "tendência"
         },
         {
-          "label": "X · menções indexadas pelo Trendshift · Menções indexadas em 12 OUT descrevem diagramas de arquitetura em HTML/SVG para agentes; posts também apontam limite de edição manual; métricas por post não visíveis nesta coleta",
+          "label": "X · menções indexadas pelo Trendshift · Posts de @goan999999, @Levi_J_Peng, @YuzhiyanLucian, @olojiang e @shanyanggm em 12 OUT discutem diagramas HTML/SVG e editabilidade; métricas por post não visíveis",
           "url": "https://trendshift.io/repositories/26141",
           "kind": "social"
         },
@@ -311,9 +324,9 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/storytold/artcraft",
-      "stars": 21269,
-      "forks": 3451,
-      "issues": 259,
+      "stars": 21778,
+      "forks": 3528,
+      "issues": 266,
       "language": "Rust",
       "pushedAt": "2026-10-11T13:47:59Z",
       "pushedLabel": "push há 1d",
@@ -322,7 +335,7 @@
       "social": [
         {
           "platform": "X · menções indexadas pelo Trendshift",
-          "label": "Três posts indexados em 12 OUT sobre ArtCraft; referências públicas discutem controle criativo e alternativa a ferramentas tradicionais; métricas por post não visíveis",
+          "label": "Posts de @YuzhiyanLucian, @aigeeknews e @terrytsang811 em 12 OUT discutem controle criativo e alternativa a ferramentas tradicionais; métricas por post não visíveis",
           "url": "https://trendshift.io/repositories/19042",
           "publishedAt": "2026-10-12",
           "verifiedAt": "12 OUT 2026"
@@ -354,7 +367,7 @@
           "kind": "tendência"
         },
         {
-          "label": "X · menções indexadas pelo Trendshift · Três posts indexados em 12 OUT sobre ArtCraft; referências públicas discutem controle criativo e alternativa a ferramentas tradicionais; métricas por post não visíveis",
+          "label": "X · menções indexadas pelo Trendshift · Posts de @YuzhiyanLucian, @aigeeknews e @terrytsang811 em 12 OUT discutem controle criativo e alternativa a ferramentas tradicionais; métricas por post não visíveis",
           "url": "https://trendshift.io/repositories/19042",
           "kind": "social"
         },
@@ -392,7 +405,7 @@
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
       "hook": "Este repositório ganhou 886 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "AirLLM 70B inference with single 4GB GPU",
+      "thesis": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "broll": [
         "GitHub Trending",
         "README",
@@ -400,12 +413,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/lyogavin/airllm",
-      "stars": 37369,
-      "forks": 3860,
-      "issues": 161,
+      "stars": 37489,
+      "forks": 3869,
+      "issues": 162,
       "language": "Jupyter Notebook",
       "pushedAt": "2026-10-12T06:31:50Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 16h",
       "trendingStarsToday": 886,
       "score": 73,
       "social": [
@@ -467,12 +480,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mksglu/context-mode",
-      "stars": 27149,
-      "forks": 1938,
+      "stars": 27240,
+      "forks": 1941,
       "issues": 351,
       "language": "TypeScript",
       "pushedAt": "2026-10-12T18:05:18Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": 394,
       "score": 67,
       "social": [],
@@ -520,12 +533,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/open-webui/open-webui",
-      "stars": 154818,
-      "forks": 22630,
-      "issues": 169,
+      "stars": 154923,
+      "forks": 22637,
+      "issues": 172,
       "language": "Python",
-      "pushedAt": "2026-10-12T19:59:22Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-10-12T22:13:08Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 142,
       "score": 63,
       "social": [],
@@ -573,12 +586,12 @@
         "discussão no Hacker News com pontos e comentários"
       ],
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "stars": 663,
+      "stars": 669,
       "forks": 16,
       "issues": 1,
       "language": "Swift",
       "pushedAt": "2026-10-12T16:38:15Z",
-      "pushedLabel": "push há 3h",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": null,
       "score": 55,
       "social": [
@@ -635,12 +648,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27970,
-      "forks": 2722,
+      "stars": 28055,
+      "forks": 2729,
       "issues": 903,
       "language": "TypeScript",
       "pushedAt": "2026-10-12T09:06:27Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 14h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -682,12 +695,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 96538,
+      "stars": 96571,
       "forks": 8452,
       "issues": 208,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
-      "pushedLabel": "push há 4d",
+      "pushedLabel": "push há 5d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -748,22 +761,33 @@
   ],
   "news": [
     {
+      "title": "Why aren't AI companies being charged for hacking?",
+      "url": "https://news.ycombinator.com/item?id=50057278",
+      "relatedUrl": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+      "points": 307,
+      "comments": 321,
+      "publishedAt": "2026-10-12T14:52:37Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "AI coding agents generate more code, but not more software",
       "url": "https://news.ycombinator.com/item?id=50059523",
       "relatedUrl": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "points": 171,
-      "comments": 135,
+      "points": 284,
+      "comments": 239,
       "publishedAt": "2026-10-12T17:14:01Z",
-      "source": "Hacker News official API"
+      "source": "Hacker News official API",
+      "editorialNote": "A conversa no Hacker News começou em 12 OUT; a matéria original da Ars Technica é de 09 OUT. Tratar como discussão reacendida, não como notícia publicada hoje."
     },
     {
       "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
       "url": "https://news.ycombinator.com/item?id=50039092",
       "relatedUrl": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "points": 206,
+      "points": 207,
       "comments": 149,
       "publishedAt": "2026-10-11T02:02:38Z",
-      "source": "Hacker News official API"
+      "source": "Hacker News official API",
+      "editorialNote": "O post no Hacker News é recente, mas a publicação original do autor é de 09 OUT. Os pontos medem a conversa atual; não a data da descoberta nem a precisão geral do método."
     },
     {
       "title": "AI agents in a stand-up call",
@@ -790,15 +814,6 @@
       "points": 6,
       "comments": 4,
       "publishedAt": "2026-10-11T02:41:19Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
-      "url": "https://news.ycombinator.com/item?id=50039633",
-      "relatedUrl": "https://github.com/vscarpenter/gsd-task-manager",
-      "points": 7,
-      "comments": 3,
-      "publishedAt": "2026-10-11T03:42:56Z",
       "source": "Hacker News official API"
     }
   ],
@@ -854,12 +869,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27970,
-      "forks": 2722,
+      "stars": 28055,
+      "forks": 2729,
       "issues": 903,
       "language": "TypeScript",
       "pushedAt": "2026-10-12T09:06:27Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 14h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -901,12 +916,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 96538,
+      "stars": 96571,
       "forks": 8452,
       "issues": 208,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
-      "pushedLabel": "push há 4d",
+      "pushedLabel": "push há 5d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
