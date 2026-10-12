@@ -139,7 +139,7 @@ const socialReferences = {
   'coreyhaines31/marketingskills': [{ platform: 'YouTube', label: 'The Next New Thing · skills para Claude · 53,4k views · publicado 11 FEV', url: 'https://www.youtube.com/watch?v=YajqB9RDdzI', views: 53450, publishedAt: '2026-02-11', verifiedAt: '08 SET 2026' }],
   'jo-inc/camofox-browser': [{ platform: 'YouTube', label: 'Build Things With AI · CamoFox entre repos em alta · 1,8k views · publicado 02 MAI', url: 'https://www.youtube.com/watch?v=Hs-xdoaGH5o', views: 1855, publishedAt: '2026-05-02', verifiedAt: '07 SET 2026' }],
   'cathrynlavery/diagram-design': [
-    { platform: 'X · menções indexadas pelo Trendshift', label: 'Três posts de 10 OUT; descrevem o recurso de diagramas para agentes e incluem crítica à consistência/editabilidade; métricas por post não visíveis nesta coleta', url: 'https://trendshift.io/repositories/26141', publishedAt: '2026-10-10', verifiedAt: '11 OUT 2026' },
+    { platform: 'X · menções indexadas pelo Trendshift', label: 'Menções indexadas em 12 OUT descrevem diagramas de arquitetura em HTML/SVG para agentes; posts também apontam limite de edição manual; métricas por post não visíveis nesta coleta', url: 'https://trendshift.io/repositories/26141', publishedAt: '2026-10-12', verifiedAt: '12 OUT 2026' },
     { platform: 'Reddit', label: 'r/BestGitHubRepos · post direto apresenta tipos de diagramas editoriais e compatibilidade com agentes · 57 votos públicos · publicado 07 OUT', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1wzu0gm/diagram_design_editorial_diagrams_your_designer/', engagement: 57, publishedAt: '2026-10-07', verifiedAt: '09 OUT 2026' },
     { platform: 'YouTube', label: 'YAHA · Diagram Design em primeiro no GitHub · 20,9k views · publicado 03 SET · referência histórica', url: 'https://www.youtube.com/watch?v=rq4EHbqaaAk', views: 20919, publishedAt: '2026-09-03', verifiedAt: '08 SET 2026' },
   ],
@@ -374,7 +374,20 @@ function newsTokens(title) {
 }
 function uniqueNews(items) {
   const kept = [];
+  const seenStories = new Set();
   for (const item of items) {
+    const sourceUrl = item.url || item.story_url || '';
+    const hnId = item.objectID || sourceUrl.match(/(?:news\.ycombinator\.com\/item\?id=|item\?id=)(\d+)/)?.[1];
+    let storyKey = hnId ? `hn:${hnId}` : '';
+    if (!storyKey && sourceUrl) {
+      try {
+        const parsed = new URL(sourceUrl);
+        storyKey = `${parsed.hostname.replace(/^www\./, '').toLowerCase()}${parsed.pathname.replace(/\/$/, '')}`;
+      } catch {
+        storyKey = sourceUrl.split(/[?#]/, 1)[0].toLowerCase();
+      }
+    }
+    if (storyKey && seenStories.has(storyKey)) continue;
     const tokens = newsTokens(item.title || item.story_title);
     const duplicate = kept.some((other) => {
       const prior = newsTokens(other.title || other.story_title);
@@ -382,7 +395,10 @@ function uniqueNews(items) {
       const shared = [...tokens].filter((word) => prior.has(word)).length;
       return shared / Math.min(tokens.size, prior.size) >= 0.7;
     });
-    if (!duplicate) kept.push(item);
+    if (!duplicate) {
+      kept.push(item);
+      if (storyKey) seenStories.add(storyKey);
+    }
     if (kept.length >= 6) break;
   }
   return kept;

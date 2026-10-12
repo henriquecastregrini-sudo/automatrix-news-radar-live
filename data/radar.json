@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T02:13:05.990Z",
-  "generatedLabel": "11 de out. de 2026 · 23:13",
+  "generatedAt": "2026-10-12T11:01:25.747Z",
+  "generatedLabel": "12 de out. de 2026 · 08:01",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,11 +85,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 108422,
-      "forks": 24023,
-      "issues": 161,
+      "stars": 129859,
+      "forks": 29049,
+      "issues": 238,
       "language": "TypeScript",
-      "pushedAt": "2026-10-12T02:10:51Z",
+      "pushedAt": "2026-10-12T10:51:48Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 25599,
       "score": 93,
@@ -206,21 +206,21 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 50480,
-      "forks": 3206,
+      "stars": 51537,
+      "forks": 3254,
       "issues": 87,
       "language": "HTML",
       "pushedAt": "2026-10-10T21:10:14Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": 1083,
       "score": 87,
       "social": [
         {
           "platform": "X · menções indexadas pelo Trendshift",
-          "label": "Três posts de 10 OUT; descrevem o recurso de diagramas para agentes e incluem crítica à consistência/editabilidade; métricas por post não visíveis nesta coleta",
+          "label": "Menções indexadas em 12 OUT descrevem diagramas de arquitetura em HTML/SVG para agentes; posts também apontam limite de edição manual; métricas por post não visíveis nesta coleta",
           "url": "https://trendshift.io/repositories/26141",
-          "publishedAt": "2026-10-10",
-          "verifiedAt": "11 OUT 2026"
+          "publishedAt": "2026-10-12",
+          "verifiedAt": "12 OUT 2026"
         },
         {
           "platform": "Reddit",
@@ -252,7 +252,7 @@
           "kind": "tendência"
         },
         {
-          "label": "X · menções indexadas pelo Trendshift · Três posts de 10 OUT; descrevem o recurso de diagramas para agentes e incluem crítica à consistência/editabilidade; métricas por post não visíveis nesta coleta",
+          "label": "X · menções indexadas pelo Trendshift · Menções indexadas em 12 OUT descrevem diagramas de arquitetura em HTML/SVG para agentes; posts também apontam limite de edição manual; métricas por post não visíveis nesta coleta",
           "url": "https://trendshift.io/repositories/26141",
           "kind": "social"
         },
@@ -298,12 +298,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/storytold/artcraft",
-      "stars": 18164,
-      "forks": 2970,
-      "issues": 229,
+      "stars": 19759,
+      "forks": 3210,
+      "issues": 240,
       "language": "Rust",
       "pushedAt": "2026-10-11T13:47:59Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 21h",
       "trendingStarsToday": 2957,
       "score": 75,
       "social": [
@@ -375,12 +375,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/lyogavin/airllm",
-      "stars": 36547,
-      "forks": 3820,
-      "issues": 160,
+      "stars": 36950,
+      "forks": 3840,
+      "issues": 161,
       "language": "Jupyter Notebook",
-      "pushedAt": "2026-10-11T06:19:49Z",
-      "pushedLabel": "push há 20h",
+      "pushedAt": "2026-10-12T06:31:50Z",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": 548,
       "score": 69,
       "social": [],
@@ -428,14 +428,14 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 286329,
-      "forks": 24025,
-      "issues": 167,
+      "stars": 287115,
+      "forks": 24089,
+      "issues": 163,
       "language": "Shell",
-      "pushedAt": "2026-10-09T10:57:08Z",
-      "pushedLabel": "push há 3d",
+      "pushedAt": "2026-10-12T08:46:48Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": null,
-      "score": 58,
+      "score": 65,
       "social": [
         {
           "platform": "YouTube · métrica via espelho",
@@ -530,69 +530,6 @@
       "rank": 5
     },
     {
-      "repo": "franzenzenhofer/big-arrow-on-the-screen",
-      "title": "Agentes que desenham na sua tela",
-      "type": "Agente visual para desktop",
-      "status": "Gravar agora",
-      "hook": "E se a IA não só dissesse onde clicar — mas desenhasse a seta na sua tela?",
-      "thesis": "A interface visual pode virar uma ferramenta direta de agentes: marcações transitórias no desktop tornam instruções mais fáceis de seguir e renderizar em vídeo.",
-      "broll": [
-        "demonstração do CLI desenhando setas e caixas",
-        "README e instalação",
-        "permissão de tela no macOS",
-        "discussão no Hacker News com pontos e comentários"
-      ],
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "stars": 629,
-      "forks": 13,
-      "issues": null,
-      "language": "Swift",
-      "pushedAt": "2026-10-10T10:59:51Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": null,
-      "score": 55,
-      "social": [
-        {
-          "platform": "Hacker News",
-          "label": "Show HN · agentes desenham setas, caixas e texto na tela · 361 pontos e 160 comentários na API oficial; post publicado 09 OUT",
-          "url": "https://news.ycombinator.com/item?id=50018817",
-          "engagement": 361,
-          "comments": 160,
-          "publishedAt": "2026-10-09T11:03:48Z",
-          "verifiedAt": "09 OUT 2026"
-        }
-      ],
-      "socialStatus": "referência recente verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-          "kind": "oficial"
-        },
-        {
-          "label": "Hacker News · Show HN · agentes desenham setas, caixas e texto na tela · 361 pontos e 160 comentários na API oficial; post publicado 09 OUT",
-          "url": "https://news.ycombinator.com/item?id=50018817",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=franzenzenhofer%20big-arrow-on-the-screen%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Agentes%20que%20desenham%20na%20sua%20tela%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Agentes%20que%20desenham%20na%20sua%20tela%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 6
-    },
-    {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
       "type": "Memória de agentes",
       "status": "Usar como comparação",
@@ -605,12 +542,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27928,
-      "forks": 2718,
-      "issues": 908,
+      "stars": 27945,
+      "forks": 2720,
+      "issues": 903,
       "language": "TypeScript",
-      "pushedAt": "2026-10-10T02:31:39Z",
-      "pushedLabel": "push há 2d",
+      "pushedAt": "2026-10-12T09:06:27Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -637,7 +574,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 6
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -652,9 +589,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 96060,
-      "forks": 8413,
-      "issues": 207,
+      "stars": 96367,
+      "forks": 8432,
+      "issues": 208,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
       "pushedLabel": "push há 4d",
@@ -713,7 +650,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 7
     }
   ],
   "news": [
@@ -721,9 +658,36 @@
       "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
       "url": "https://news.ycombinator.com/item?id=50039092",
       "relatedUrl": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "points": 166,
-      "comments": 115,
+      "points": 198,
+      "comments": 140,
       "publishedAt": "2026-10-11T02:02:38Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "AI agents in a stand-up call",
+      "url": "https://news.ycombinator.com/item?id=50039630",
+      "relatedUrl": "https://atoll92.github.io/agent-standup/",
+      "points": 48,
+      "comments": 50,
+      "publishedAt": "2026-10-11T03:42:47Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+      "url": "https://news.ycombinator.com/item?id=50049388",
+      "relatedUrl": "https://github.com/plimsollmark/plimsoll",
+      "points": 15,
+      "comments": 3,
+      "publishedAt": "2026-10-11T23:47:59Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "url": "https://news.ycombinator.com/item?id=50039318",
+      "relatedUrl": "https://www.bbc.com/news/articles/cqkg50j1yd5lo",
+      "points": 6,
+      "comments": 4,
+      "publishedAt": "2026-10-11T02:41:19Z",
       "source": "Hacker News official API"
     },
     {
@@ -744,33 +708,6 @@
       "publishedAt": "2026-10-10T14:46:16Z",
       "source": "Hacker News official API",
       "editorialNote": "Relato publicado pelo próprio usuário à Business Insider: o agente confundiu dois canais de Slack com nome semelhante após receber acesso a dados financeiros pessoais e ao Slack corporativo. No Hacker News, a discussão contrapõe erro de configuração/segregação com riscos de permissões e persistência. Não é auditoria independente nem prova de intenção autônoma do modelo."
-    },
-    {
-      "title": "AP: líderes de IA defendem autorregulação enquanto crescem dúvidas sobre segurança e fiscalização",
-      "url": "https://apnews.com/article/ai-safety-openai-tech-week-32064fde8ad68c68f71d82336f7db525",
-      "points": null,
-      "comments": null,
-      "publishedAt": "2026-10-10T07:42:47Z",
-      "source": "Associated Press · reportagem",
-      "editorialNote": "A AP relata que líderes e investidores de IA em eventos de San Francisco apoiaram a abordagem de autorregulação após um pacto voluntário da Casa Branca. O acordo citado tem 308 palavras e não detalha como prevenir danos; isso é a análise reportada pela AP, não uma norma obrigatória nem consenso de toda a indústria."
-    },
-    {
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "url": "https://news.ycombinator.com/item?id=50031614",
-      "relatedUrl": "https://github.com/rociiu/talorys",
-      "points": 321,
-      "comments": 150,
-      "publishedAt": "2026-10-10T10:52:09Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "There's little that's \"inevitable\" about AI",
-      "url": "https://news.ycombinator.com/item?id=50032064",
-      "relatedUrl": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-      "points": 40,
-      "comments": 97,
-      "publishedAt": "2026-10-10T12:04:04Z",
-      "source": "Hacker News official API"
     }
   ],
   "trending": [
@@ -821,12 +758,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27928,
-      "forks": 2718,
-      "issues": 908,
+      "stars": 27945,
+      "forks": 2720,
+      "issues": 903,
       "language": "TypeScript",
-      "pushedAt": "2026-10-10T02:31:39Z",
-      "pushedLabel": "push há 2d",
+      "pushedAt": "2026-10-12T09:06:27Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -853,7 +790,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 6
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -868,9 +805,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 96060,
-      "forks": 8413,
-      "issues": 207,
+      "stars": 96367,
+      "forks": 8432,
+      "issues": 208,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
       "pushedLabel": "push há 4d",
@@ -929,7 +866,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 7
     }
   ]
 }
