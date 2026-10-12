@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T11:01:25.747Z",
-  "generatedLabel": "12 de out. de 2026 · 08:01",
+  "generatedAt": "2026-10-12T17:04:19.996Z",
+  "generatedLabel": "12 de out. de 2026 · 14:04",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -76,7 +76,7 @@
       "title": "rea",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 25,6 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 45,5 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "broll": [
         "GitHub Trending",
@@ -85,15 +85,23 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 129859,
-      "forks": 29049,
-      "issues": 238,
+      "stars": 143710,
+      "forks": 33188,
+      "issues": 286,
       "language": "TypeScript",
-      "pushedAt": "2026-10-12T10:51:48Z",
+      "pushedAt": "2026-10-12T17:03:51Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 25599,
-      "score": 93,
+      "trendingStarsToday": 45495,
+      "score": 90,
       "social": [
+        {
+          "platform": "V2EX · fórum de desenvolvedores",
+          "label": "Discussão recente sobre REA e limites éticos da engenharia reversa · página pública mostra 2.787 visualizações e 18 respostas · sinal de discussão, não validação independente do produto",
+          "url": "https://staging.v2ex.com/t/1248041",
+          "engagement": 18,
+          "publishedAt": "2026-10-12T09:40:34Z",
+          "verifiedAt": "12 OUT 2026"
+        },
         {
           "platform": "YouTube · espelhos com métricas divergentes",
           "label": "Rob Shocks · demonstração independente do REA em app compilado; dois espelhos consultados exibem contagens diferentes e a página nativa do YouTube não foi confirmada, então métricas quantitativas foram excluídas; há segmento patrocinado separado",
@@ -140,7 +148,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 25,6 mil stars hoje",
+          "label": "GitHub Trending · 45,5 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -148,6 +156,11 @@
           "label": "Kingy AI · teste técnico limitado: recurso de exportação CSV de um app Electron passou em 14/14 casos declarados; não generalizar para outras classes de software",
           "url": "https://kingy.ai/blog/reverse-engineer-anything-ai-rea-guide/",
           "kind": "teste independente"
+        },
+        {
+          "label": "V2EX · fórum de desenvolvedores · Discussão recente sobre REA e limites éticos da engenharia reversa · página pública mostra 2.787 visualizações e 18 respostas · sinal de discussão, não validação independente do produto",
+          "url": "https://staging.v2ex.com/t/1248041",
+          "kind": "social"
         },
         {
           "label": "YouTube · espelhos com métricas divergentes · Rob Shocks · demonstração independente do REA em app compilado; dois espelhos consultados exibem contagens diferentes e a página nativa do YouTube não foi confirmada, então métricas quantitativas foram excluídas; há segmento patrocinado separado",
@@ -206,14 +219,14 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 51537,
-      "forks": 3254,
-      "issues": 87,
+      "stars": 52139,
+      "forks": 3283,
+      "issues": 60,
       "language": "HTML",
-      "pushedAt": "2026-10-10T21:10:14Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 1083,
-      "score": 87,
+      "pushedAt": "2026-10-12T17:01:55Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 2100,
+      "score": 89,
       "social": [
         {
           "platform": "X · menções indexadas pelo Trendshift",
@@ -247,7 +260,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,1 mil stars hoje",
+          "label": "GitHub Trending · 2,1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -289,7 +302,7 @@
       "title": "artcraft",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 3 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 4,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "broll": [
         "GitHub Trending",
@@ -298,15 +311,22 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/storytold/artcraft",
-      "stars": 19759,
-      "forks": 3210,
-      "issues": 240,
+      "stars": 20774,
+      "forks": 3363,
+      "issues": 253,
       "language": "Rust",
       "pushedAt": "2026-10-11T13:47:59Z",
-      "pushedLabel": "push há 21h",
-      "trendingStarsToday": 2957,
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 4106,
       "score": 75,
       "social": [
+        {
+          "platform": "X · menções indexadas pelo Trendshift",
+          "label": "Três posts indexados em 12 OUT sobre ArtCraft; referências públicas discutem controle criativo e alternativa a ferramentas tradicionais; métricas por post não visíveis",
+          "url": "https://trendshift.io/repositories/19042",
+          "publishedAt": "2026-10-12",
+          "verifiedAt": "12 OUT 2026"
+        },
         {
           "platform": "TikTok (espelho)",
           "label": "@quickfinesse · vídeo sobre a família ArtCraft e comparação com aplicativos da Adobe; publicado 03 OUT, comentários visíveis até 08 OUT; contadores do espelho sem rótulos confirmados, fora da janela de sinal recente e não contabilizados; validar no TikTok nativo",
@@ -321,7 +341,7 @@
           "verifiedAt": "08 OUT 2026"
         }
       ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
+      "socialStatus": "referência social recente — métrica direta precisa verificação",
       "sources": [
         {
           "label": "GitHub",
@@ -329,9 +349,14 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 3 mil stars hoje",
+          "label": "GitHub Trending · 4,1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
+        },
+        {
+          "label": "X · menções indexadas pelo Trendshift · Três posts indexados em 12 OUT sobre ArtCraft; referências públicas discutem controle criativo e alternativa a ferramentas tradicionais; métricas por post não visíveis",
+          "url": "https://trendshift.io/repositories/19042",
+          "kind": "social"
         },
         {
           "label": "TikTok (espelho) · @quickfinesse · vídeo sobre a família ArtCraft e comparação com aplicativos da Adobe; publicado 03 OUT, comentários visíveis até 08 OUT; contadores do espelho sem rótulos confirmados, fora da janela de sinal recente e não contabilizados; validar no TikTok nativo",
@@ -366,7 +391,7 @@
       "title": "airllm",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 548 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 886 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "AirLLM 70B inference with single 4GB GPU",
       "broll": [
         "GitHub Trending",
@@ -375,16 +400,25 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/lyogavin/airllm",
-      "stars": 36950,
-      "forks": 3840,
+      "stars": 37258,
+      "forks": 3856,
       "issues": 161,
       "language": "Jupyter Notebook",
       "pushedAt": "2026-10-12T06:31:50Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 548,
-      "score": 69,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "pushedLabel": "push há 11h",
+      "trendingStarsToday": 886,
+      "score": 73,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/BestGitHubRepos · showcase promocional afirma inferência de 70B em GPU de 4 GB · 11 votos públicos no momento da checagem; alcance orgânico ainda não corroborado",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1x3zd1a/airllm_70b_inference_with_single_4gb_gpu_368k/",
+          "engagement": 11,
+          "publishedAt": "2026-10-12",
+          "verifiedAt": "12 OUT 2026"
+        }
+      ],
+      "socialStatus": "post promocional com baixa interação verificada; repercussão orgânica não corroborada",
       "sources": [
         {
           "label": "GitHub",
@@ -392,9 +426,14 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 548 stars hoje",
+          "label": "GitHub Trending · 886 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/BestGitHubRepos · showcase promocional afirma inferência de 70B em GPU de 4 GB · 11 votos públicos no momento da checagem; alcance orgânico ainda não corroborado",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1x3zd1a/airllm_70b_inference_with_single_4gb_gpu_368k/",
+          "kind": "social"
         },
         {
           "label": "Buscar YouTube",
@@ -415,119 +454,173 @@
       "rank": 4
     },
     {
-      "repo": "mattpocock/skills",
-      "title": "Skills para agentes",
-      "type": "Skills para agentes",
-      "status": "Gravar agora",
-      "hook": "O jeito de programar com IA mudou: quem ainda usa só prompt está ficando para trás.",
-      "thesis": "Conhecimento de engenharia virou infraestrutura reutilizável para agentes.",
+      "repo": "mksglu/context-mode",
+      "title": "context-mode",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 394 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "broll": [
-        "README",
-        "diretório .agents",
         "GitHub Trending",
-        "vídeo do criador"
+        "README",
+        "demo oficial",
+        "histórico do projeto"
       ],
-      "url": "https://github.com/mattpocock/skills",
-      "stars": 287115,
-      "forks": 24089,
-      "issues": 163,
-      "language": "Shell",
-      "pushedAt": "2026-10-12T08:46:48Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": null,
-      "score": 65,
-      "social": [
-        {
-          "platform": "YouTube · métrica via espelho",
-          "label": "Matt Pocock · lançamento skills v1.3 (/pr, /implement-spec, /retro) · 214,1k views e 3,6k likes exibidos por espelho em 08 OUT; página nativa do YouTube limitou a verificação",
-          "url": "https://www.youtube.com/watch?v=BsJGo1wFTvQ",
-          "views": 214144,
-          "likes": 3600,
-          "publishedAt": "2026-10-05",
-          "verifiedAt": "08 OUT 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/claudeskills · usuários comparam Matt Pocock, Superpowers e OpenSpec; discussão sobre utilidade vs. custo de contexto · 85 votos públicos · publicado 03 OUT",
-          "url": "https://www.reddit.com/r/claudeskills/comments/1wwqyom/matt_pocock_superpowers_openspec_do_you_pick_one/",
-          "engagement": 85,
-          "publishedAt": "2026-10-03",
-          "verifiedAt": "07 OUT 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/AgentSkills · comparação de packs de skills que inclui mattpocock/skills · 105 votos públicos · publicado 05 SET",
-          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
-          "engagement": 105,
-          "publishedAt": "2026-09-05",
-          "verifiedAt": "01 OUT 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/ClaudeAI · skills com subagentes especialistas · 3 votos públicos · publicado 23 SET",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnszxk/matt_pococks_skills_my_own_specialist_subagents/",
-          "engagement": 3,
-          "publishedAt": "2026-09-23",
-          "verifiedAt": "25 SET 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "Matt Pocock · workflow completo · 424k views · publicado 16 JUL",
-          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
-          "views": 424060,
-          "publishedAt": "2026-07-16",
-          "verifiedAt": "07 SET 2026"
-        }
-      ],
-      "socialStatus": "métrica social via espelho; checagem nativa pendente",
+      "url": "https://github.com/mksglu/context-mode",
+      "stars": 27026,
+      "forks": 1935,
+      "issues": 349,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-12T12:10:33Z",
+      "pushedLabel": "push há 5h",
+      "trendingStarsToday": 394,
+      "score": 67,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/mattpocock/skills",
+          "url": "https://github.com/mksglu/context-mode",
           "kind": "oficial"
         },
         {
-          "label": "YouTube · métrica via espelho · Matt Pocock · lançamento skills v1.3 (/pr, /implement-spec, /retro) · 214,1k views e 3,6k likes exibidos por espelho em 08 OUT; página nativa do YouTube limitou a verificação",
-          "url": "https://www.youtube.com/watch?v=BsJGo1wFTvQ",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/claudeskills · usuários comparam Matt Pocock, Superpowers e OpenSpec; discussão sobre utilidade vs. custo de contexto · 85 votos públicos · publicado 03 OUT",
-          "url": "https://www.reddit.com/r/claudeskills/comments/1wwqyom/matt_pocock_superpowers_openspec_do_you_pick_one/",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/AgentSkills · comparação de packs de skills que inclui mattpocock/skills · 105 votos públicos · publicado 05 SET",
-          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/ClaudeAI · skills com subagentes especialistas · 3 votos públicos · publicado 23 SET",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnszxk/matt_pococks_skills_my_own_specialist_subagents/",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · Matt Pocock · workflow completo · 424k views · publicado 16 JUL",
-          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
-          "kind": "social"
+          "label": "GitHub Trending · 394 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=mattpocock%20skills%20AI",
+          "url": "https://www.youtube.com/results?search_query=mksglu%20context-mode%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Skills%20para%20agentes%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=context-mode%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Skills%20para%20agentes%20AI",
+          "url": "https://www.tiktok.com/search?q=context-mode%20AI",
           "kind": "busca"
         }
       ],
       "rank": 5
+    },
+    {
+      "repo": "open-webui/open-webui",
+      "title": "open-webui",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 142 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/open-webui/open-webui",
+      "stars": 154690,
+      "forks": 22624,
+      "issues": 171,
+      "language": "Python",
+      "pushedAt": "2026-10-12T15:24:54Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 142,
+      "score": 63,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/open-webui/open-webui",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 142 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=open-webui%20open-webui%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=open-webui%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=open-webui%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "repo": "franzenzenhofer/big-arrow-on-the-screen",
+      "title": "Agentes que desenham na sua tela",
+      "type": "Agente visual para desktop",
+      "status": "Gravar agora",
+      "hook": "E se a IA não só dissesse onde clicar — mas desenhasse a seta na sua tela?",
+      "thesis": "A interface visual pode virar uma ferramenta direta de agentes: marcações transitórias no desktop tornam instruções mais fáceis de seguir e renderizar em vídeo.",
+      "broll": [
+        "demonstração do CLI desenhando setas e caixas",
+        "README e instalação",
+        "permissão de tela no macOS",
+        "discussão no Hacker News com pontos e comentários"
+      ],
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "stars": 659,
+      "forks": 16,
+      "issues": 1,
+      "language": "Swift",
+      "pushedAt": "2026-10-12T16:38:15Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": null,
+      "score": 55,
+      "social": [
+        {
+          "platform": "Hacker News",
+          "label": "Show HN · agentes desenham setas, caixas e texto na tela · 361 pontos e 160 comentários na API oficial; post publicado 09 OUT",
+          "url": "https://news.ycombinator.com/item?id=50018817",
+          "engagement": 361,
+          "comments": 160,
+          "publishedAt": "2026-10-09T11:03:48Z",
+          "verifiedAt": "09 OUT 2026"
+        }
+      ],
+      "socialStatus": "referência recente verificada",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+          "kind": "oficial"
+        },
+        {
+          "label": "Hacker News · Show HN · agentes desenham setas, caixas e texto na tela · 361 pontos e 160 comentários na API oficial; post publicado 09 OUT",
+          "url": "https://news.ycombinator.com/item?id=50018817",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=franzenzenhofer%20big-arrow-on-the-screen%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Agentes%20que%20desenham%20na%20sua%20tela%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Agentes%20que%20desenham%20na%20sua%20tela%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 7
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -542,12 +635,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27945,
-      "forks": 2720,
+      "stars": 27955,
+      "forks": 2721,
       "issues": 903,
       "language": "TypeScript",
       "pushedAt": "2026-10-12T09:06:27Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 8h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -574,7 +667,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 8
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -589,8 +682,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 96367,
-      "forks": 8432,
+      "stars": 96490,
+      "forks": 8447,
       "issues": 208,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
@@ -650,16 +743,34 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 9
     }
   ],
   "news": [
     {
+      "title": "Why aren't AI companies being charged for hacking?",
+      "url": "https://news.ycombinator.com/item?id=50057278",
+      "relatedUrl": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+      "points": 263,
+      "comments": 256,
+      "publishedAt": "2026-10-12T14:52:37Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
+      "url": "https://news.ycombinator.com/item?id=50058507",
+      "relatedUrl": "https://z.ai/blog/glm-legal",
+      "points": 100,
+      "comments": 56,
+      "publishedAt": "2026-10-12T16:11:45Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
       "url": "https://news.ycombinator.com/item?id=50039092",
       "relatedUrl": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "points": 198,
-      "comments": 140,
+      "points": 204,
+      "comments": 144,
       "publishedAt": "2026-10-11T02:02:38Z",
       "source": "Hacker News official API"
     },
@@ -689,59 +800,44 @@
       "comments": 4,
       "publishedAt": "2026-10-11T02:41:19Z",
       "source": "Hacker News official API"
-    },
-    {
-      "title": "AP: linha do tempo reúne incidentes recentes de segurança envolvendo agentes de IA",
-      "url": "https://apnews.com/article/f590b51073d8977a984c7c42b8f2a7a2",
-      "points": null,
-      "comments": null,
-      "publishedAt": "2026-10-10T16:41:38Z",
-      "source": "Associated Press · reportagem",
-      "editorialNote": "A AP reúne episódios reportados, incluindo um falso aviso enviado por um modelo da Anthropic a um portal policial. A matéria também registra críticas de especialistas que atribuem parte dos casos a falhas de segurança e controle; não prova que agentes tenham consciência ou intenção própria."
-    },
-    {
-      "title": "Meu agente pessoal publicou dados bancários no Slack da empresa",
-      "url": "https://news.ycombinator.com/item?id=50033517",
-      "relatedUrl": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
-      "points": 63,
-      "comments": 68,
-      "publishedAt": "2026-10-10T14:46:16Z",
-      "source": "Hacker News official API",
-      "editorialNote": "Relato publicado pelo próprio usuário à Business Insider: o agente confundiu dois canais de Slack com nome semelhante após receber acesso a dados financeiros pessoais e ao Slack corporativo. No Hacker News, a discussão contrapõe erro de configuração/segregação com riscos de permissões e persistência. Não é auditoria independente nem prova de intenção autônoma do modelo."
     }
   ],
   "trending": [
     {
       "repo": "morluto/rea",
-      "starsToday": 25599
-    },
-    {
-      "repo": "boykopovar/AnyPS5",
-      "starsToday": 3952
-    },
-    {
-      "repo": "storytold/artcraft",
-      "starsToday": 2957
-    },
-    {
-      "repo": "cathrynlavery/diagram-design",
-      "starsToday": 1083
+      "starsToday": 45495
     },
     {
       "repo": "bilawalsidhu/gods-eye-view",
-      "starsToday": 886
+      "starsToday": 1903
     },
     {
-      "repo": "pytorch/pytorch",
-      "starsToday": 315
+      "repo": "mksglu/context-mode",
+      "starsToday": 394
+    },
+    {
+      "repo": "storytold/artcraft",
+      "starsToday": 4106
+    },
+    {
+      "repo": "open-webui/open-webui",
+      "starsToday": 142
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "starsToday": 2100
     },
     {
       "repo": "lyogavin/airllm",
-      "starsToday": 548
+      "starsToday": 886
     },
     {
-      "repo": "chrislgarry/Apollo-11",
-      "starsToday": 466
+      "repo": "microsoft/BitNet",
+      "starsToday": 134
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "starsToday": 705
     }
   ],
   "monitored": [
@@ -758,12 +854,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27945,
-      "forks": 2720,
+      "stars": 27955,
+      "forks": 2721,
       "issues": 903,
       "language": "TypeScript",
       "pushedAt": "2026-10-12T09:06:27Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 8h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -790,7 +886,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 8
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -805,8 +901,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 96367,
-      "forks": 8432,
+      "stars": 96490,
+      "forks": 8447,
       "issues": 208,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
@@ -866,7 +962,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 9
     }
   ]
 }

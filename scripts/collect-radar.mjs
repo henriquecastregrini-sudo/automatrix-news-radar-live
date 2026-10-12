@@ -183,6 +183,7 @@ const socialReferences = {
   'magnitudedev/magnitude': [],
   'K-Dense-AI/scientific-agent-skills': [{ platform: 'YouTube', label: 'K-Dense · skills científicas · 13,5k views · publicado 18 FEV', url: 'https://www.youtube.com/watch?v=ZxbnDaD_FVg', views: 13534, publishedAt: '2026-02-18', verifiedAt: '07 SET 2026' }],
   'morluto/rea': [
+    { platform: 'V2EX · fórum de desenvolvedores', label: 'Discussão recente sobre REA e limites éticos da engenharia reversa · página pública mostra 2.787 visualizações e 18 respostas · sinal de discussão, não validação independente do produto', url: 'https://staging.v2ex.com/t/1248041', engagement: 18, publishedAt: '2026-10-12T09:40:34Z', verifiedAt: '12 OUT 2026' },
     { platform: 'YouTube · espelhos com métricas divergentes', label: 'Rob Shocks · demonstração independente do REA em app compilado; dois espelhos consultados exibem contagens diferentes e a página nativa do YouTube não foi confirmada, então métricas quantitativas foram excluídas; há segmento patrocinado separado', url: 'https://www.youtube.com/watch?v=OMobTlfjb8s', publishedAt: '2026-10-09', verifiedAt: '11 OUT 2026' },
     { platform: 'Reddit', label: 'r/tech_x · discussão nova sobre o REA; comentários perguntam sobre limites de segurança e relatam testes com diferentes modelos; contagem de votos não visível nesta checagem', url: 'https://www.reddit.com/r/tech_x/comments/1x2d66l/github_project_called_rea_reverse_engineer/', publishedAt: '2026-10-11', verifiedAt: '11 OUT 2026' },
     { platform: 'Reddit', label: 'r/BestGitHubRepos · post de apresentação do REA com 1.041 votos públicos; conteúdo promocional baseado no README, então alcance orgânico ainda não corroborado · publicado 08 OUT', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1x0s6lv/rea_reverse_engineer_anything_18k_stars/', engagement: 1041, publishedAt: '2026-10-08', verifiedAt: '08 OUT 2026' },
@@ -193,6 +194,7 @@ const socialReferences = {
     { platform: 'Reddit', label: 'r/BestGitHubRepos · caso de uso para memória persistente entre sessões e agentes · 17 votos públicos · publicado 01 OUT', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1wv9d8g/claudemem_gives_your_ai_agents_persistent_memory/', engagement: 17, publishedAt: '2026-10-01', verifiedAt: '07 OUT 2026' },
   ],
   'storytold/artcraft': [
+    { platform: 'X · menções indexadas pelo Trendshift', label: 'Três posts indexados em 12 OUT sobre ArtCraft; referências públicas discutem controle criativo e alternativa a ferramentas tradicionais; métricas por post não visíveis', url: 'https://trendshift.io/repositories/19042', publishedAt: '2026-10-12', verifiedAt: '12 OUT 2026' },
     { platform: 'TikTok (espelho)', label: '@quickfinesse · vídeo sobre a família ArtCraft e comparação com aplicativos da Adobe; publicado 03 OUT, comentários visíveis até 08 OUT; contadores do espelho sem rótulos confirmados, fora da janela de sinal recente e não contabilizados; validar no TikTok nativo', url: 'https://tikwm.com/video/7692488484338142495.html', publishedAt: '2026-10-03', verifiedAt: '11 OUT 2026' },
     { platform: 'YouTube oficial', label: 'Official ArtCraft Studios · demo de 2 minutos como referência de produto/B-roll; data e alcance do vídeo não verificados nesta varredura', url: 'https://www.youtube.com/watch?v=kzvQMdg66Go', verifiedAt: '08 OUT 2026' },
   ],
@@ -201,6 +203,9 @@ const socialReferences = {
     { platform: 'YouTube', label: 'Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN · referência histórica', url: 'https://www.youtube.com/watch?v=aanqEqQwjNU', views: 17073, likes: 445, comments: 27, publishedAt: '2026-06-18', verifiedAt: '14 SET 2026' },
   ],
   'TencentCloud/TencentDB-Agent-Memory': [],
+  'lyogavin/airllm': [
+    { platform: 'Reddit', label: 'r/BestGitHubRepos · showcase promocional afirma inferência de 70B em GPU de 4 GB · 11 votos públicos no momento da checagem; alcance orgânico ainda não corroborado', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1x3zd1a/airllm_70b_inference_with_single_4gb_gpu_368k/', engagement: 11, publishedAt: '2026-10-12', verifiedAt: '12 OUT 2026' },
+  ],
 };
 
 async function getJson(url, fallback) {
