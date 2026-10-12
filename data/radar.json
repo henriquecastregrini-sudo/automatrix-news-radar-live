@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T22:58:47.640Z",
-  "generatedLabel": "11 de out. de 2026 · 19:58",
+  "generatedAt": "2026-10-12T02:13:05.990Z",
+  "generatedLabel": "11 de out. de 2026 · 23:13",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 102138,
-      "forks": 22413,
-      "issues": 169,
+      "stars": 108422,
+      "forks": 24023,
+      "issues": 161,
       "language": "TypeScript",
-      "pushedAt": "2026-10-11T22:41:22Z",
+      "pushedAt": "2026-10-12T02:10:51Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 25585,
+      "trendingStarsToday": 25599,
       "score": 93,
       "social": [
         {
@@ -206,8 +206,8 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 50249,
-      "forks": 3191,
+      "stars": 50480,
+      "forks": 3206,
       "issues": 87,
       "language": "HTML",
       "pushedAt": "2026-10-10T21:10:14Z",
@@ -298,13 +298,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/storytold/artcraft",
-      "stars": 17691,
-      "forks": 2894,
-      "issues": 175,
+      "stars": 18164,
+      "forks": 2970,
+      "issues": 229,
       "language": "Rust",
       "pushedAt": "2026-10-11T13:47:59Z",
-      "pushedLabel": "push há 9h",
-      "trendingStarsToday": 2956,
+      "pushedLabel": "push há 12h",
+      "trendingStarsToday": 2957,
       "score": 75,
       "social": [
         {
@@ -366,7 +366,7 @@
       "title": "airllm",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 541 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 548 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "AirLLM 70B inference with single 4GB GPU",
       "broll": [
         "GitHub Trending",
@@ -375,13 +375,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/lyogavin/airllm",
-      "stars": 36430,
-      "forks": 3816,
+      "stars": 36547,
+      "forks": 3820,
       "issues": 160,
       "language": "Jupyter Notebook",
       "pushedAt": "2026-10-11T06:19:49Z",
-      "pushedLabel": "push há 17h",
-      "trendingStarsToday": 541,
+      "pushedLabel": "push há 20h",
+      "trendingStarsToday": 548,
       "score": 69,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -392,7 +392,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 541 stars hoje",
+          "label": "GitHub Trending · 548 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -428,9 +428,9 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 286137,
-      "forks": 24004,
-      "issues": 166,
+      "stars": 286329,
+      "forks": 24025,
+      "issues": 167,
       "language": "Shell",
       "pushedAt": "2026-10-09T10:57:08Z",
       "pushedLabel": "push há 3d",
@@ -543,7 +543,7 @@
         "discussão no Hacker News com pontos e comentários"
       ],
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "stars": 624,
+      "stars": 629,
       "forks": 13,
       "issues": null,
       "language": "Swift",
@@ -605,9 +605,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27927,
+      "stars": 27928,
       "forks": 2718,
-      "issues": 907,
+      "issues": 908,
       "language": "TypeScript",
       "pushedAt": "2026-10-10T02:31:39Z",
       "pushedLabel": "push há 2d",
@@ -652,8 +652,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 95994,
-      "forks": 8406,
+      "stars": 96060,
+      "forks": 8413,
       "issues": 207,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
@@ -721,8 +721,8 @@
       "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
       "url": "https://news.ycombinator.com/item?id=50039092",
       "relatedUrl": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "points": 130,
-      "comments": 95,
+      "points": 166,
+      "comments": 115,
       "publishedAt": "2026-10-11T02:02:38Z",
       "source": "Hacker News official API"
     },
@@ -740,7 +740,7 @@
       "url": "https://news.ycombinator.com/item?id=50033517",
       "relatedUrl": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
       "points": 63,
-      "comments": 67,
+      "comments": 68,
       "publishedAt": "2026-10-10T14:46:16Z",
       "source": "Hacker News official API",
       "editorialNote": "Relato publicado pelo próprio usuário à Business Insider: o agente confundiu dois canais de Slack com nome semelhante após receber acesso a dados financeiros pessoais e ao Slack corporativo. No Hacker News, a discussão contrapõe erro de configuração/segregação com riscos de permissões e persistência. Não é auditoria independente nem prova de intenção autônoma do modelo."
@@ -759,7 +759,7 @@
       "url": "https://news.ycombinator.com/item?id=50031614",
       "relatedUrl": "https://github.com/rociiu/talorys",
       "points": 321,
-      "comments": 149,
+      "comments": 150,
       "publishedAt": "2026-10-10T10:52:09Z",
       "source": "Hacker News official API"
     },
@@ -776,15 +776,15 @@
   "trending": [
     {
       "repo": "morluto/rea",
-      "starsToday": 25585
+      "starsToday": 25599
     },
     {
       "repo": "boykopovar/AnyPS5",
-      "starsToday": 3977
+      "starsToday": 3952
     },
     {
       "repo": "storytold/artcraft",
-      "starsToday": 2956
+      "starsToday": 2957
     },
     {
       "repo": "cathrynlavery/diagram-design",
@@ -792,19 +792,19 @@
     },
     {
       "repo": "bilawalsidhu/gods-eye-view",
-      "starsToday": 872
+      "starsToday": 886
     },
     {
       "repo": "pytorch/pytorch",
-      "starsToday": 314
+      "starsToday": 315
     },
     {
       "repo": "lyogavin/airllm",
-      "starsToday": 541
+      "starsToday": 548
     },
     {
       "repo": "chrislgarry/Apollo-11",
-      "starsToday": 581
+      "starsToday": 466
     }
   ],
   "monitored": [
@@ -821,9 +821,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 27927,
+      "stars": 27928,
       "forks": 2718,
-      "issues": 907,
+      "issues": 908,
       "language": "TypeScript",
       "pushedAt": "2026-10-10T02:31:39Z",
       "pushedLabel": "push há 2d",
@@ -868,8 +868,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 95994,
-      "forks": 8406,
+      "stars": 96060,
+      "forks": 8413,
       "issues": 207,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
