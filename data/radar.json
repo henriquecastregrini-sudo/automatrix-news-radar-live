@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T03:27:33.389Z",
-  "generatedLabel": "13 de out. de 2026 · 00:27",
+  "generatedAt": "2026-10-13T17:49:50.083Z",
+  "generatedLabel": "13 de out. de 2026 · 14:49",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -76,7 +76,7 @@
       "title": "rea",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 45,3 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 54,7 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "broll": [
         "GitHub Trending",
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 165227,
-      "forks": 39026,
-      "issues": 393,
+      "stars": 199056,
+      "forks": 48697,
+      "issues": 556,
       "language": "TypeScript",
-      "pushedAt": "2026-10-13T03:25:25Z",
+      "pushedAt": "2026-10-13T17:49:29Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 45327,
+      "trendingStarsToday": 54706,
       "score": 95,
       "social": [
         {
@@ -156,7 +156,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 45,3 mil stars hoje",
+          "label": "GitHub Trending · 54,7 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -232,13 +232,13 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 52836,
-      "forks": 3341,
-      "issues": 43,
+      "stars": 53790,
+      "forks": 3415,
+      "issues": 37,
       "language": "HTML",
-      "pushedAt": "2026-10-13T02:48:45Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 2081,
+      "pushedAt": "2026-10-13T14:57:55Z",
+      "pushedLabel": "push há 3h",
+      "trendingStarsToday": 1813,
       "score": 89,
       "social": [
         {
@@ -273,7 +273,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,1 mil stars hoje",
+          "label": "GitHub Trending · 1,8 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -311,89 +311,82 @@
       "rank": 2
     },
     {
-      "repo": "storytold/artcraft",
-      "title": "artcraft",
-      "type": "Novo no GitHub Trending",
+      "repo": "debpalash/VoiceStudio",
+      "title": "VoiceStudio",
+      "type": "Voz e dublagem local",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 4,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "hook": "Esta alternativa aberta ao ElevenLabs clona vozes, dubla vídeos e roda localmente sem assinatura.",
+      "thesis": "Voz generativa está virando infraestrutura local: privacidade, custo zero por uso e centenas de idiomas criam uma narrativa forte contra plataformas fechadas.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "galeria de vozes",
+        "clonagem com amostra curta",
+        "editor de dublagem",
+        "comparação local versus nuvem"
       ],
-      "url": "https://github.com/storytold/artcraft",
-      "stars": 22507,
-      "forks": 3619,
-      "issues": 271,
-      "language": "Rust",
-      "pushedAt": "2026-10-11T13:47:59Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 4095,
-      "score": 75,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "stars": 62403,
+      "forks": 6958,
+      "issues": 144,
+      "language": "Python",
+      "pushedAt": "2026-10-13T17:17:22Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 2277,
+      "score": 77,
       "social": [
         {
-          "platform": "X · menções indexadas pelo Trendshift",
-          "label": "Posts de @YuzhiyanLucian, @aigeeknews e @terrytsang811 em 12 OUT discutem controle criativo e alternativa a ferramentas tradicionais; métricas por post não visíveis",
-          "url": "https://trendshift.io/repositories/19042",
-          "publishedAt": "2026-10-12",
-          "verifiedAt": "12 OUT 2026"
+          "platform": "Instagram",
+          "label": "@niyi.tech · alternativa local ao ElevenLabs · 1,9k likes públicos · observado 21 AGO",
+          "url": "https://www.instagram.com/reel/DYg7o7Um4Qb/",
+          "likes": 1900,
+          "publishedAt": "2026-08-21",
+          "verifiedAt": "14 SET 2026"
         },
         {
-          "platform": "TikTok (espelho)",
-          "label": "@quickfinesse · vídeo sobre a família ArtCraft e comparação com aplicativos da Adobe; publicado 03 OUT, comentários visíveis até 08 OUT; contadores do espelho sem rótulos confirmados, fora da janela de sinal recente e não contabilizados; validar no TikTok nativo",
-          "url": "https://tikwm.com/video/7692488484338142495.html",
-          "publishedAt": "2026-10-03",
-          "verifiedAt": "11 OUT 2026"
-        },
-        {
-          "platform": "YouTube oficial",
-          "label": "Official ArtCraft Studios · demo de 2 minutos como referência de produto/B-roll; data e alcance do vídeo não verificados nesta varredura",
-          "url": "https://www.youtube.com/watch?v=kzvQMdg66Go",
-          "verifiedAt": "08 OUT 2026"
+          "platform": "YouTube",
+          "label": "AiThatSpeaks · clonagem e dublagem local · 7,8k views · 158 likes · publicado 17 JUL",
+          "url": "https://www.youtube.com/watch?v=xkFkvxYKe1Q",
+          "views": 7823,
+          "likes": 158,
+          "comments": 58,
+          "publishedAt": "2026-07-17",
+          "verifiedAt": "15 SET 2026"
         }
       ],
-      "socialStatus": "referência social recente — métrica direta precisa verificação",
+      "socialStatus": "somente referência histórica — sem prova social recente",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/storytold/artcraft",
+          "url": "https://github.com/debpalash/VoiceStudio",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 4,1 mil stars hoje",
+          "label": "GitHub Trending · 2,3 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "X · menções indexadas pelo Trendshift · Posts de @YuzhiyanLucian, @aigeeknews e @terrytsang811 em 12 OUT discutem controle criativo e alternativa a ferramentas tradicionais; métricas por post não visíveis",
-          "url": "https://trendshift.io/repositories/19042",
+          "label": "Instagram · @niyi.tech · alternativa local ao ElevenLabs · 1,9k likes públicos · observado 21 AGO",
+          "url": "https://www.instagram.com/reel/DYg7o7Um4Qb/",
           "kind": "social"
         },
         {
-          "label": "TikTok (espelho) · @quickfinesse · vídeo sobre a família ArtCraft e comparação com aplicativos da Adobe; publicado 03 OUT, comentários visíveis até 08 OUT; contadores do espelho sem rótulos confirmados, fora da janela de sinal recente e não contabilizados; validar no TikTok nativo",
-          "url": "https://tikwm.com/video/7692488484338142495.html",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube oficial · Official ArtCraft Studios · demo de 2 minutos como referência de produto/B-roll; data e alcance do vídeo não verificados nesta varredura",
-          "url": "https://www.youtube.com/watch?v=kzvQMdg66Go",
+          "label": "YouTube · AiThatSpeaks · clonagem e dublagem local · 7,8k views · 158 likes · publicado 17 JUL",
+          "url": "https://www.youtube.com/watch?v=xkFkvxYKe1Q",
           "kind": "social"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=storytold%20artcraft%20AI",
+          "url": "https://www.youtube.com/results?search_query=debpalash%20VoiceStudio%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=artcraft%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=VoiceStudio%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=artcraft%20AI",
+          "url": "https://www.tiktok.com/search?q=VoiceStudio%20AI",
           "kind": "busca"
         }
       ],
@@ -404,7 +397,7 @@
       "title": "airllm",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 879 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "broll": [
         "GitHub Trending",
@@ -413,14 +406,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/lyogavin/airllm",
-      "stars": 37633,
-      "forks": 3879,
-      "issues": 163,
+      "stars": 38157,
+      "forks": 3904,
+      "issues": 164,
       "language": "Jupyter Notebook",
-      "pushedAt": "2026-10-12T06:31:50Z",
-      "pushedLabel": "push há 21h",
-      "trendingStarsToday": 879,
-      "score": 72,
+      "pushedAt": "2026-10-13T06:24:34Z",
+      "pushedLabel": "push há 11h",
+      "trendingStarsToday": 1004,
+      "score": 73,
       "social": [
         {
           "platform": "Reddit",
@@ -439,7 +432,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 879 stars hoje",
+          "label": "GitHub Trending · 1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -470,8 +463,8 @@
       "repo": "mksglu/context-mode",
       "title": "context-mode",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 246 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 978 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "broll": [
         "GitHub Trending",
@@ -480,14 +473,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mksglu/context-mode",
-      "stars": 27405,
-      "forks": 1952,
-      "issues": 351,
+      "stars": 28003,
+      "forks": 1984,
+      "issues": 357,
       "language": "TypeScript",
       "pushedAt": "2026-10-12T18:05:18Z",
-      "pushedLabel": "push há 9h",
-      "trendingStarsToday": 246,
-      "score": 64,
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 978,
+      "score": 73,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -497,7 +490,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 246 stars hoje",
+          "label": "GitHub Trending · 978 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -520,53 +513,53 @@
       "rank": 5
     },
     {
-      "repo": "open-webui/open-webui",
-      "title": "open-webui",
+      "repo": "vercel-labs/skills",
+      "title": "skills",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 157 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "hook": "Este repositório ganhou 187 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "The open agent skills tool - npx skills",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/open-webui/open-webui",
-      "stars": 155154,
-      "forks": 22653,
-      "issues": 193,
-      "language": "Python",
-      "pushedAt": "2026-10-12T22:13:08Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 157,
-      "score": 64,
+      "url": "https://github.com/vercel-labs/skills",
+      "stars": 34312,
+      "forks": 2937,
+      "issues": 1109,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-09T17:54:47Z",
+      "pushedLabel": "push há 4d",
+      "trendingStarsToday": 187,
+      "score": 55,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/open-webui/open-webui",
+          "url": "https://github.com/vercel-labs/skills",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 157 stars hoje",
+          "label": "GitHub Trending · 187 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=open-webui%20open-webui%20AI",
+          "url": "https://www.youtube.com/results?search_query=vercel-labs%20skills%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=open-webui%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=skills%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=open-webui%20AI",
+          "url": "https://www.tiktok.com/search?q=skills%20AI",
           "kind": "busca"
         }
       ],
@@ -586,12 +579,12 @@
         "discussão no Hacker News com pontos e comentários"
       ],
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "stars": 672,
-      "forks": 16,
-      "issues": 1,
+      "stars": 689,
+      "forks": 17,
+      "issues": 2,
       "language": "Swift",
       "pushedAt": "2026-10-12T16:38:15Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 55,
       "social": [
@@ -648,12 +641,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 28131,
-      "forks": 2735,
-      "issues": 903,
+      "stars": 28719,
+      "forks": 2786,
+      "issues": 781,
       "language": "TypeScript",
-      "pushedAt": "2026-10-12T09:06:27Z",
-      "pushedLabel": "push há 18h",
+      "pushedAt": "2026-10-13T10:43:52Z",
+      "pushedLabel": "push há 7h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -695,9 +688,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 96640,
-      "forks": 8459,
-      "issues": 208,
+      "stars": 96915,
+      "forks": 8482,
+      "issues": 211,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
       "pushedLabel": "push há 5d",
@@ -761,11 +754,29 @@
   ],
   "news": [
     {
+      "title": "Show HN: MemorySync – Memory for AI Agents",
+      "url": "https://news.ycombinator.com/item?id=50070688",
+      "relatedUrl": "https://memorysync.io/try",
+      "points": 22,
+      "comments": 1,
+      "publishedAt": "2026-10-13T12:35:42Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: Agor, multiplayer AI – stop running agents alone",
+      "url": "https://news.ycombinator.com/item?id=50073109",
+      "relatedUrl": "https://github.com/preset-io/agor",
+      "points": 9,
+      "comments": 1,
+      "publishedAt": "2026-10-13T15:19:35Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "Why aren't AI companies being charged for hacking?",
       "url": "https://news.ycombinator.com/item?id=50057278",
       "relatedUrl": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
-      "points": 312,
-      "comments": 335,
+      "points": 327,
+      "comments": 360,
       "publishedAt": "2026-10-12T14:52:37Z",
       "source": "Hacker News official API"
     },
@@ -773,8 +784,8 @@
       "title": "AI coding agents generate more code, but not more software",
       "url": "https://news.ycombinator.com/item?id=50059523",
       "relatedUrl": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "points": 317,
-      "comments": 275,
+      "points": 354,
+      "comments": 293,
       "publishedAt": "2026-10-12T17:14:01Z",
       "source": "Hacker News official API",
       "editorialNote": "A conversa no Hacker News começou em 12 OUT; a matéria original da Ars Technica é de 09 OUT. Tratar como discussão reacendida, não como notícia publicada hoje."
@@ -789,69 +800,51 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "AI agents in a stand-up call",
-      "url": "https://news.ycombinator.com/item?id=50039630",
-      "relatedUrl": "https://atoll92.github.io/agent-standup/",
-      "points": 48,
-      "comments": 50,
-      "publishedAt": "2026-10-11T03:42:47Z",
-      "source": "Hacker News official API"
-    },
-    {
       "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
       "url": "https://news.ycombinator.com/item?id=50049388",
       "relatedUrl": "https://github.com/plimsollmark/plimsoll",
-      "points": 15,
+      "points": 16,
       "comments": 3,
       "publishedAt": "2026-10-11T23:47:59Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
-      "url": "https://news.ycombinator.com/item?id=50039633",
-      "relatedUrl": "https://github.com/vscarpenter/gsd-task-manager",
-      "points": 7,
-      "comments": 3,
-      "publishedAt": "2026-10-11T03:42:56Z",
       "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "morluto/rea",
-      "starsToday": 45327
+      "starsToday": 54706
     },
     {
       "repo": "bilawalsidhu/gods-eye-view",
-      "starsToday": 1895
+      "starsToday": 1961
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "starsToday": 2277
     },
     {
       "repo": "mksglu/context-mode",
-      "starsToday": 246
-    },
-    {
-      "repo": "storytold/artcraft",
-      "starsToday": 4095
-    },
-    {
-      "repo": "open-webui/open-webui",
-      "starsToday": 157
+      "starsToday": 978
     },
     {
       "repo": "cathrynlavery/diagram-design",
-      "starsToday": 2081
+      "starsToday": 1813
+    },
+    {
+      "repo": "vercel-labs/skills",
+      "starsToday": 187
     },
     {
       "repo": "lyogavin/airllm",
-      "starsToday": 879
+      "starsToday": 1004
     },
     {
-      "repo": "microsoft/BitNet",
-      "starsToday": 97
+      "repo": "storytold/artcraft",
+      "starsToday": 4078
     },
     {
-      "repo": "Alishahryar1/free-claude-code",
-      "starsToday": 626
+      "repo": "xtool-org/xtool",
+      "starsToday": 1182
     }
   ],
   "monitored": [
@@ -868,12 +861,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 28131,
-      "forks": 2735,
-      "issues": 903,
+      "stars": 28719,
+      "forks": 2786,
+      "issues": 781,
       "language": "TypeScript",
-      "pushedAt": "2026-10-12T09:06:27Z",
-      "pushedLabel": "push há 18h",
+      "pushedAt": "2026-10-13T10:43:52Z",
+      "pushedLabel": "push há 7h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -915,9 +908,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 96640,
-      "forks": 8459,
-      "issues": 208,
+      "stars": 96915,
+      "forks": 8482,
+      "issues": 211,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
       "pushedLabel": "push há 5d",
