@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T17:49:50.083Z",
-  "generatedLabel": "13 de out. de 2026 · 14:49",
+  "generatedAt": "2026-10-13T19:24:37.121Z",
+  "generatedLabel": "13 de out. de 2026 · 16:24",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -62,7 +62,7 @@
     {
       "name": "Trendshift",
       "url": "https://trendshift.io/",
-      "status": "verificação manual"
+      "status": "checado nesta coleta; menções sociais indexadas não incluem métricas nativas dos posts"
     },
     {
       "name": "YouTube / Instagram / TikTok",
@@ -85,15 +85,29 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 199056,
-      "forks": 48697,
-      "issues": 556,
+      "stars": 201318,
+      "forks": 49187,
+      "issues": 565,
       "language": "TypeScript",
-      "pushedAt": "2026-10-13T17:49:29Z",
+      "pushedAt": "2026-10-13T19:23:55Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 54706,
       "score": 95,
       "social": [
+        {
+          "platform": "X · menções indexadas pelo Trendshift",
+          "label": "5 posts indexados em 13 OUT; um descreve fluxo REA + Claude Code para investigar o app Realme Link. Métricas individuais não visíveis; outras menções misturam hype e afirmações não demonstradas; o X direto retornou 403",
+          "url": "https://trendshift.io/repositories/82054",
+          "publishedAt": "2026-10-13",
+          "verifiedAt": "13 OUT 2026"
+        },
+        {
+          "platform": "Reddit · menção indexada pelo Trendshift",
+          "label": "Discussão em r/miband sobre engenharia reversa do app Mi Fitness; menção indexada em 13 OUT, sem votos ou comentário contável visível na checagem",
+          "url": "https://trendshift.io/repositories/82054",
+          "publishedAt": "2026-10-13",
+          "verifiedAt": "13 OUT 2026"
+        },
         {
           "platform": "V2EX · fórum de desenvolvedores",
           "label": "Discussão recente sobre REA e limites éticos da engenharia reversa · página pública mostra 2.787 visualizações e 18 respostas · sinal de discussão, não validação independente do produto",
@@ -148,7 +162,7 @@
           "verifiedAt": "07 OUT 2026"
         }
       ],
-      "socialStatus": "post promocional não comprova alcance orgânico; há discussão independente recente com votos públicos, mas relato técnico é limitado e não generalizável; métricas nativas do vídeo pendentes",
+      "socialStatus": "post promocional não comprova alcance orgânico; há discussão independente recente com votos públicos, mas relato técnico é limitado e não generalizável; métricas nativas do vídeo pendentes; varredura de 13 OUT: menções do X indexadas pelo Trendshift, sem métricas nativas; nenhum post recente atribuível de outras plataformas foi confirmado nesta consulta",
       "sources": [
         {
           "label": "GitHub",
@@ -164,6 +178,16 @@
           "label": "Kingy AI · teste técnico limitado: recurso de exportação CSV de um app Electron passou em 14/14 casos declarados; não generalizar para outras classes de software",
           "url": "https://kingy.ai/blog/reverse-engineer-anything-ai-rea-guide/",
           "kind": "teste independente"
+        },
+        {
+          "label": "X · menções indexadas pelo Trendshift · 5 posts indexados em 13 OUT; um descreve fluxo REA + Claude Code para investigar o app Realme Link. Métricas individuais não visíveis; outras menções misturam hype e afirmações não demonstradas; o X direto retornou 403",
+          "url": "https://trendshift.io/repositories/82054",
+          "kind": "social"
+        },
+        {
+          "label": "Reddit · menção indexada pelo Trendshift · Discussão em r/miband sobre engenharia reversa do app Mi Fitness; menção indexada em 13 OUT, sem votos ou comentário contável visível na checagem",
+          "url": "https://trendshift.io/repositories/82054",
+          "kind": "social"
         },
         {
           "label": "V2EX · fórum de desenvolvedores · Discussão recente sobre REA e limites éticos da engenharia reversa · página pública mostra 2.787 visualizações e 18 respostas · sinal de discussão, não validação independente do produto",
@@ -232,15 +256,22 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 53790,
-      "forks": 3415,
-      "issues": 37,
+      "stars": 53868,
+      "forks": 3420,
+      "issues": 35,
       "language": "HTML",
-      "pushedAt": "2026-10-13T14:57:55Z",
-      "pushedLabel": "push há 3h",
+      "pushedAt": "2026-10-13T18:18:49Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 1813,
       "score": 89,
       "social": [
+        {
+          "platform": "X · menções indexadas pelo Trendshift",
+          "label": "3 posts indexados em 13 OUT; perfis @limuvibecoding, @taozi0603 e @jack1191484. Um destaca limite de edição manual; métricas individuais não visíveis e post original não carregou na consulta",
+          "url": "https://trendshift.io/repositories/26141",
+          "publishedAt": "2026-10-13",
+          "verifiedAt": "13 OUT 2026"
+        },
         {
           "platform": "X · menções indexadas pelo Trendshift",
           "label": "Posts de @goan999999, @Levi_J_Peng, @YuzhiyanLucian, @olojiang e @shanyanggm em 12 OUT discutem diagramas HTML/SVG e editabilidade; métricas por post não visíveis",
@@ -265,7 +296,7 @@
           "verifiedAt": "08 SET 2026"
         }
       ],
-      "socialStatus": "referência recente verificada",
+      "socialStatus": "referência recente verificada; varredura de 13 OUT: menções do X indexadas pelo Trendshift, sem métricas nativas; nenhum post recente atribuível de outras plataformas foi confirmado nesta consulta",
       "sources": [
         {
           "label": "GitHub",
@@ -276,6 +307,11 @@
           "label": "GitHub Trending · 1,8 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
+        },
+        {
+          "label": "X · menções indexadas pelo Trendshift · 3 posts indexados em 13 OUT; perfis @limuvibecoding, @taozi0603 e @jack1191484. Um destaca limite de edição manual; métricas individuais não visíveis e post original não carregou na consulta",
+          "url": "https://trendshift.io/repositories/26141",
+          "kind": "social"
         },
         {
           "label": "X · menções indexadas pelo Trendshift · Posts de @goan999999, @Levi_J_Peng, @YuzhiyanLucian, @olojiang e @shanyanggm em 12 OUT discutem diagramas HTML/SVG e editabilidade; métricas por post não visíveis",
@@ -311,6 +347,85 @@
       "rank": 2
     },
     {
+      "repo": "lyogavin/airllm",
+      "title": "airllm",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/lyogavin/airllm",
+      "stars": 38195,
+      "forks": 3909,
+      "issues": 164,
+      "language": "Jupyter Notebook",
+      "pushedAt": "2026-10-13T06:24:34Z",
+      "pushedLabel": "push há 13h",
+      "trendingStarsToday": 1004,
+      "score": 83,
+      "social": [
+        {
+          "platform": "X · menções indexadas pelo Trendshift",
+          "label": "5 posts indexados em 13 OUT sobre inferência de modelos grandes com pouca VRAM; pelo menos um compara o custo de streaming por camadas e ressalta lentidão. Métricas individuais não visíveis; alegações de tamanho/modelo precisam de teste reproduzível",
+          "url": "https://trendshift.io/repositories/18741",
+          "publishedAt": "2026-10-13",
+          "verifiedAt": "13 OUT 2026"
+        },
+        {
+          "platform": "Reddit",
+          "label": "r/BestGitHubRepos · showcase promocional sobre 70B em GPU de 4 GB · 4 votos públicos na checagem de 13 OUT; alcance orgânico não corroborado",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1x3zd1a/airllm_70b_inference_with_single_4gb_gpu_368k/",
+          "engagement": 4,
+          "publishedAt": "2026-10-12",
+          "verifiedAt": "13 OUT 2026"
+        }
+      ],
+      "socialStatus": "referência recente verificada; varredura de 13 OUT: menções do X indexadas pelo Trendshift, sem métricas nativas; nenhum post recente atribuível de outras plataformas foi confirmado nesta consulta",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/lyogavin/airllm",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "X · menções indexadas pelo Trendshift · 5 posts indexados em 13 OUT sobre inferência de modelos grandes com pouca VRAM; pelo menos um compara o custo de streaming por camadas e ressalta lentidão. Métricas individuais não visíveis; alegações de tamanho/modelo precisam de teste reproduzível",
+          "url": "https://trendshift.io/repositories/18741",
+          "kind": "social"
+        },
+        {
+          "label": "Reddit · r/BestGitHubRepos · showcase promocional sobre 70B em GPU de 4 GB · 4 votos públicos na checagem de 13 OUT; alcance orgânico não corroborado",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1x3zd1a/airllm_70b_inference_with_single_4gb_gpu_368k/",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=lyogavin%20airllm%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=airllm%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=airllm%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "repo": "debpalash/VoiceStudio",
       "title": "VoiceStudio",
       "type": "Voz e dublagem local",
@@ -324,15 +439,22 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 62403,
-      "forks": 6958,
+      "stars": 62646,
+      "forks": 6983,
       "issues": 144,
       "language": "Python",
-      "pushedAt": "2026-10-13T17:17:22Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-10-13T19:23:16Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 2277,
       "score": 77,
       "social": [
+        {
+          "platform": "X · menções indexadas pelo Trendshift",
+          "label": "5 posts indexados em 13 OUT sobre clonagem, dublagem e execução local; perfis @StatevergeCN, @maga_musk, @yupi996 e @cywcycw. Posts repetem alegações promocionais; métricas nativas e validação independente não visíveis",
+          "url": "https://trendshift.io/repositories/28176",
+          "publishedAt": "2026-10-13",
+          "verifiedAt": "13 OUT 2026"
+        },
         {
           "platform": "Instagram",
           "label": "@niyi.tech · alternativa local ao ElevenLabs · 1,9k likes públicos · observado 21 AGO",
@@ -352,7 +474,7 @@
           "verifiedAt": "15 SET 2026"
         }
       ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
+      "socialStatus": "referência social recente — métrica direta precisa verificação; varredura de 13 OUT: menções do X indexadas pelo Trendshift, sem métricas nativas; nenhum post recente atribuível de outras plataformas foi confirmado nesta consulta",
       "sources": [
         {
           "label": "GitHub",
@@ -363,6 +485,11 @@
           "label": "GitHub Trending · 2,3 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
+        },
+        {
+          "label": "X · menções indexadas pelo Trendshift · 5 posts indexados em 13 OUT sobre clonagem, dublagem e execução local; perfis @StatevergeCN, @maga_musk, @yupi996 e @cywcycw. Posts repetem alegações promocionais; métricas nativas e validação independente não visíveis",
+          "url": "https://trendshift.io/repositories/28176",
+          "kind": "social"
         },
         {
           "label": "Instagram · @niyi.tech · alternativa local ao ElevenLabs · 1,9k likes públicos · observado 21 AGO",
@@ -390,73 +517,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 3
-    },
-    {
-      "repo": "lyogavin/airllm",
-      "title": "airllm",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "AirLLM 2.8T LLM inference with single 4GB GPU",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/lyogavin/airllm",
-      "stars": 38157,
-      "forks": 3904,
-      "issues": 164,
-      "language": "Jupyter Notebook",
-      "pushedAt": "2026-10-13T06:24:34Z",
-      "pushedLabel": "push há 11h",
-      "trendingStarsToday": 1004,
-      "score": 73,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/BestGitHubRepos · showcase promocional afirma inferência de 70B em GPU de 4 GB · 11 votos públicos no momento da checagem; alcance orgânico ainda não corroborado",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1x3zd1a/airllm_70b_inference_with_single_4gb_gpu_368k/",
-          "engagement": 11,
-          "publishedAt": "2026-10-12",
-          "verifiedAt": "12 OUT 2026"
-        }
-      ],
-      "socialStatus": "post promocional com baixa interação verificada; repercussão orgânica não corroborada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/lyogavin/airllm",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Reddit · r/BestGitHubRepos · showcase promocional afirma inferência de 70B em GPU de 4 GB · 11 votos públicos no momento da checagem; alcance orgânico ainda não corroborado",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1x3zd1a/airllm_70b_inference_with_single_4gb_gpu_368k/",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=lyogavin%20airllm%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=airllm%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=airllm%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 4
     },
     {
@@ -473,16 +533,24 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mksglu/context-mode",
-      "stars": 28003,
-      "forks": 1984,
-      "issues": 357,
+      "stars": 28053,
+      "forks": 1987,
+      "issues": 356,
       "language": "TypeScript",
-      "pushedAt": "2026-10-12T18:05:18Z",
-      "pushedLabel": "push há 1d",
+      "pushedAt": "2026-10-13T18:06:23Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 978,
       "score": 73,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "social": [
+        {
+          "platform": "X · menções indexadas pelo Trendshift",
+          "label": "5 posts indexados em 13 OUT; perfis @ChinaAIDaily, @limuvibecoding, @cywcycw e outros discutem sandbox de saídas, MCP e memória de sessão. A redução de 98% é alegação do projeto e não foi reproduzida aqui; métricas individuais dos posts não visíveis",
+          "url": "https://trendshift.io/repositories/24012",
+          "publishedAt": "2026-10-13",
+          "verifiedAt": "13 OUT 2026"
+        }
+      ],
+      "socialStatus": "referência social recente — métrica direta precisa verificação; varredura de 13 OUT: menções do X indexadas pelo Trendshift, sem métricas nativas; nenhum post recente atribuível de outras plataformas foi confirmado nesta consulta",
       "sources": [
         {
           "label": "GitHub",
@@ -493,6 +561,11 @@
           "label": "GitHub Trending · 978 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
+        },
+        {
+          "label": "X · menções indexadas pelo Trendshift · 5 posts indexados em 13 OUT; perfis @ChinaAIDaily, @limuvibecoding, @cywcycw e outros discutem sandbox de saídas, MCP e memória de sessão. A redução de 98% é alegação do projeto e não foi reproduzida aqui; métricas individuais dos posts não visíveis",
+          "url": "https://trendshift.io/repositories/24012",
+          "kind": "social"
         },
         {
           "label": "Buscar YouTube",
@@ -526,8 +599,8 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/vercel-labs/skills",
-      "stars": 34312,
-      "forks": 2937,
+      "stars": 34351,
+      "forks": 2944,
       "issues": 1109,
       "language": "TypeScript",
       "pushedAt": "2026-10-09T17:54:47Z",
@@ -579,7 +652,7 @@
         "discussão no Hacker News com pontos e comentários"
       ],
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "stars": 689,
+      "stars": 690,
       "forks": 17,
       "issues": 2,
       "language": "Swift",
@@ -641,12 +714,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 28719,
-      "forks": 2786,
+      "stars": 28778,
+      "forks": 2792,
       "issues": 781,
       "language": "TypeScript",
       "pushedAt": "2026-10-13T10:43:52Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -688,8 +761,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 96915,
-      "forks": 8482,
+      "stars": 96940,
+      "forks": 8485,
       "issues": 211,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
@@ -754,6 +827,15 @@
   ],
   "news": [
     {
+      "title": "Axios: modelos de IA estão encontrando formas de escapar de restrições",
+      "url": "https://www.axios.com/2026/10/13/rogue-ai-agents-sandbox-defenses",
+      "points": null,
+      "comments": null,
+      "publishedAt": "2026-10-13T17:10:55Z",
+      "source": "Axios · reportagem",
+      "editorialNote": "A reportagem reúne demonstrações e relatos sobre limites de sandboxes e controles para agentes; apresenta o tema como desafio de segurança em evolução, não como prova de que agentes tenham intenção própria. Separar os casos citados, as opiniões dos especialistas e a evidência técnica disponível."
+    },
+    {
       "title": "Show HN: MemorySync – Memory for AI Agents",
       "url": "https://news.ycombinator.com/item?id=50070688",
       "relatedUrl": "https://memorysync.io/try",
@@ -763,20 +845,11 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "Show HN: Agor, multiplayer AI – stop running agents alone",
-      "url": "https://news.ycombinator.com/item?id=50073109",
-      "relatedUrl": "https://github.com/preset-io/agor",
-      "points": 9,
-      "comments": 1,
-      "publishedAt": "2026-10-13T15:19:35Z",
-      "source": "Hacker News official API"
-    },
-    {
       "title": "Why aren't AI companies being charged for hacking?",
       "url": "https://news.ycombinator.com/item?id=50057278",
       "relatedUrl": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
-      "points": 327,
-      "comments": 360,
+      "points": 329,
+      "comments": 363,
       "publishedAt": "2026-10-12T14:52:37Z",
       "source": "Hacker News official API"
     },
@@ -784,8 +857,8 @@
       "title": "AI coding agents generate more code, but not more software",
       "url": "https://news.ycombinator.com/item?id=50059523",
       "relatedUrl": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "points": 354,
-      "comments": 293,
+      "points": 356,
+      "comments": 295,
       "publishedAt": "2026-10-12T17:14:01Z",
       "source": "Hacker News official API",
       "editorialNote": "A conversa no Hacker News começou em 12 OUT; a matéria original da Ars Technica é de 09 OUT. Tratar como discussão reacendida, não como notícia publicada hoje."
@@ -861,12 +934,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 28719,
-      "forks": 2786,
+      "stars": 28778,
+      "forks": 2792,
       "issues": 781,
       "language": "TypeScript",
       "pushedAt": "2026-10-13T10:43:52Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -908,8 +981,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 96915,
-      "forks": 8482,
+      "stars": 96940,
+      "forks": 8485,
       "issues": 211,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
