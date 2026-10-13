@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T23:29:14.319Z",
-  "generatedLabel": "12 de out. de 2026 · 20:29",
+  "generatedAt": "2026-10-13T03:27:33.389Z",
+  "generatedLabel": "13 de out. de 2026 · 00:27",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -76,7 +76,7 @@
       "title": "rea",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 45,5 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 45,3 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "broll": [
         "GitHub Trending",
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 154889,
-      "forks": 35653,
-      "issues": 367,
+      "stars": 165227,
+      "forks": 39026,
+      "issues": 393,
       "language": "TypeScript",
-      "pushedAt": "2026-10-12T22:57:06Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 45495,
+      "pushedAt": "2026-10-13T03:25:25Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 45327,
       "score": 95,
       "social": [
         {
@@ -156,7 +156,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 45,5 mil stars hoje",
+          "label": "GitHub Trending · 45,3 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -232,13 +232,13 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 52530,
-      "forks": 3319,
-      "issues": 45,
+      "stars": 52836,
+      "forks": 3341,
+      "issues": 43,
       "language": "HTML",
-      "pushedAt": "2026-10-12T23:28:49Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 2100,
+      "pushedAt": "2026-10-13T02:48:45Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 2081,
       "score": 89,
       "social": [
         {
@@ -324,13 +324,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/storytold/artcraft",
-      "stars": 21847,
-      "forks": 3537,
-      "issues": 266,
+      "stars": 22507,
+      "forks": 3619,
+      "issues": 271,
       "language": "Rust",
       "pushedAt": "2026-10-11T13:47:59Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 4106,
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 4095,
       "score": 75,
       "social": [
         {
@@ -404,7 +404,7 @@
       "title": "airllm",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 886 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 879 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "broll": [
         "GitHub Trending",
@@ -413,14 +413,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/lyogavin/airllm",
-      "stars": 37491,
-      "forks": 3870,
-      "issues": 162,
+      "stars": 37633,
+      "forks": 3879,
+      "issues": 163,
       "language": "Jupyter Notebook",
       "pushedAt": "2026-10-12T06:31:50Z",
-      "pushedLabel": "push há 17h",
-      "trendingStarsToday": 886,
-      "score": 73,
+      "pushedLabel": "push há 21h",
+      "trendingStarsToday": 879,
+      "score": 72,
       "social": [
         {
           "platform": "Reddit",
@@ -439,7 +439,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 886 stars hoje",
+          "label": "GitHub Trending · 879 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -471,7 +471,7 @@
       "title": "context-mode",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 394 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 246 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "broll": [
         "GitHub Trending",
@@ -480,14 +480,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mksglu/context-mode",
-      "stars": 27250,
-      "forks": 1941,
+      "stars": 27405,
+      "forks": 1952,
       "issues": 351,
       "language": "TypeScript",
       "pushedAt": "2026-10-12T18:05:18Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 394,
-      "score": 67,
+      "pushedLabel": "push há 9h",
+      "trendingStarsToday": 246,
+      "score": 64,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -497,7 +497,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 394 stars hoje",
+          "label": "GitHub Trending · 246 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -524,7 +524,7 @@
       "title": "open-webui",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 142 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 157 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "broll": [
         "GitHub Trending",
@@ -533,14 +533,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/open-webui/open-webui",
-      "stars": 154944,
-      "forks": 22637,
-      "issues": 173,
+      "stars": 155154,
+      "forks": 22653,
+      "issues": 193,
       "language": "Python",
       "pushedAt": "2026-10-12T22:13:08Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 142,
-      "score": 63,
+      "pushedLabel": "push há 5h",
+      "trendingStarsToday": 157,
+      "score": 64,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -550,7 +550,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 142 stars hoje",
+          "label": "GitHub Trending · 157 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -586,12 +586,12 @@
         "discussão no Hacker News com pontos e comentários"
       ],
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "stars": 669,
+      "stars": 672,
       "forks": 16,
       "issues": 1,
       "language": "Swift",
       "pushedAt": "2026-10-12T16:38:15Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 11h",
       "trendingStarsToday": null,
       "score": 55,
       "social": [
@@ -648,12 +648,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 28068,
-      "forks": 2730,
+      "stars": 28131,
+      "forks": 2735,
       "issues": 903,
       "language": "TypeScript",
       "pushedAt": "2026-10-12T09:06:27Z",
-      "pushedLabel": "push há 14h",
+      "pushedLabel": "push há 18h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -695,8 +695,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 96577,
-      "forks": 8453,
+      "stars": 96640,
+      "forks": 8459,
       "issues": 208,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
@@ -764,8 +764,8 @@
       "title": "Why aren't AI companies being charged for hacking?",
       "url": "https://news.ycombinator.com/item?id=50057278",
       "relatedUrl": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
-      "points": 308,
-      "comments": 323,
+      "points": 312,
+      "comments": 335,
       "publishedAt": "2026-10-12T14:52:37Z",
       "source": "Hacker News official API"
     },
@@ -773,21 +773,20 @@
       "title": "AI coding agents generate more code, but not more software",
       "url": "https://news.ycombinator.com/item?id=50059523",
       "relatedUrl": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "points": 291,
-      "comments": 248,
+      "points": 317,
+      "comments": 275,
       "publishedAt": "2026-10-12T17:14:01Z",
       "source": "Hacker News official API",
       "editorialNote": "A conversa no Hacker News começou em 12 OUT; a matéria original da Ars Technica é de 09 OUT. Tratar como discussão reacendida, não como notícia publicada hoje."
     },
     {
-      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-      "url": "https://news.ycombinator.com/item?id=50039092",
-      "relatedUrl": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "points": 207,
-      "comments": 149,
-      "publishedAt": "2026-10-11T02:02:38Z",
-      "source": "Hacker News official API",
-      "editorialNote": "O post no Hacker News é recente, mas a publicação original do autor é de 09 OUT. Os pontos medem a conversa atual; não a data da descoberta nem a precisão geral do método."
+      "title": "Show HN: Skills Hub, a desktop app for managing AI agent skills",
+      "url": "https://news.ycombinator.com/item?id=50050732",
+      "relatedUrl": "https://github.com/qufei1993/skills-hub",
+      "points": 10,
+      "comments": 1,
+      "publishedAt": "2026-10-12T02:48:19Z",
+      "source": "Hacker News official API"
     },
     {
       "title": "AI agents in a stand-up call",
@@ -808,51 +807,51 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "url": "https://news.ycombinator.com/item?id=50039318",
-      "relatedUrl": "https://www.bbc.com/news/articles/cqkg50j1yd5lo",
-      "points": 6,
-      "comments": 4,
-      "publishedAt": "2026-10-11T02:41:19Z",
+      "title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
+      "url": "https://news.ycombinator.com/item?id=50039633",
+      "relatedUrl": "https://github.com/vscarpenter/gsd-task-manager",
+      "points": 7,
+      "comments": 3,
+      "publishedAt": "2026-10-11T03:42:56Z",
       "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "morluto/rea",
-      "starsToday": 45495
+      "starsToday": 45327
     },
     {
       "repo": "bilawalsidhu/gods-eye-view",
-      "starsToday": 1903
+      "starsToday": 1895
     },
     {
       "repo": "mksglu/context-mode",
-      "starsToday": 394
+      "starsToday": 246
     },
     {
       "repo": "storytold/artcraft",
-      "starsToday": 4106
+      "starsToday": 4095
     },
     {
       "repo": "open-webui/open-webui",
-      "starsToday": 142
+      "starsToday": 157
     },
     {
       "repo": "cathrynlavery/diagram-design",
-      "starsToday": 2100
+      "starsToday": 2081
     },
     {
       "repo": "lyogavin/airllm",
-      "starsToday": 886
+      "starsToday": 879
     },
     {
       "repo": "microsoft/BitNet",
-      "starsToday": 134
+      "starsToday": 97
     },
     {
       "repo": "Alishahryar1/free-claude-code",
-      "starsToday": 705
+      "starsToday": 626
     }
   ],
   "monitored": [
@@ -869,12 +868,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 28068,
-      "forks": 2730,
+      "stars": 28131,
+      "forks": 2735,
       "issues": 903,
       "language": "TypeScript",
       "pushedAt": "2026-10-12T09:06:27Z",
-      "pushedLabel": "push há 14h",
+      "pushedLabel": "push há 18h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -916,8 +915,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 96577,
-      "forks": 8453,
+      "stars": 96640,
+      "forks": 8459,
       "issues": 208,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
