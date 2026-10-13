@@ -139,6 +139,7 @@ const socialReferences = {
   'coreyhaines31/marketingskills': [{ platform: 'YouTube', label: 'The Next New Thing · skills para Claude · 53,4k views · publicado 11 FEV', url: 'https://www.youtube.com/watch?v=YajqB9RDdzI', views: 53450, publishedAt: '2026-02-11', verifiedAt: '08 SET 2026' }],
   'jo-inc/camofox-browser': [{ platform: 'YouTube', label: 'Build Things With AI · CamoFox entre repos em alta · 1,8k views · publicado 02 MAI', url: 'https://www.youtube.com/watch?v=Hs-xdoaGH5o', views: 1855, publishedAt: '2026-05-02', verifiedAt: '07 SET 2026' }],
   'cathrynlavery/diagram-design': [
+    { platform: 'X · menções indexadas pelo Trendshift', label: '3 posts indexados em 13 OUT; perfis @limuvibecoding, @taozi0603 e @jack1191484. Um destaca limite de edição manual; métricas individuais não visíveis e post original não carregou na consulta', url: 'https://trendshift.io/repositories/26141', publishedAt: '2026-10-13', verifiedAt: '13 OUT 2026' },
     { platform: 'X · menções indexadas pelo Trendshift', label: 'Posts de @goan999999, @Levi_J_Peng, @YuzhiyanLucian, @olojiang e @shanyanggm em 12 OUT discutem diagramas HTML/SVG e editabilidade; métricas por post não visíveis', url: 'https://trendshift.io/repositories/26141', publishedAt: '2026-10-12', verifiedAt: '12 OUT 2026' },
     { platform: 'Reddit', label: 'r/BestGitHubRepos · post direto apresenta tipos de diagramas editoriais e compatibilidade com agentes · 57 votos públicos · publicado 07 OUT', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1wzu0gm/diagram_design_editorial_diagrams_your_designer/', engagement: 57, publishedAt: '2026-10-07', verifiedAt: '09 OUT 2026' },
     { platform: 'YouTube', label: 'YAHA · Diagram Design em primeiro no GitHub · 20,9k views · publicado 03 SET · referência histórica', url: 'https://www.youtube.com/watch?v=rq4EHbqaaAk', views: 20919, publishedAt: '2026-09-03', verifiedAt: '08 SET 2026' },
@@ -173,6 +174,7 @@ const socialReferences = {
   'cloudflare/security-audit-skill': [{ platform: 'YouTube', label: 'Signal Coders · Security Audit Skill · 648 views · 12 likes · sinal inicial de 17 SET', url: 'https://www.youtube.com/watch?v=D6Iw15EHPfA', views: 648, likes: 12, publishedAt: '2026-09-17', verifiedAt: '19 SET 2026' }],
   'ManimCommunity/manim': [{ platform: 'YouTube', label: 'Bog · IA programando animação em Manim · 103,3k views · 4,3k likes · prova histórica de 03 JAN 2025', url: 'https://www.youtube.com/watch?v=O6TjkLwUAtg', views: 103311, likes: 4341, comments: 182, publishedAt: '2025-01-03', verifiedAt: '15 SET 2026' }],
   'debpalash/VoiceStudio': [
+    { platform: 'X · menções indexadas pelo Trendshift', label: '5 posts indexados em 13 OUT sobre clonagem, dublagem e execução local; perfis @StatevergeCN, @maga_musk, @yupi996 e @cywcycw. Posts repetem alegações promocionais; métricas nativas e validação independente não visíveis', url: 'https://trendshift.io/repositories/28176', publishedAt: '2026-10-13', verifiedAt: '13 OUT 2026' },
     { platform: 'Instagram', label: '@niyi.tech · alternativa local ao ElevenLabs · 1,9k likes públicos · observado 21 AGO', url: 'https://www.instagram.com/reel/DYg7o7Um4Qb/', likes: 1900, publishedAt: '2026-08-21', verifiedAt: '14 SET 2026' },
     { platform: 'YouTube', label: 'AiThatSpeaks · clonagem e dublagem local · 7,8k views · 158 likes · publicado 17 JUL', url: 'https://www.youtube.com/watch?v=xkFkvxYKe1Q', views: 7823, likes: 158, comments: 58, publishedAt: '2026-07-17', verifiedAt: '15 SET 2026' },
   ],
@@ -183,6 +185,8 @@ const socialReferences = {
   'magnitudedev/magnitude': [],
   'K-Dense-AI/scientific-agent-skills': [{ platform: 'YouTube', label: 'K-Dense · skills científicas · 13,5k views · publicado 18 FEV', url: 'https://www.youtube.com/watch?v=ZxbnDaD_FVg', views: 13534, publishedAt: '2026-02-18', verifiedAt: '07 SET 2026' }],
   'morluto/rea': [
+    { platform: 'X · menções indexadas pelo Trendshift', label: '5 posts indexados em 13 OUT; um descreve fluxo REA + Claude Code para investigar o app Realme Link. Métricas individuais não visíveis; outras menções misturam hype e afirmações não demonstradas; o X direto retornou 403', url: 'https://trendshift.io/repositories/82054', publishedAt: '2026-10-13', verifiedAt: '13 OUT 2026' },
+    { platform: 'Reddit · menção indexada pelo Trendshift', label: 'Discussão em r/miband sobre engenharia reversa do app Mi Fitness; menção indexada em 13 OUT, sem votos ou comentário contável visível na checagem', url: 'https://trendshift.io/repositories/82054', publishedAt: '2026-10-13', verifiedAt: '13 OUT 2026' },
     { platform: 'V2EX · fórum de desenvolvedores', label: 'Discussão recente sobre REA e limites éticos da engenharia reversa · página pública mostra 2.787 visualizações e 18 respostas · sinal de discussão, não validação independente do produto', url: 'https://staging.v2ex.com/t/1248041', engagement: 18, publishedAt: '2026-10-12T09:40:34Z', verifiedAt: '12 OUT 2026' },
     { platform: 'Reddit', label: 'r/tech_x · discussão pública do REA com 1.452 votos visíveis; comentários atualizados em 12 OUT incluem um teste relatado em quatro binários pequenos, sem permitir generalização para alvos maiores ou obfuscados', url: 'https://www.reddit.com/r/tech_x/comments/1x2d66l/github_project_called_rea_reverse_engineer/', engagement: 1452, publishedAt: '2026-10-10', verifiedAt: '12 OUT 2026' },
     { platform: 'YouTube · espelhos com métricas divergentes', label: 'Rob Shocks · demonstração independente do REA em app compilado; dois espelhos consultados exibem contagens diferentes e a página nativa do YouTube não foi confirmada, então métricas quantitativas foram excluídas; há segmento patrocinado separado', url: 'https://www.youtube.com/watch?v=OMobTlfjb8s', publishedAt: '2026-10-09', verifiedAt: '11 OUT 2026' },
@@ -205,7 +209,11 @@ const socialReferences = {
   ],
   'TencentCloud/TencentDB-Agent-Memory': [],
   'lyogavin/airllm': [
-    { platform: 'Reddit', label: 'r/BestGitHubRepos · showcase promocional afirma inferência de 70B em GPU de 4 GB · 11 votos públicos no momento da checagem; alcance orgânico ainda não corroborado', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1x3zd1a/airllm_70b_inference_with_single_4gb_gpu_368k/', engagement: 11, publishedAt: '2026-10-12', verifiedAt: '12 OUT 2026' },
+    { platform: 'X · menções indexadas pelo Trendshift', label: '5 posts indexados em 13 OUT sobre inferência de modelos grandes com pouca VRAM; pelo menos um compara o custo de streaming por camadas e ressalta lentidão. Métricas individuais não visíveis; alegações de tamanho/modelo precisam de teste reproduzível', url: 'https://trendshift.io/repositories/18741', publishedAt: '2026-10-13', verifiedAt: '13 OUT 2026' },
+    { platform: 'Reddit', label: 'r/BestGitHubRepos · showcase promocional sobre 70B em GPU de 4 GB · 4 votos públicos na checagem de 13 OUT; alcance orgânico não corroborado', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1x3zd1a/airllm_70b_inference_with_single_4gb_gpu_368k/', engagement: 4, publishedAt: '2026-10-12', verifiedAt: '13 OUT 2026' },
+  ],
+  'mksglu/context-mode': [
+    { platform: 'X · menções indexadas pelo Trendshift', label: '5 posts indexados em 13 OUT; perfis @ChinaAIDaily, @limuvibecoding, @cywcycw e outros discutem sandbox de saídas, MCP e memória de sessão. A redução de 98% é alegação do projeto e não foi reproduzida aqui; métricas individuais dos posts não visíveis', url: 'https://trendshift.io/repositories/24012', publishedAt: '2026-10-13', verifiedAt: '13 OUT 2026' },
   ],
 };
 
@@ -315,6 +323,7 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
   const verifiedRecentSocial = recentSocial.filter((reference) => !reference.label.includes('alcance orgânico ainda não corroborado')
     && ['views', 'engagement', 'likes', 'comments'].some((metric) => Number.isFinite(reference[metric])));
   const socialSignal = Math.max(0, ...verifiedRecentSocial.map((reference) => reference.views || reference.engagement || reference.likes || reference.comments || 0));
+  const indexedXSignal = recentSocial.some((reference) => reference.platform.includes('menções indexadas pelo Trendshift'));
   const socialScore = verifiedRecentSocial.length ? Math.min(22, 8 + Math.log10(socialSignal + 1) * 2.5) : 0;
   const score = Math.min(100, Math.round(
     (starsToday ? Math.min(48, Math.log10(starsToday + 1) * 15) : 12) +
@@ -323,6 +332,15 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
     (hnDiscussionPoints >= 100 ? Math.min(12, Math.log10(hnDiscussionPoints + 1) * 3) : 0) +
     (api.pushed_at && Date.now() - new Date(api.pushed_at).getTime() < 1728e5 ? 10 : 3)
   ));
+  const socialStatus = promoSignalNeedsCorroboration && independentRecentSocial.length ? 'post promocional não comprova alcance orgânico; há discussão independente recente com votos públicos, mas relato técnico é limitado e não generalizável; métricas nativas do vídeo pendentes'
+    : promoSignalNeedsCorroboration && mirroredSocialMetric ? 'post promocional com repercussão orgânica não corroborada; vídeo independente tem métricas via espelho, checagem nativa pendente'
+    : promoSignalNeedsCorroboration ? (promoSignal >= 100 ? 'post promocional com alto engajamento; repercussão orgânica não corroborada'
+    : 'post promocional com baixa interação verificada; repercussão orgânica não corroborada')
+    : mirroredSocialMetric ? 'métrica social via espelho; checagem nativa pendente'
+    : verifiedRecentSocial.length ? 'referência recente verificada'
+    : recentSocial.length ? 'referência social recente — métrica direta precisa verificação'
+    : social.length ? 'somente referência histórica — sem prova social recente'
+      : 'sem post direto verificado — precisa varredura social';
   return {
     ...editorial,
     status: editorial.status === 'Gravar agora' && !starsToday && !verifiedRecentSocial.length
@@ -338,15 +356,9 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
     trendingStarsToday: starsToday || null,
     score,
     social,
-    socialStatus: promoSignalNeedsCorroboration && independentRecentSocial.length ? 'post promocional não comprova alcance orgânico; há discussão independente recente com votos públicos, mas relato técnico é limitado e não generalizável; métricas nativas do vídeo pendentes'
-      : promoSignalNeedsCorroboration && mirroredSocialMetric ? 'post promocional com repercussão orgânica não corroborada; vídeo independente tem métricas via espelho, checagem nativa pendente'
-      : promoSignalNeedsCorroboration ? (promoSignal >= 100 ? 'post promocional com alto engajamento; repercussão orgânica não corroborada'
-      : 'post promocional com baixa interação verificada; repercussão orgânica não corroborada')
-      : mirroredSocialMetric ? 'métrica social via espelho; checagem nativa pendente'
-      : verifiedRecentSocial.length ? 'referência recente verificada'
-      : recentSocial.length ? 'referência social recente — métrica direta precisa verificação'
-      : social.length ? 'somente referência histórica — sem prova social recente'
-        : 'sem post direto verificado — precisa varredura social',
+    socialStatus: indexedXSignal
+      ? `${socialStatus}; varredura de 13 OUT: menções do X indexadas pelo Trendshift, sem métricas nativas; nenhum post recente atribuível de outras plataformas foi confirmado nesta consulta`
+      : socialStatus,
     sources: [
       { label: 'GitHub', url: api.html_url || `https://github.com/${item.repo}`, kind: 'oficial' },
       ...(starsToday ? [{ label: `GitHub Trending · ${compact(starsToday)} stars hoje`, url: 'https://github.com/trending', kind: 'tendência' }] : []),
@@ -420,6 +432,12 @@ const hnEditorialNotes = {
   '50039092': 'O post no Hacker News é recente, mas a publicação original do autor é de 09 OUT. Os pontos medem a conversa atual; não a data da descoberta nem a precisão geral do método.',
 };
 const additionalNews = [{
+  title: 'Axios: modelos de IA estão encontrando formas de escapar de restrições',
+  url: 'https://www.axios.com/2026/10/13/rogue-ai-agents-sandbox-defenses',
+  publishedAt: '2026-10-13T17:10:55Z',
+  source: 'Axios · reportagem',
+  editorialNote: 'A reportagem reúne demonstrações e relatos sobre limites de sandboxes e controles para agentes; apresenta o tema como desafio de segurança em evolução, não como prova de que agentes tenham intenção própria. Separar os casos citados, as opiniões dos especialistas e a evidência técnica disponível.'
+}, {
   title: 'AP: linha do tempo reúne incidentes recentes de segurança envolvendo agentes de IA',
   url: 'https://apnews.com/article/f590b51073d8977a984c7c42b8f2a7a2',
   publishedAt: '2026-10-10T16:41:38Z',
@@ -521,7 +539,7 @@ const data = {
     { name: 'Google Cloud · blog oficial', url: 'https://cloud.google.com/blog/products/ai-machine-learning/', status: 'ativo' },
     { name: 'Vals AI · fonte primária da pauta científica', url: 'https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors', status: 'verificado nesta coleta' },
     { name: 'TIME · reportagem sobre Meta Muse', url: 'https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/', status: 'reportagem recente; conferir ressalvas da empresa' },
-    { name: 'Trendshift', url: 'https://trendshift.io/', status: 'verificação manual' },
+    { name: 'Trendshift', url: 'https://trendshift.io/', status: 'checado nesta coleta; menções sociais indexadas não incluem métricas nativas dos posts' },
     { name: 'YouTube / Instagram / TikTok', url: 'https://www.youtube.com/', status: 'links diretos ou busca; métricas exigem post público verificável' },
   ],
   repos,
