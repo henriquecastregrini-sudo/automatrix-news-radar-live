@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T15:34:19.904Z",
-  "generatedLabel": "14 de out. de 2026 · 12:34",
+  "generatedAt": "2026-10-14T20:26:39.107Z",
+  "generatedLabel": "14 de out. de 2026 · 17:26",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,11 +85,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 232265,
-      "forks": 57900,
-      "issues": 693,
+      "stars": 238149,
+      "forks": 59316,
+      "issues": 711,
       "language": "TypeScript",
-      "pushedAt": "2026-10-14T15:30:54Z",
+      "pushedAt": "2026-10-14T20:22:01Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 41187,
       "score": 95,
@@ -256,11 +256,11 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 65346,
-      "forks": 7231,
-      "issues": 162,
+      "stars": 65903,
+      "forks": 7277,
+      "issues": 172,
       "language": "Python",
-      "pushedAt": "2026-10-14T14:57:05Z",
+      "pushedAt": "2026-10-14T19:48:25Z",
       "pushedLabel": "push há 1h",
       "trendingStarsToday": 3547,
       "score": 77,
@@ -350,12 +350,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/ifixai-ai/iFixAi",
-      "stars": 26844,
-      "forks": 1486,
-      "issues": 7,
+      "stars": 27206,
+      "forks": 1496,
+      "issues": 5,
       "language": "Python",
-      "pushedAt": "2026-10-14T09:24:48Z",
-      "pushedLabel": "push há 6h",
+      "pushedAt": "2026-10-14T18:26:20Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": 2143,
       "score": 76,
       "social": [],
@@ -403,12 +403,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mksglu/context-mode",
-      "stars": 28847,
-      "forks": 2024,
-      "issues": 357,
+      "stars": 28992,
+      "forks": 2037,
+      "issues": 359,
       "language": "TypeScript",
       "pushedAt": "2026-10-14T15:00:51Z",
-      "pushedLabel": "push há 1h",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": 946,
       "score": 72,
       "social": [
@@ -469,9 +469,9 @@
         "alerta de uso ético e autorizado"
       ],
       "url": "https://github.com/vxcontrol/pentagi",
-      "stars": 28963,
-      "forks": 4348,
-      "issues": 21,
+      "stars": 29225,
+      "forks": 4393,
+      "issues": 24,
       "language": "Go",
       "pushedAt": "2026-10-09T20:54:31Z",
       "pushedLabel": "push há 5d",
@@ -525,69 +525,6 @@
       "rank": 5
     },
     {
-      "repo": "franzenzenhofer/big-arrow-on-the-screen",
-      "title": "Agentes que desenham na sua tela",
-      "type": "Agente visual para desktop",
-      "status": "Gravar agora",
-      "hook": "E se a IA não só dissesse onde clicar — mas desenhasse a seta na sua tela?",
-      "thesis": "A interface visual pode virar uma ferramenta direta de agentes: marcações transitórias no desktop tornam instruções mais fáceis de seguir e renderizar em vídeo.",
-      "broll": [
-        "demonstração do CLI desenhando setas e caixas",
-        "README e instalação",
-        "permissão de tela no macOS",
-        "discussão no Hacker News com pontos e comentários"
-      ],
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "stars": 740,
-      "forks": 19,
-      "issues": 2,
-      "language": "Swift",
-      "pushedAt": "2026-10-12T16:38:15Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": null,
-      "score": 56,
-      "social": [
-        {
-          "platform": "Hacker News",
-          "label": "Show HN · agentes desenham setas, caixas e texto na tela · 361 pontos e 160 comentários na API oficial; post publicado 09 OUT",
-          "url": "https://news.ycombinator.com/item?id=50018817",
-          "engagement": 361,
-          "comments": 160,
-          "publishedAt": "2026-10-09T11:03:48Z",
-          "verifiedAt": "09 OUT 2026"
-        }
-      ],
-      "socialStatus": "referência recente verificada",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-          "kind": "oficial"
-        },
-        {
-          "label": "Hacker News · Show HN · agentes desenham setas, caixas e texto na tela · 361 pontos e 160 comentários na API oficial; post publicado 09 OUT",
-          "url": "https://news.ycombinator.com/item?id=50018817",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=franzenzenhofer%20big-arrow-on-the-screen%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Agentes%20que%20desenham%20na%20sua%20tela%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Agentes%20que%20desenham%20na%20sua%20tela%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 6
-    },
-    {
       "repo": "K-Dense-AI/scientific-agent-skills",
       "type": "Agentes científicos",
       "status": "Usar como comparação",
@@ -601,9 +538,9 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 49047,
-      "forks": 4401,
-      "issues": 23,
+      "stars": 49200,
+      "forks": 4409,
+      "issues": 30,
       "language": "Python",
       "pushedAt": "2026-10-12T09:43:31Z",
       "pushedLabel": "push há 2d",
@@ -652,7 +589,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 6
     },
     {
       "repo": "HKUDS/CLI-Anything",
@@ -668,9 +605,9 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars": 52280,
-      "forks": 4761,
-      "issues": 150,
+      "stars": 52387,
+      "forks": 4768,
+      "issues": 163,
       "language": "Python",
       "pushedAt": "2026-09-22T02:01:29Z",
       "pushedLabel": "push há 23d",
@@ -705,7 +642,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 7
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -720,12 +657,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29127,
-      "forks": 2822,
-      "issues": 703,
+      "stars": 29154,
+      "forks": 2832,
+      "issues": 706,
       "language": "TypeScript",
       "pushedAt": "2026-10-14T07:29:55Z",
-      "pushedLabel": "push há 8h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -752,7 +689,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 8
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -767,12 +704,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 97253,
-      "forks": 8509,
-      "issues": 211,
+      "stars": 97325,
+      "forks": 8522,
+      "issues": 216,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
-      "pushedLabel": "push há 6d",
+      "pushedLabel": "push há 7d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -828,16 +765,25 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
+      "rank": 9
     }
   ],
   "news": [
     {
+      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+      "url": "https://news.ycombinator.com/item?id=50091788",
+      "relatedUrl": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "points": 697,
+      "comments": 315,
+      "publishedAt": "2026-10-14T17:45:23Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "TV4 postpones show after AI agent erases edited material",
       "url": "https://news.ycombinator.com/item?id=50085323",
       "relatedUrl": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-      "points": 83,
-      "comments": 48,
+      "points": 130,
+      "comments": 72,
       "publishedAt": "2026-10-14T10:28:26Z",
       "source": "Hacker News official API"
     },
@@ -845,9 +791,27 @@
       "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
       "url": "https://news.ycombinator.com/item?id=50085259",
       "relatedUrl": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
-      "points": 52,
-      "comments": 57,
+      "points": 55,
+      "comments": 61,
       "publishedAt": "2026-10-14T10:21:13Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "I Deleted 168,000 Lines of Comments. My AI Agent Didn't Notice",
+      "url": "https://news.ycombinator.com/item?id=50090484",
+      "relatedUrl": "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
+      "points": 34,
+      "comments": 14,
+      "publishedAt": "2026-10-14T16:34:53Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
+      "url": "https://news.ycombinator.com/item?id=50088713",
+      "relatedUrl": "https://github.com/graphicle-ai/graphicle",
+      "points": 35,
+      "comments": 10,
+      "publishedAt": "2026-10-14T15:00:41Z",
       "source": "Hacker News official API"
     },
     {
@@ -858,34 +822,6 @@
       "publishedAt": "2026-10-13T17:10:55Z",
       "source": "Axios · reportagem",
       "editorialNote": "A reportagem reúne demonstrações e relatos sobre limites de sandboxes e controles para agentes; apresenta o tema como desafio de segurança em evolução, não como prova de que agentes tenham intenção própria. Separar os casos citados, as opiniões dos especialistas e a evidência técnica disponível."
-    },
-    {
-      "title": "Show HN: MemorySync – Memory for AI Agents",
-      "url": "https://news.ycombinator.com/item?id=50070688",
-      "relatedUrl": "https://memorysync.io/try",
-      "points": 22,
-      "comments": 1,
-      "publishedAt": "2026-10-13T12:35:42Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
-      "url": "https://news.ycombinator.com/item?id=50080450",
-      "relatedUrl": "https://github.com/RayenMlayeh/jevcrawl",
-      "points": 17,
-      "comments": 1,
-      "publishedAt": "2026-10-13T23:35:20Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "AI coding agents generate more code, but not more software",
-      "url": "https://news.ycombinator.com/item?id=50059523",
-      "relatedUrl": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "points": 363,
-      "comments": 308,
-      "publishedAt": "2026-10-12T17:14:01Z",
-      "source": "Hacker News official API",
-      "editorialNote": "A conversa no Hacker News começou em 12 OUT; a matéria original da Ars Technica é de 09 OUT. Tratar como discussão reacendida, não como notícia publicada hoje."
     }
   ],
   "trending": [
@@ -903,7 +839,7 @@
     },
     {
       "repo": "nvm-sh/nvm",
-      "starsToday": 45
+      "starsToday": 70
     },
     {
       "repo": "K-Dense-AI/scientific-agent-skills",
@@ -952,12 +888,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29127,
-      "forks": 2822,
-      "issues": 703,
+      "stars": 29154,
+      "forks": 2832,
+      "issues": 706,
       "language": "TypeScript",
       "pushedAt": "2026-10-14T07:29:55Z",
-      "pushedLabel": "push há 8h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -984,7 +920,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 8
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -999,12 +935,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 97253,
-      "forks": 8509,
-      "issues": 211,
+      "stars": 97325,
+      "forks": 8522,
+      "issues": 216,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
-      "pushedLabel": "push há 6d",
+      "pushedLabel": "push há 7d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -1060,7 +996,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 10
+      "rank": 9
     }
   ]
 }
