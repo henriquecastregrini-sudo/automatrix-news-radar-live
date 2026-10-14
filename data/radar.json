@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T22:59:10.172Z",
-  "generatedLabel": "13 de out. de 2026 · 19:59",
+  "generatedAt": "2026-10-14T01:45:27.877Z",
+  "generatedLabel": "13 de out. de 2026 · 22:45",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 205344,
-      "forks": 49993,
-      "issues": 549,
+      "stars": 209113,
+      "forks": 51181,
+      "issues": 532,
       "language": "TypeScript",
-      "pushedAt": "2026-10-13T22:56:11Z",
+      "pushedAt": "2026-10-14T01:42:05Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 54706,
+      "trendingStarsToday": 54679,
       "score": 95,
       "social": [
         {
@@ -256,13 +256,13 @@
         "GitHub Trending"
       ],
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 54014,
-      "forks": 3428,
-      "issues": 43,
+      "stars": 54196,
+      "forks": 3439,
+      "issues": 44,
       "language": "HTML",
       "pushedAt": "2026-10-13T21:48:36Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 1813,
+      "pushedLabel": "push há 4h",
+      "trendingStarsToday": 1815,
       "score": 89,
       "social": [
         {
@@ -360,13 +360,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/lyogavin/airllm",
-      "stars": 38288,
-      "forks": 3916,
-      "issues": 164,
+      "stars": 38358,
+      "forks": 3923,
+      "issues": 166,
       "language": "Jupyter Notebook",
       "pushedAt": "2026-10-13T06:24:34Z",
-      "pushedLabel": "push há 17h",
-      "trendingStarsToday": 1004,
+      "pushedLabel": "push há 19h",
+      "trendingStarsToday": 1001,
       "score": 83,
       "social": [
         {
@@ -439,13 +439,13 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 63086,
-      "forks": 7020,
-      "issues": 146,
+      "stars": 63431,
+      "forks": 7052,
+      "issues": 154,
       "language": "Python",
-      "pushedAt": "2026-10-13T22:28:34Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 2277,
+      "pushedAt": "2026-10-14T01:24:15Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1748,
       "score": 77,
       "social": [
         {
@@ -482,7 +482,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,3 mil stars hoje",
+          "label": "GitHub Trending · 1,7 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -524,7 +524,7 @@
       "title": "context-mode",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 978 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 969 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "broll": [
         "GitHub Trending",
@@ -533,13 +533,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mksglu/context-mode",
-      "stars": 28176,
-      "forks": 1988,
+      "stars": 28269,
+      "forks": 1995,
       "issues": 357,
       "language": "TypeScript",
-      "pushedAt": "2026-10-13T18:06:23Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 978,
+      "pushedAt": "2026-10-14T01:41:54Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 969,
       "score": 73,
       "social": [
         {
@@ -558,7 +558,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 978 stars hoje",
+          "label": "GitHub Trending · 969 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -590,7 +590,7 @@
       "title": "skills",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 187 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 190 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "The open agent skills tool - npx skills",
       "broll": [
         "GitHub Trending",
@@ -599,13 +599,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/vercel-labs/skills",
-      "stars": 34453,
-      "forks": 2950,
-      "issues": 1114,
+      "stars": 34539,
+      "forks": 2953,
+      "issues": 1115,
       "language": "TypeScript",
       "pushedAt": "2026-10-09T17:54:47Z",
       "pushedLabel": "push há 4d",
-      "trendingStarsToday": 187,
+      "trendingStarsToday": 190,
       "score": 55,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -616,7 +616,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 187 stars hoje",
+          "label": "GitHub Trending · 190 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -652,7 +652,7 @@
         "discussão no Hacker News com pontos e comentários"
       ],
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "stars": 707,
+      "stars": 712,
       "forks": 19,
       "issues": 2,
       "language": "Swift",
@@ -714,12 +714,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 28864,
-      "forks": 2796,
+      "stars": 28902,
+      "forks": 2803,
       "issues": 781,
       "language": "TypeScript",
       "pushedAt": "2026-10-13T10:43:52Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -761,8 +761,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 96978,
-      "forks": 8489,
+      "stars": 97007,
+      "forks": 8492,
       "issues": 211,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
@@ -866,26 +866,26 @@
       "title": "AI coding agents generate more code, but not more software",
       "url": "https://news.ycombinator.com/item?id=50059523",
       "relatedUrl": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "points": 358,
+      "points": 360,
       "comments": 299,
       "publishedAt": "2026-10-12T17:14:01Z",
       "source": "Hacker News official API",
       "editorialNote": "A conversa no Hacker News começou em 12 OUT; a matéria original da Ars Technica é de 09 OUT. Tratar como discussão reacendida, não como notícia publicada hoje."
     },
     {
-      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-      "url": "https://news.ycombinator.com/item?id=50049388",
-      "relatedUrl": "https://github.com/plimsollmark/plimsoll",
-      "points": 16,
-      "comments": 3,
-      "publishedAt": "2026-10-11T23:47:59Z",
+      "title": "Show HN: E2E – Open-source agentic testing framework for web, iOS and Android",
+      "url": "https://news.ycombinator.com/item?id=50058032",
+      "relatedUrl": "https://github.com/tester-army/e2e",
+      "points": 9,
+      "comments": 2,
+      "publishedAt": "2026-10-12T15:41:29Z",
       "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "morluto/rea",
-      "starsToday": 54706
+      "starsToday": 54679
     },
     {
       "repo": "bilawalsidhu/gods-eye-view",
@@ -893,31 +893,31 @@
     },
     {
       "repo": "debpalash/VoiceStudio",
-      "starsToday": 2277
+      "starsToday": 1748
     },
     {
       "repo": "mksglu/context-mode",
-      "starsToday": 978
+      "starsToday": 969
     },
     {
       "repo": "cathrynlavery/diagram-design",
-      "starsToday": 1813
+      "starsToday": 1815
     },
     {
       "repo": "vercel-labs/skills",
-      "starsToday": 187
+      "starsToday": 190
     },
     {
       "repo": "lyogavin/airllm",
-      "starsToday": 1004
+      "starsToday": 1001
     },
     {
       "repo": "storytold/artcraft",
-      "starsToday": 4078
+      "starsToday": 4081
     },
     {
       "repo": "xtool-org/xtool",
-      "starsToday": 1182
+      "starsToday": 1198
     }
   ],
   "monitored": [
@@ -934,12 +934,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 28864,
-      "forks": 2796,
+      "stars": 28902,
+      "forks": 2803,
       "issues": 781,
       "language": "TypeScript",
       "pushedAt": "2026-10-13T10:43:52Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -981,8 +981,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 96978,
-      "forks": 8489,
+      "stars": 97007,
+      "forks": 8492,
       "issues": 211,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
