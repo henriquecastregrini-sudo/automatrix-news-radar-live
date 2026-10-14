@@ -89,6 +89,7 @@ const officialProofs = {
 const editorialSources = {
   'NVIDIA/OpenShell': [{ label: 'Sorami · avaliação independente de OpenShell v0.1.2 e logs de teste · 29 SET', url: 'https://sorami.com.au/research/nvidia-openshell-agent-sandbox-test/', kind: 'análise independente' }, { label: 'Sorami · resumo dos quatro ajustes de política que merecem atenção · 29 SET', url: 'https://sorami.com.au/guides/we-tested-nvidia-openshell/', kind: 'análise independente' }],
   'morluto/rea': [{ label: 'Kingy AI · teste técnico limitado: recurso de exportação CSV de um app Electron passou em 14/14 casos declarados; não generalizar para outras classes de software', url: 'https://kingy.ai/blog/reverse-engineer-anything-ai-rea-guide/', kind: 'teste independente' }],
+  'vxcontrol/pentagi': [{ label: 'PentAGI v2.2.0 · release oficial de 05 OUT; correção da CVE-2026-14784 com isolamento de sandbox reforçado e remoção da montagem automática do socket Docker do host', url: 'https://github.com/vxcontrol/pentagi/releases', kind: 'release oficial' }],
   'vectorize-io/hindsight': [{ label: 'SoloSoft · auditoria independente do benchmark e do crescimento · 25 SET', url: 'https://www.solosoft.dev/post/hindsight-agent-memory-audit/', kind: 'análise independente' }],
 };
 
@@ -443,7 +444,7 @@ const newsCandidates = (hn.hits || [])
   .filter((item) => newsRelevance.test(item.title || item.story_title || ''))
   .sort((a, b) => ((b.points || 0) + (b.num_comments || 0) * 2) - ((a.points || 0) + (a.num_comments || 0) * 2) || new Date(b.created_at || 0) - new Date(a.created_at || 0));
 const hnEditorialNotes = {
-  '50085323': 'Ressalva essencial: a TV4 confirma perda do material editado e adiamento, mas não confirmou que um agente de IA causou o incidente; em atualização de 14 OUT, a direção do programa rejeitou essa atribuição. A Euronews informa que as imagens originais permanecem e a edição será refeita. Tratar como falha técnica confirmada e causa por IA contestada, não como exclusão por agente comprovada.',
+  '50085323': 'Correção essencial (14 OUT): a TV4 confirma perda do corte editado e adiamento, mas diz que a causa foi falha no backup e rejeita que um agente de IA tenha apagado o material. O material bruto permanece e a temporada será reeditada. Tratar como falha de backup confirmada e atribuição a IA refutada pela emissora, não como incidente de agente comprovado.',
   '50059523': 'A conversa no Hacker News começou em 12 OUT; a matéria original da Ars Technica é de 09 OUT. Tratar como discussão reacendida, não como notícia publicada hoje.',
   '50039092': 'O post no Hacker News é recente, mas a publicação original do autor é de 09 OUT. Os pontos medem a conversa atual; não a data da descoberta nem a precisão geral do método.',
 };
@@ -524,7 +525,7 @@ const news = (await Promise.all(uniqueNews([...additionalNews, ...newsCandidates
   return {
     title: item.title || item.story_title,
     url: item.objectID ? `https://news.ycombinator.com/item?id=${item.objectID}` : item.url || item.story_url,
-    ...(item.objectID && (item.url || item.story_url) ? { relatedUrl: item.objectID === '50085323' ? 'https://www.tv4.se/artikel/tt-261014-thechallenge1-e22c8968/tekniskt-haveri-tv4-skjuter-upp-realitysatsning' : item.url || item.story_url } : {}),
+    ...(item.objectID && (item.url || item.story_url) ? { relatedUrl: item.objectID === '50085323' ? 'https://www.tv4.se/artikel/2iwfK5MNpFID98pxQbsC7t/hel-saesong-av-tv4-programmet-raderat-av-ai' : item.url || item.story_url } : {}),
     points: official?.score ?? item.points ?? null,
     comments: official?.descendants ?? item.num_comments ?? null,
     publishedAt: item.created_at || item.publishedAt || null,
