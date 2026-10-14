@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T01:45:27.877Z",
-  "generatedLabel": "13 de out. de 2026 · 22:45",
+  "generatedAt": "2026-10-14T15:34:19.904Z",
+  "generatedLabel": "14 de out. de 2026 · 12:34",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -76,7 +76,7 @@
       "title": "rea",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 54,7 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 41,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "broll": [
         "GitHub Trending",
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 209113,
-      "forks": 51181,
-      "issues": 532,
+      "stars": 232265,
+      "forks": 57900,
+      "issues": 693,
       "language": "TypeScript",
-      "pushedAt": "2026-10-14T01:42:05Z",
+      "pushedAt": "2026-10-14T15:30:54Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 54679,
+      "trendingStarsToday": 41187,
       "score": 95,
       "social": [
         {
@@ -170,7 +170,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 54,7 mil stars hoje",
+          "label": "GitHub Trending · 41,2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -243,189 +243,6 @@
       "rank": 1
     },
     {
-      "repo": "cathrynlavery/diagram-design",
-      "title": "Diagram Design",
-      "type": "Visual para agentes",
-      "status": "Gravar agora",
-      "hook": "Uma coleção de skills está ensinando agentes a criar diagramas editoriais sem o visual genérico de IA.",
-      "thesis": "Design visual está virando uma habilidade reutilizável por agentes de código.",
-      "broll": [
-        "galeria de diagramas",
-        "HTML e SVG",
-        "README",
-        "GitHub Trending"
-      ],
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 54196,
-      "forks": 3439,
-      "issues": 44,
-      "language": "HTML",
-      "pushedAt": "2026-10-13T21:48:36Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 1815,
-      "score": 89,
-      "social": [
-        {
-          "platform": "X · menções indexadas pelo Trendshift",
-          "label": "3 posts indexados em 13 OUT; perfis @limuvibecoding, @taozi0603 e @jack1191484. Um destaca limite de edição manual; métricas individuais não visíveis e post original não carregou na consulta",
-          "url": "https://trendshift.io/repositories/26141",
-          "publishedAt": "2026-10-13",
-          "verifiedAt": "13 OUT 2026"
-        },
-        {
-          "platform": "X · menções indexadas pelo Trendshift",
-          "label": "Posts de @goan999999, @Levi_J_Peng, @YuzhiyanLucian, @olojiang e @shanyanggm em 12 OUT discutem diagramas HTML/SVG e editabilidade; métricas por post não visíveis",
-          "url": "https://trendshift.io/repositories/26141",
-          "publishedAt": "2026-10-12",
-          "verifiedAt": "12 OUT 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/BestGitHubRepos · post direto apresenta tipos de diagramas editoriais e compatibilidade com agentes · 57 votos públicos · publicado 07 OUT",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wzu0gm/diagram_design_editorial_diagrams_your_designer/",
-          "engagement": 57,
-          "publishedAt": "2026-10-07",
-          "verifiedAt": "09 OUT 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "YAHA · Diagram Design em primeiro no GitHub · 20,9k views · publicado 03 SET · referência histórica",
-          "url": "https://www.youtube.com/watch?v=rq4EHbqaaAk",
-          "views": 20919,
-          "publishedAt": "2026-09-03",
-          "verifiedAt": "08 SET 2026"
-        }
-      ],
-      "socialStatus": "referência recente verificada; varredura de 13 OUT: menções do X indexadas pelo Trendshift, sem métricas nativas; nenhum post recente atribuível de outras plataformas foi confirmado nesta consulta",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/cathrynlavery/diagram-design",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,8 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "X · menções indexadas pelo Trendshift · 3 posts indexados em 13 OUT; perfis @limuvibecoding, @taozi0603 e @jack1191484. Um destaca limite de edição manual; métricas individuais não visíveis e post original não carregou na consulta",
-          "url": "https://trendshift.io/repositories/26141",
-          "kind": "social"
-        },
-        {
-          "label": "X · menções indexadas pelo Trendshift · Posts de @goan999999, @Levi_J_Peng, @YuzhiyanLucian, @olojiang e @shanyanggm em 12 OUT discutem diagramas HTML/SVG e editabilidade; métricas por post não visíveis",
-          "url": "https://trendshift.io/repositories/26141",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/BestGitHubRepos · post direto apresenta tipos de diagramas editoriais e compatibilidade com agentes · 57 votos públicos · publicado 07 OUT",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wzu0gm/diagram_design_editorial_diagrams_your_designer/",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · YAHA · Diagram Design em primeiro no GitHub · 20,9k views · publicado 03 SET · referência histórica",
-          "url": "https://www.youtube.com/watch?v=rq4EHbqaaAk",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=cathrynlavery%20diagram-design%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Diagram%20Design%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Diagram%20Design%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "repo": "lyogavin/airllm",
-      "title": "airllm",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "AirLLM 2.8T LLM inference with single 4GB GPU",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/lyogavin/airllm",
-      "stars": 38358,
-      "forks": 3923,
-      "issues": 166,
-      "language": "Jupyter Notebook",
-      "pushedAt": "2026-10-13T06:24:34Z",
-      "pushedLabel": "push há 19h",
-      "trendingStarsToday": 1001,
-      "score": 83,
-      "social": [
-        {
-          "platform": "X · menções indexadas pelo Trendshift",
-          "label": "5 posts indexados em 13 OUT sobre inferência de modelos grandes com pouca VRAM; pelo menos um compara o custo de streaming por camadas e ressalta lentidão. Métricas individuais não visíveis; alegações de tamanho/modelo precisam de teste reproduzível",
-          "url": "https://trendshift.io/repositories/18741",
-          "publishedAt": "2026-10-13",
-          "verifiedAt": "13 OUT 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/BestGitHubRepos · showcase promocional sobre 70B em GPU de 4 GB · 4 votos públicos na checagem de 13 OUT; alcance orgânico não corroborado",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1x3zd1a/airllm_70b_inference_with_single_4gb_gpu_368k/",
-          "engagement": 4,
-          "publishedAt": "2026-10-12",
-          "verifiedAt": "13 OUT 2026"
-        }
-      ],
-      "socialStatus": "referência recente verificada; varredura de 13 OUT: menções do X indexadas pelo Trendshift, sem métricas nativas; nenhum post recente atribuível de outras plataformas foi confirmado nesta consulta",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/lyogavin/airllm",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "X · menções indexadas pelo Trendshift · 5 posts indexados em 13 OUT sobre inferência de modelos grandes com pouca VRAM; pelo menos um compara o custo de streaming por camadas e ressalta lentidão. Métricas individuais não visíveis; alegações de tamanho/modelo precisam de teste reproduzível",
-          "url": "https://trendshift.io/repositories/18741",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/BestGitHubRepos · showcase promocional sobre 70B em GPU de 4 GB · 4 votos públicos na checagem de 13 OUT; alcance orgânico não corroborado",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1x3zd1a/airllm_70b_inference_with_single_4gb_gpu_368k/",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=lyogavin%20airllm%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=airllm%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=airllm%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "repo": "debpalash/VoiceStudio",
       "title": "VoiceStudio",
       "type": "Voz e dublagem local",
@@ -439,13 +256,13 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 63431,
-      "forks": 7052,
-      "issues": 154,
+      "stars": 65346,
+      "forks": 7231,
+      "issues": 162,
       "language": "Python",
-      "pushedAt": "2026-10-14T01:24:15Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1748,
+      "pushedAt": "2026-10-14T14:57:05Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 3547,
       "score": 77,
       "social": [
         {
@@ -482,7 +299,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,7 mil stars hoje",
+          "label": "GitHub Trending · 3,5 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -517,14 +334,67 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 2
+    },
+    {
+      "repo": "ifixai-ai/iFixAi",
+      "title": "iFixAi",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 2,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "stars": 26844,
+      "forks": 1486,
+      "issues": 7,
+      "language": "Python",
+      "pushedAt": "2026-10-14T09:24:48Z",
+      "pushedLabel": "push há 6h",
+      "trendingStarsToday": 2143,
+      "score": 76,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ifixai-ai/iFixAi",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 2,1 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=ifixai-ai%20iFixAi%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=iFixAi%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=iFixAi%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 3
     },
     {
       "repo": "mksglu/context-mode",
       "title": "context-mode",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 969 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 946 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
       "broll": [
         "GitHub Trending",
@@ -533,14 +403,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mksglu/context-mode",
-      "stars": 28269,
-      "forks": 1995,
+      "stars": 28847,
+      "forks": 2024,
       "issues": 357,
       "language": "TypeScript",
-      "pushedAt": "2026-10-14T01:41:54Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 969,
-      "score": 73,
+      "pushedAt": "2026-10-14T15:00:51Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 946,
+      "score": 72,
       "social": [
         {
           "platform": "X · menções indexadas pelo Trendshift",
@@ -558,7 +428,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 969 stars hoje",
+          "label": "GitHub Trending · 946 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -583,60 +453,76 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
-      "repo": "vercel-labs/skills",
-      "title": "skills",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 190 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "The open agent skills tool - npx skills",
+      "repo": "vxcontrol/pentagi",
+      "title": "PentAGI",
+      "type": "Agente autônomo de cibersegurança",
+      "status": "Gravar agora",
+      "hook": "Este agente coloca uma equipe inteira de pentest dentro de um ambiente isolado e executa as etapas sozinho.",
+      "thesis": "Agentes de segurança estão deixando de apenas sugerir comandos para operar terminal, navegador, memória e centenas de ferramentas em fluxos autônomos.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "painel oficial",
+        "terminal executando testes",
+        "grafo de conhecimento",
+        "alerta de uso ético e autorizado"
       ],
-      "url": "https://github.com/vercel-labs/skills",
-      "stars": 34539,
-      "forks": 2953,
-      "issues": 1115,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-09T17:54:47Z",
-      "pushedLabel": "push há 4d",
-      "trendingStarsToday": 190,
-      "score": 55,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "stars": 28963,
+      "forks": 4348,
+      "issues": 21,
+      "language": "Go",
+      "pushedAt": "2026-10-09T20:54:31Z",
+      "pushedLabel": "push há 5d",
+      "trendingStarsToday": 1070,
+      "score": 66,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "VXControl · visão geral oficial do PentAGI · 66,9k views · publicado 09 JAN 2025",
+          "url": "https://www.youtube.com/watch?v=R70x5Ddzs1o",
+          "views": 66873,
+          "likes": 533,
+          "comments": 27,
+          "publishedAt": "2025-01-09",
+          "verifiedAt": "13 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/vercel-labs/skills",
+          "url": "https://github.com/vxcontrol/pentagi",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 190 stars hoje",
+          "label": "GitHub Trending · 1,1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
+          "label": "YouTube · VXControl · visão geral oficial do PentAGI · 66,9k views · publicado 09 JAN 2025",
+          "url": "https://www.youtube.com/watch?v=R70x5Ddzs1o",
+          "kind": "social"
+        },
+        {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=vercel-labs%20skills%20AI",
+          "url": "https://www.youtube.com/results?search_query=vxcontrol%20pentagi%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=skills%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=PentAGI%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=skills%20AI",
+          "url": "https://www.tiktok.com/search?q=PentAGI%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "repo": "franzenzenhofer/big-arrow-on-the-screen",
@@ -652,14 +538,14 @@
         "discussão no Hacker News com pontos e comentários"
       ],
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "stars": 712,
+      "stars": 740,
       "forks": 19,
       "issues": 2,
       "language": "Swift",
       "pushedAt": "2026-10-12T16:38:15Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
-      "score": 55,
+      "score": 56,
       "social": [
         {
           "platform": "Hacker News",
@@ -699,7 +585,127 @@
           "kind": "busca"
         }
       ],
+      "rank": 6
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "type": "Agentes científicos",
+      "status": "Usar como comparação",
+      "hook": "A próxima geração de cientistas talvez seja uma coleção de skills.",
+      "thesis": "Skills especializadas transformam agentes em operadores de pesquisa.",
+      "broll": [
+        "diretório de skills",
+        "K-Dense",
+        "paper",
+        "demo"
+      ],
+      "title": "scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "stars": 49047,
+      "forks": 4401,
+      "issues": 23,
+      "language": "Python",
+      "pushedAt": "2026-10-12T09:43:31Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 146,
+      "score": 54,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "K-Dense · skills científicas · 13,5k views · publicado 18 FEV",
+          "url": "https://www.youtube.com/watch?v=ZxbnDaD_FVg",
+          "views": 13534,
+          "publishedAt": "2026-02-18",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 146 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · K-Dense · skills científicas · 13,5k views · publicado 18 FEV",
+          "url": "https://www.youtube.com/watch?v=ZxbnDaD_FVg",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=K-Dense-AI%20scientific-agent-skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=scientific-agent-skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=scientific-agent-skills%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 7
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "title": "CLI-Anything",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 94 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "stars": 52280,
+      "forks": 4761,
+      "issues": 150,
+      "language": "Python",
+      "pushedAt": "2026-09-22T02:01:29Z",
+      "pushedLabel": "push há 23d",
+      "trendingStarsToday": 94,
+      "score": 52,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 94 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=HKUDS%20CLI-Anything%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=CLI-Anything%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=CLI-Anything%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 8
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -714,12 +720,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 28902,
-      "forks": 2803,
-      "issues": 781,
+      "stars": 29127,
+      "forks": 2822,
+      "issues": 703,
       "language": "TypeScript",
-      "pushedAt": "2026-10-13T10:43:52Z",
-      "pushedLabel": "push há 15h",
+      "pushedAt": "2026-10-14T07:29:55Z",
+      "pushedLabel": "push há 8h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -746,7 +752,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -761,8 +767,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 97007,
-      "forks": 8492,
+      "stars": 97253,
+      "forks": 8509,
       "issues": 211,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
@@ -822,10 +828,28 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 10
     }
   ],
   "news": [
+    {
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://news.ycombinator.com/item?id=50085323",
+      "relatedUrl": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "points": 83,
+      "comments": 48,
+      "publishedAt": "2026-10-14T10:28:26Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
+      "url": "https://news.ycombinator.com/item?id=50085259",
+      "relatedUrl": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
+      "points": 52,
+      "comments": 57,
+      "publishedAt": "2026-10-14T10:21:13Z",
+      "source": "Hacker News official API"
+    },
     {
       "title": "Axios: modelos de IA estão encontrando formas de escapar de restrições",
       "url": "https://www.axios.com/2026/10/13/rogue-ai-agents-sandbox-defenses",
@@ -845,79 +869,73 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "Show HN: Agor, multiplayer AI – stop running agents alone",
-      "url": "https://news.ycombinator.com/item?id=50073109",
-      "relatedUrl": "https://github.com/preset-io/agor",
-      "points": 9,
-      "comments": 2,
-      "publishedAt": "2026-10-13T15:19:35Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Why aren't AI companies being charged for hacking?",
-      "url": "https://news.ycombinator.com/item?id=50057278",
-      "relatedUrl": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
-      "points": 329,
-      "comments": 366,
-      "publishedAt": "2026-10-12T14:52:37Z",
+      "title": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
+      "url": "https://news.ycombinator.com/item?id=50080450",
+      "relatedUrl": "https://github.com/RayenMlayeh/jevcrawl",
+      "points": 17,
+      "comments": 1,
+      "publishedAt": "2026-10-13T23:35:20Z",
       "source": "Hacker News official API"
     },
     {
       "title": "AI coding agents generate more code, but not more software",
       "url": "https://news.ycombinator.com/item?id=50059523",
       "relatedUrl": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "points": 360,
-      "comments": 299,
+      "points": 363,
+      "comments": 308,
       "publishedAt": "2026-10-12T17:14:01Z",
       "source": "Hacker News official API",
       "editorialNote": "A conversa no Hacker News começou em 12 OUT; a matéria original da Ars Technica é de 09 OUT. Tratar como discussão reacendida, não como notícia publicada hoje."
-    },
-    {
-      "title": "Show HN: E2E – Open-source agentic testing framework for web, iOS and Android",
-      "url": "https://news.ycombinator.com/item?id=50058032",
-      "relatedUrl": "https://github.com/tester-army/e2e",
-      "points": 9,
-      "comments": 2,
-      "publishedAt": "2026-10-12T15:41:29Z",
-      "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "morluto/rea",
-      "starsToday": 54679
-    },
-    {
-      "repo": "bilawalsidhu/gods-eye-view",
-      "starsToday": 1961
+      "starsToday": 41187
     },
     {
       "repo": "debpalash/VoiceStudio",
-      "starsToday": 1748
+      "starsToday": 3547
     },
     {
       "repo": "mksglu/context-mode",
-      "starsToday": 969
+      "starsToday": 946
     },
     {
-      "repo": "cathrynlavery/diagram-design",
-      "starsToday": 1815
+      "repo": "nvm-sh/nvm",
+      "starsToday": 45
     },
     {
-      "repo": "vercel-labs/skills",
-      "starsToday": 190
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "starsToday": 146
     },
     {
-      "repo": "lyogavin/airllm",
-      "starsToday": 1001
+      "repo": "HKUDS/CLI-Anything",
+      "starsToday": 94
     },
     {
-      "repo": "storytold/artcraft",
-      "starsToday": 4081
+      "repo": "ifixai-ai/iFixAi",
+      "starsToday": 2143
+    },
+    {
+      "repo": "vxcontrol/pentagi",
+      "starsToday": 1070
+    },
+    {
+      "repo": "rust-lang/rust",
+      "starsToday": 205
     },
     {
       "repo": "xtool-org/xtool",
-      "starsToday": 1198
+      "starsToday": 1510
+    },
+    {
+      "repo": "ntdevlabs/tiny11builder",
+      "starsToday": 194
+    },
+    {
+      "repo": "NationalSecurityAgency/ghidra",
+      "starsToday": 1002
     }
   ],
   "monitored": [
@@ -934,12 +952,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 28902,
-      "forks": 2803,
-      "issues": 781,
+      "stars": 29127,
+      "forks": 2822,
+      "issues": 703,
       "language": "TypeScript",
-      "pushedAt": "2026-10-13T10:43:52Z",
-      "pushedLabel": "push há 15h",
+      "pushedAt": "2026-10-14T07:29:55Z",
+      "pushedLabel": "push há 8h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -966,7 +984,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -981,8 +999,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 97007,
-      "forks": 8492,
+      "stars": 97253,
+      "forks": 8509,
       "issues": 211,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
@@ -1042,7 +1060,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 10
     }
   ]
 }
