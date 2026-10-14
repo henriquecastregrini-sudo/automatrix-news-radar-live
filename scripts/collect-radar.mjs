@@ -174,18 +174,19 @@ const socialReferences = {
   'cloudflare/security-audit-skill': [{ platform: 'YouTube', label: 'Signal Coders · Security Audit Skill · 648 views · 12 likes · sinal inicial de 17 SET', url: 'https://www.youtube.com/watch?v=D6Iw15EHPfA', views: 648, likes: 12, publishedAt: '2026-09-17', verifiedAt: '19 SET 2026' }],
   'ManimCommunity/manim': [{ platform: 'YouTube', label: 'Bog · IA programando animação em Manim · 103,3k views · 4,3k likes · prova histórica de 03 JAN 2025', url: 'https://www.youtube.com/watch?v=O6TjkLwUAtg', views: 103311, likes: 4341, comments: 182, publishedAt: '2025-01-03', verifiedAt: '15 SET 2026' }],
   'debpalash/VoiceStudio': [
-    { platform: 'X · menções indexadas pelo Trendshift', label: '5 posts indexados em 13 OUT sobre clonagem, dublagem e execução local; perfis @StatevergeCN, @maga_musk, @yupi996 e @cywcycw. Posts repetem alegações promocionais; métricas nativas e validação independente não visíveis', url: 'https://trendshift.io/repositories/28176', publishedAt: '2026-10-13', verifiedAt: '13 OUT 2026' },
+    { platform: 'X · menções indexadas pelo Trendshift', label: '5 posts indexados em 14 OUT; perfis @Chris480096, @limuvibecoding, @maga_musk, @a89eef9371 e @wanmeiyinshen. Repetem alegações sobre execução local/646 idiomas; métricas nativas e validação independente não visíveis', url: 'https://trendshift.io/repositories/28176', publishedAt: '2026-10-14', verifiedAt: '14 OUT 2026' },
     { platform: 'Instagram', label: '@niyi.tech · alternativa local ao ElevenLabs · 1,9k likes públicos · observado 21 AGO', url: 'https://www.instagram.com/reel/DYg7o7Um4Qb/', likes: 1900, publishedAt: '2026-08-21', verifiedAt: '14 SET 2026' },
     { platform: 'YouTube', label: 'AiThatSpeaks · clonagem e dublagem local · 7,8k views · 158 likes · publicado 17 JUL', url: 'https://www.youtube.com/watch?v=xkFkvxYKe1Q', views: 7823, likes: 158, comments: 58, publishedAt: '2026-07-17', verifiedAt: '15 SET 2026' },
   ],
   'NationalSecurityAgency/ghidra': [{ platform: 'YouTube', label: 'Jackson Mittag · Claude + Ghidra MCP · 51,9k views · 1,8k likes · publicado 10 ABR', url: 'https://www.youtube.com/watch?v=ybSWI2cZzIU', views: 51914, likes: 1811, comments: 207, publishedAt: '2026-04-10', verifiedAt: '15 SET 2026' }],
-  'vxcontrol/pentagi': [{ platform: 'YouTube', label: 'VXControl · visão geral oficial do PentAGI · 66,9k views · publicado 09 JAN 2025', url: 'https://www.youtube.com/watch?v=R70x5Ddzs1o', views: 66873, likes: 533, comments: 27, publishedAt: '2025-01-09', verifiedAt: '13 SET 2026' }],
+  'vxcontrol/pentagi': [{ platform: 'YouTube · referência histórica', label: 'VXControl · visão geral oficial publicada em 09 JAN 2025; checagem pública de 14 OUT não confirmou referência social atribuível mais recente; contagens antigas não entram como sinal de hype atual', url: 'https://www.youtube.com/watch?v=R70x5Ddzs1o', views: 66873, likes: 533, comments: 27, publishedAt: '2025-01-09', verifiedAt: '14 OUT 2026' }],
   'calesthio/OpenMontage': [{ platform: 'YouTube', label: 'Julian Goldie SEO · OpenMontage open-source · 20,2k views · 288 likes · publicado 27 JUN', url: 'https://www.youtube.com/watch?v=kHjROFbd7J4', views: 20167, likes: 288, comments: 15, publishedAt: '2026-06-27', verifiedAt: '13 SET 2026' }],
   'jihe520/MathModelAgent': [{ platform: 'YouTube', label: 'hen ji · modelagem matemática automática · 801 views · publicado 01 MAI 2025', url: 'https://www.youtube.com/watch?v=PO9lGVyh2t8', views: 801, likes: 12, comments: 4, publishedAt: '2025-05-01', verifiedAt: '12 SET 2026' }],
   'magnitudedev/magnitude': [],
   'K-Dense-AI/scientific-agent-skills': [{ platform: 'YouTube', label: 'K-Dense · skills científicas · 13,5k views · publicado 18 FEV', url: 'https://www.youtube.com/watch?v=ZxbnDaD_FVg', views: 13534, publishedAt: '2026-02-18', verifiedAt: '07 SET 2026' }],
   'morluto/rea': [
-    { platform: 'X · menções indexadas pelo Trendshift', label: '5 posts indexados em 13 OUT; um descreve fluxo REA + Claude Code para investigar o app Realme Link. Métricas individuais não visíveis; outras menções misturam hype e afirmações não demonstradas; o X direto retornou 403', url: 'https://trendshift.io/repositories/82054', publishedAt: '2026-10-13', verifiedAt: '13 OUT 2026' },
+    { platform: 'X · menções indexadas pelo Trendshift', label: '5 posts indexados em 14 OUT, 10 no bloco recente; perfis incluem @Slonski_rt, @AImonreal, @BrookJhonMT, @WaleatX e @starmexxx. Incluem ressalvas sobre alvos difíceis e alegações de clonagem não demonstradas; sem métricas nativas', url: 'https://trendshift.io/repositories/82054', publishedAt: '2026-10-14', verifiedAt: '14 OUT 2026' },
+    { platform: 'YouTube · demonstração independente', label: 'Vivek Mishra · walkthrough publicado em 14 OUT com teste de REA em app próprio; página agregadora mostra métricas não confirmadas no YouTube nativo. Tratar como referência de roteiro/B-roll, não como prova de clonagem geral', url: 'https://www.youtube.com/watch?v=fCSNcSHLyWc', publishedAt: '2026-10-14', verifiedAt: '14 OUT 2026' },
     { platform: 'Reddit · menção indexada pelo Trendshift', label: 'Discussão em r/miband sobre engenharia reversa do app Mi Fitness; menção indexada em 13 OUT, sem votos ou comentário contável visível na checagem', url: 'https://trendshift.io/repositories/82054', publishedAt: '2026-10-13', verifiedAt: '13 OUT 2026' },
     { platform: 'V2EX · fórum de desenvolvedores', label: 'Discussão recente sobre REA e limites éticos da engenharia reversa · página pública mostra 2.787 visualizações e 18 respostas · sinal de discussão, não validação independente do produto', url: 'https://staging.v2ex.com/t/1248041', engagement: 18, publishedAt: '2026-10-12T09:40:34Z', verifiedAt: '12 OUT 2026' },
     { platform: 'Reddit', label: 'r/tech_x · discussão pública do REA com 1.452 votos visíveis; comentários atualizados em 12 OUT incluem um teste relatado em quatro binários pequenos, sem permitir generalização para alvos maiores ou obfuscados', url: 'https://www.reddit.com/r/tech_x/comments/1x2d66l/github_project_called_rea_reverse_engineer/', engagement: 1452, publishedAt: '2026-10-10', verifiedAt: '12 OUT 2026' },
@@ -213,8 +214,19 @@ const socialReferences = {
     { platform: 'Reddit', label: 'r/BestGitHubRepos · showcase promocional sobre 70B em GPU de 4 GB · 4 votos públicos na checagem de 13 OUT; alcance orgânico não corroborado', url: 'https://www.reddit.com/r/BestGitHubRepos/comments/1x3zd1a/airllm_70b_inference_with_single_4gb_gpu_368k/', engagement: 4, publishedAt: '2026-10-12', verifiedAt: '13 OUT 2026' },
   ],
   'mksglu/context-mode': [
-    { platform: 'X · menções indexadas pelo Trendshift', label: '5 posts indexados em 13 OUT; perfis @ChinaAIDaily, @limuvibecoding, @cywcycw e outros discutem sandbox de saídas, MCP e memória de sessão. A redução de 98% é alegação do projeto e não foi reproduzida aqui; métricas individuais dos posts não visíveis', url: 'https://trendshift.io/repositories/24012', publishedAt: '2026-10-13', verifiedAt: '13 OUT 2026' },
+    { platform: 'X · menções indexadas pelo Trendshift', label: 'Últimas 5 menções indexadas em 13 OUT; busca de 14 OUT não encontrou post atribuível mais novo. Discussão sobre sandbox de saídas, MCP e memória de sessão; redução de 98% é alegação do projeto, sem métricas nativas das menções', url: 'https://trendshift.io/repositories/24012', publishedAt: '2026-10-13', verifiedAt: '14 OUT 2026' },
   ],
+  'ifixai-ai/iFixAi': [
+    { platform: 'X · menção indexada pelo Trendshift', label: 'Último post indexado em 13 OUT por @ElameaKiki; a checagem de 14 OUT não encontrou referência atribuível mais nova. Conteúdo promocional sobre auditoria de agentes, sem métrica nativa visível', url: 'https://trendshift.io/repositories/29638', publishedAt: '2026-10-13', verifiedAt: '14 OUT 2026' },
+  ],
+};
+
+const socialAuditNotes = {
+  'morluto/rea': 'Varredura de 14 OUT: X tem menções indexadas pelo Trendshift e há walkthrough no YouTube publicado hoje; métricas do vídeo não confirmadas na página nativa. Reddit mais recente localizado é de 13 OUT; sem link atual atribuível de Instagram/Reels, TikTok ou LinkedIn.',
+  'debpalash/VoiceStudio': 'Varredura de 14 OUT: Trendshift indexa 5 posts de X hoje, mas repetem alegações promocionais sem métricas nativas. YouTube/Instagram encontrados são históricos; LinkedIn tem menções sem permalink/data/engajamento verificáveis. Sem referência atual atribuível de Shorts, Reels ou TikTok.',
+  'ifixai-ai/iFixAi': 'Varredura de 14 OUT: última menção indexada em X é de 13 OUT e o Reddit localizável é antigo; sem post atual atribuível verificado em YouTube/Shorts, Instagram/Reels, TikTok ou LinkedIn.',
+  'mksglu/context-mode': 'Varredura de 14 OUT: última menção indexada em X é de 13 OUT; sem post atual atribuível verificado em YouTube/Shorts, Instagram/Reels, TikTok, Reddit ou LinkedIn. Alegação de redução de 98% segue sem reprodução independente nesta consulta.',
+  'vxcontrol/pentagi': 'Varredura de 14 OUT: não localizei sinal social recente atribuível; referência de YouTube é institucional e histórica (09 JAN 2025). Sem post atual confirmado em Shorts, Instagram/Reels, TikTok, X, Reddit ou LinkedIn.',
 };
 
 async function getJson(url, fallback) {
@@ -356,9 +368,11 @@ const collectedRepos = await Promise.all(runTracked.map(async (item) => {
     trendingStarsToday: starsToday || null,
     score,
     social,
-    socialStatus: indexedXSignal
-      ? `${socialStatus}; varredura de 13 OUT: menções do X indexadas pelo Trendshift, sem métricas nativas; nenhum post recente atribuível de outras plataformas foi confirmado nesta consulta`
-      : socialStatus,
+    socialStatus: socialAuditNotes[item.repo]
+      ? `${socialStatus}; ${socialAuditNotes[item.repo]}`
+      : indexedXSignal
+        ? `${socialStatus}; varredura deste snapshot: menções do X indexadas pelo Trendshift, sem métricas nativas; outras plataformas só contam quando há link, data e sinal público confirmados`
+        : socialStatus,
     sources: [
       { label: 'GitHub', url: api.html_url || `https://github.com/${item.repo}`, kind: 'oficial' },
       ...(starsToday ? [{ label: `GitHub Trending · ${compact(starsToday)} stars hoje`, url: 'https://github.com/trending', kind: 'tendência' }] : []),
@@ -424,10 +438,12 @@ function uniqueNews(items) {
 const newsCandidates = (hn.hits || [])
   .filter((item) => item.url || item.story_url)
   .filter((item) => new Date(item.created_at || 0).getTime() >= newsCutoff)
+  .filter((item) => item.objectID !== '50085259')
   .filter((item) => !String(item.url || item.story_url || '').includes('/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/'))
   .filter((item) => newsRelevance.test(item.title || item.story_title || ''))
   .sort((a, b) => ((b.points || 0) + (b.num_comments || 0) * 2) - ((a.points || 0) + (a.num_comments || 0) * 2) || new Date(b.created_at || 0) - new Date(a.created_at || 0));
 const hnEditorialNotes = {
+  '50085323': 'Ressalva essencial: a TV4 confirma perda do material editado e adiamento, mas não confirmou que um agente de IA causou o incidente; em atualização de 14 OUT, a direção do programa rejeitou essa atribuição. A Euronews informa que as imagens originais permanecem e a edição será refeita. Tratar como falha técnica confirmada e causa por IA contestada, não como exclusão por agente comprovada.',
   '50059523': 'A conversa no Hacker News começou em 12 OUT; a matéria original da Ars Technica é de 09 OUT. Tratar como discussão reacendida, não como notícia publicada hoje.',
   '50039092': 'O post no Hacker News é recente, mas a publicação original do autor é de 09 OUT. Os pontos medem a conversa atual; não a data da descoberta nem a precisão geral do método.',
 };
@@ -508,7 +524,7 @@ const news = (await Promise.all(uniqueNews([...additionalNews, ...newsCandidates
   return {
     title: item.title || item.story_title,
     url: item.objectID ? `https://news.ycombinator.com/item?id=${item.objectID}` : item.url || item.story_url,
-    ...(item.objectID && (item.url || item.story_url) ? { relatedUrl: item.url || item.story_url } : {}),
+    ...(item.objectID && (item.url || item.story_url) ? { relatedUrl: item.objectID === '50085323' ? 'https://www.tv4.se/artikel/tt-261014-thechallenge1-e22c8968/tekniskt-haveri-tv4-skjuter-upp-realitysatsning' : item.url || item.story_url } : {}),
     points: official?.score ?? item.points ?? null,
     comments: official?.descendants ?? item.num_comments ?? null,
     publishedAt: item.created_at || item.publishedAt || null,

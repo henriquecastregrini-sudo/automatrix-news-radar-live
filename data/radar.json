@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T20:26:39.107Z",
-  "generatedLabel": "14 de out. de 2026 · 17:26",
+  "generatedAt": "2026-10-14T21:58:35.021Z",
+  "generatedLabel": "14 de out. de 2026 · 18:58",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,21 +85,28 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 238149,
-      "forks": 59316,
-      "issues": 711,
+      "stars": 239469,
+      "forks": 59573,
+      "issues": 796,
       "language": "TypeScript",
-      "pushedAt": "2026-10-14T20:22:01Z",
+      "pushedAt": "2026-10-14T21:57:19Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 41187,
       "score": 95,
       "social": [
         {
           "platform": "X · menções indexadas pelo Trendshift",
-          "label": "5 posts indexados em 13 OUT; um descreve fluxo REA + Claude Code para investigar o app Realme Link. Métricas individuais não visíveis; outras menções misturam hype e afirmações não demonstradas; o X direto retornou 403",
+          "label": "5 posts indexados em 14 OUT, 10 no bloco recente; perfis incluem @Slonski_rt, @AImonreal, @BrookJhonMT, @WaleatX e @starmexxx. Incluem ressalvas sobre alvos difíceis e alegações de clonagem não demonstradas; sem métricas nativas",
           "url": "https://trendshift.io/repositories/82054",
-          "publishedAt": "2026-10-13",
-          "verifiedAt": "13 OUT 2026"
+          "publishedAt": "2026-10-14",
+          "verifiedAt": "14 OUT 2026"
+        },
+        {
+          "platform": "YouTube · demonstração independente",
+          "label": "Vivek Mishra · walkthrough publicado em 14 OUT com teste de REA em app próprio; página agregadora mostra métricas não confirmadas no YouTube nativo. Tratar como referência de roteiro/B-roll, não como prova de clonagem geral",
+          "url": "https://www.youtube.com/watch?v=fCSNcSHLyWc",
+          "publishedAt": "2026-10-14",
+          "verifiedAt": "14 OUT 2026"
         },
         {
           "platform": "Reddit · menção indexada pelo Trendshift",
@@ -162,7 +169,7 @@
           "verifiedAt": "07 OUT 2026"
         }
       ],
-      "socialStatus": "post promocional não comprova alcance orgânico; há discussão independente recente com votos públicos, mas relato técnico é limitado e não generalizável; métricas nativas do vídeo pendentes; varredura de 13 OUT: menções do X indexadas pelo Trendshift, sem métricas nativas; nenhum post recente atribuível de outras plataformas foi confirmado nesta consulta",
+      "socialStatus": "post promocional não comprova alcance orgânico; há discussão independente recente com votos públicos, mas relato técnico é limitado e não generalizável; métricas nativas do vídeo pendentes; Varredura de 14 OUT: X tem menções indexadas pelo Trendshift e há walkthrough no YouTube publicado hoje; métricas do vídeo não confirmadas na página nativa. Reddit mais recente localizado é de 13 OUT; sem link atual atribuível de Instagram/Reels, TikTok ou LinkedIn.",
       "sources": [
         {
           "label": "GitHub",
@@ -180,8 +187,13 @@
           "kind": "teste independente"
         },
         {
-          "label": "X · menções indexadas pelo Trendshift · 5 posts indexados em 13 OUT; um descreve fluxo REA + Claude Code para investigar o app Realme Link. Métricas individuais não visíveis; outras menções misturam hype e afirmações não demonstradas; o X direto retornou 403",
+          "label": "X · menções indexadas pelo Trendshift · 5 posts indexados em 14 OUT, 10 no bloco recente; perfis incluem @Slonski_rt, @AImonreal, @BrookJhonMT, @WaleatX e @starmexxx. Incluem ressalvas sobre alvos difíceis e alegações de clonagem não demonstradas; sem métricas nativas",
           "url": "https://trendshift.io/repositories/82054",
+          "kind": "social"
+        },
+        {
+          "label": "YouTube · demonstração independente · Vivek Mishra · walkthrough publicado em 14 OUT com teste de REA em app próprio; página agregadora mostra métricas não confirmadas no YouTube nativo. Tratar como referência de roteiro/B-roll, não como prova de clonagem geral",
+          "url": "https://www.youtube.com/watch?v=fCSNcSHLyWc",
           "kind": "social"
         },
         {
@@ -256,21 +268,21 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 65903,
-      "forks": 7277,
-      "issues": 172,
+      "stars": 66066,
+      "forks": 7291,
+      "issues": 180,
       "language": "Python",
-      "pushedAt": "2026-10-14T19:48:25Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-10-14T21:53:50Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 3547,
       "score": 77,
       "social": [
         {
           "platform": "X · menções indexadas pelo Trendshift",
-          "label": "5 posts indexados em 13 OUT sobre clonagem, dublagem e execução local; perfis @StatevergeCN, @maga_musk, @yupi996 e @cywcycw. Posts repetem alegações promocionais; métricas nativas e validação independente não visíveis",
+          "label": "5 posts indexados em 14 OUT; perfis @Chris480096, @limuvibecoding, @maga_musk, @a89eef9371 e @wanmeiyinshen. Repetem alegações sobre execução local/646 idiomas; métricas nativas e validação independente não visíveis",
           "url": "https://trendshift.io/repositories/28176",
-          "publishedAt": "2026-10-13",
-          "verifiedAt": "13 OUT 2026"
+          "publishedAt": "2026-10-14",
+          "verifiedAt": "14 OUT 2026"
         },
         {
           "platform": "Instagram",
@@ -291,7 +303,7 @@
           "verifiedAt": "15 SET 2026"
         }
       ],
-      "socialStatus": "referência social recente — métrica direta precisa verificação; varredura de 13 OUT: menções do X indexadas pelo Trendshift, sem métricas nativas; nenhum post recente atribuível de outras plataformas foi confirmado nesta consulta",
+      "socialStatus": "referência social recente — métrica direta precisa verificação; Varredura de 14 OUT: Trendshift indexa 5 posts de X hoje, mas repetem alegações promocionais sem métricas nativas. YouTube/Instagram encontrados são históricos; LinkedIn tem menções sem permalink/data/engajamento verificáveis. Sem referência atual atribuível de Shorts, Reels ou TikTok.",
       "sources": [
         {
           "label": "GitHub",
@@ -304,7 +316,7 @@
           "kind": "tendência"
         },
         {
-          "label": "X · menções indexadas pelo Trendshift · 5 posts indexados em 13 OUT sobre clonagem, dublagem e execução local; perfis @StatevergeCN, @maga_musk, @yupi996 e @cywcycw. Posts repetem alegações promocionais; métricas nativas e validação independente não visíveis",
+          "label": "X · menções indexadas pelo Trendshift · 5 posts indexados em 14 OUT; perfis @Chris480096, @limuvibecoding, @maga_musk, @a89eef9371 e @wanmeiyinshen. Repetem alegações sobre execução local/646 idiomas; métricas nativas e validação independente não visíveis",
           "url": "https://trendshift.io/repositories/28176",
           "kind": "social"
         },
@@ -350,16 +362,24 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/ifixai-ai/iFixAi",
-      "stars": 27206,
-      "forks": 1496,
+      "stars": 27270,
+      "forks": 1501,
       "issues": 5,
       "language": "Python",
       "pushedAt": "2026-10-14T18:26:20Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": 2143,
       "score": 76,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "social": [
+        {
+          "platform": "X · menção indexada pelo Trendshift",
+          "label": "Último post indexado em 13 OUT por @ElameaKiki; a checagem de 14 OUT não encontrou referência atribuível mais nova. Conteúdo promocional sobre auditoria de agentes, sem métrica nativa visível",
+          "url": "https://trendshift.io/repositories/29638",
+          "publishedAt": "2026-10-13",
+          "verifiedAt": "14 OUT 2026"
+        }
+      ],
+      "socialStatus": "referência social recente — métrica direta precisa verificação; Varredura de 14 OUT: última menção indexada em X é de 13 OUT e o Reddit localizável é antigo; sem post atual atribuível verificado em YouTube/Shorts, Instagram/Reels, TikTok ou LinkedIn.",
       "sources": [
         {
           "label": "GitHub",
@@ -370,6 +390,11 @@
           "label": "GitHub Trending · 2,1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
+        },
+        {
+          "label": "X · menção indexada pelo Trendshift · Último post indexado em 13 OUT por @ElameaKiki; a checagem de 14 OUT não encontrou referência atribuível mais nova. Conteúdo promocional sobre auditoria de agentes, sem métrica nativa visível",
+          "url": "https://trendshift.io/repositories/29638",
+          "kind": "social"
         },
         {
           "label": "Buscar YouTube",
@@ -403,24 +428,24 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mksglu/context-mode",
-      "stars": 28992,
-      "forks": 2037,
+      "stars": 29031,
+      "forks": 2040,
       "issues": 359,
       "language": "TypeScript",
-      "pushedAt": "2026-10-14T15:00:51Z",
-      "pushedLabel": "push há 5h",
+      "pushedAt": "2026-10-14T21:58:13Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 946,
       "score": 72,
       "social": [
         {
           "platform": "X · menções indexadas pelo Trendshift",
-          "label": "5 posts indexados em 13 OUT; perfis @ChinaAIDaily, @limuvibecoding, @cywcycw e outros discutem sandbox de saídas, MCP e memória de sessão. A redução de 98% é alegação do projeto e não foi reproduzida aqui; métricas individuais dos posts não visíveis",
+          "label": "Últimas 5 menções indexadas em 13 OUT; busca de 14 OUT não encontrou post atribuível mais novo. Discussão sobre sandbox de saídas, MCP e memória de sessão; redução de 98% é alegação do projeto, sem métricas nativas das menções",
           "url": "https://trendshift.io/repositories/24012",
           "publishedAt": "2026-10-13",
-          "verifiedAt": "13 OUT 2026"
+          "verifiedAt": "14 OUT 2026"
         }
       ],
-      "socialStatus": "referência social recente — métrica direta precisa verificação; varredura de 13 OUT: menções do X indexadas pelo Trendshift, sem métricas nativas; nenhum post recente atribuível de outras plataformas foi confirmado nesta consulta",
+      "socialStatus": "referência social recente — métrica direta precisa verificação; Varredura de 14 OUT: última menção indexada em X é de 13 OUT; sem post atual atribuível verificado em YouTube/Shorts, Instagram/Reels, TikTok, Reddit ou LinkedIn. Alegação de redução de 98% segue sem reprodução independente nesta consulta.",
       "sources": [
         {
           "label": "GitHub",
@@ -433,7 +458,7 @@
           "kind": "tendência"
         },
         {
-          "label": "X · menções indexadas pelo Trendshift · 5 posts indexados em 13 OUT; perfis @ChinaAIDaily, @limuvibecoding, @cywcycw e outros discutem sandbox de saídas, MCP e memória de sessão. A redução de 98% é alegação do projeto e não foi reproduzida aqui; métricas individuais dos posts não visíveis",
+          "label": "X · menções indexadas pelo Trendshift · Últimas 5 menções indexadas em 13 OUT; busca de 14 OUT não encontrou post atribuível mais novo. Discussão sobre sandbox de saídas, MCP e memória de sessão; redução de 98% é alegação do projeto, sem métricas nativas das menções",
           "url": "https://trendshift.io/repositories/24012",
           "kind": "social"
         },
@@ -469,8 +494,8 @@
         "alerta de uso ético e autorizado"
       ],
       "url": "https://github.com/vxcontrol/pentagi",
-      "stars": 29225,
-      "forks": 4393,
+      "stars": 29313,
+      "forks": 4405,
       "issues": 24,
       "language": "Go",
       "pushedAt": "2026-10-09T20:54:31Z",
@@ -479,17 +504,17 @@
       "score": 66,
       "social": [
         {
-          "platform": "YouTube",
-          "label": "VXControl · visão geral oficial do PentAGI · 66,9k views · publicado 09 JAN 2025",
+          "platform": "YouTube · referência histórica",
+          "label": "VXControl · visão geral oficial publicada em 09 JAN 2025; checagem pública de 14 OUT não confirmou referência social atribuível mais recente; contagens antigas não entram como sinal de hype atual",
           "url": "https://www.youtube.com/watch?v=R70x5Ddzs1o",
           "views": 66873,
           "likes": 533,
           "comments": 27,
           "publishedAt": "2025-01-09",
-          "verifiedAt": "13 SET 2026"
+          "verifiedAt": "14 OUT 2026"
         }
       ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
+      "socialStatus": "somente referência histórica — sem prova social recente; Varredura de 14 OUT: não localizei sinal social recente atribuível; referência de YouTube é institucional e histórica (09 JAN 2025). Sem post atual confirmado em Shorts, Instagram/Reels, TikTok, X, Reddit ou LinkedIn.",
       "sources": [
         {
           "label": "GitHub",
@@ -502,7 +527,7 @@
           "kind": "tendência"
         },
         {
-          "label": "YouTube · VXControl · visão geral oficial do PentAGI · 66,9k views · publicado 09 JAN 2025",
+          "label": "YouTube · referência histórica · VXControl · visão geral oficial publicada em 09 JAN 2025; checagem pública de 14 OUT não confirmou referência social atribuível mais recente; contagens antigas não entram como sinal de hype atual",
           "url": "https://www.youtube.com/watch?v=R70x5Ddzs1o",
           "kind": "social"
         },
@@ -538,12 +563,12 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 49200,
-      "forks": 4409,
+      "stars": 49253,
+      "forks": 4416,
       "issues": 30,
       "language": "Python",
       "pushedAt": "2026-10-12T09:43:31Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": 146,
       "score": 54,
       "social": [
@@ -605,8 +630,8 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars": 52387,
-      "forks": 4768,
+      "stars": 52426,
+      "forks": 4772,
       "issues": 163,
       "language": "Python",
       "pushedAt": "2026-09-22T02:01:29Z",
@@ -657,12 +682,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29154,
+      "stars": 29160,
       "forks": 2832,
-      "issues": 706,
+      "issues": 707,
       "language": "TypeScript",
       "pushedAt": "2026-10-14T07:29:55Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 14h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -704,9 +729,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 97325,
-      "forks": 8522,
-      "issues": 216,
+      "stars": 97345,
+      "forks": 8524,
+      "issues": 217,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
       "pushedLabel": "push há 7d",
@@ -770,38 +795,30 @@
   ],
   "news": [
     {
-      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "url": "https://news.ycombinator.com/item?id=50091788",
       "relatedUrl": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "points": 697,
-      "comments": 315,
+      "points": 776,
+      "comments": 375,
       "publishedAt": "2026-10-14T17:45:23Z",
       "source": "Hacker News official API"
     },
     {
       "title": "TV4 postpones show after AI agent erases edited material",
       "url": "https://news.ycombinator.com/item?id=50085323",
-      "relatedUrl": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-      "points": 130,
-      "comments": 72,
+      "relatedUrl": "https://www.tv4.se/artikel/tt-261014-thechallenge1-e22c8968/tekniskt-haveri-tv4-skjuter-upp-realitysatsning",
+      "points": 136,
+      "comments": 75,
       "publishedAt": "2026-10-14T10:28:26Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
-      "url": "https://news.ycombinator.com/item?id=50085259",
-      "relatedUrl": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
-      "points": 55,
-      "comments": 61,
-      "publishedAt": "2026-10-14T10:21:13Z",
-      "source": "Hacker News official API"
+      "source": "Hacker News official API",
+      "editorialNote": "Ressalva essencial: a TV4 confirma perda do material editado e adiamento, mas não confirmou que um agente de IA causou o incidente; em atualização de 14 OUT, a direção do programa rejeitou essa atribuição. A Euronews informa que as imagens originais permanecem e a edição será refeita. Tratar como falha técnica confirmada e causa por IA contestada, não como exclusão por agente comprovada."
     },
     {
       "title": "I Deleted 168,000 Lines of Comments. My AI Agent Didn't Notice",
       "url": "https://news.ycombinator.com/item?id=50090484",
       "relatedUrl": "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
       "points": 34,
-      "comments": 14,
+      "comments": 15,
       "publishedAt": "2026-10-14T16:34:53Z",
       "source": "Hacker News official API"
     },
@@ -809,8 +826,8 @@
       "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
       "url": "https://news.ycombinator.com/item?id=50088713",
       "relatedUrl": "https://github.com/graphicle-ai/graphicle",
-      "points": 35,
-      "comments": 10,
+      "points": 38,
+      "comments": 11,
       "publishedAt": "2026-10-14T15:00:41Z",
       "source": "Hacker News official API"
     },
@@ -822,6 +839,15 @@
       "publishedAt": "2026-10-13T17:10:55Z",
       "source": "Axios · reportagem",
       "editorialNote": "A reportagem reúne demonstrações e relatos sobre limites de sandboxes e controles para agentes; apresenta o tema como desafio de segurança em evolução, não como prova de que agentes tenham intenção própria. Separar os casos citados, as opiniões dos especialistas e a evidência técnica disponível."
+    },
+    {
+      "title": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
+      "url": "https://news.ycombinator.com/item?id=50080450",
+      "relatedUrl": "https://github.com/RayenMlayeh/jevcrawl",
+      "points": 19,
+      "comments": 3,
+      "publishedAt": "2026-10-13T23:35:20Z",
+      "source": "Hacker News official API"
     }
   ],
   "trending": [
@@ -888,12 +914,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29154,
+      "stars": 29160,
       "forks": 2832,
-      "issues": 706,
+      "issues": 707,
       "language": "TypeScript",
       "pushedAt": "2026-10-14T07:29:55Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 14h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -935,9 +961,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 97325,
-      "forks": 8522,
-      "issues": 216,
+      "stars": 97345,
+      "forks": 8524,
+      "issues": 217,
       "language": "Python",
       "pushedAt": "2026-10-08T08:31:08Z",
       "pushedLabel": "push há 7d",
