@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T01:21:24.427Z",
-  "generatedLabel": "14 de out. de 2026 · 22:21",
+  "generatedAt": "2026-10-15T15:22:23.331Z",
+  "generatedLabel": "15 de out. de 2026 · 12:22",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -76,7 +76,7 @@
       "title": "rea",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 41 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 32,3 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "broll": [
         "GitHub Trending",
@@ -85,14 +85,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 242850,
-      "forks": 60539,
-      "issues": 805,
+      "stars": 262453,
+      "forks": 66016,
+      "issues": 946,
       "language": "TypeScript",
-      "pushedAt": "2026-10-15T01:20:37Z",
+      "pushedAt": "2026-10-15T15:17:54Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 41034,
-      "score": 95,
+      "trendingStarsToday": 32282,
+      "score": 96,
       "social": [
         {
           "platform": "X · menções indexadas pelo Trendshift",
@@ -169,7 +169,7 @@
           "verifiedAt": "07 OUT 2026"
         }
       ],
-      "socialStatus": "post promocional não comprova alcance orgânico; há discussão independente recente com votos públicos, mas relato técnico é limitado e não generalizável; métricas nativas do vídeo pendentes; Varredura de 14 OUT: X tem menções indexadas pelo Trendshift e há walkthrough no YouTube publicado hoje; métricas do vídeo não confirmadas na página nativa. Reddit mais recente localizado é de 13 OUT; sem link atual atribuível de Instagram/Reels, TikTok ou LinkedIn.",
+      "socialStatus": "referência recente verificada; Varredura de 14 OUT: X tem menções indexadas pelo Trendshift e há walkthrough no YouTube publicado hoje; métricas do vídeo não confirmadas na página nativa. Reddit mais recente localizado é de 13 OUT; sem link atual atribuível de Instagram/Reels, TikTok ou LinkedIn.",
       "sources": [
         {
           "label": "GitHub",
@@ -177,7 +177,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 41 mil stars hoje",
+          "label": "GitHub Trending · 32,3 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -268,13 +268,13 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 66409,
-      "forks": 7321,
-      "issues": 184,
+      "stars": 68248,
+      "forks": 7467,
+      "issues": 211,
       "language": "Python",
-      "pushedAt": "2026-10-14T22:26:47Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 3538,
+      "pushedAt": "2026-10-15T15:15:47Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 3027,
       "score": 77,
       "social": [
         {
@@ -311,7 +311,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 3,5 mil stars hoje",
+          "label": "GitHub Trending · 3 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -349,210 +349,110 @@
       "rank": 2
     },
     {
-      "repo": "ifixai-ai/iFixAi",
-      "title": "iFixAi",
+      "repo": "anthropics/claude-plugins-official",
+      "title": "claude-plugins-official",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 2,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "hook": "Este repositório ganhou 525 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/ifixai-ai/iFixAi",
-      "stars": 27439,
-      "forks": 1504,
-      "issues": 5,
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "stars": 38546,
+      "forks": 4295,
+      "issues": 1253,
       "language": "Python",
-      "pushedAt": "2026-10-14T23:04:34Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 2109,
-      "score": 76,
-      "social": [
-        {
-          "platform": "X · menção indexada pelo Trendshift",
-          "label": "Último post indexado em 13 OUT por @ElameaKiki; a checagem de 14 OUT não encontrou referência atribuível mais nova. Conteúdo promocional sobre auditoria de agentes, sem métrica nativa visível",
-          "url": "https://trendshift.io/repositories/29638",
-          "publishedAt": "2026-10-13",
-          "verifiedAt": "14 OUT 2026"
-        }
-      ],
-      "socialStatus": "referência social recente — métrica direta precisa verificação; Varredura de 14 OUT: última menção indexada em X é de 13 OUT e o Reddit localizável é antigo; sem post atual atribuível verificado em YouTube/Shorts, Instagram/Reels, TikTok ou LinkedIn.",
+      "pushedAt": "2026-10-15T07:40:14Z",
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 525,
+      "score": 69,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/ifixai-ai/iFixAi",
+          "url": "https://github.com/anthropics/claude-plugins-official",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,1 mil stars hoje",
+          "label": "GitHub Trending · 525 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "X · menção indexada pelo Trendshift · Último post indexado em 13 OUT por @ElameaKiki; a checagem de 14 OUT não encontrou referência atribuível mais nova. Conteúdo promocional sobre auditoria de agentes, sem métrica nativa visível",
-          "url": "https://trendshift.io/repositories/29638",
-          "kind": "social"
-        },
-        {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=ifixai-ai%20iFixAi%20AI",
+          "url": "https://www.youtube.com/results?search_query=anthropics%20claude-plugins-official%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=iFixAi%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-plugins-official%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=iFixAi%20AI",
+          "url": "https://www.tiktok.com/search?q=claude-plugins-official%20AI",
           "kind": "busca"
         }
       ],
       "rank": 3
     },
     {
-      "repo": "mksglu/context-mode",
-      "title": "context-mode",
+      "repo": "JuliusBrussee/caveman",
+      "title": "caveman",
       "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 947 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 398 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/mksglu/context-mode",
-      "stars": 29144,
-      "forks": 2046,
-      "issues": 359,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-14T22:18:40Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 947,
-      "score": 73,
-      "social": [
-        {
-          "platform": "X · menções indexadas pelo Trendshift",
-          "label": "Últimas 5 menções indexadas em 13 OUT; busca de 14 OUT não encontrou post atribuível mais novo. Discussão sobre sandbox de saídas, MCP e memória de sessão; redução de 98% é alegação do projeto, sem métricas nativas das menções",
-          "url": "https://trendshift.io/repositories/24012",
-          "publishedAt": "2026-10-13",
-          "verifiedAt": "14 OUT 2026"
-        }
-      ],
-      "socialStatus": "referência social recente — métrica direta precisa verificação; Varredura de 14 OUT: última menção indexada em X é de 13 OUT; sem post atual atribuível verificado em YouTube/Shorts, Instagram/Reels, TikTok, Reddit ou LinkedIn. Alegação de redução de 98% segue sem reprodução independente nesta consulta.",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "stars": 112234,
+      "forks": 6509,
+      "issues": 57,
+      "language": "Go",
+      "pushedAt": "2026-10-15T07:42:22Z",
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 398,
+      "score": 69,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/mksglu/context-mode",
+          "url": "https://github.com/JuliusBrussee/caveman",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 947 stars hoje",
+          "label": "GitHub Trending · 398 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "X · menções indexadas pelo Trendshift · Últimas 5 menções indexadas em 13 OUT; busca de 14 OUT não encontrou post atribuível mais novo. Discussão sobre sandbox de saídas, MCP e memória de sessão; redução de 98% é alegação do projeto, sem métricas nativas das menções",
-          "url": "https://trendshift.io/repositories/24012",
-          "kind": "social"
-        },
-        {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=mksglu%20context-mode%20AI",
+          "url": "https://www.youtube.com/results?search_query=JuliusBrussee%20caveman%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=context-mode%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=caveman%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=context-mode%20AI",
+          "url": "https://www.tiktok.com/search?q=caveman%20AI",
           "kind": "busca"
         }
       ],
       "rank": 4
-    },
-    {
-      "repo": "vxcontrol/pentagi",
-      "title": "PentAGI",
-      "type": "Agente autônomo de cibersegurança",
-      "status": "Gravar agora",
-      "hook": "Este agente coloca uma equipe inteira de pentest dentro de um ambiente isolado e executa as etapas sozinho.",
-      "thesis": "Agentes de segurança estão deixando de apenas sugerir comandos para operar terminal, navegador, memória e centenas de ferramentas em fluxos autônomos.",
-      "broll": [
-        "painel oficial",
-        "terminal executando testes",
-        "grafo de conhecimento",
-        "alerta de uso ético e autorizado"
-      ],
-      "url": "https://github.com/vxcontrol/pentagi",
-      "stars": 29508,
-      "forks": 4430,
-      "issues": 24,
-      "language": "Go",
-      "pushedAt": "2026-10-09T20:54:31Z",
-      "pushedLabel": "push há 5d",
-      "trendingStarsToday": 1025,
-      "score": 66,
-      "social": [
-        {
-          "platform": "YouTube · referência histórica",
-          "label": "VXControl · visão geral oficial publicada em 09 JAN 2025; checagem pública de 14 OUT não confirmou referência social atribuível mais recente; contagens antigas não entram como sinal de hype atual",
-          "url": "https://www.youtube.com/watch?v=R70x5Ddzs1o",
-          "views": 66873,
-          "likes": 533,
-          "comments": 27,
-          "publishedAt": "2025-01-09",
-          "verifiedAt": "14 OUT 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente; Varredura de 14 OUT: não localizei sinal social recente atribuível; referência de YouTube é institucional e histórica (09 JAN 2025). Sem post atual confirmado em Shorts, Instagram/Reels, TikTok, X, Reddit ou LinkedIn.",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/vxcontrol/pentagi",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "PentAGI v2.2.0 · release oficial de 05 OUT; correção da CVE-2026-14784 com isolamento de sandbox reforçado e remoção da montagem automática do socket Docker do host",
-          "url": "https://github.com/vxcontrol/pentagi/releases",
-          "kind": "release oficial"
-        },
-        {
-          "label": "YouTube · referência histórica · VXControl · visão geral oficial publicada em 09 JAN 2025; checagem pública de 14 OUT não confirmou referência social atribuível mais recente; contagens antigas não entram como sinal de hype atual",
-          "url": "https://www.youtube.com/watch?v=R70x5Ddzs1o",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=vxcontrol%20pentagi%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=PentAGI%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=PentAGI%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 5
     },
     {
       "repo": "K-Dense-AI/scientific-agent-skills",
@@ -568,14 +468,14 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 49362,
-      "forks": 4422,
-      "issues": 31,
+      "stars": 50136,
+      "forks": 4465,
+      "issues": 32,
       "language": "Python",
       "pushedAt": "2026-10-12T09:43:31Z",
       "pushedLabel": "push há 3d",
-      "trendingStarsToday": 163,
-      "score": 55,
+      "trendingStarsToday": 1091,
+      "score": 67,
       "social": [
         {
           "platform": "YouTube",
@@ -594,7 +494,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 163 stars hoje",
+          "label": "GitHub Trending · 1,1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -619,107 +519,140 @@
           "kind": "busca"
         }
       ],
+      "rank": 5
+    },
+    {
+      "repo": "obra/superpowers",
+      "title": "Superpowers",
+      "type": "Metodologia para agentes",
+      "status": "Gravar agora",
+      "hook": "Este projeto tenta acabar com o vibe coding: o agente precisa planejar, testar e revisar antes de dizer que terminou.",
+      "thesis": "Skills em Markdown estão virando uma camada de engenharia reutilizável entre Claude, Codex, Cursor e outros agentes.",
+      "broll": [
+        "fluxo brainstorming → plano → TDD",
+        "lista de skills",
+        "README",
+        "vídeo demonstrativo"
+      ],
+      "url": "https://github.com/obra/superpowers",
+      "stars": 299604,
+      "forks": 26761,
+      "issues": 353,
+      "language": "Shell",
+      "pushedAt": "2026-10-10T03:03:30Z",
+      "pushedLabel": "push há 6d",
+      "trendingStarsToday": 534,
+      "score": 66,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
+          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
+          "engagement": 324,
+          "publishedAt": "2026-09-26",
+          "verifiedAt": "01 OUT 2026"
+        },
+        {
+          "platform": "Bilibili",
+          "label": "Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "views": 17000,
+          "publishedAt": "2026-03-04",
+          "verifiedAt": "09 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/obra/superpowers",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 534 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
+          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
+          "kind": "social"
+        },
+        {
+          "label": "Bilibili · Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=obra%20superpowers%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Superpowers%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Superpowers%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 6
     },
     {
-      "repo": "HKUDS/CLI-Anything",
-      "title": "CLI-Anything",
-      "type": "Novo no GitHub Trending",
+      "repo": "ruvnet/ruflo",
+      "title": "Ruflo",
+      "type": "Orquestração multiagente",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 103 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "hook": "Este meta-harness coordena enxames de agentes, memória e fluxos autônomos no mesmo sistema.",
+      "thesis": "O mercado está saindo do agente isolado para equipes de agentes coordenados.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "arquitetura",
+        "terminal",
+        "swarm demo",
+        "README"
       ],
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars": 52519,
-      "forks": 4774,
-      "issues": 163,
-      "language": "Python",
-      "pushedAt": "2026-09-22T02:01:29Z",
-      "pushedLabel": "push há 23d",
-      "trendingStarsToday": 103,
-      "score": 52,
+      "url": "https://github.com/ruvnet/ruflo",
+      "stars": 74871,
+      "forks": 8905,
+      "issues": 1050,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-15T11:18:51Z",
+      "pushedLabel": "push há 4h",
+      "trendingStarsToday": 224,
+      "score": 65,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/HKUDS/CLI-Anything",
+          "url": "https://github.com/ruvnet/ruflo",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 103 stars hoje",
+          "label": "GitHub Trending · 224 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=HKUDS%20CLI-Anything%20AI",
+          "url": "https://www.youtube.com/results?search_query=ruvnet%20ruflo%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=CLI-Anything%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Ruflo%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=CLI-Anything%20AI",
+          "url": "https://www.tiktok.com/search?q=Ruflo%20AI",
           "kind": "busca"
         }
       ],
       "rank": 7
-    },
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29167,
-      "forks": 2833,
-      "issues": 710,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-14T07:29:55Z",
-      "pushedLabel": "push há 18h",
-      "trendingStarsToday": null,
-      "score": 40,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 8
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -734,14 +667,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 97385,
-      "forks": 8526,
-      "issues": 217,
+      "stars": 97647,
+      "forks": 8553,
+      "issues": 220,
       "language": "Python",
-      "pushedAt": "2026-10-08T08:31:08Z",
-      "pushedLabel": "push há 7d",
+      "pushedAt": "2026-10-15T11:34:42Z",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": null,
-      "score": 35,
+      "score": 42,
       "social": [
         {
           "platform": "Reddit",
@@ -795,6 +728,53 @@
           "kind": "busca"
         }
       ],
+      "rank": 8
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 29239,
+      "forks": 2841,
+      "issues": 704,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-15T12:24:35Z",
+      "pushedLabel": "push há 3h",
+      "trendingStarsToday": null,
+      "score": 40,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 9
     }
   ],
@@ -803,28 +783,37 @@
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "url": "https://news.ycombinator.com/item?id=50091788",
       "relatedUrl": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "points": 834,
-      "comments": 444,
+      "points": 929,
+      "comments": 582,
       "publishedAt": "2026-10-14T17:45:23Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://news.ycombinator.com/item?id=50097369",
+      "relatedUrl": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "points": 261,
+      "comments": 70,
+      "publishedAt": "2026-10-14T23:59:37Z",
       "source": "Hacker News official API"
     },
     {
       "title": "TV4 postpones show after AI agent erases edited material",
       "url": "https://news.ycombinator.com/item?id=50085323",
       "relatedUrl": "https://www.tv4.se/artikel/2iwfK5MNpFID98pxQbsC7t/hel-saesong-av-tv4-programmet-raderat-av-ai",
-      "points": 139,
-      "comments": 79,
+      "points": 151,
+      "comments": 85,
       "publishedAt": "2026-10-14T10:28:26Z",
       "source": "Hacker News official API",
       "editorialNote": "Correção essencial (14 OUT): a TV4 confirma perda do corte editado e adiamento, mas diz que a causa foi falha no backup e rejeita que um agente de IA tenha apagado o material. O material bruto permanece e a temporada será reeditada. Tratar como falha de backup confirmada e atribuição a IA refutada pela emissora, não como incidente de agente comprovado."
     },
     {
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "url": "https://news.ycombinator.com/item?id=50097369",
-      "relatedUrl": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "points": 56,
-      "comments": 14,
-      "publishedAt": "2026-10-14T23:59:37Z",
+      "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
+      "url": "https://news.ycombinator.com/item?id=50088713",
+      "relatedUrl": "https://github.com/graphicle-ai/graphicle",
+      "points": 46,
+      "comments": 12,
+      "publishedAt": "2026-10-14T15:00:41Z",
       "source": "Hacker News official API"
     },
     {
@@ -832,17 +821,8 @@
       "url": "https://news.ycombinator.com/item?id=50090484",
       "relatedUrl": "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
       "points": 35,
-      "comments": 15,
+      "comments": 16,
       "publishedAt": "2026-10-14T16:34:53Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
-      "url": "https://news.ycombinator.com/item?id=50088713",
-      "relatedUrl": "https://github.com/graphicle-ai/graphicle",
-      "points": 41,
-      "comments": 11,
-      "publishedAt": "2026-10-14T15:00:41Z",
       "source": "Hacker News official API"
     },
     {
@@ -858,101 +838,54 @@
   "trending": [
     {
       "repo": "morluto/rea",
-      "starsToday": 41034
+      "starsToday": 32282
     },
     {
-      "repo": "debpalash/VoiceStudio",
-      "starsToday": 3538
-    },
-    {
-      "repo": "mksglu/context-mode",
-      "starsToday": 947
-    },
-    {
-      "repo": "nvm-sh/nvm",
-      "starsToday": 52
+      "repo": "anthropics/claude-plugins-official",
+      "starsToday": 525
     },
     {
       "repo": "K-Dense-AI/scientific-agent-skills",
-      "starsToday": 163
+      "starsToday": 1091
     },
     {
-      "repo": "HKUDS/CLI-Anything",
-      "starsToday": 103
+      "repo": "JuliusBrussee/caveman",
+      "starsToday": 398
     },
     {
-      "repo": "ifixai-ai/iFixAi",
-      "starsToday": 2109
+      "repo": "debpalash/VoiceStudio",
+      "starsToday": 3027
     },
     {
-      "repo": "vxcontrol/pentagi",
-      "starsToday": 1025
+      "repo": "obra/superpowers",
+      "starsToday": 534
     },
     {
-      "repo": "rust-lang/rust",
-      "starsToday": 207
+      "repo": "ruvnet/ruflo",
+      "starsToday": 224
     },
     {
-      "repo": "xtool-org/xtool",
-      "starsToday": 1502
-    },
-    {
-      "repo": "ntdevlabs/tiny11builder",
-      "starsToday": 139
+      "repo": "mksglu/context-mode",
+      "starsToday": 902
     },
     {
       "repo": "NationalSecurityAgency/ghidra",
-      "starsToday": 1008
+      "starsToday": 1366
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "starsToday": 1015
+    },
+    {
+      "repo": "lightseekorg/tokenspeed",
+      "starsToday": 25
+    },
+    {
+      "repo": "xerj-org/xerj",
+      "starsToday": 725
     }
   ],
   "monitored": [
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29167,
-      "forks": 2833,
-      "issues": 710,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-14T07:29:55Z",
-      "pushedLabel": "push há 18h",
-      "trendingStarsToday": null,
-      "score": 40,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 8
-    },
     {
       "repo": "Panniantong/Agent-Reach",
       "type": "Repo monitorado",
@@ -966,14 +899,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 97385,
-      "forks": 8526,
-      "issues": 217,
+      "stars": 97647,
+      "forks": 8553,
+      "issues": 220,
       "language": "Python",
-      "pushedAt": "2026-10-08T08:31:08Z",
-      "pushedLabel": "push há 7d",
+      "pushedAt": "2026-10-15T11:34:42Z",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": null,
-      "score": 35,
+      "score": 42,
       "social": [
         {
           "platform": "Reddit",
@@ -1024,6 +957,53 @@
         {
           "label": "Buscar TikTok",
           "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 29239,
+      "forks": 2841,
+      "issues": 704,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-15T12:24:35Z",
+      "pushedLabel": "push há 3h",
+      "trendingStarsToday": null,
+      "score": 40,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
           "kind": "busca"
         }
       ],
