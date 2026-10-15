@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T15:22:23.331Z",
-  "generatedLabel": "15 de out. de 2026 · 12:22",
+  "generatedAt": "2026-10-15T20:10:21.987Z",
+  "generatedLabel": "15 de out. de 2026 · 17:10",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,11 +85,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 262453,
-      "forks": 66016,
-      "issues": 946,
+      "stars": 266897,
+      "forks": 67003,
+      "issues": 968,
       "language": "TypeScript",
-      "pushedAt": "2026-10-15T15:17:54Z",
+      "pushedAt": "2026-10-15T20:06:35Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 32282,
       "score": 96,
@@ -268,11 +268,11 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 68248,
-      "forks": 7467,
-      "issues": 211,
+      "stars": 68722,
+      "forks": 7520,
+      "issues": 180,
       "language": "Python",
-      "pushedAt": "2026-10-15T15:15:47Z",
+      "pushedAt": "2026-10-15T20:09:46Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 3027,
       "score": 77,
@@ -349,6 +349,59 @@
       "rank": 2
     },
     {
+      "repo": "JuliusBrussee/caveman",
+      "title": "caveman",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 530 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "stars": 112409,
+      "forks": 6516,
+      "issues": 59,
+      "language": "Go",
+      "pushedAt": "2026-10-15T07:42:22Z",
+      "pushedLabel": "push há 12h",
+      "trendingStarsToday": 530,
+      "score": 71,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 530 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=JuliusBrussee%20caveman%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=caveman%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=caveman%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "repo": "anthropics/claude-plugins-official",
       "title": "claude-plugins-official",
       "type": "Novo no GitHub Trending",
@@ -362,12 +415,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/claude-plugins-official",
-      "stars": 38546,
-      "forks": 4295,
-      "issues": 1253,
+      "stars": 38877,
+      "forks": 4319,
+      "issues": 1259,
       "language": "Python",
-      "pushedAt": "2026-10-15T07:40:14Z",
-      "pushedLabel": "push há 8h",
+      "pushedAt": "2026-10-15T16:36:37Z",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": 525,
       "score": 69,
       "social": [],
@@ -399,59 +452,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 3
-    },
-    {
-      "repo": "JuliusBrussee/caveman",
-      "title": "caveman",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 398 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "stars": 112234,
-      "forks": 6509,
-      "issues": 57,
-      "language": "Go",
-      "pushedAt": "2026-10-15T07:42:22Z",
-      "pushedLabel": "push há 8h",
-      "trendingStarsToday": 398,
-      "score": 69,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/JuliusBrussee/caveman",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 398 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=JuliusBrussee%20caveman%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=caveman%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=caveman%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 4
     },
     {
@@ -468,9 +468,9 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 50136,
-      "forks": 4465,
-      "issues": 32,
+      "stars": 50317,
+      "forks": 4483,
+      "issues": 36,
       "language": "Python",
       "pushedAt": "2026-10-12T09:43:31Z",
       "pushedLabel": "push há 3d",
@@ -535,14 +535,14 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 299604,
-      "forks": 26761,
-      "issues": 353,
+      "stars": 299760,
+      "forks": 26771,
+      "issues": 357,
       "language": "Shell",
       "pushedAt": "2026-10-10T03:03:30Z",
       "pushedLabel": "push há 6d",
-      "trendingStarsToday": 534,
-      "score": 66,
+      "trendingStarsToday": 688,
+      "score": 67,
       "social": [
         {
           "platform": "Reddit",
@@ -569,7 +569,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 534 stars hoje",
+          "label": "GitHub Trending · 688 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -615,12 +615,12 @@
         "README"
       ],
       "url": "https://github.com/ruvnet/ruflo",
-      "stars": 74871,
-      "forks": 8905,
-      "issues": 1050,
+      "stars": 75006,
+      "forks": 8921,
+      "issues": 1052,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T11:18:51Z",
-      "pushedLabel": "push há 4h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": 224,
       "score": 65,
       "social": [],
@@ -667,12 +667,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 97647,
-      "forks": 8553,
-      "issues": 220,
+      "stars": 97729,
+      "forks": 8560,
+      "issues": 219,
       "language": "Python",
       "pushedAt": "2026-10-15T11:34:42Z",
-      "pushedLabel": "push há 4h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -743,12 +743,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29239,
-      "forks": 2841,
-      "issues": 704,
+      "stars": 29243,
+      "forks": 2849,
+      "issues": 706,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T12:24:35Z",
-      "pushedLabel": "push há 3h",
+      "pushedLabel": "push há 8h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -780,11 +780,20 @@
   ],
   "news": [
     {
+      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "url": "https://news.ycombinator.com/item?id=50100387",
+      "relatedUrl": "https://github.com/awslabs/aidlc-workflows",
+      "points": 19,
+      "comments": 16,
+      "publishedAt": "2026-10-15T07:20:39Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "url": "https://news.ycombinator.com/item?id=50091788",
       "relatedUrl": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "points": 929,
-      "comments": 582,
+      "points": 934,
+      "comments": 604,
       "publishedAt": "2026-10-14T17:45:23Z",
       "source": "Hacker News official API"
     },
@@ -792,8 +801,8 @@
       "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
       "url": "https://news.ycombinator.com/item?id=50097369",
       "relatedUrl": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "points": 261,
-      "comments": 70,
+      "points": 277,
+      "comments": 72,
       "publishedAt": "2026-10-14T23:59:37Z",
       "source": "Hacker News official API"
     },
@@ -801,8 +810,8 @@
       "title": "TV4 postpones show after AI agent erases edited material",
       "url": "https://news.ycombinator.com/item?id=50085323",
       "relatedUrl": "https://www.tv4.se/artikel/2iwfK5MNpFID98pxQbsC7t/hel-saesong-av-tv4-programmet-raderat-av-ai",
-      "points": 151,
-      "comments": 85,
+      "points": 154,
+      "comments": 86,
       "publishedAt": "2026-10-14T10:28:26Z",
       "source": "Hacker News official API",
       "editorialNote": "Correção essencial (14 OUT): a TV4 confirma perda do corte editado e adiamento, mas diz que a causa foi falha no backup e rejeita que um agente de IA tenha apagado o material. O material bruto permanece e a temporada será reeditada. Tratar como falha de backup confirmada e atribuição a IA refutada pela emissora, não como incidente de agente comprovado."
@@ -821,18 +830,9 @@
       "url": "https://news.ycombinator.com/item?id=50090484",
       "relatedUrl": "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
       "points": 35,
-      "comments": 16,
+      "comments": 17,
       "publishedAt": "2026-10-14T16:34:53Z",
       "source": "Hacker News official API"
-    },
-    {
-      "title": "Axios: modelos de IA estão encontrando formas de escapar de restrições",
-      "url": "https://www.axios.com/2026/10/13/rogue-ai-agents-sandbox-defenses",
-      "points": null,
-      "comments": null,
-      "publishedAt": "2026-10-13T17:10:55Z",
-      "source": "Axios · reportagem",
-      "editorialNote": "A reportagem reúne demonstrações e relatos sobre limites de sandboxes e controles para agentes; apresenta o tema como desafio de segurança em evolução, não como prova de que agentes tenham intenção própria. Separar os casos citados, as opiniões dos especialistas e a evidência técnica disponível."
     }
   ],
   "trending": [
@@ -850,7 +850,7 @@
     },
     {
       "repo": "JuliusBrussee/caveman",
-      "starsToday": 398
+      "starsToday": 530
     },
     {
       "repo": "debpalash/VoiceStudio",
@@ -858,7 +858,7 @@
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 534
+      "starsToday": 688
     },
     {
       "repo": "ruvnet/ruflo",
@@ -899,12 +899,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 97647,
-      "forks": 8553,
-      "issues": 220,
+      "stars": 97729,
+      "forks": 8560,
+      "issues": 219,
       "language": "Python",
       "pushedAt": "2026-10-15T11:34:42Z",
-      "pushedLabel": "push há 4h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -975,12 +975,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29239,
-      "forks": 2841,
-      "issues": 704,
+      "stars": 29243,
+      "forks": 2849,
+      "issues": 706,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T12:24:35Z",
-      "pushedLabel": "push há 3h",
+      "pushedLabel": "push há 8h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
