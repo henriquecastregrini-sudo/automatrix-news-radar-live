@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T20:10:21.987Z",
-  "generatedLabel": "15 de out. de 2026 · 17:10",
+  "generatedAt": "2026-10-16T01:07:24.058Z",
+  "generatedLabel": "15 de out. de 2026 · 22:07",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/morluto/rea",
-      "stars": 266897,
-      "forks": 67003,
-      "issues": 968,
+      "stars": 270465,
+      "forks": 67872,
+      "issues": 1027,
       "language": "TypeScript",
-      "pushedAt": "2026-10-15T20:06:35Z",
+      "pushedAt": "2026-10-16T01:06:33Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 32282,
+      "trendingStarsToday": 32314,
       "score": 96,
       "social": [
         {
@@ -268,13 +268,13 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 68722,
-      "forks": 7520,
-      "issues": 180,
+      "stars": 69119,
+      "forks": 7567,
+      "issues": 183,
       "language": "Python",
-      "pushedAt": "2026-10-15T20:09:46Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 3027,
+      "pushedAt": "2026-10-16T00:30:27Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 3024,
       "score": 77,
       "social": [
         {
@@ -349,112 +349,6 @@
       "rank": 2
     },
     {
-      "repo": "JuliusBrussee/caveman",
-      "title": "caveman",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 530 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "stars": 112409,
-      "forks": 6516,
-      "issues": 59,
-      "language": "Go",
-      "pushedAt": "2026-10-15T07:42:22Z",
-      "pushedLabel": "push há 12h",
-      "trendingStarsToday": 530,
-      "score": 71,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/JuliusBrussee/caveman",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 530 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=JuliusBrussee%20caveman%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=caveman%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=caveman%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "repo": "anthropics/claude-plugins-official",
-      "title": "claude-plugins-official",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 525 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "stars": 38877,
-      "forks": 4319,
-      "issues": 1259,
-      "language": "Python",
-      "pushedAt": "2026-10-15T16:36:37Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 525,
-      "score": 69,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/anthropics/claude-plugins-official",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 525 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=anthropics%20claude-plugins-official%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-plugins-official%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=claude-plugins-official%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
-    },
-    {
       "repo": "K-Dense-AI/scientific-agent-skills",
       "type": "Agentes científicos",
       "status": "Usar como comparação",
@@ -468,14 +362,14 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 50317,
-      "forks": 4483,
-      "issues": 36,
+      "stars": 50485,
+      "forks": 4489,
+      "issues": 40,
       "language": "Python",
-      "pushedAt": "2026-10-12T09:43:31Z",
-      "pushedLabel": "push há 3d",
+      "pushedAt": "2026-10-15T23:57:39Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 1091,
-      "score": 67,
+      "score": 74,
       "social": [
         {
           "platform": "YouTube",
@@ -519,7 +413,60 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 3
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "title": "caveman",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 433 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "stars": 112558,
+      "forks": 6521,
+      "issues": 62,
+      "language": "Go",
+      "pushedAt": "2026-10-15T07:42:22Z",
+      "pushedLabel": "push há 17h",
+      "trendingStarsToday": 433,
+      "score": 70,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 433 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=JuliusBrussee%20caveman%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=caveman%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=caveman%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
     },
     {
       "repo": "obra/superpowers",
@@ -535,14 +482,14 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 299760,
-      "forks": 26771,
-      "issues": 357,
+      "stars": 299906,
+      "forks": 26785,
+      "issues": 358,
       "language": "Shell",
       "pushedAt": "2026-10-10T03:03:30Z",
       "pushedLabel": "push há 6d",
-      "trendingStarsToday": 688,
-      "score": 67,
+      "trendingStarsToday": 582,
+      "score": 66,
       "social": [
         {
           "platform": "Reddit",
@@ -569,7 +516,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 688 stars hoje",
+          "label": "GitHub Trending · 582 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -599,6 +546,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 5
+    },
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "title": "claude-plugins-official",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 307 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "stars": 39110,
+      "forks": 4325,
+      "issues": 1224,
+      "language": "Python",
+      "pushedAt": "2026-10-15T22:49:35Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 307,
+      "score": 66,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 307 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=anthropics%20claude-plugins-official%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-plugins-official%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=claude-plugins-official%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 6
     },
     {
@@ -615,14 +615,14 @@
         "README"
       ],
       "url": "https://github.com/ruvnet/ruflo",
-      "stars": 75006,
-      "forks": 8921,
-      "issues": 1052,
+      "stars": 75136,
+      "forks": 8926,
+      "issues": 1053,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T11:18:51Z",
-      "pushedLabel": "push há 9h",
-      "trendingStarsToday": 224,
-      "score": 65,
+      "pushedLabel": "push há 14h",
+      "trendingStarsToday": 147,
+      "score": 62,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -632,7 +632,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 224 stars hoje",
+          "label": "GitHub Trending · 147 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -667,12 +667,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 97729,
-      "forks": 8560,
-      "issues": 219,
+      "stars": 97774,
+      "forks": 8567,
+      "issues": 218,
       "language": "Python",
       "pushedAt": "2026-10-15T11:34:42Z",
-      "pushedLabel": "push há 9h",
+      "pushedLabel": "push há 14h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -743,12 +743,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29243,
-      "forks": 2849,
+      "stars": 29251,
+      "forks": 2852,
       "issues": 706,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T12:24:35Z",
-      "pushedLabel": "push há 8h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -783,7 +783,7 @@
       "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
       "url": "https://news.ycombinator.com/item?id=50100387",
       "relatedUrl": "https://github.com/awslabs/aidlc-workflows",
-      "points": 19,
+      "points": 20,
       "comments": 16,
       "publishedAt": "2026-10-15T07:20:39Z",
       "source": "Hacker News official API"
@@ -792,8 +792,8 @@
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "url": "https://news.ycombinator.com/item?id=50091788",
       "relatedUrl": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "points": 934,
-      "comments": 604,
+      "points": 939,
+      "comments": 612,
       "publishedAt": "2026-10-14T17:45:23Z",
       "source": "Hacker News official API"
     },
@@ -801,8 +801,8 @@
       "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
       "url": "https://news.ycombinator.com/item?id=50097369",
       "relatedUrl": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "points": 277,
-      "comments": 72,
+      "points": 283,
+      "comments": 76,
       "publishedAt": "2026-10-14T23:59:37Z",
       "source": "Hacker News official API"
     },
@@ -820,8 +820,8 @@
       "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
       "url": "https://news.ycombinator.com/item?id=50088713",
       "relatedUrl": "https://github.com/graphicle-ai/graphicle",
-      "points": 46,
-      "comments": 12,
+      "points": 47,
+      "comments": 13,
       "publishedAt": "2026-10-14T15:00:41Z",
       "source": "Hacker News official API"
     },
@@ -838,11 +838,11 @@
   "trending": [
     {
       "repo": "morluto/rea",
-      "starsToday": 32282
+      "starsToday": 32314
     },
     {
       "repo": "anthropics/claude-plugins-official",
-      "starsToday": 525
+      "starsToday": 307
     },
     {
       "repo": "K-Dense-AI/scientific-agent-skills",
@@ -850,39 +850,39 @@
     },
     {
       "repo": "JuliusBrussee/caveman",
-      "starsToday": 530
+      "starsToday": 433
     },
     {
       "repo": "debpalash/VoiceStudio",
-      "starsToday": 3027
+      "starsToday": 3024
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 688
+      "starsToday": 582
     },
     {
       "repo": "ruvnet/ruflo",
-      "starsToday": 224
+      "starsToday": 147
     },
     {
       "repo": "mksglu/context-mode",
-      "starsToday": 902
+      "starsToday": 904
     },
     {
       "repo": "NationalSecurityAgency/ghidra",
-      "starsToday": 1366
+      "starsToday": 1369
     },
     {
       "repo": "affaan-m/ECC",
-      "starsToday": 1015
+      "starsToday": 1013
     },
     {
       "repo": "lightseekorg/tokenspeed",
-      "starsToday": 25
+      "starsToday": 30
     },
     {
       "repo": "xerj-org/xerj",
-      "starsToday": 725
+      "starsToday": 715
     }
   ],
   "monitored": [
@@ -899,12 +899,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 97729,
-      "forks": 8560,
-      "issues": 219,
+      "stars": 97774,
+      "forks": 8567,
+      "issues": 218,
       "language": "Python",
       "pushedAt": "2026-10-15T11:34:42Z",
-      "pushedLabel": "push há 9h",
+      "pushedLabel": "push há 14h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -975,12 +975,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29243,
-      "forks": 2849,
+      "stars": 29251,
+      "forks": 2852,
       "issues": 706,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T12:24:35Z",
-      "pushedLabel": "push há 8h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
