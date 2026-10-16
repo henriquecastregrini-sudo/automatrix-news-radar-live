@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T01:07:24.058Z",
-  "generatedLabel": "15 de out. de 2026 · 22:07",
+  "generatedAt": "2026-10-16T15:02:42.790Z",
+  "generatedLabel": "16 de out. de 2026 · 12:02",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -72,277 +72,120 @@
   ],
   "repos": [
     {
-      "repo": "morluto/rea",
-      "title": "rea",
-      "type": "Novo no GitHub Trending",
+      "repo": "affaan-m/ECC",
+      "title": "ECC",
+      "type": "Otimização de agentes",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 32,3 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "hook": "Este sistema promete deixar Claude, Codex e outros agentes mais rápidos, seguros e consistentes.",
+      "thesis": "O próximo salto dos agentes pode vir do harness ao redor do modelo, não de um modelo maior.",
       "broll": [
         "GitHub Trending",
         "README",
-        "demo oficial",
-        "histórico do projeto"
+        "skills e memória",
+        "comparação de agentes"
       ],
-      "url": "https://github.com/morluto/rea",
-      "stars": 270465,
-      "forks": 67872,
-      "issues": 1027,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-16T01:06:33Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 32314,
-      "score": 96,
+      "url": "https://github.com/affaan-m/ECC",
+      "stars": 281034,
+      "forks": 41793,
+      "issues": 229,
+      "language": "JavaScript",
+      "pushedAt": "2026-10-15T19:17:01Z",
+      "pushedLabel": "push há 20h",
+      "trendingStarsToday": 1057,
+      "score": 77,
       "social": [
         {
-          "platform": "X · menções indexadas pelo Trendshift",
-          "label": "5 posts indexados em 14 OUT, 10 no bloco recente; perfis incluem @Slonski_rt, @AImonreal, @BrookJhonMT, @WaleatX e @starmexxx. Incluem ressalvas sobre alvos difíceis e alegações de clonagem não demonstradas; sem métricas nativas",
-          "url": "https://trendshift.io/repositories/82054",
-          "publishedAt": "2026-10-14",
-          "verifiedAt": "14 OUT 2026"
-        },
-        {
-          "platform": "YouTube · demonstração independente",
-          "label": "Vivek Mishra · walkthrough publicado em 14 OUT com teste de REA em app próprio; página agregadora mostra métricas não confirmadas no YouTube nativo. Tratar como referência de roteiro/B-roll, não como prova de clonagem geral",
-          "url": "https://www.youtube.com/watch?v=fCSNcSHLyWc",
-          "publishedAt": "2026-10-14",
-          "verifiedAt": "14 OUT 2026"
-        },
-        {
-          "platform": "Reddit · menção indexada pelo Trendshift",
-          "label": "Discussão em r/miband sobre engenharia reversa do app Mi Fitness; menção indexada em 13 OUT, sem votos ou comentário contável visível na checagem",
-          "url": "https://trendshift.io/repositories/82054",
-          "publishedAt": "2026-10-13",
-          "verifiedAt": "13 OUT 2026"
-        },
-        {
-          "platform": "V2EX · fórum de desenvolvedores",
-          "label": "Discussão recente sobre REA e limites éticos da engenharia reversa · página pública mostra 2.787 visualizações e 18 respostas · sinal de discussão, não validação independente do produto",
-          "url": "https://staging.v2ex.com/t/1248041",
-          "engagement": 18,
-          "publishedAt": "2026-10-12T09:40:34Z",
-          "verifiedAt": "12 OUT 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/tech_x · discussão pública do REA com 1.452 votos visíveis; comentários atualizados em 12 OUT incluem um teste relatado em quatro binários pequenos, sem permitir generalização para alvos maiores ou obfuscados",
-          "url": "https://www.reddit.com/r/tech_x/comments/1x2d66l/github_project_called_rea_reverse_engineer/",
-          "engagement": 1452,
-          "publishedAt": "2026-10-10",
-          "verifiedAt": "12 OUT 2026"
-        },
-        {
-          "platform": "YouTube · espelhos com métricas divergentes",
-          "label": "Rob Shocks · demonstração independente do REA em app compilado; dois espelhos consultados exibem contagens diferentes e a página nativa do YouTube não foi confirmada, então métricas quantitativas foram excluídas; há segmento patrocinado separado",
-          "url": "https://www.youtube.com/watch?v=OMobTlfjb8s",
-          "publishedAt": "2026-10-09",
-          "verifiedAt": "11 OUT 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/tech_x · discussão nova sobre o REA; comentários perguntam sobre limites de segurança e relatam testes com diferentes modelos; contagem de votos não visível nesta checagem",
-          "url": "https://www.reddit.com/r/tech_x/comments/1x2d66l/github_project_called_rea_reverse_engineer/",
-          "publishedAt": "2026-10-11",
-          "verifiedAt": "11 OUT 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/BestGitHubRepos · post de apresentação do REA com 1.041 votos públicos; conteúdo promocional baseado no README, então alcance orgânico ainda não corroborado · publicado 08 OUT",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1x0s6lv/rea_reverse_engineer_anything_18k_stars/",
-          "engagement": 1041,
-          "publishedAt": "2026-10-08",
-          "verifiedAt": "08 OUT 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/LovingOpenSourceAI · compartilhamento do repo com 391 votos públicos; replies seguem até 08 OUT · publicado 05 OUT",
-          "url": "https://www.reddit.com/r/LovingOpenSourceAI/comments/1wyawik/rea_reverse_engineer_anything_reverse_engineer/",
-          "engagement": 391,
-          "publishedAt": "2026-10-05",
-          "verifiedAt": "08 OUT 2026"
-        },
-        {
-          "platform": "TikTok (espelho)",
-          "label": "@whitewhoadie · demonstração de REA em vídeo; página espelho lista publicação em 04 OUT e comentários, mas contagens sem rótulos, então sem métricas usadas · validar no TikTok nativo",
-          "url": "https://tikwm.com/video/7692856072624770318.html",
-          "publishedAt": "2026-10-04",
-          "verifiedAt": "07 OUT 2026"
+          "platform": "YouTube",
+          "label": "DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO",
+          "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
+          "views": 1139,
+          "publishedAt": "2026-08-27",
+          "verifiedAt": "08 SET 2026"
         }
       ],
-      "socialStatus": "referência recente verificada; Varredura de 14 OUT: X tem menções indexadas pelo Trendshift e há walkthrough no YouTube publicado hoje; métricas do vídeo não confirmadas na página nativa. Reddit mais recente localizado é de 13 OUT; sem link atual atribuível de Instagram/Reels, TikTok ou LinkedIn.",
+      "socialStatus": "somente referência histórica — sem prova social recente",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/morluto/rea",
+          "url": "https://github.com/affaan-m/ECC",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 32,3 mil stars hoje",
+          "label": "GitHub Trending · 1,1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "Kingy AI · teste técnico limitado: recurso de exportação CSV de um app Electron passou em 14/14 casos declarados; não generalizar para outras classes de software",
-          "url": "https://kingy.ai/blog/reverse-engineer-anything-ai-rea-guide/",
-          "kind": "teste independente"
-        },
-        {
-          "label": "X · menções indexadas pelo Trendshift · 5 posts indexados em 14 OUT, 10 no bloco recente; perfis incluem @Slonski_rt, @AImonreal, @BrookJhonMT, @WaleatX e @starmexxx. Incluem ressalvas sobre alvos difíceis e alegações de clonagem não demonstradas; sem métricas nativas",
-          "url": "https://trendshift.io/repositories/82054",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · demonstração independente · Vivek Mishra · walkthrough publicado em 14 OUT com teste de REA em app próprio; página agregadora mostra métricas não confirmadas no YouTube nativo. Tratar como referência de roteiro/B-roll, não como prova de clonagem geral",
-          "url": "https://www.youtube.com/watch?v=fCSNcSHLyWc",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · menção indexada pelo Trendshift · Discussão em r/miband sobre engenharia reversa do app Mi Fitness; menção indexada em 13 OUT, sem votos ou comentário contável visível na checagem",
-          "url": "https://trendshift.io/repositories/82054",
-          "kind": "social"
-        },
-        {
-          "label": "V2EX · fórum de desenvolvedores · Discussão recente sobre REA e limites éticos da engenharia reversa · página pública mostra 2.787 visualizações e 18 respostas · sinal de discussão, não validação independente do produto",
-          "url": "https://staging.v2ex.com/t/1248041",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/tech_x · discussão pública do REA com 1.452 votos visíveis; comentários atualizados em 12 OUT incluem um teste relatado em quatro binários pequenos, sem permitir generalização para alvos maiores ou obfuscados",
-          "url": "https://www.reddit.com/r/tech_x/comments/1x2d66l/github_project_called_rea_reverse_engineer/",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · espelhos com métricas divergentes · Rob Shocks · demonstração independente do REA em app compilado; dois espelhos consultados exibem contagens diferentes e a página nativa do YouTube não foi confirmada, então métricas quantitativas foram excluídas; há segmento patrocinado separado",
-          "url": "https://www.youtube.com/watch?v=OMobTlfjb8s",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/tech_x · discussão nova sobre o REA; comentários perguntam sobre limites de segurança e relatam testes com diferentes modelos; contagem de votos não visível nesta checagem",
-          "url": "https://www.reddit.com/r/tech_x/comments/1x2d66l/github_project_called_rea_reverse_engineer/",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/BestGitHubRepos · post de apresentação do REA com 1.041 votos públicos; conteúdo promocional baseado no README, então alcance orgânico ainda não corroborado · publicado 08 OUT",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1x0s6lv/rea_reverse_engineer_anything_18k_stars/",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/LovingOpenSourceAI · compartilhamento do repo com 391 votos públicos; replies seguem até 08 OUT · publicado 05 OUT",
-          "url": "https://www.reddit.com/r/LovingOpenSourceAI/comments/1wyawik/rea_reverse_engineer_anything_reverse_engineer/",
-          "kind": "social"
-        },
-        {
-          "label": "TikTok (espelho) · @whitewhoadie · demonstração de REA em vídeo; página espelho lista publicação em 04 OUT e comentários, mas contagens sem rótulos, então sem métricas usadas · validar no TikTok nativo",
-          "url": "https://tikwm.com/video/7692856072624770318.html",
+          "label": "YouTube · DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO",
+          "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
           "kind": "social"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=morluto%20rea%20AI",
+          "url": "https://www.youtube.com/results?search_query=affaan-m%20ECC%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=rea%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=ECC%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=rea%20AI",
+          "url": "https://www.tiktok.com/search?q=ECC%20AI",
           "kind": "busca"
         }
       ],
       "rank": 1
     },
     {
-      "repo": "debpalash/VoiceStudio",
-      "title": "VoiceStudio",
-      "type": "Voz e dublagem local",
+      "repo": "anthropics/claude-plugins-official",
+      "title": "claude-plugins-official",
+      "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Esta alternativa aberta ao ElevenLabs clona vozes, dubla vídeos e roda localmente sem assinatura.",
-      "thesis": "Voz generativa está virando infraestrutura local: privacidade, custo zero por uso e centenas de idiomas criam uma narrativa forte contra plataformas fechadas.",
+      "hook": "Este repositório ganhou 1,6 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "broll": [
-        "galeria de vozes",
-        "clonagem com amostra curta",
-        "editor de dublagem",
-        "comparação local versus nuvem"
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
       ],
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 69119,
-      "forks": 7567,
-      "issues": 183,
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "stars": 40031,
+      "forks": 4369,
+      "issues": 1133,
       "language": "Python",
-      "pushedAt": "2026-10-16T00:30:27Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 3024,
-      "score": 77,
-      "social": [
-        {
-          "platform": "X · menções indexadas pelo Trendshift",
-          "label": "5 posts indexados em 14 OUT; perfis @Chris480096, @limuvibecoding, @maga_musk, @a89eef9371 e @wanmeiyinshen. Repetem alegações sobre execução local/646 idiomas; métricas nativas e validação independente não visíveis",
-          "url": "https://trendshift.io/repositories/28176",
-          "publishedAt": "2026-10-14",
-          "verifiedAt": "14 OUT 2026"
-        },
-        {
-          "platform": "Instagram",
-          "label": "@niyi.tech · alternativa local ao ElevenLabs · 1,9k likes públicos · observado 21 AGO",
-          "url": "https://www.instagram.com/reel/DYg7o7Um4Qb/",
-          "likes": 1900,
-          "publishedAt": "2026-08-21",
-          "verifiedAt": "14 SET 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "AiThatSpeaks · clonagem e dublagem local · 7,8k views · 158 likes · publicado 17 JUL",
-          "url": "https://www.youtube.com/watch?v=xkFkvxYKe1Q",
-          "views": 7823,
-          "likes": 158,
-          "comments": 58,
-          "publishedAt": "2026-07-17",
-          "verifiedAt": "15 SET 2026"
-        }
-      ],
-      "socialStatus": "referência social recente — métrica direta precisa verificação; Varredura de 14 OUT: Trendshift indexa 5 posts de X hoje, mas repetem alegações promocionais sem métricas nativas. YouTube/Instagram encontrados são históricos; LinkedIn tem menções sem permalink/data/engajamento verificáveis. Sem referência atual atribuível de Shorts, Reels ou TikTok.",
+      "pushedAt": "2026-10-16T07:36:29Z",
+      "pushedLabel": "push há 7h",
+      "trendingStarsToday": 1552,
+      "score": 76,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/debpalash/VoiceStudio",
+          "url": "https://github.com/anthropics/claude-plugins-official",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 3 mil stars hoje",
+          "label": "GitHub Trending · 1,6 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "X · menções indexadas pelo Trendshift · 5 posts indexados em 14 OUT; perfis @Chris480096, @limuvibecoding, @maga_musk, @a89eef9371 e @wanmeiyinshen. Repetem alegações sobre execução local/646 idiomas; métricas nativas e validação independente não visíveis",
-          "url": "https://trendshift.io/repositories/28176",
-          "kind": "social"
-        },
-        {
-          "label": "Instagram · @niyi.tech · alternativa local ao ElevenLabs · 1,9k likes públicos · observado 21 AGO",
-          "url": "https://www.instagram.com/reel/DYg7o7Um4Qb/",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · AiThatSpeaks · clonagem e dublagem local · 7,8k views · 158 likes · publicado 17 JUL",
-          "url": "https://www.youtube.com/watch?v=xkFkvxYKe1Q",
-          "kind": "social"
-        },
-        {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=debpalash%20VoiceStudio%20AI",
+          "url": "https://www.youtube.com/results?search_query=anthropics%20claude-plugins-official%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=VoiceStudio%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-plugins-official%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=VoiceStudio%20AI",
+          "url": "https://www.tiktok.com/search?q=claude-plugins-official%20AI",
           "kind": "busca"
         }
       ],
@@ -362,14 +205,14 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 50485,
-      "forks": 4489,
-      "issues": 40,
+      "stars": 51182,
+      "forks": 4538,
+      "issues": 43,
       "language": "Python",
       "pushedAt": "2026-10-15T23:57:39Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 1091,
-      "score": 74,
+      "pushedLabel": "push há 15h",
+      "trendingStarsToday": 1158,
+      "score": 75,
       "social": [
         {
           "platform": "YouTube",
@@ -388,7 +231,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,1 mil stars hoje",
+          "label": "GitHub Trending · 1,2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -416,192 +259,6 @@
       "rank": 3
     },
     {
-      "repo": "JuliusBrussee/caveman",
-      "title": "caveman",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 433 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "stars": 112558,
-      "forks": 6521,
-      "issues": 62,
-      "language": "Go",
-      "pushedAt": "2026-10-15T07:42:22Z",
-      "pushedLabel": "push há 17h",
-      "trendingStarsToday": 433,
-      "score": 70,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/JuliusBrussee/caveman",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 433 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=JuliusBrussee%20caveman%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=caveman%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=caveman%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "repo": "obra/superpowers",
-      "title": "Superpowers",
-      "type": "Metodologia para agentes",
-      "status": "Gravar agora",
-      "hook": "Este projeto tenta acabar com o vibe coding: o agente precisa planejar, testar e revisar antes de dizer que terminou.",
-      "thesis": "Skills em Markdown estão virando uma camada de engenharia reutilizável entre Claude, Codex, Cursor e outros agentes.",
-      "broll": [
-        "fluxo brainstorming → plano → TDD",
-        "lista de skills",
-        "README",
-        "vídeo demonstrativo"
-      ],
-      "url": "https://github.com/obra/superpowers",
-      "stars": 299906,
-      "forks": 26785,
-      "issues": 358,
-      "language": "Shell",
-      "pushedAt": "2026-10-10T03:03:30Z",
-      "pushedLabel": "push há 6d",
-      "trendingStarsToday": 582,
-      "score": 66,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
-          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
-          "engagement": 324,
-          "publishedAt": "2026-09-26",
-          "verifiedAt": "01 OUT 2026"
-        },
-        {
-          "platform": "Bilibili",
-          "label": "Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
-          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
-          "views": 17000,
-          "publishedAt": "2026-03-04",
-          "verifiedAt": "09 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/obra/superpowers",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 582 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Reddit · r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
-          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
-          "kind": "social"
-        },
-        {
-          "label": "Bilibili · Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
-          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=obra%20superpowers%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Superpowers%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Superpowers%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "repo": "anthropics/claude-plugins-official",
-      "title": "claude-plugins-official",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 307 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "stars": 39110,
-      "forks": 4325,
-      "issues": 1224,
-      "language": "Python",
-      "pushedAt": "2026-10-15T22:49:35Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 307,
-      "score": 66,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/anthropics/claude-plugins-official",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 307 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=anthropics%20claude-plugins-official%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-plugins-official%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=claude-plugins-official%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 6
-    },
-    {
       "repo": "ruvnet/ruflo",
       "title": "Ruflo",
       "type": "Orquestração multiagente",
@@ -615,14 +272,14 @@
         "README"
       ],
       "url": "https://github.com/ruvnet/ruflo",
-      "stars": 75136,
-      "forks": 8926,
-      "issues": 1053,
+      "stars": 75474,
+      "forks": 8953,
+      "issues": 1058,
       "language": "TypeScript",
-      "pushedAt": "2026-10-15T11:18:51Z",
-      "pushedLabel": "push há 14h",
-      "trendingStarsToday": 147,
-      "score": 62,
+      "pushedAt": "2026-10-16T11:04:29Z",
+      "pushedLabel": "push há 4h",
+      "trendingStarsToday": 672,
+      "score": 72,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -632,7 +289,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 147 stars hoje",
+          "label": "GitHub Trending · 672 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -652,6 +309,178 @@
           "kind": "busca"
         }
       ],
+      "rank": 4
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "title": "context-mode",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 449 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/mksglu/context-mode",
+      "stars": 30065,
+      "forks": 2114,
+      "issues": 359,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-16T14:46:13Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 449,
+      "score": 68,
+      "social": [
+        {
+          "platform": "X · menções indexadas pelo Trendshift",
+          "label": "Últimas 5 menções indexadas em 13 OUT; busca de 14 OUT não encontrou post atribuível mais novo. Discussão sobre sandbox de saídas, MCP e memória de sessão; redução de 98% é alegação do projeto, sem métricas nativas das menções",
+          "url": "https://trendshift.io/repositories/24012",
+          "publishedAt": "2026-10-13",
+          "verifiedAt": "14 OUT 2026"
+        }
+      ],
+      "socialStatus": "referência social recente — métrica direta precisa verificação; Varredura de 14 OUT: última menção indexada em X é de 13 OUT; sem post atual atribuível verificado em YouTube/Shorts, Instagram/Reels, TikTok, Reddit ou LinkedIn. Alegação de redução de 98% segue sem reprodução independente nesta consulta.",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mksglu/context-mode",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 449 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "X · menções indexadas pelo Trendshift · Últimas 5 menções indexadas em 13 OUT; busca de 14 OUT não encontrou post atribuível mais novo. Discussão sobre sandbox de saídas, MCP e memória de sessão; redução de 98% é alegação do projeto, sem métricas nativas das menções",
+          "url": "https://trendshift.io/repositories/24012",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=mksglu%20context-mode%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=context-mode%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=context-mode%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "title": "CLI-Anything",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 716 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "stars": 53283,
+      "forks": 4831,
+      "issues": 172,
+      "language": "Python",
+      "pushedAt": "2026-09-22T02:01:29Z",
+      "pushedLabel": "push há 25d",
+      "trendingStarsToday": 716,
+      "score": 65,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 716 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=HKUDS%20CLI-Anything%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=CLI-Anything%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=CLI-Anything%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "repo": "android/skills",
+      "title": "skills",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 35 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Tendência técnica recente que precisa de validação editorial.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/android/skills",
+      "stars": 7914,
+      "forks": 524,
+      "issues": 36,
+      "language": "Kotlin",
+      "pushedAt": "2026-10-16T10:07:27Z",
+      "pushedLabel": "push há 5h",
+      "trendingStarsToday": 35,
+      "score": 49,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/android/skills",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 35 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=android%20skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=skills%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 7
     },
     {
@@ -667,12 +496,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 97774,
-      "forks": 8567,
+      "stars": 98040,
+      "forks": 8599,
       "issues": 218,
       "language": "Python",
       "pushedAt": "2026-10-15T11:34:42Z",
-      "pushedLabel": "push há 14h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -743,12 +572,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29251,
-      "forks": 2852,
-      "issues": 706,
+      "stars": 29303,
+      "forks": 2863,
+      "issues": 724,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T12:24:35Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -783,17 +612,35 @@
       "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
       "url": "https://news.ycombinator.com/item?id=50100387",
       "relatedUrl": "https://github.com/awslabs/aidlc-workflows",
-      "points": 20,
-      "comments": 16,
+      "points": 25,
+      "comments": 21,
       "publishedAt": "2026-10-15T07:20:39Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Companies rushed in on AI. Now some are pulling back",
+      "url": "https://news.ycombinator.com/item?id=50108083",
+      "relatedUrl": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
+      "points": 25,
+      "comments": 3,
+      "publishedAt": "2026-10-15T18:29:29Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs",
+      "url": "https://news.ycombinator.com/item?id=50097811",
+      "relatedUrl": "https://capsem.org/",
+      "points": 8,
+      "comments": 8,
+      "publishedAt": "2026-10-15T00:58:26Z",
       "source": "Hacker News official API"
     },
     {
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "url": "https://news.ycombinator.com/item?id=50091788",
       "relatedUrl": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "points": 939,
-      "comments": 612,
+      "points": 945,
+      "comments": 616,
       "publishedAt": "2026-10-14T17:45:23Z",
       "source": "Hacker News official API"
     },
@@ -801,28 +648,9 @@
       "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
       "url": "https://news.ycombinator.com/item?id=50097369",
       "relatedUrl": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "points": 283,
-      "comments": 76,
+      "points": 286,
+      "comments": 80,
       "publishedAt": "2026-10-14T23:59:37Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "TV4 postpones show after AI agent erases edited material",
-      "url": "https://news.ycombinator.com/item?id=50085323",
-      "relatedUrl": "https://www.tv4.se/artikel/2iwfK5MNpFID98pxQbsC7t/hel-saesong-av-tv4-programmet-raderat-av-ai",
-      "points": 154,
-      "comments": 86,
-      "publishedAt": "2026-10-14T10:28:26Z",
-      "source": "Hacker News official API",
-      "editorialNote": "Correção essencial (14 OUT): a TV4 confirma perda do corte editado e adiamento, mas diz que a causa foi falha no backup e rejeita que um agente de IA tenha apagado o material. O material bruto permanece e a temporada será reeditada. Tratar como falha de backup confirmada e atribuição a IA refutada pela emissora, não como incidente de agente comprovado."
-    },
-    {
-      "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
-      "url": "https://news.ycombinator.com/item?id=50088713",
-      "relatedUrl": "https://github.com/graphicle-ai/graphicle",
-      "points": 47,
-      "comments": 13,
-      "publishedAt": "2026-10-14T15:00:41Z",
       "source": "Hacker News official API"
     },
     {
@@ -837,52 +665,52 @@
   ],
   "trending": [
     {
-      "repo": "morluto/rea",
-      "starsToday": 32314
-    },
-    {
       "repo": "anthropics/claude-plugins-official",
-      "starsToday": 307
+      "starsToday": 1552
     },
     {
       "repo": "K-Dense-AI/scientific-agent-skills",
-      "starsToday": 1091
-    },
-    {
-      "repo": "JuliusBrussee/caveman",
-      "starsToday": 433
-    },
-    {
-      "repo": "debpalash/VoiceStudio",
-      "starsToday": 3024
-    },
-    {
-      "repo": "obra/superpowers",
-      "starsToday": 582
-    },
-    {
-      "repo": "ruvnet/ruflo",
-      "starsToday": 147
-    },
-    {
-      "repo": "mksglu/context-mode",
-      "starsToday": 904
-    },
-    {
-      "repo": "NationalSecurityAgency/ghidra",
-      "starsToday": 1369
+      "starsToday": 1158
     },
     {
       "repo": "affaan-m/ECC",
-      "starsToday": 1013
+      "starsToday": 1057
     },
     {
-      "repo": "lightseekorg/tokenspeed",
-      "starsToday": 30
+      "repo": "HKUDS/CLI-Anything",
+      "starsToday": 716
     },
     {
-      "repo": "xerj-org/xerj",
-      "starsToday": 715
+      "repo": "mksglu/context-mode",
+      "starsToday": 449
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "starsToday": 672
+    },
+    {
+      "repo": "android/skills",
+      "starsToday": 35
+    },
+    {
+      "repo": "obra/superpowers",
+      "starsToday": 973
+    },
+    {
+      "repo": "cursor/plugins",
+      "starsToday": 214
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "starsToday": 2301
+    },
+    {
+      "repo": "MadsLorentzen/ai-job-search",
+      "starsToday": 879
+    },
+    {
+      "repo": "hmjz100/LinkSwift",
+      "starsToday": 592
     }
   ],
   "monitored": [
@@ -899,12 +727,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 97774,
-      "forks": 8567,
+      "stars": 98040,
+      "forks": 8599,
       "issues": 218,
       "language": "Python",
       "pushedAt": "2026-10-15T11:34:42Z",
-      "pushedLabel": "push há 14h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -975,12 +803,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29251,
-      "forks": 2852,
-      "issues": 706,
+      "stars": 29303,
+      "forks": 2863,
+      "issues": 724,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T12:24:35Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
