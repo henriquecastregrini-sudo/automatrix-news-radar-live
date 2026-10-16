@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T15:02:42.790Z",
-  "generatedLabel": "16 de out. de 2026 · 12:02",
+  "generatedAt": "2026-10-16T19:48:09.999Z",
+  "generatedLabel": "16 de out. de 2026 · 16:48",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,12 +85,12 @@
         "comparação de agentes"
       ],
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 281034,
-      "forks": 41793,
+      "stars": 281291,
+      "forks": 41825,
       "issues": 229,
       "language": "JavaScript",
       "pushedAt": "2026-10-15T19:17:01Z",
-      "pushedLabel": "push há 20h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": 1057,
       "score": 77,
       "social": [
@@ -152,12 +152,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/claude-plugins-official",
-      "stars": 40031,
-      "forks": 4369,
-      "issues": 1133,
+      "stars": 40319,
+      "forks": 4389,
+      "issues": 1140,
       "language": "Python",
-      "pushedAt": "2026-10-16T07:36:29Z",
-      "pushedLabel": "push há 7h",
+      "pushedAt": "2026-10-16T16:36:46Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": 1552,
       "score": 76,
       "social": [],
@@ -205,12 +205,12 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 51182,
-      "forks": 4538,
+      "stars": 51344,
+      "forks": 4551,
       "issues": 43,
       "language": "Python",
       "pushedAt": "2026-10-15T23:57:39Z",
-      "pushedLabel": "push há 15h",
+      "pushedLabel": "push há 20h",
       "trendingStarsToday": 1158,
       "score": 75,
       "social": [
@@ -272,12 +272,12 @@
         "README"
       ],
       "url": "https://github.com/ruvnet/ruflo",
-      "stars": 75474,
-      "forks": 8953,
+      "stars": 75546,
+      "forks": 8960,
       "issues": 1058,
       "language": "TypeScript",
       "pushedAt": "2026-10-16T11:04:29Z",
-      "pushedLabel": "push há 4h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": 672,
       "score": 72,
       "social": [],
@@ -325,12 +325,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mksglu/context-mode",
-      "stars": 30065,
-      "forks": 2114,
-      "issues": 359,
+      "stars": 30148,
+      "forks": 2124,
+      "issues": 358,
       "language": "TypeScript",
-      "pushedAt": "2026-10-16T14:46:13Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-10-16T18:48:42Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 449,
       "score": 68,
       "social": [
@@ -381,8 +381,8 @@
       "repo": "HKUDS/CLI-Anything",
       "title": "CLI-Anything",
       "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 716 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 323 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "broll": [
         "GitHub Trending",
@@ -391,14 +391,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars": 53283,
-      "forks": 4831,
-      "issues": 172,
+      "stars": 53376,
+      "forks": 4838,
+      "issues": 174,
       "language": "Python",
       "pushedAt": "2026-09-22T02:01:29Z",
       "pushedLabel": "push há 25d",
-      "trendingStarsToday": 716,
-      "score": 65,
+      "trendingStarsToday": 323,
+      "score": 60,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -408,7 +408,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 716 stars hoje",
+          "label": "GitHub Trending · 323 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -444,12 +444,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/android/skills",
-      "stars": 7914,
-      "forks": 524,
+      "stars": 7996,
+      "forks": 530,
       "issues": 36,
       "language": "Kotlin",
       "pushedAt": "2026-10-16T10:07:27Z",
-      "pushedLabel": "push há 5h",
+      "pushedLabel": "push há 10h",
       "trendingStarsToday": 35,
       "score": 49,
       "social": [],
@@ -496,9 +496,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 98040,
-      "forks": 8599,
-      "issues": 218,
+      "stars": 98137,
+      "forks": 8613,
+      "issues": 219,
       "language": "Python",
       "pushedAt": "2026-10-15T11:34:42Z",
       "pushedLabel": "push há 1d",
@@ -572,9 +572,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29303,
-      "forks": 2863,
-      "issues": 724,
+      "stars": 29336,
+      "forks": 2868,
+      "issues": 744,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T12:24:35Z",
       "pushedLabel": "push há 1d",
@@ -609,11 +609,29 @@
   ],
   "news": [
     {
+      "title": "Show HN: rStation – A shared research lab for your AI agents",
+      "url": "https://news.ycombinator.com/item?id=50118876",
+      "relatedUrl": "https://rstation.ai/",
+      "points": 41,
+      "comments": 18,
+      "publishedAt": "2026-10-16T14:35:43Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: Gitsu.app – A Linear-alternative built on GitHub Projects",
+      "url": "https://news.ycombinator.com/item?id=50114512",
+      "relatedUrl": "https://gitsu.app/",
+      "points": 5,
+      "comments": 8,
+      "publishedAt": "2026-10-16T05:42:21Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
       "url": "https://news.ycombinator.com/item?id=50100387",
       "relatedUrl": "https://github.com/awslabs/aidlc-workflows",
-      "points": 25,
-      "comments": 21,
+      "points": 26,
+      "comments": 22,
       "publishedAt": "2026-10-15T07:20:39Z",
       "source": "Hacker News official API"
     },
@@ -621,7 +639,7 @@
       "title": "Companies rushed in on AI. Now some are pulling back",
       "url": "https://news.ycombinator.com/item?id=50108083",
       "relatedUrl": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
-      "points": 25,
+      "points": 26,
       "comments": 3,
       "publishedAt": "2026-10-15T18:29:29Z",
       "source": "Hacker News official API"
@@ -636,30 +654,12 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "url": "https://news.ycombinator.com/item?id=50091788",
-      "relatedUrl": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "points": 945,
-      "comments": 616,
-      "publishedAt": "2026-10-14T17:45:23Z",
-      "source": "Hacker News official API"
-    },
-    {
       "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
       "url": "https://news.ycombinator.com/item?id=50097369",
       "relatedUrl": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "points": 286,
-      "comments": 80,
+      "points": 287,
+      "comments": 81,
       "publishedAt": "2026-10-14T23:59:37Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "I Deleted 168,000 Lines of Comments. My AI Agent Didn't Notice",
-      "url": "https://news.ycombinator.com/item?id=50090484",
-      "relatedUrl": "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
-      "points": 35,
-      "comments": 17,
-      "publishedAt": "2026-10-14T16:34:53Z",
       "source": "Hacker News official API"
     }
   ],
@@ -678,7 +678,7 @@
     },
     {
       "repo": "HKUDS/CLI-Anything",
-      "starsToday": 716
+      "starsToday": 323
     },
     {
       "repo": "mksglu/context-mode",
@@ -698,7 +698,7 @@
     },
     {
       "repo": "cursor/plugins",
-      "starsToday": 214
+      "starsToday": 282
     },
     {
       "repo": "debpalash/VoiceStudio",
@@ -710,7 +710,7 @@
     },
     {
       "repo": "hmjz100/LinkSwift",
-      "starsToday": 592
+      "starsToday": 702
     }
   ],
   "monitored": [
@@ -727,9 +727,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 98040,
-      "forks": 8599,
-      "issues": 218,
+      "stars": 98137,
+      "forks": 8613,
+      "issues": 219,
       "language": "Python",
       "pushedAt": "2026-10-15T11:34:42Z",
       "pushedLabel": "push há 1d",
@@ -803,9 +803,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29303,
-      "forks": 2863,
-      "issues": 724,
+      "stars": 29336,
+      "forks": 2868,
+      "issues": 744,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T12:24:35Z",
       "pushedLabel": "push há 1d",
