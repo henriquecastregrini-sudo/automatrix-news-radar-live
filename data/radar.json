@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T01:12:52.971Z",
-  "generatedLabel": "16 de out. de 2026 · 22:12",
+  "generatedAt": "2026-10-17T13:58:47.026Z",
+  "generatedLabel": "17 de out. de 2026 · 10:58",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,14 +85,14 @@
         "comparação de agentes"
       ],
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 281528,
-      "forks": 41856,
-      "issues": 230,
+      "stars": 282017,
+      "forks": 41940,
+      "issues": 236,
       "language": "JavaScript",
       "pushedAt": "2026-10-15T19:17:01Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 1057,
-      "score": 77,
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 1145,
+      "score": 78,
       "social": [
         {
           "platform": "YouTube",
@@ -139,11 +139,64 @@
       "rank": 1
     },
     {
+      "repo": "MadsLorentzen/ai-job-search",
+      "title": "ai-job-search",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "stars": 49419,
+      "forks": 16779,
+      "issues": 50,
+      "language": "Python",
+      "pushedAt": "2026-10-15T16:16:00Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 1397,
+      "score": 76,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,4 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=MadsLorentzen%20ai-job-search%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=ai-job-search%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=ai-job-search%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "repo": "anthropics/claude-plugins-official",
       "title": "claude-plugins-official",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,6 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "broll": [
         "GitHub Trending",
@@ -152,13 +205,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/claude-plugins-official",
-      "stars": 40583,
-      "forks": 4401,
-      "issues": 1141,
+      "stars": 41237,
+      "forks": 4436,
+      "issues": 1164,
       "language": "Python",
-      "pushedAt": "2026-10-16T16:36:46Z",
-      "pushedLabel": "push há 9h",
-      "trendingStarsToday": 1552,
+      "pushedAt": "2026-10-17T07:36:42Z",
+      "pushedLabel": "push há 6h",
+      "trendingStarsToday": 1383,
       "score": 76,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -169,7 +222,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,6 mil stars hoje",
+          "label": "GitHub Trending · 1,4 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -189,7 +242,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "repo": "K-Dense-AI/scientific-agent-skills",
@@ -205,14 +258,14 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 51519,
-      "forks": 4563,
-      "issues": 43,
+      "stars": 51990,
+      "forks": 4603,
+      "issues": 49,
       "language": "Python",
       "pushedAt": "2026-10-15T23:57:39Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 1158,
-      "score": 75,
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 879,
+      "score": 73,
       "social": [
         {
           "platform": "YouTube",
@@ -231,7 +284,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,2 mil stars hoje",
+          "label": "GitHub Trending · 879 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -256,122 +309,56 @@
           "kind": "busca"
         }
       ],
-      "rank": 3
-    },
-    {
-      "repo": "ruvnet/ruflo",
-      "title": "Ruflo",
-      "type": "Orquestração multiagente",
-      "status": "Monitorar hoje",
-      "hook": "Este meta-harness coordena enxames de agentes, memória e fluxos autônomos no mesmo sistema.",
-      "thesis": "O mercado está saindo do agente isolado para equipes de agentes coordenados.",
-      "broll": [
-        "arquitetura",
-        "terminal",
-        "swarm demo",
-        "README"
-      ],
-      "url": "https://github.com/ruvnet/ruflo",
-      "stars": 75641,
-      "forks": 8966,
-      "issues": 1066,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-16T11:04:29Z",
-      "pushedLabel": "push há 14h",
-      "trendingStarsToday": 672,
-      "score": 72,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/ruvnet/ruflo",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 672 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=ruvnet%20ruflo%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Ruflo%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Ruflo%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 4
     },
     {
-      "repo": "mksglu/context-mode",
-      "title": "context-mode",
+      "repo": "android/skills",
+      "title": "skills",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 449 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "hook": "Este repositório ganhou 368 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Tendência técnica recente que precisa de validação editorial.",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/mksglu/context-mode",
-      "stars": 30239,
-      "forks": 2127,
-      "issues": 358,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-17T01:12:35Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 449,
-      "score": 68,
-      "social": [
-        {
-          "platform": "X · menções indexadas pelo Trendshift",
-          "label": "Últimas 5 menções indexadas em 13 OUT; busca de 14 OUT não encontrou post atribuível mais novo. Discussão sobre sandbox de saídas, MCP e memória de sessão; redução de 98% é alegação do projeto, sem métricas nativas das menções",
-          "url": "https://trendshift.io/repositories/24012",
-          "publishedAt": "2026-10-13",
-          "verifiedAt": "14 OUT 2026"
-        }
-      ],
-      "socialStatus": "referência social recente — métrica direta precisa verificação; Varredura de 14 OUT: última menção indexada em X é de 13 OUT; sem post atual atribuível verificado em YouTube/Shorts, Instagram/Reels, TikTok, Reddit ou LinkedIn. Alegação de redução de 98% segue sem reprodução independente nesta consulta.",
+      "url": "https://github.com/android/skills",
+      "stars": 8287,
+      "forks": 547,
+      "issues": 37,
+      "language": "Kotlin",
+      "pushedAt": "2026-10-16T10:07:27Z",
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 368,
+      "score": 64,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/mksglu/context-mode",
+          "url": "https://github.com/android/skills",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 449 stars hoje",
+          "label": "GitHub Trending · 368 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "X · menções indexadas pelo Trendshift · Últimas 5 menções indexadas em 13 OUT; busca de 14 OUT não encontrou post atribuível mais novo. Discussão sobre sandbox de saídas, MCP e memória de sessão; redução de 98% é alegação do projeto, sem métricas nativas das menções",
-          "url": "https://trendshift.io/repositories/24012",
-          "kind": "social"
-        },
-        {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=mksglu%20context-mode%20AI",
+          "url": "https://www.youtube.com/results?search_query=android%20skills%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=context-mode%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=skills%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=context-mode%20AI",
+          "url": "https://www.tiktok.com/search?q=skills%20AI",
           "kind": "busca"
         }
       ],
@@ -381,8 +368,8 @@
       "repo": "HKUDS/CLI-Anything",
       "title": "CLI-Anything",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 281 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 580 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "broll": [
         "GitHub Trending",
@@ -391,14 +378,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars": 53508,
-      "forks": 4849,
-      "issues": 176,
+      "stars": 53824,
+      "forks": 4885,
+      "issues": 183,
       "language": "Python",
       "pushedAt": "2026-09-22T02:01:29Z",
-      "pushedLabel": "push há 25d",
-      "trendingStarsToday": 281,
-      "score": 59,
+      "pushedLabel": "push há 26d",
+      "trendingStarsToday": 580,
+      "score": 63,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -408,7 +395,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 281 stars hoje",
+          "label": "GitHub Trending · 580 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -431,53 +418,53 @@
       "rank": 6
     },
     {
-      "repo": "android/skills",
-      "title": "skills",
-      "type": "Novo no GitHub Trending",
+      "repo": "akitaonrails/ai-memory",
+      "title": "AI Memory",
+      "type": "Memória para agentes de código",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 36 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Tendência técnica recente que precisa de validação editorial.",
+      "hook": "Um brasileiro criou uma memória de longo prazo para agentes trocarem de sessão e até de fornecedor sem perder o contexto.",
+      "thesis": "Persistir decisões e contexto entre agentes pode ser mais útil que ampliar a janela de contexto de cada conversa.",
       "broll": [
-        "GitHub Trending",
         "README",
-        "demo oficial",
-        "histórico do projeto"
+        "handoff entre agentes",
+        "estrutura de memória",
+        "terminal"
       ],
-      "url": "https://github.com/android/skills",
-      "stars": 8077,
-      "forks": 536,
-      "issues": 37,
-      "language": "Kotlin",
-      "pushedAt": "2026-10-16T10:07:27Z",
-      "pushedLabel": "push há 15h",
-      "trendingStarsToday": 36,
-      "score": 49,
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "stars": 9718,
+      "forks": 699,
+      "issues": 36,
+      "language": "Rust",
+      "pushedAt": "2026-10-16T16:57:33Z",
+      "pushedLabel": "push há 21h",
+      "trendingStarsToday": 208,
+      "score": 61,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/android/skills",
+          "url": "https://github.com/akitaonrails/ai-memory",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 36 stars hoje",
+          "label": "GitHub Trending · 208 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=android%20skills%20AI",
+          "url": "https://www.youtube.com/results?search_query=akitaonrails%20ai-memory%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=skills%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=AI%20Memory%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=skills%20AI",
+          "url": "https://www.tiktok.com/search?q=AI%20Memory%20AI",
           "kind": "busca"
         }
       ],
@@ -496,14 +483,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 98227,
-      "forks": 8630,
-      "issues": 220,
+      "stars": 98544,
+      "forks": 8670,
+      "issues": 223,
       "language": "Python",
       "pushedAt": "2026-10-15T11:34:42Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
-      "score": 42,
+      "score": 35,
       "social": [
         {
           "platform": "Reddit",
@@ -572,14 +559,14 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29370,
-      "forks": 2869,
-      "issues": 745,
+      "stars": 29465,
+      "forks": 2902,
+      "issues": 758,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T12:24:35Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
-      "score": 40,
+      "score": 33,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -612,7 +599,7 @@
       "title": "Show HN: rStation – A shared research lab for your AI agents",
       "url": "https://news.ycombinator.com/item?id=50118876",
       "relatedUrl": "https://rstation.ai/",
-      "points": 50,
+      "points": 53,
       "comments": 19,
       "publishedAt": "2026-10-16T14:35:43Z",
       "source": "Hacker News official API"
@@ -636,15 +623,6 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-      "url": "https://news.ycombinator.com/item?id=50100387",
-      "relatedUrl": "https://github.com/awslabs/aidlc-workflows",
-      "points": 27,
-      "comments": 22,
-      "publishedAt": "2026-10-15T07:20:39Z",
-      "source": "Hacker News official API"
-    },
-    {
       "title": "Companies rushed in on AI. Now some are pulling back",
       "url": "https://news.ycombinator.com/item?id=50108083",
       "relatedUrl": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
@@ -661,56 +639,65 @@
       "comments": 3,
       "publishedAt": "2026-10-15T15:08:45Z",
       "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: BlastLoop, a structure-first coding method for AI agents",
+      "url": "https://news.ycombinator.com/item?id=50106062",
+      "relatedUrl": "https://github.com/rlshaw-ml/BlastLoop",
+      "points": 15,
+      "comments": 1,
+      "publishedAt": "2026-10-15T16:26:39Z",
+      "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "anthropics/claude-plugins-official",
-      "starsToday": 1552
-    },
-    {
-      "repo": "K-Dense-AI/scientific-agent-skills",
-      "starsToday": 1158
-    },
-    {
-      "repo": "affaan-m/ECC",
-      "starsToday": 1057
-    },
-    {
-      "repo": "HKUDS/CLI-Anything",
-      "starsToday": 281
-    },
-    {
-      "repo": "mksglu/context-mode",
-      "starsToday": 449
-    },
-    {
-      "repo": "ruvnet/ruflo",
-      "starsToday": 672
-    },
-    {
-      "repo": "android/skills",
-      "starsToday": 36
-    },
-    {
-      "repo": "obra/superpowers",
-      "starsToday": 973
-    },
-    {
-      "repo": "cursor/plugins",
-      "starsToday": 278
-    },
-    {
-      "repo": "debpalash/VoiceStudio",
-      "starsToday": 2301
+      "starsToday": 1383
     },
     {
       "repo": "MadsLorentzen/ai-job-search",
-      "starsToday": 898
+      "starsToday": 1397
     },
     {
-      "repo": "hmjz100/LinkSwift",
-      "starsToday": 538
+      "repo": "affaan-m/ECC",
+      "starsToday": 1145
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "starsToday": 580
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "starsToday": 879
+    },
+    {
+      "repo": "akitaonrails/ai-memory",
+      "starsToday": 208
+    },
+    {
+      "repo": "android/skills",
+      "starsToday": 368
+    },
+    {
+      "repo": "stablyai/orca",
+      "starsToday": 1102
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "starsToday": 168
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "starsToday": 2135
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "starsToday": 488
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "starsToday": 406
     }
   ],
   "monitored": [
@@ -727,14 +714,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 98227,
-      "forks": 8630,
-      "issues": 220,
+      "stars": 98544,
+      "forks": 8670,
+      "issues": 223,
       "language": "Python",
       "pushedAt": "2026-10-15T11:34:42Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
-      "score": 42,
+      "score": 35,
       "social": [
         {
           "platform": "Reddit",
@@ -803,14 +790,14 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29370,
-      "forks": 2869,
-      "issues": 745,
+      "stars": 29465,
+      "forks": 2902,
+      "issues": 758,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T12:24:35Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
-      "score": 40,
+      "score": 33,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
