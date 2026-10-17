@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T19:48:09.999Z",
-  "generatedLabel": "16 de out. de 2026 · 16:48",
+  "generatedAt": "2026-10-17T01:12:52.971Z",
+  "generatedLabel": "16 de out. de 2026 · 22:12",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,9 +85,9 @@
         "comparação de agentes"
       ],
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 281291,
-      "forks": 41825,
-      "issues": 229,
+      "stars": 281528,
+      "forks": 41856,
+      "issues": 230,
       "language": "JavaScript",
       "pushedAt": "2026-10-15T19:17:01Z",
       "pushedLabel": "push há 1d",
@@ -152,12 +152,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/claude-plugins-official",
-      "stars": 40319,
-      "forks": 4389,
-      "issues": 1140,
+      "stars": 40583,
+      "forks": 4401,
+      "issues": 1141,
       "language": "Python",
       "pushedAt": "2026-10-16T16:36:46Z",
-      "pushedLabel": "push há 3h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": 1552,
       "score": 76,
       "social": [],
@@ -205,12 +205,12 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 51344,
-      "forks": 4551,
+      "stars": 51519,
+      "forks": 4563,
       "issues": 43,
       "language": "Python",
       "pushedAt": "2026-10-15T23:57:39Z",
-      "pushedLabel": "push há 20h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": 1158,
       "score": 75,
       "social": [
@@ -272,12 +272,12 @@
         "README"
       ],
       "url": "https://github.com/ruvnet/ruflo",
-      "stars": 75546,
-      "forks": 8960,
-      "issues": 1058,
+      "stars": 75641,
+      "forks": 8966,
+      "issues": 1066,
       "language": "TypeScript",
       "pushedAt": "2026-10-16T11:04:29Z",
-      "pushedLabel": "push há 9h",
+      "pushedLabel": "push há 14h",
       "trendingStarsToday": 672,
       "score": 72,
       "social": [],
@@ -325,12 +325,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mksglu/context-mode",
-      "stars": 30148,
-      "forks": 2124,
+      "stars": 30239,
+      "forks": 2127,
       "issues": 358,
       "language": "TypeScript",
-      "pushedAt": "2026-10-16T18:48:42Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-10-17T01:12:35Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 449,
       "score": 68,
       "social": [
@@ -382,7 +382,7 @@
       "title": "CLI-Anything",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 323 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 281 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "broll": [
         "GitHub Trending",
@@ -391,14 +391,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars": 53376,
-      "forks": 4838,
-      "issues": 174,
+      "stars": 53508,
+      "forks": 4849,
+      "issues": 176,
       "language": "Python",
       "pushedAt": "2026-09-22T02:01:29Z",
       "pushedLabel": "push há 25d",
-      "trendingStarsToday": 323,
-      "score": 60,
+      "trendingStarsToday": 281,
+      "score": 59,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -408,7 +408,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 323 stars hoje",
+          "label": "GitHub Trending · 281 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -435,7 +435,7 @@
       "title": "skills",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 35 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 36 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Tendência técnica recente que precisa de validação editorial.",
       "broll": [
         "GitHub Trending",
@@ -444,13 +444,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/android/skills",
-      "stars": 7996,
-      "forks": 530,
-      "issues": 36,
+      "stars": 8077,
+      "forks": 536,
+      "issues": 37,
       "language": "Kotlin",
       "pushedAt": "2026-10-16T10:07:27Z",
-      "pushedLabel": "push há 10h",
-      "trendingStarsToday": 35,
+      "pushedLabel": "push há 15h",
+      "trendingStarsToday": 36,
       "score": 49,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -461,7 +461,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 35 stars hoje",
+          "label": "GitHub Trending · 36 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -496,12 +496,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 98137,
-      "forks": 8613,
-      "issues": 219,
+      "stars": 98227,
+      "forks": 8630,
+      "issues": 220,
       "language": "Python",
       "pushedAt": "2026-10-15T11:34:42Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -572,12 +572,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29336,
-      "forks": 2868,
-      "issues": 744,
+      "stars": 29370,
+      "forks": 2869,
+      "issues": 745,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T12:24:35Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -612,8 +612,8 @@
       "title": "Show HN: rStation – A shared research lab for your AI agents",
       "url": "https://news.ycombinator.com/item?id=50118876",
       "relatedUrl": "https://rstation.ai/",
-      "points": 41,
-      "comments": 18,
+      "points": 50,
+      "comments": 19,
       "publishedAt": "2026-10-16T14:35:43Z",
       "source": "Hacker News official API"
     },
@@ -627,10 +627,19 @@
       "source": "Hacker News official API"
     },
     {
+      "title": "Researchers discover rogue Chinese AI agent fleet and talk with it",
+      "url": "https://news.ycombinator.com/item?id=50113792",
+      "relatedUrl": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
+      "points": 11,
+      "comments": 3,
+      "publishedAt": "2026-10-16T03:42:02Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
       "url": "https://news.ycombinator.com/item?id=50100387",
       "relatedUrl": "https://github.com/awslabs/aidlc-workflows",
-      "points": 26,
+      "points": 27,
       "comments": 22,
       "publishedAt": "2026-10-15T07:20:39Z",
       "source": "Hacker News official API"
@@ -645,21 +654,12 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs",
-      "url": "https://news.ycombinator.com/item?id=50097811",
-      "relatedUrl": "https://capsem.org/",
-      "points": 8,
-      "comments": 8,
-      "publishedAt": "2026-10-15T00:58:26Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "url": "https://news.ycombinator.com/item?id=50097369",
-      "relatedUrl": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "points": 287,
-      "comments": 81,
-      "publishedAt": "2026-10-14T23:59:37Z",
+      "title": "Frontier SRE agent trained by Datadog",
+      "url": "https://news.ycombinator.com/item?id=50104813",
+      "relatedUrl": "https://www.datadoghq.com/blog/ai/introducing-scout-sre-specialized-model-bits-ai/",
+      "points": 13,
+      "comments": 3,
+      "publishedAt": "2026-10-15T15:08:45Z",
       "source": "Hacker News official API"
     }
   ],
@@ -678,7 +678,7 @@
     },
     {
       "repo": "HKUDS/CLI-Anything",
-      "starsToday": 323
+      "starsToday": 281
     },
     {
       "repo": "mksglu/context-mode",
@@ -690,7 +690,7 @@
     },
     {
       "repo": "android/skills",
-      "starsToday": 35
+      "starsToday": 36
     },
     {
       "repo": "obra/superpowers",
@@ -698,7 +698,7 @@
     },
     {
       "repo": "cursor/plugins",
-      "starsToday": 282
+      "starsToday": 278
     },
     {
       "repo": "debpalash/VoiceStudio",
@@ -706,11 +706,11 @@
     },
     {
       "repo": "MadsLorentzen/ai-job-search",
-      "starsToday": 879
+      "starsToday": 898
     },
     {
       "repo": "hmjz100/LinkSwift",
-      "starsToday": 702
+      "starsToday": 538
     }
   ],
   "monitored": [
@@ -727,12 +727,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 98137,
-      "forks": 8613,
-      "issues": 219,
+      "stars": 98227,
+      "forks": 8630,
+      "issues": 220,
       "language": "Python",
       "pushedAt": "2026-10-15T11:34:42Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -803,12 +803,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29336,
-      "forks": 2868,
-      "issues": 744,
+      "stars": 29370,
+      "forks": 2869,
+      "issues": 745,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T12:24:35Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
