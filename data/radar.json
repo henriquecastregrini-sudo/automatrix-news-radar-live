@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T00:48:02.348Z",
-  "generatedLabel": "17 de out. de 2026 · 21:47",
+  "generatedAt": "2026-10-18T14:11:11.849Z",
+  "generatedLabel": "18 de out. de 2026 · 11:11",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -72,33 +72,42 @@
   ],
   "repos": [
     {
-      "repo": "anthropics/claude-plugins-official",
-      "title": "claude-plugins-official",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "repo": "anomalyco/opencode",
+      "title": "OpenCode",
+      "type": "Agente de código open-source",
+      "status": "Monitorar hoje",
+      "hook": "O agente de código open-source que quer competir diretamente com as ferramentas fechadas.",
+      "thesis": "A disputa por coding agents está migrando para ecossistemas abertos e executáveis localmente.",
       "broll": [
-        "GitHub Trending",
+        "terminal",
         "README",
-        "demo oficial",
-        "histórico do projeto"
+        "demo",
+        "comparação com agentes fechados"
       ],
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "stars": 41759,
-      "forks": 4464,
-      "issues": 1166,
-      "language": "Python",
-      "pushedAt": "2026-10-17T16:41:00Z",
-      "pushedLabel": "push há 8h",
-      "trendingStarsToday": 1397,
-      "score": 76,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "url": "https://github.com/anomalyco/opencode",
+      "stars": 216051,
+      "forks": 28930,
+      "issues": 4677,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-18T12:20:56Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 1417,
+      "score": 79,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Leon van Zyl · tutorial OpenCode · 208k views · publicado 05 MAI",
+          "url": "https://www.youtube.com/watch?v=uZGDO0L-Dr4",
+          "views": 208689,
+          "publishedAt": "2026-05-05",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/anthropics/claude-plugins-official",
+          "url": "https://github.com/anomalyco/opencode",
           "kind": "oficial"
         },
         {
@@ -107,18 +116,23 @@
           "kind": "tendência"
         },
         {
+          "label": "YouTube · Leon van Zyl · tutorial OpenCode · 208k views · publicado 05 MAI",
+          "url": "https://www.youtube.com/watch?v=uZGDO0L-Dr4",
+          "kind": "social"
+        },
+        {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=anthropics%20claude-plugins-official%20AI",
+          "url": "https://www.youtube.com/results?search_query=anomalyco%20opencode%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-plugins-official%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=OpenCode%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=claude-plugins-official%20AI",
+          "url": "https://www.tiktok.com/search?q=OpenCode%20AI",
           "kind": "busca"
         }
       ],
@@ -129,7 +143,7 @@
       "title": "ai-job-search",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 2,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "broll": [
         "GitHub Trending",
@@ -138,14 +152,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars": 50406,
-      "forks": 16937,
-      "issues": 41,
+      "stars": 51722,
+      "forks": 17125,
+      "issues": 25,
       "language": "Python",
-      "pushedAt": "2026-10-17T18:12:49Z",
-      "pushedLabel": "push há 7h",
-      "trendingStarsToday": 1365,
-      "score": 76,
+      "pushedAt": "2026-10-18T06:16:56Z",
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 2213,
+      "score": 77,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -155,7 +169,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,4 mil stars hoje",
+          "label": "GitHub Trending · 2,2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -178,42 +192,33 @@
       "rank": 2
     },
     {
-      "repo": "affaan-m/ECC",
-      "title": "ECC",
-      "type": "Otimização de agentes",
+      "repo": "stablyai/orca",
+      "title": "orca",
+      "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este sistema promete deixar Claude, Codex e outros agentes mais rápidos, seguros e consistentes.",
-      "thesis": "O próximo salto dos agentes pode vir do harness ao redor do modelo, não de um modelo maior.",
+      "hook": "Este repositório ganhou 1,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "broll": [
         "GitHub Trending",
         "README",
-        "skills e memória",
-        "comparação de agentes"
+        "demo oficial",
+        "histórico do projeto"
       ],
-      "url": "https://github.com/affaan-m/ECC",
-      "stars": 282510,
-      "forks": 41987,
-      "issues": 238,
-      "language": "JavaScript",
-      "pushedAt": "2026-10-15T19:17:01Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 1145,
-      "score": 71,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO",
-          "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
-          "views": 1139,
-          "publishedAt": "2026-08-27",
-          "verifiedAt": "08 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
+      "url": "https://github.com/stablyai/orca",
+      "stars": 96072,
+      "forks": 6146,
+      "issues": 8452,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-18T14:11:04Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1146,
+      "score": 76,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/affaan-m/ECC",
+          "url": "https://github.com/stablyai/orca",
           "kind": "oficial"
         },
         {
@@ -222,200 +227,128 @@
           "kind": "tendência"
         },
         {
-          "label": "YouTube · DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO",
-          "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
-          "kind": "social"
-        },
-        {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=affaan-m%20ECC%20AI",
+          "url": "https://www.youtube.com/results?search_query=stablyai%20orca%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=ECC%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=orca%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=ECC%20AI",
+          "url": "https://www.tiktok.com/search?q=orca%20AI",
           "kind": "busca"
         }
       ],
       "rank": 3
     },
     {
-      "repo": "K-Dense-AI/scientific-agent-skills",
-      "type": "Agentes científicos",
-      "status": "Usar como comparação",
-      "hook": "A próxima geração de cientistas talvez seja uma coleção de skills.",
-      "thesis": "Skills especializadas transformam agentes em operadores de pesquisa.",
+      "repo": "anthropics/claude-plugins-official",
+      "title": "claude-plugins-official",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 1,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "broll": [
-        "diretório de skills",
-        "K-Dense",
-        "paper",
-        "demo"
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
       ],
-      "title": "scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 52249,
-      "forks": 4630,
-      "issues": 49,
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "stars": 42337,
+      "forks": 4510,
+      "issues": 1175,
       "language": "Python",
-      "pushedAt": "2026-10-15T23:57:39Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 878,
-      "score": 66,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "K-Dense · skills científicas · 13,5k views · publicado 18 FEV",
-          "url": "https://www.youtube.com/watch?v=ZxbnDaD_FVg",
-          "views": 13534,
-          "publishedAt": "2026-02-18",
-          "verifiedAt": "07 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
+      "pushedAt": "2026-10-18T07:34:19Z",
+      "pushedLabel": "push há 7h",
+      "trendingStarsToday": 1187,
+      "score": 75,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/anthropics/claude-plugins-official",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 878 stars hoje",
+          "label": "GitHub Trending · 1,2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
-          "label": "YouTube · K-Dense · skills científicas · 13,5k views · publicado 18 FEV",
-          "url": "https://www.youtube.com/watch?v=ZxbnDaD_FVg",
-          "kind": "social"
-        },
-        {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=K-Dense-AI%20scientific-agent-skills%20AI",
+          "url": "https://www.youtube.com/results?search_query=anthropics%20claude-plugins-official%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=scientific-agent-skills%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-plugins-official%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=scientific-agent-skills%20AI",
+          "url": "https://www.tiktok.com/search?q=claude-plugins-official%20AI",
           "kind": "busca"
         }
       ],
       "rank": 4
     },
     {
-      "repo": "android/skills",
-      "title": "skills",
-      "type": "Novo no GitHub Trending",
+      "repo": "ruvnet/ruflo",
+      "title": "Ruflo",
+      "type": "Orquestração multiagente",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 355 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Tendência técnica recente que precisa de validação editorial.",
+      "hook": "Este meta-harness coordena enxames de agentes, memória e fluxos autônomos no mesmo sistema.",
+      "thesis": "O mercado está saindo do agente isolado para equipes de agentes coordenados.",
       "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
+        "arquitetura",
+        "terminal",
+        "swarm demo",
+        "README"
       ],
-      "url": "https://github.com/android/skills",
-      "stars": 8425,
-      "forks": 555,
-      "issues": 42,
-      "language": "Kotlin",
-      "pushedAt": "2026-10-16T10:07:27Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 355,
-      "score": 64,
+      "url": "https://github.com/ruvnet/ruflo",
+      "stars": 76326,
+      "forks": 9020,
+      "issues": 1050,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-18T11:13:04Z",
+      "pushedLabel": "push há 3h",
+      "trendingStarsToday": 502,
+      "score": 70,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/android/skills",
+          "url": "https://github.com/ruvnet/ruflo",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 355 stars hoje",
+          "label": "GitHub Trending · 502 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=android%20skills%20AI",
+          "url": "https://www.youtube.com/results?search_query=ruvnet%20ruflo%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=skills%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Ruflo%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=skills%20AI",
+          "url": "https://www.tiktok.com/search?q=Ruflo%20AI",
           "kind": "busca"
         }
       ],
       "rank": 5
-    },
-    {
-      "repo": "HKUDS/CLI-Anything",
-      "title": "CLI-Anything",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 574 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars": 54059,
-      "forks": 4905,
-      "issues": 189,
-      "language": "Python",
-      "pushedAt": "2026-09-22T02:01:29Z",
-      "pushedLabel": "push há 26d",
-      "trendingStarsToday": 574,
-      "score": 63,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/HKUDS/CLI-Anything",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 574 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=HKUDS%20CLI-Anything%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=CLI-Anything%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=CLI-Anything%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 6
     },
     {
       "repo": "akitaonrails/ai-memory",
@@ -431,14 +364,14 @@
         "terminal"
       ],
       "url": "https://github.com/akitaonrails/ai-memory",
-      "stars": 9917,
-      "forks": 716,
-      "issues": 10,
+      "stars": 10248,
+      "forks": 738,
+      "issues": 33,
       "language": "Rust",
       "pushedAt": "2026-10-17T19:53:00Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 178,
-      "score": 60,
+      "pushedLabel": "push há 18h",
+      "trendingStarsToday": 513,
+      "score": 67,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -448,7 +381,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 178 stars hoje",
+          "label": "GitHub Trending · 513 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -468,7 +401,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 6
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -483,9 +416,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 98740,
-      "forks": 8695,
-      "issues": 221,
+      "stars": 98934,
+      "forks": 8715,
+      "issues": 230,
       "language": "Python",
       "pushedAt": "2026-10-15T11:34:42Z",
       "pushedLabel": "push há 3d",
@@ -544,7 +477,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 7
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -559,9 +492,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29511,
-      "forks": 2918,
-      "issues": 765,
+      "stars": 29549,
+      "forks": 2936,
+      "issues": 768,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T12:24:35Z",
       "pushedLabel": "push há 3d",
@@ -591,44 +524,44 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 8
     }
   ],
   "news": [
     {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://news.ycombinator.com/item?id=50137950",
+      "relatedUrl": "https://sphinx-six-theta.vercel.app/",
+      "points": 183,
+      "comments": 55,
+      "publishedAt": "2026-10-18T04:33:49Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "We ran 53 open-source AI agents through behavioral tests and filed 37 bugs",
+      "url": "https://news.ycombinator.com/item?id=50136669",
+      "relatedUrl": "https://defuzex.ai/blog/we-ran-53-open-source-ai-agents-through-behavioral-tests-and-filed-37-bugs",
+      "points": 10,
+      "comments": 1,
+      "publishedAt": "2026-10-18T00:36:34Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: Pay-per-Crawl – make AI crawlers pay per page in USDC, for 10 stacks",
+      "url": "https://news.ycombinator.com/item?id=50133559",
+      "relatedUrl": "https://forgemesh.io/blog/pay-per-crawl-every-stack",
+      "points": 8,
+      "comments": 3,
+      "publishedAt": "2026-10-17T18:16:03Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "Show HN: rStation – A shared research lab for your AI agents",
       "url": "https://news.ycombinator.com/item?id=50118876",
       "relatedUrl": "https://rstation.ai/",
-      "points": 57,
+      "points": 58,
       "comments": 19,
       "publishedAt": "2026-10-16T14:35:43Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: Gitsu.app – A Linear-alternative built on GitHub Projects",
-      "url": "https://news.ycombinator.com/item?id=50114512",
-      "relatedUrl": "https://gitsu.app/",
-      "points": 5,
-      "comments": 8,
-      "publishedAt": "2026-10-16T05:42:21Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Researchers discover rogue Chinese AI agent fleet and talk with it",
-      "url": "https://news.ycombinator.com/item?id=50113792",
-      "relatedUrl": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
-      "points": 11,
-      "comments": 3,
-      "publishedAt": "2026-10-16T03:42:02Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: Cr34te.it – a website anyone can rewrite one turn at a time with AI",
-      "url": "https://news.ycombinator.com/item?id=50117588",
-      "relatedUrl": "https://cr34te.it/",
-      "points": 3,
-      "comments": 4,
-      "publishedAt": "2026-10-16T12:32:38Z",
       "source": "Hacker News official API"
     },
     {
@@ -652,52 +585,52 @@
   ],
   "trending": [
     {
-      "repo": "anthropics/claude-plugins-official",
-      "starsToday": 1397
-    },
-    {
       "repo": "MadsLorentzen/ai-job-search",
-      "starsToday": 1365
+      "starsToday": 2213
     },
     {
-      "repo": "affaan-m/ECC",
-      "starsToday": 1145
-    },
-    {
-      "repo": "HKUDS/CLI-Anything",
-      "starsToday": 574
-    },
-    {
-      "repo": "K-Dense-AI/scientific-agent-skills",
-      "starsToday": 878
-    },
-    {
-      "repo": "akitaonrails/ai-memory",
-      "starsToday": 178
-    },
-    {
-      "repo": "android/skills",
-      "starsToday": 355
-    },
-    {
-      "repo": "stablyai/orca",
-      "starsToday": 830
-    },
-    {
-      "repo": "anthropics/claude-code",
-      "starsToday": 179
-    },
-    {
-      "repo": "debpalash/VoiceStudio",
-      "starsToday": 2125
+      "repo": "anthropics/claude-plugins-official",
+      "starsToday": 1187
     },
     {
       "repo": "anomalyco/opencode",
-      "starsToday": 438
+      "starsToday": 1417
+    },
+    {
+      "repo": "cursor/plugins",
+      "starsToday": 351
     },
     {
       "repo": "ruvnet/ruflo",
-      "starsToday": 420
+      "starsToday": 502
+    },
+    {
+      "repo": "akitaonrails/ai-memory",
+      "starsToday": 513
+    },
+    {
+      "repo": "stablyai/orca",
+      "starsToday": 1146
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "starsToday": 582
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "starsToday": 2098
+    },
+    {
+      "repo": "android/skills",
+      "starsToday": 381
+    },
+    {
+      "repo": "mlabonne/llm-course",
+      "starsToday": 81
+    },
+    {
+      "repo": "Kruk2/jasna",
+      "starsToday": 115
     }
   ],
   "monitored": [
@@ -714,9 +647,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 98740,
-      "forks": 8695,
-      "issues": 221,
+      "stars": 98934,
+      "forks": 8715,
+      "issues": 230,
       "language": "Python",
       "pushedAt": "2026-10-15T11:34:42Z",
       "pushedLabel": "push há 3d",
@@ -775,7 +708,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 7
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -790,9 +723,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29511,
-      "forks": 2918,
-      "issues": 765,
+      "stars": 29549,
+      "forks": 2936,
+      "issues": 768,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T12:24:35Z",
       "pushedLabel": "push há 3d",
@@ -822,7 +755,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 8
     }
   ]
 }
