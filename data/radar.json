@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T19:00:58.046Z",
-  "generatedLabel": "17 de out. de 2026 · 16:00",
+  "generatedAt": "2026-10-18T00:48:02.348Z",
+  "generatedLabel": "17 de out. de 2026 · 21:47",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -72,6 +72,112 @@
   ],
   "repos": [
     {
+      "repo": "anthropics/claude-plugins-official",
+      "title": "claude-plugins-official",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "stars": 41759,
+      "forks": 4464,
+      "issues": 1166,
+      "language": "Python",
+      "pushedAt": "2026-10-17T16:41:00Z",
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 1397,
+      "score": 76,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,4 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=anthropics%20claude-plugins-official%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-plugins-official%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=claude-plugins-official%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "repo": "MadsLorentzen/ai-job-search",
+      "title": "ai-job-search",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "stars": 50406,
+      "forks": 16937,
+      "issues": 41,
+      "language": "Python",
+      "pushedAt": "2026-10-17T18:12:49Z",
+      "pushedLabel": "push há 7h",
+      "trendingStarsToday": 1365,
+      "score": 76,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,4 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=MadsLorentzen%20ai-job-search%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=ai-job-search%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=ai-job-search%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "repo": "affaan-m/ECC",
       "title": "ECC",
       "type": "Otimização de agentes",
@@ -85,14 +191,14 @@
         "comparação de agentes"
       ],
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 282256,
-      "forks": 41958,
-      "issues": 237,
+      "stars": 282510,
+      "forks": 41987,
+      "issues": 238,
       "language": "JavaScript",
       "pushedAt": "2026-10-15T19:17:01Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": 1145,
-      "score": 78,
+      "score": 71,
       "social": [
         {
           "platform": "YouTube",
@@ -136,112 +242,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 1
-    },
-    {
-      "repo": "MadsLorentzen/ai-job-search",
-      "title": "ai-job-search",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars": 49970,
-      "forks": 16861,
-      "issues": 36,
-      "language": "Python",
-      "pushedAt": "2026-10-17T18:12:49Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 1397,
-      "score": 76,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/MadsLorentzen/ai-job-search",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,4 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=MadsLorentzen%20ai-job-search%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=ai-job-search%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=ai-job-search%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "repo": "anthropics/claude-plugins-official",
-      "title": "claude-plugins-official",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "stars": 41510,
-      "forks": 4453,
-      "issues": 1166,
-      "language": "Python",
-      "pushedAt": "2026-10-17T16:41:00Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 1383,
-      "score": 76,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/anthropics/claude-plugins-official",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,4 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=anthropics%20claude-plugins-official%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-plugins-official%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=claude-plugins-official%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 3
     },
     {
@@ -258,14 +258,14 @@
       ],
       "title": "scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 52125,
-      "forks": 4613,
-      "issues": 48,
+      "stars": 52249,
+      "forks": 4630,
+      "issues": 49,
       "language": "Python",
       "pushedAt": "2026-10-15T23:57:39Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 879,
-      "score": 73,
+      "trendingStarsToday": 878,
+      "score": 66,
       "social": [
         {
           "platform": "YouTube",
@@ -284,7 +284,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 879 stars hoje",
+          "label": "GitHub Trending · 878 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -316,7 +316,7 @@
       "title": "skills",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 368 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 355 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Tendência técnica recente que precisa de validação editorial.",
       "broll": [
         "GitHub Trending",
@@ -325,13 +325,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/android/skills",
-      "stars": 8359,
-      "forks": 551,
+      "stars": 8425,
+      "forks": 555,
       "issues": 42,
       "language": "Kotlin",
       "pushedAt": "2026-10-16T10:07:27Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 368,
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 355,
       "score": 64,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -342,7 +342,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 368 stars hoje",
+          "label": "GitHub Trending · 355 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -369,7 +369,7 @@
       "title": "CLI-Anything",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 580 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 574 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "broll": [
         "GitHub Trending",
@@ -378,13 +378,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars": 53937,
-      "forks": 4896,
-      "issues": 186,
+      "stars": 54059,
+      "forks": 4905,
+      "issues": 189,
       "language": "Python",
       "pushedAt": "2026-09-22T02:01:29Z",
       "pushedLabel": "push há 26d",
-      "trendingStarsToday": 580,
+      "trendingStarsToday": 574,
       "score": 63,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -395,7 +395,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 580 stars hoje",
+          "label": "GitHub Trending · 574 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -431,14 +431,14 @@
         "terminal"
       ],
       "url": "https://github.com/akitaonrails/ai-memory",
-      "stars": 9822,
-      "forks": 709,
-      "issues": 6,
+      "stars": 9917,
+      "forks": 716,
+      "issues": 10,
       "language": "Rust",
-      "pushedAt": "2026-10-17T18:39:35Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 208,
-      "score": 61,
+      "pushedAt": "2026-10-17T19:53:00Z",
+      "pushedLabel": "push há 5h",
+      "trendingStarsToday": 178,
+      "score": 60,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -448,7 +448,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 208 stars hoje",
+          "label": "GitHub Trending · 178 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -483,12 +483,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 98661,
-      "forks": 8688,
-      "issues": 223,
+      "stars": 98740,
+      "forks": 8695,
+      "issues": 221,
       "language": "Python",
       "pushedAt": "2026-10-15T11:34:42Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -559,12 +559,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29498,
-      "forks": 2902,
-      "issues": 763,
+      "stars": 29511,
+      "forks": 2918,
+      "issues": 765,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T12:24:35Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
@@ -599,7 +599,7 @@
       "title": "Show HN: rStation – A shared research lab for your AI agents",
       "url": "https://news.ycombinator.com/item?id=50118876",
       "relatedUrl": "https://rstation.ai/",
-      "points": 55,
+      "points": 57,
       "comments": 19,
       "publishedAt": "2026-10-16T14:35:43Z",
       "source": "Hacker News official API"
@@ -653,11 +653,11 @@
   "trending": [
     {
       "repo": "anthropics/claude-plugins-official",
-      "starsToday": 1383
+      "starsToday": 1397
     },
     {
       "repo": "MadsLorentzen/ai-job-search",
-      "starsToday": 1397
+      "starsToday": 1365
     },
     {
       "repo": "affaan-m/ECC",
@@ -665,39 +665,39 @@
     },
     {
       "repo": "HKUDS/CLI-Anything",
-      "starsToday": 580
+      "starsToday": 574
     },
     {
       "repo": "K-Dense-AI/scientific-agent-skills",
-      "starsToday": 879
+      "starsToday": 878
     },
     {
       "repo": "akitaonrails/ai-memory",
-      "starsToday": 208
+      "starsToday": 178
     },
     {
       "repo": "android/skills",
-      "starsToday": 368
+      "starsToday": 355
     },
     {
       "repo": "stablyai/orca",
-      "starsToday": 829
+      "starsToday": 830
     },
     {
       "repo": "anthropics/claude-code",
-      "starsToday": 168
+      "starsToday": 179
     },
     {
       "repo": "debpalash/VoiceStudio",
-      "starsToday": 2135
+      "starsToday": 2125
     },
     {
       "repo": "anomalyco/opencode",
-      "starsToday": 576
+      "starsToday": 438
     },
     {
       "repo": "ruvnet/ruflo",
-      "starsToday": 406
+      "starsToday": 420
     }
   ],
   "monitored": [
@@ -714,12 +714,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 98661,
-      "forks": 8688,
-      "issues": 223,
+      "stars": 98740,
+      "forks": 8695,
+      "issues": 221,
       "language": "Python",
       "pushedAt": "2026-10-15T11:34:42Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -790,12 +790,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29498,
-      "forks": 2902,
-      "issues": 763,
+      "stars": 29511,
+      "forks": 2918,
+      "issues": 765,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T12:24:35Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
