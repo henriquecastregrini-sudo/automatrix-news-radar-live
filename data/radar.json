@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T19:13:15.141Z",
-  "generatedLabel": "18 de out. de 2026 · 16:13",
+  "generatedAt": "2026-10-19T01:00:46.534Z",
+  "generatedLabel": "18 de out. de 2026 · 22:00",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "comparação com agentes fechados"
       ],
       "url": "https://github.com/anomalyco/opencode",
-      "stars": 216354,
-      "forks": 28965,
-      "issues": 4674,
+      "stars": 216600,
+      "forks": 29000,
+      "issues": 4668,
       "language": "TypeScript",
-      "pushedAt": "2026-10-18T18:10:43Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 1417,
+      "pushedAt": "2026-10-19T00:48:25Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1414,
       "score": 79,
       "social": [
         {
@@ -152,13 +152,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars": 52489,
-      "forks": 17247,
-      "issues": 45,
+      "stars": 53203,
+      "forks": 17381,
+      "issues": 44,
       "language": "Python",
-      "pushedAt": "2026-10-18T18:44:04Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 2213,
+      "pushedAt": "2026-10-18T19:38:41Z",
+      "pushedLabel": "push há 5h",
+      "trendingStarsToday": 2232,
       "score": 77,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -205,11 +205,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/stablyai/orca",
-      "stars": 96397,
-      "forks": 6165,
-      "issues": 8463,
+      "stars": 96657,
+      "forks": 6177,
+      "issues": 8471,
       "language": "TypeScript",
-      "pushedAt": "2026-10-18T19:12:34Z",
+      "pushedAt": "2026-10-19T00:59:47Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 1146,
       "score": 76,
@@ -258,13 +258,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/claude-plugins-official",
-      "stars": 42530,
-      "forks": 4523,
-      "issues": 1190,
+      "stars": 42696,
+      "forks": 4534,
+      "issues": 1175,
       "language": "Python",
       "pushedAt": "2026-10-18T17:04:56Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 1187,
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 1175,
       "score": 75,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -311,13 +311,13 @@
         "README"
       ],
       "url": "https://github.com/ruvnet/ruflo",
-      "stars": 76422,
-      "forks": 9032,
-      "issues": 1055,
+      "stars": 76523,
+      "forks": 9050,
+      "issues": 1059,
       "language": "TypeScript",
       "pushedAt": "2026-10-18T11:13:04Z",
-      "pushedLabel": "push há 8h",
-      "trendingStarsToday": 502,
+      "pushedLabel": "push há 14h",
+      "trendingStarsToday": 513,
       "score": 70,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -328,7 +328,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 502 stars hoje",
+          "label": "GitHub Trending · 513 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -364,13 +364,13 @@
         "terminal"
       ],
       "url": "https://github.com/akitaonrails/ai-memory",
-      "stars": 10356,
-      "forks": 743,
-      "issues": 5,
+      "stars": 10492,
+      "forks": 749,
+      "issues": 8,
       "language": "Rust",
-      "pushedAt": "2026-10-18T17:56:17Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 513,
+      "pushedAt": "2026-10-19T00:51:45Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 512,
       "score": 67,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -381,7 +381,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 513 stars hoje",
+          "label": "GitHub Trending · 512 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -416,12 +416,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 99001,
-      "forks": 8721,
+      "stars": 99077,
+      "forks": 8730,
       "issues": 230,
       "language": "Python",
       "pushedAt": "2026-10-15T11:34:42Z",
-      "pushedLabel": "push há 3d",
+      "pushedLabel": "push há 4d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -492,12 +492,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29562,
-      "forks": 2941,
+      "stars": 29570,
+      "forks": 2953,
       "issues": 768,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T12:24:35Z",
-      "pushedLabel": "push há 3d",
+      "pushedLabel": "push há 4d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
@@ -532,8 +532,8 @@
       "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
       "url": "https://news.ycombinator.com/item?id=50141429",
       "relatedUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-      "points": 136,
-      "comments": 150,
+      "points": 155,
+      "comments": 162,
       "publishedAt": "2026-10-18T14:30:27Z",
       "source": "Hacker News official API"
     },
@@ -541,8 +541,8 @@
       "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
       "url": "https://news.ycombinator.com/item?id=50137950",
       "relatedUrl": "https://sphinx-six-theta.vercel.app/",
-      "points": 222,
-      "comments": 75,
+      "points": 241,
+      "comments": 85,
       "publishedAt": "2026-10-18T04:33:49Z",
       "source": "Hacker News official API"
     },
@@ -550,8 +550,8 @@
       "title": "Websites are closing their doors to AI agents",
       "url": "https://news.ycombinator.com/item?id=50141657",
       "relatedUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "points": 122,
-      "comments": 115,
+      "points": 133,
+      "comments": 126,
       "publishedAt": "2026-10-18T14:58:10Z",
       "source": "Hacker News official API"
     },
@@ -586,27 +586,27 @@
   "trending": [
     {
       "repo": "MadsLorentzen/ai-job-search",
-      "starsToday": 2213
+      "starsToday": 2232
     },
     {
       "repo": "anthropics/claude-plugins-official",
-      "starsToday": 1187
+      "starsToday": 1175
     },
     {
       "repo": "anomalyco/opencode",
-      "starsToday": 1417
+      "starsToday": 1414
     },
     {
       "repo": "cursor/plugins",
-      "starsToday": 351
+      "starsToday": 350
     },
     {
       "repo": "ruvnet/ruflo",
-      "starsToday": 502
+      "starsToday": 513
     },
     {
       "repo": "akitaonrails/ai-memory",
-      "starsToday": 513
+      "starsToday": 512
     },
     {
       "repo": "stablyai/orca",
@@ -614,15 +614,15 @@
     },
     {
       "repo": "HKUDS/CLI-Anything",
-      "starsToday": 582
+      "starsToday": 589
     },
     {
       "repo": "debpalash/VoiceStudio",
-      "starsToday": 2098
+      "starsToday": 2082
     },
     {
       "repo": "android/skills",
-      "starsToday": 381
+      "starsToday": 375
     },
     {
       "repo": "mlabonne/llm-course",
@@ -647,12 +647,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 99001,
-      "forks": 8721,
+      "stars": 99077,
+      "forks": 8730,
       "issues": 230,
       "language": "Python",
       "pushedAt": "2026-10-15T11:34:42Z",
-      "pushedLabel": "push há 3d",
+      "pushedLabel": "push há 4d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -723,12 +723,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29562,
-      "forks": 2941,
+      "stars": 29570,
+      "forks": 2953,
       "issues": 768,
       "language": "TypeScript",
       "pushedAt": "2026-10-15T12:24:35Z",
-      "pushedLabel": "push há 3d",
+      "pushedLabel": "push há 4d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
