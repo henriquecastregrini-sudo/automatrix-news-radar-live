@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T15:24:48.327Z",
-  "generatedLabel": "20 de out. de 2026 · 12:24",
+  "generatedAt": "2026-10-20T20:17:14.472Z",
+  "generatedLabel": "20 de out. de 2026 · 17:17",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,11 +85,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/stablyai/orca",
-      "stars": 99296,
-      "forks": 6326,
-      "issues": 8594,
+      "stars": 99564,
+      "forks": 6317,
+      "issues": 8596,
       "language": "TypeScript",
-      "pushedAt": "2026-10-20T15:10:25Z",
+      "pushedAt": "2026-10-20T20:16:52Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 1559,
       "score": 78,
@@ -138,12 +138,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars": 59617,
-      "forks": 18673,
-      "issues": 31,
+      "stars": 60176,
+      "forks": 18810,
+      "issues": 30,
       "language": "Python",
-      "pushedAt": "2026-10-20T06:30:43Z",
-      "pushedLabel": "push há 9h",
+      "pushedAt": "2026-10-20T19:02:25Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 3890,
       "score": 77,
       "social": [],
@@ -191,11 +191,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "stars": 140485,
-      "forks": 16634,
-      "issues": 5294,
+      "stars": 140654,
+      "forks": 16651,
+      "issues": 5301,
       "language": "Python",
-      "pushedAt": "2026-10-20T15:22:54Z",
+      "pushedAt": "2026-10-20T20:12:23Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 1201,
       "score": 77,
@@ -244,12 +244,12 @@
         "README"
       ],
       "url": "https://github.com/ruvnet/ruflo",
-      "stars": 77620,
-      "forks": 9133,
+      "stars": 77726,
+      "forks": 9145,
       "issues": 982,
       "language": "TypeScript",
-      "pushedAt": "2026-10-20T14:59:26Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-10-20T17:26:15Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": 683,
       "score": 72,
       "social": [],
@@ -297,14 +297,14 @@
         "antes e depois do código"
       ],
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 169031,
-      "forks": 9189,
-      "issues": 41,
+      "stars": 169382,
+      "forks": 9212,
+      "issues": 49,
       "language": "JavaScript",
       "pushedAt": "2026-10-18T01:55:14Z",
       "pushedLabel": "push há 3d",
-      "trendingStarsToday": 1007,
-      "score": 69,
+      "trendingStarsToday": 1396,
+      "score": 71,
       "social": [
         {
           "platform": "Reddit",
@@ -338,7 +338,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1 mil stars hoje",
+          "label": "GitHub Trending · 1,4 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -389,14 +389,14 @@
         "post técnico da Cloudflare"
       ],
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 33428,
-      "forks": 2092,
-      "issues": 70,
+      "stars": 33841,
+      "forks": 2118,
+      "issues": 72,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T19:29:02Z",
       "pushedLabel": "push há 36d",
-      "trendingStarsToday": 849,
-      "score": 65,
+      "trendingStarsToday": 1680,
+      "score": 69,
       "social": [
         {
           "platform": "YouTube",
@@ -416,7 +416,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 849 stars hoje",
+          "label": "GitHub Trending · 1,7 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -456,12 +456,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 100160,
-      "forks": 8857,
-      "issues": 229,
+      "stars": 100239,
+      "forks": 8831,
+      "issues": 231,
       "language": "Python",
       "pushedAt": "2026-10-20T11:24:28Z",
-      "pushedLabel": "push há 4h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -532,12 +532,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29689,
-      "forks": 3012,
-      "issues": 778,
+      "stars": 29697,
+      "forks": 2902,
+      "issues": 780,
       "language": "TypeScript",
       "pushedAt": "2026-10-20T14:27:24Z",
-      "pushedLabel": "push há 1h",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -573,7 +573,7 @@
       "url": "https://news.ycombinator.com/item?id=50162198",
       "relatedUrl": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
       "points": 23,
-      "comments": 19,
+      "comments": 20,
       "publishedAt": "2026-10-20T06:40:49Z",
       "source": "Hacker News official API"
     },
@@ -587,11 +587,20 @@
       "source": "Hacker News official API"
     },
     {
+      "title": "Show HN: Shazam but for AI Slop Music",
+      "url": "https://news.ycombinator.com/item?id=50165533",
+      "relatedUrl": "https://apps.apple.com/de/app/daft-slop-ai-music-detector/id6811013099",
+      "points": 9,
+      "comments": 3,
+      "publishedAt": "2026-10-20T12:46:21Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
       "url": "https://news.ycombinator.com/item?id=50148855",
       "relatedUrl": "https://crystl.dev/guides/tmux-for-ai-agents/",
-      "points": 159,
-      "comments": 120,
+      "points": 164,
+      "comments": 125,
       "publishedAt": "2026-10-19T05:55:31Z",
       "source": "Hacker News official API"
     },
@@ -612,15 +621,6 @@
       "comments": 6,
       "publishedAt": "2026-10-19T00:46:38Z",
       "source": "Hacker News official API"
-    },
-    {
-      "title": "One hacker used AI agents and a few thousand dollars to break into 100 sites",
-      "url": "https://news.ycombinator.com/item?id=50152072",
-      "relatedUrl": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/",
-      "points": 7,
-      "comments": 1,
-      "publishedAt": "2026-10-19T13:16:59Z",
-      "source": "Hacker News official API"
     }
   ],
   "trending": [
@@ -630,7 +630,7 @@
     },
     {
       "repo": "cloudflare/security-audit-skill",
-      "starsToday": 849
+      "starsToday": 1680
     },
     {
       "repo": "stablyai/orca",
@@ -638,7 +638,7 @@
     },
     {
       "repo": "DietrichGebert/ponytail",
-      "starsToday": 1007
+      "starsToday": 1396
     },
     {
       "repo": "Comfy-Org/ComfyUI",
@@ -651,10 +651,6 @@
     {
       "repo": "Graphify-Labs/graphify",
       "starsToday": 906
-    },
-    {
-      "repo": "YuJunZhiXue/dsh-purge",
-      "starsToday": 1168
     },
     {
       "repo": "anomalyco/opencode",
@@ -671,6 +667,10 @@
     {
       "repo": "anthropics/knowledge-work-plugins",
       "starsToday": 262
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "starsToday": 719
     }
   ],
   "monitored": [
@@ -687,12 +687,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 100160,
-      "forks": 8857,
-      "issues": 229,
+      "stars": 100239,
+      "forks": 8831,
+      "issues": 231,
       "language": "Python",
       "pushedAt": "2026-10-20T11:24:28Z",
-      "pushedLabel": "push há 4h",
+      "pushedLabel": "push há 9h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -763,12 +763,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29689,
-      "forks": 3012,
-      "issues": 778,
+      "stars": 29697,
+      "forks": 2902,
+      "issues": 780,
       "language": "TypeScript",
       "pushedAt": "2026-10-20T14:27:24Z",
-      "pushedLabel": "push há 1h",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
