@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T01:40:02.854Z",
-  "generatedLabel": "19 de out. de 2026 · 22:40",
+  "generatedAt": "2026-10-20T15:24:48.327Z",
+  "generatedLabel": "20 de out. de 2026 · 12:24",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/stablyai/orca",
-      "stars": 98329,
-      "forks": 6271,
-      "issues": 8611,
+      "stars": 99296,
+      "forks": 6326,
+      "issues": 8594,
       "language": "TypeScript",
-      "pushedAt": "2026-10-20T01:39:30Z",
+      "pushedAt": "2026-10-20T15:10:25Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1590,
+      "trendingStarsToday": 1559,
       "score": 78,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -125,73 +125,6 @@
       "rank": 1
     },
     {
-      "repo": "anomalyco/opencode",
-      "title": "OpenCode",
-      "type": "Agente de código open-source",
-      "status": "Monitorar hoje",
-      "hook": "O agente de código open-source que quer competir diretamente com as ferramentas fechadas.",
-      "thesis": "A disputa por coding agents está migrando para ecossistemas abertos e executáveis localmente.",
-      "broll": [
-        "terminal",
-        "README",
-        "demo",
-        "comparação com agentes fechados"
-      ],
-      "url": "https://github.com/anomalyco/opencode",
-      "stars": 217855,
-      "forks": 29115,
-      "issues": 4310,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-20T01:39:38Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1311,
-      "score": 78,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "Leon van Zyl · tutorial OpenCode · 208k views · publicado 05 MAI",
-          "url": "https://www.youtube.com/watch?v=uZGDO0L-Dr4",
-          "views": 208689,
-          "publishedAt": "2026-05-05",
-          "verifiedAt": "07 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/anomalyco/opencode",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,3 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · Leon van Zyl · tutorial OpenCode · 208k views · publicado 05 MAI",
-          "url": "https://www.youtube.com/watch?v=uZGDO0L-Dr4",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=anomalyco%20opencode%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=OpenCode%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=OpenCode%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "repo": "MadsLorentzen/ai-job-search",
       "title": "ai-job-search",
       "type": "Novo no GitHub Trending",
@@ -205,13 +138,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars": 57389,
-      "forks": 18217,
-      "issues": 27,
+      "stars": 59617,
+      "forks": 18673,
+      "issues": 31,
       "language": "Python",
-      "pushedAt": "2026-10-19T19:46:48Z",
-      "pushedLabel": "push há 6h",
-      "trendingStarsToday": 3856,
+      "pushedAt": "2026-10-20T06:30:43Z",
+      "pushedLabel": "push há 9h",
+      "trendingStarsToday": 3890,
       "score": 77,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -242,14 +175,14 @@
           "kind": "busca"
         }
       ],
-      "rank": 3
+      "rank": 2
     },
     {
       "repo": "Comfy-Org/ComfyUI",
       "title": "ComfyUI",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 1,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "broll": [
         "GitHub Trending",
@@ -258,14 +191,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "stars": 139761,
-      "forks": 16585,
-      "issues": 5279,
+      "stars": 140485,
+      "forks": 16634,
+      "issues": 5294,
       "language": "Python",
-      "pushedAt": "2026-10-20T01:30:59Z",
+      "pushedAt": "2026-10-20T15:22:54Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1011,
-      "score": 76,
+      "trendingStarsToday": 1201,
+      "score": 77,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -275,7 +208,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1 mil stars hoje",
+          "label": "GitHub Trending · 1,2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -295,7 +228,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "repo": "ruvnet/ruflo",
@@ -311,14 +244,14 @@
         "README"
       ],
       "url": "https://github.com/ruvnet/ruflo",
-      "stars": 77212,
-      "forks": 9105,
-      "issues": 1025,
+      "stars": 77620,
+      "forks": 9133,
+      "issues": 982,
       "language": "TypeScript",
-      "pushedAt": "2026-10-19T23:32:37Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 564,
-      "score": 71,
+      "pushedAt": "2026-10-20T14:59:26Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 683,
+      "score": 72,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -328,7 +261,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 564 stars hoje",
+          "label": "GitHub Trending · 683 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -348,107 +281,167 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
-      "repo": "akitaonrails/ai-memory",
-      "title": "AI Memory",
-      "type": "Memória para agentes de código",
-      "status": "Monitorar hoje",
-      "hook": "Um brasileiro criou uma memória de longo prazo para agentes trocarem de sessão e até de fornecedor sem perder o contexto.",
-      "thesis": "Persistir decisões e contexto entre agentes pode ser mais útil que ampliar a janela de contexto de cada conversa.",
+      "repo": "DietrichGebert/ponytail",
+      "title": "Ponytail",
+      "type": "Skill para agentes",
+      "status": "Gravar agora",
+      "hook": "Um repo está ensinando agentes a pensar como o desenvolvedor sênior mais preguiçoso da equipe.",
+      "thesis": "A habilidade mais valiosa de um agente pode ser evitar código desnecessário.",
       "broll": [
+        "GitHub Trending",
         "README",
-        "handoff entre agentes",
-        "estrutura de memória",
-        "terminal"
+        "exemplos YAGNI",
+        "antes e depois do código"
       ],
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "stars": 11378,
-      "forks": 810,
-      "issues": 8,
-      "language": "Rust",
-      "pushedAt": "2026-10-19T23:29:24Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 666,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars": 169031,
+      "forks": 9189,
+      "issues": 41,
+      "language": "JavaScript",
+      "pushedAt": "2026-10-18T01:55:14Z",
+      "pushedLabel": "push há 3d",
+      "trendingStarsToday": 1007,
       "score": 69,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/AgentSkills · comparação de packs de skills que cita Ponytail e Matt Pocock · 105 votos públicos · publicado 05 SET",
+          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
+          "engagement": 105,
+          "publishedAt": "2026-09-05",
+          "verifiedAt": "01 OUT 2026"
+        },
+        {
+          "platform": "Reddit",
+          "label": "r/BestGitHubRepos · discussão nova sobre a ideia de simplificar código gerado por agentes · comentários recentes; votos não visíveis na checagem",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wvvn3b/ponytail_makes_your_ai_agent_think_like_the/",
+          "publishedAt": "2026-10-02",
+          "verifiedAt": "03 OUT 2026"
+        },
+        {
+          "platform": "YouTube",
+          "label": "Better Stack · demonstração de Ponytail · 254k views · publicado 20 JUN · referência histórica",
+          "url": "https://www.youtube.com/watch?v=2xuFcmUAQUc",
+          "views": 254926,
+          "publishedAt": "2026-06-20",
+          "verifiedAt": "07 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/akitaonrails/ai-memory",
+          "url": "https://github.com/DietrichGebert/ponytail",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 666 stars hoje",
+          "label": "GitHub Trending · 1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
+          "label": "Reddit · r/AgentSkills · comparação de packs de skills que cita Ponytail e Matt Pocock · 105 votos públicos · publicado 05 SET",
+          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
+          "kind": "social"
+        },
+        {
+          "label": "Reddit · r/BestGitHubRepos · discussão nova sobre a ideia de simplificar código gerado por agentes · comentários recentes; votos não visíveis na checagem",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wvvn3b/ponytail_makes_your_ai_agent_think_like_the/",
+          "kind": "social"
+        },
+        {
+          "label": "YouTube · Better Stack · demonstração de Ponytail · 254k views · publicado 20 JUN · referência histórica",
+          "url": "https://www.youtube.com/watch?v=2xuFcmUAQUc",
+          "kind": "social"
+        },
+        {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=akitaonrails%20ai-memory%20AI",
+          "url": "https://www.youtube.com/results?search_query=DietrichGebert%20ponytail%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=AI%20Memory%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Ponytail%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=AI%20Memory%20AI",
+          "url": "https://www.tiktok.com/search?q=Ponytail%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "title": "Security Audit Skill",
+      "type": "Auditoria de segurança por agentes",
+      "status": "Gravar agora",
+      "hook": "A Cloudflare publicou uma skill que obriga agentes independentes a encontrar, contestar e verificar vulnerabilidades.",
+      "thesis": "Auditoria com IA fica mais confiável quando descoberta e validação são separadas, com evidências estruturadas e verificadores adversariais.",
+      "broll": [
+        "seis fases da auditoria",
+        "coverage ledger",
+        "findings.json",
+        "post técnico da Cloudflare"
+      ],
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "stars": 33428,
+      "forks": 2092,
+      "issues": 70,
+      "language": "JavaScript",
+      "pushedAt": "2026-09-14T19:29:02Z",
+      "pushedLabel": "push há 36d",
+      "trendingStarsToday": 849,
+      "score": 65,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Signal Coders · Security Audit Skill · 648 views · 12 likes · sinal inicial de 17 SET",
+          "url": "https://www.youtube.com/watch?v=D6Iw15EHPfA",
+          "views": 648,
+          "likes": 12,
+          "publishedAt": "2026-09-17",
+          "verifiedAt": "19 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 849 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · Signal Coders · Security Audit Skill · 648 views · 12 likes · sinal inicial de 17 SET",
+          "url": "https://www.youtube.com/watch?v=D6Iw15EHPfA",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=cloudflare%20security-audit-skill%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Security%20Audit%20Skill%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Security%20Audit%20Skill%20AI",
           "kind": "busca"
         }
       ],
       "rank": 6
-    },
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29636,
-      "forks": 2989,
-      "issues": 772,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-19T12:02:29Z",
-      "pushedLabel": "push há 14h",
-      "trendingStarsToday": null,
-      "score": 40,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 7
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -463,14 +456,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 99726,
-      "forks": 8811,
-      "issues": 231,
+      "stars": 100160,
+      "forks": 8857,
+      "issues": 229,
       "language": "Python",
-      "pushedAt": "2026-10-15T11:34:42Z",
-      "pushedLabel": "push há 5d",
+      "pushedAt": "2026-10-20T11:24:28Z",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": null,
-      "score": 35,
+      "score": 42,
       "social": [
         {
           "platform": "Reddit",
@@ -524,16 +517,81 @@
           "kind": "busca"
         }
       ],
+      "rank": 7
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 29689,
+      "forks": 3012,
+      "issues": 778,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-20T14:27:24Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": null,
+      "score": 40,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 8
     }
   ],
   "news": [
     {
+      "title": "Vite+ an excellent toolchain for AI agent development",
+      "url": "https://news.ycombinator.com/item?id=50162198",
+      "relatedUrl": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+      "points": 23,
+      "comments": 19,
+      "publishedAt": "2026-10-20T06:40:49Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: Make AI coding agents verify its own work",
+      "url": "https://news.ycombinator.com/item?id=50163896",
+      "relatedUrl": "https://github.com/reticlehq/reticle",
+      "points": 11,
+      "comments": 6,
+      "publishedAt": "2026-10-20T10:20:33Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
       "url": "https://news.ycombinator.com/item?id=50148855",
       "relatedUrl": "https://crystl.dev/guides/tmux-for-ai-agents/",
-      "points": 149,
-      "comments": 114,
+      "points": 159,
+      "comments": 120,
       "publishedAt": "2026-10-19T05:55:31Z",
       "source": "Hacker News official API"
     },
@@ -551,136 +609,71 @@
       "url": "https://news.ycombinator.com/item?id=50147061",
       "relatedUrl": "https://ninatechllc.com/",
       "points": 1,
-      "comments": 5,
+      "comments": 6,
       "publishedAt": "2026-10-19T00:46:38Z",
       "source": "Hacker News official API"
     },
     {
-      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "url": "https://news.ycombinator.com/item?id=50141429",
-      "relatedUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-      "points": 170,
-      "comments": 166,
-      "publishedAt": "2026-10-18T14:30:27Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Websites are closing their doors to AI agents",
-      "url": "https://news.ycombinator.com/item?id=50141657",
-      "relatedUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "points": 153,
-      "comments": 149,
-      "publishedAt": "2026-10-18T14:58:10Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "url": "https://news.ycombinator.com/item?id=50137950",
-      "relatedUrl": "https://sphinx-six-theta.vercel.app/",
-      "points": 252,
-      "comments": 89,
-      "publishedAt": "2026-10-18T04:33:49Z",
+      "title": "One hacker used AI agents and a few thousand dollars to break into 100 sites",
+      "url": "https://news.ycombinator.com/item?id=50152072",
+      "relatedUrl": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/",
+      "points": 7,
+      "comments": 1,
+      "publishedAt": "2026-10-19T13:16:59Z",
       "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "MadsLorentzen/ai-job-search",
-      "starsToday": 3856
+      "starsToday": 3890
     },
     {
-      "repo": "anomalyco/opencode",
-      "starsToday": 1311
-    },
-    {
-      "repo": "akitaonrails/ai-memory",
-      "starsToday": 666
-    },
-    {
-      "repo": "Comfy-Org/ComfyUI",
-      "starsToday": 1011
-    },
-    {
-      "repo": "ruvnet/ruflo",
-      "starsToday": 564
+      "repo": "cloudflare/security-audit-skill",
+      "starsToday": 849
     },
     {
       "repo": "stablyai/orca",
-      "starsToday": 1590
+      "starsToday": 1559
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "starsToday": 1007
+    },
+    {
+      "repo": "Comfy-Org/ComfyUI",
+      "starsToday": 1201
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "starsToday": 683
+    },
+    {
+      "repo": "Graphify-Labs/graphify",
+      "starsToday": 906
+    },
+    {
+      "repo": "YuJunZhiXue/dsh-purge",
+      "starsToday": 1168
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "starsToday": 1256
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "starsToday": 590
     },
     {
       "repo": "headroomlabs-ai/headroom",
-      "starsToday": 310
+      "starsToday": 555
     },
     {
-      "repo": "withmarbleapp/os-taxonomy",
-      "starsToday": 284
-    },
-    {
-      "repo": "Kruk2/jasna",
-      "starsToday": 498
-    },
-    {
-      "repo": "HKUDS/CLI-Anything",
-      "starsToday": 606
-    },
-    {
-      "repo": "anthropics/claude-code",
-      "starsToday": 167
-    },
-    {
-      "repo": "shiyu-coder/Kronos",
-      "starsToday": 363
+      "repo": "anthropics/knowledge-work-plugins",
+      "starsToday": 262
     }
   ],
   "monitored": [
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29636,
-      "forks": 2989,
-      "issues": 772,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-19T12:02:29Z",
-      "pushedLabel": "push há 14h",
-      "trendingStarsToday": null,
-      "score": 40,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 7
-    },
     {
       "repo": "Panniantong/Agent-Reach",
       "type": "Repo monitorado",
@@ -694,14 +687,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 99726,
-      "forks": 8811,
-      "issues": 231,
+      "stars": 100160,
+      "forks": 8857,
+      "issues": 229,
       "language": "Python",
-      "pushedAt": "2026-10-15T11:34:42Z",
-      "pushedLabel": "push há 5d",
+      "pushedAt": "2026-10-20T11:24:28Z",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": null,
-      "score": 35,
+      "score": 42,
       "social": [
         {
           "platform": "Reddit",
@@ -752,6 +745,53 @@
         {
           "label": "Buscar TikTok",
           "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 29689,
+      "forks": 3012,
+      "issues": 778,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-20T14:27:24Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": null,
+      "score": 40,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
           "kind": "busca"
         }
       ],
