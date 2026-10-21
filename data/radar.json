@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T15:41:18.127Z",
-  "generatedLabel": "21 de out. de 2026 · 12:41",
+  "generatedAt": "2026-10-21T20:26:46.152Z",
+  "generatedLabel": "21 de out. de 2026 · 17:26",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,11 +85,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/stablyai/orca",
-      "stars": 100776,
-      "forks": 6371,
-      "issues": 8586,
+      "stars": 101057,
+      "forks": 6393,
+      "issues": 8598,
       "language": "TypeScript",
-      "pushedAt": "2026-10-21T15:37:49Z",
+      "pushedAt": "2026-10-21T20:25:29Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 1543,
       "score": 78,
@@ -125,53 +125,53 @@
       "rank": 1
     },
     {
-      "repo": "MadsLorentzen/ai-job-search",
-      "title": "ai-job-search",
+      "repo": "Comfy-Org/ComfyUI",
+      "title": "ComfyUI",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 3,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "hook": "Este repositório ganhou 914 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars": 62566,
-      "forks": 19317,
-      "issues": 49,
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "stars": 141419,
+      "forks": 16719,
+      "issues": 5311,
       "language": "Python",
-      "pushedAt": "2026-10-21T05:29:11Z",
-      "pushedLabel": "push há 10h",
-      "trendingStarsToday": 3131,
-      "score": 77,
+      "pushedAt": "2026-10-21T20:20:17Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 914,
+      "score": 75,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 3,1 mil stars hoje",
+          "label": "GitHub Trending · 914 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=MadsLorentzen%20ai-job-search%20AI",
+          "url": "https://www.youtube.com/results?search_query=Comfy-Org%20ComfyUI%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=ai-job-search%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=ComfyUI%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=ai-job-search%20AI",
+          "url": "https://www.tiktok.com/search?q=ComfyUI%20AI",
           "kind": "busca"
         }
       ],
@@ -191,9 +191,9 @@
         "antes e depois do código"
       ],
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 170988,
-      "forks": 9303,
-      "issues": 63,
+      "stars": 171350,
+      "forks": 9327,
+      "issues": 67,
       "language": "JavaScript",
       "pushedAt": "2026-10-18T01:55:14Z",
       "pushedLabel": "push há 4d",
@@ -283,12 +283,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/headroomlabs-ai/headroom",
-      "stars": 77083,
-      "forks": 5981,
-      "issues": 506,
+      "stars": 77183,
+      "forks": 5986,
+      "issues": 515,
       "language": "Python",
-      "pushedAt": "2026-10-21T04:15:22Z",
-      "pushedLabel": "push há 11h",
+      "pushedAt": "2026-10-21T20:02:55Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 477,
       "score": 70,
       "social": [],
@@ -336,11 +336,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/vllm-project/vllm",
-      "stars": 94742,
-      "forks": 23723,
-      "issues": 9223,
+      "stars": 94806,
+      "forks": 23736,
+      "issues": 9250,
       "language": "Python",
-      "pushedAt": "2026-10-21T15:24:18Z",
+      "pushedAt": "2026-10-21T20:00:59Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 439,
       "score": 70,
@@ -389,9 +389,9 @@
         "post técnico da Cloudflare"
       ],
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 35359,
-      "forks": 2222,
-      "issues": 77,
+      "stars": 35806,
+      "forks": 2245,
+      "issues": 78,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T19:29:02Z",
       "pushedLabel": "push há 37d",
@@ -456,8 +456,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 100542,
-      "forks": 8855,
+      "stars": 100604,
+      "forks": 8857,
       "issues": 234,
       "language": "Python",
       "pushedAt": "2026-10-20T11:24:28Z",
@@ -532,12 +532,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29739,
-      "forks": 2881,
-      "issues": 766,
+      "stars": 29746,
+      "forks": 2883,
+      "issues": 768,
       "language": "TypeScript",
       "pushedAt": "2026-10-21T02:59:43Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 17h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -569,21 +569,30 @@
   ],
   "news": [
     {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://news.ycombinator.com/item?id=50180752",
+      "relatedUrl": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "points": 104,
+      "comments": 52,
+      "publishedAt": "2026-10-21T13:37:00Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "LayerFS: The filesystem for AI coding agents",
       "url": "https://news.ycombinator.com/item?id=50179857",
       "relatedUrl": "https://layerfs.ai/",
-      "points": 45,
-      "comments": 25,
+      "points": 69,
+      "comments": 38,
       "publishedAt": "2026-10-21T12:34:46Z",
       "source": "Hacker News official API"
     },
     {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://news.ycombinator.com/item?id=50180752",
-      "relatedUrl": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "points": 23,
-      "comments": 2,
-      "publishedAt": "2026-10-21T13:37:00Z",
+      "title": "AI agent fixed the bug, but what else did it change?",
+      "url": "https://news.ycombinator.com/item?id=50183253",
+      "relatedUrl": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+      "points": 40,
+      "comments": 5,
+      "publishedAt": "2026-10-21T16:03:32Z",
       "source": "Hacker News official API"
     },
     {
@@ -612,22 +621,9 @@
       "comments": 6,
       "publishedAt": "2026-10-20T10:20:33Z",
       "source": "Hacker News official API"
-    },
-    {
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://news.ycombinator.com/item?id=50171379",
-      "relatedUrl": "https://danielball.com/notes/ai_image_generation.html",
-      "points": 9,
-      "comments": 4,
-      "publishedAt": "2026-10-20T19:22:39Z",
-      "source": "Hacker News official API"
     }
   ],
   "trending": [
-    {
-      "repo": "MadsLorentzen/ai-job-search",
-      "starsToday": 3131
-    },
     {
       "repo": "cloudflare/security-audit-skill",
       "starsToday": 1997
@@ -666,11 +662,15 @@
     },
     {
       "repo": "strelov1/freehire",
-      "starsToday": 405
+      "starsToday": 396
     },
     {
       "repo": "akitaonrails/ai-memory",
       "starsToday": 303
+    },
+    {
+      "repo": "Graphify-Labs/graphify",
+      "starsToday": 1434
     }
   ],
   "monitored": [
@@ -687,8 +687,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 100542,
-      "forks": 8855,
+      "stars": 100604,
+      "forks": 8857,
       "issues": 234,
       "language": "Python",
       "pushedAt": "2026-10-20T11:24:28Z",
@@ -763,12 +763,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29739,
-      "forks": 2881,
-      "issues": 766,
+      "stars": 29746,
+      "forks": 2883,
+      "issues": 768,
       "language": "TypeScript",
       "pushedAt": "2026-10-21T02:59:43Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 17h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
