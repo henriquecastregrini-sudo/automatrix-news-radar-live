@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T01:25:40.395Z",
-  "generatedLabel": "20 de out. de 2026 · 22:25",
+  "generatedAt": "2026-10-21T15:41:18.127Z",
+  "generatedLabel": "21 de out. de 2026 · 12:41",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -76,7 +76,7 @@
       "title": "orca",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,6 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 1,5 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "broll": [
         "GitHub Trending",
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/stablyai/orca",
-      "stars": 99775,
-      "forks": 6321,
-      "issues": 8627,
+      "stars": 100776,
+      "forks": 6371,
+      "issues": 8586,
       "language": "TypeScript",
-      "pushedAt": "2026-10-21T01:25:27Z",
+      "pushedAt": "2026-10-21T15:37:49Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1565,
+      "trendingStarsToday": 1543,
       "score": 78,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -102,7 +102,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,6 mil stars hoje",
+          "label": "GitHub Trending · 1,5 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -129,7 +129,7 @@
       "title": "ai-job-search",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 3,9 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 3,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "broll": [
         "GitHub Trending",
@@ -138,13 +138,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars": 60655,
-      "forks": 18906,
-      "issues": 30,
+      "stars": 62566,
+      "forks": 19317,
+      "issues": 49,
       "language": "Python",
-      "pushedAt": "2026-10-20T19:02:25Z",
-      "pushedLabel": "push há 6h",
-      "trendingStarsToday": 3861,
+      "pushedAt": "2026-10-21T05:29:11Z",
+      "pushedLabel": "push há 10h",
+      "trendingStarsToday": 3131,
       "score": 77,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -155,7 +155,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 3,9 mil stars hoje",
+          "label": "GitHub Trending · 3,1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -178,112 +178,6 @@
       "rank": 2
     },
     {
-      "repo": "Comfy-Org/ComfyUI",
-      "title": "ComfyUI",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "stars": 140796,
-      "forks": 16665,
-      "issues": 5301,
-      "language": "Python",
-      "pushedAt": "2026-10-21T01:24:42Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1206,
-      "score": 77,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/Comfy-Org/ComfyUI",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,2 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=Comfy-Org%20ComfyUI%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=ComfyUI%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=ComfyUI%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "repo": "ruvnet/ruflo",
-      "title": "Ruflo",
-      "type": "Orquestração multiagente",
-      "status": "Monitorar hoje",
-      "hook": "Este meta-harness coordena enxames de agentes, memória e fluxos autônomos no mesmo sistema.",
-      "thesis": "O mercado está saindo do agente isolado para equipes de agentes coordenados.",
-      "broll": [
-        "arquitetura",
-        "terminal",
-        "swarm demo",
-        "README"
-      ],
-      "url": "https://github.com/ruvnet/ruflo",
-      "stars": 77861,
-      "forks": 9161,
-      "issues": 984,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-21T01:08:18Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 684,
-      "score": 72,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/ruvnet/ruflo",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 684 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=ruvnet%20ruflo%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Ruflo%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Ruflo%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
-    },
-    {
       "repo": "DietrichGebert/ponytail",
       "title": "Ponytail",
       "type": "Skill para agentes",
@@ -297,14 +191,14 @@
         "antes e depois do código"
       ],
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 169717,
-      "forks": 9230,
-      "issues": 52,
+      "stars": 170988,
+      "forks": 9303,
+      "issues": 63,
       "language": "JavaScript",
       "pushedAt": "2026-10-18T01:55:14Z",
-      "pushedLabel": "push há 3d",
-      "trendingStarsToday": 1208,
-      "score": 70,
+      "pushedLabel": "push há 4d",
+      "trendingStarsToday": 2051,
+      "score": 72,
       "social": [
         {
           "platform": "Reddit",
@@ -338,7 +232,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,2 mil stars hoje",
+          "label": "GitHub Trending · 2,1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -373,6 +267,112 @@
           "kind": "busca"
         }
       ],
+      "rank": 3
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "title": "headroom",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 477 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "stars": 77083,
+      "forks": 5981,
+      "issues": 506,
+      "language": "Python",
+      "pushedAt": "2026-10-21T04:15:22Z",
+      "pushedLabel": "push há 11h",
+      "trendingStarsToday": 477,
+      "score": 70,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 477 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=headroomlabs-ai%20headroom%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=headroom%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=headroom%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "title": "vllm",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 439 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/vllm-project/vllm",
+      "stars": 94742,
+      "forks": 23723,
+      "issues": 9223,
+      "language": "Python",
+      "pushedAt": "2026-10-21T15:24:18Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 439,
+      "score": 70,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/vllm-project/vllm",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 439 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=vllm-project%20vllm%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=vllm%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=vllm%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 5
     },
     {
@@ -389,13 +389,13 @@
         "post técnico da Cloudflare"
       ],
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 34283,
-      "forks": 2142,
-      "issues": 72,
+      "stars": 35359,
+      "forks": 2222,
+      "issues": 77,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T19:29:02Z",
-      "pushedLabel": "push há 36d",
-      "trendingStarsToday": 1712,
+      "pushedLabel": "push há 37d",
+      "trendingStarsToday": 1997,
       "score": 69,
       "social": [
         {
@@ -416,7 +416,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,7 mil stars hoje",
+          "label": "GitHub Trending · 2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -456,12 +456,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 100305,
-      "forks": 8835,
-      "issues": 231,
+      "stars": 100542,
+      "forks": 8855,
+      "issues": 234,
       "language": "Python",
       "pushedAt": "2026-10-20T11:24:28Z",
-      "pushedLabel": "push há 14h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -532,12 +532,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29704,
-      "forks": 2891,
-      "issues": 781,
+      "stars": 29739,
+      "forks": 2881,
+      "issues": 766,
       "language": "TypeScript",
-      "pushedAt": "2026-10-20T14:27:24Z",
-      "pushedLabel": "push há 11h",
+      "pushedAt": "2026-10-21T02:59:43Z",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -569,21 +569,39 @@
   ],
   "news": [
     {
-      "title": "Vite+ an excellent toolchain for AI agent development",
-      "url": "https://news.ycombinator.com/item?id=50162198",
-      "relatedUrl": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+      "title": "LayerFS: The filesystem for AI coding agents",
+      "url": "https://news.ycombinator.com/item?id=50179857",
+      "relatedUrl": "https://layerfs.ai/",
+      "points": 45,
+      "comments": 25,
+      "publishedAt": "2026-10-21T12:34:46Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://news.ycombinator.com/item?id=50180752",
+      "relatedUrl": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
       "points": 23,
-      "comments": 20,
-      "publishedAt": "2026-10-20T06:40:49Z",
+      "comments": 2,
+      "publishedAt": "2026-10-21T13:37:00Z",
       "source": "Hacker News official API"
     },
     {
       "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
       "url": "https://news.ycombinator.com/item?id=50169506",
       "relatedUrl": "https://research.poh.org/bot-benchmarking-2026/",
-      "points": 25,
-      "comments": 0,
+      "points": 47,
+      "comments": 8,
       "publishedAt": "2026-10-20T17:10:31Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Vite+ an excellent toolchain for AI agent development",
+      "url": "https://news.ycombinator.com/item?id=50162198",
+      "relatedUrl": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+      "points": 23,
+      "comments": 20,
+      "publishedAt": "2026-10-20T06:40:49Z",
       "source": "Hacker News official API"
     },
     {
@@ -596,81 +614,63 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "Show HN: Shazam but for AI Slop Music",
-      "url": "https://news.ycombinator.com/item?id=50165533",
-      "relatedUrl": "https://apps.apple.com/de/app/daft-slop-ai-music-detector/id6811013099",
-      "points": 10,
-      "comments": 3,
-      "publishedAt": "2026-10-20T12:46:21Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-      "url": "https://news.ycombinator.com/item?id=50148855",
-      "relatedUrl": "https://crystl.dev/guides/tmux-for-ai-agents/",
-      "points": 168,
-      "comments": 126,
-      "publishedAt": "2026-10-19T05:55:31Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "url": "https://news.ycombinator.com/item?id=50152877",
-      "relatedUrl": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "points": 59,
-      "comments": 3,
-      "publishedAt": "2026-10-19T14:23:17Z",
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://news.ycombinator.com/item?id=50171379",
+      "relatedUrl": "https://danielball.com/notes/ai_image_generation.html",
+      "points": 9,
+      "comments": 4,
+      "publishedAt": "2026-10-20T19:22:39Z",
       "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "MadsLorentzen/ai-job-search",
-      "starsToday": 3861
+      "starsToday": 3131
     },
     {
       "repo": "cloudflare/security-audit-skill",
-      "starsToday": 1712
+      "starsToday": 1997
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "starsToday": 439
     },
     {
       "repo": "stablyai/orca",
-      "starsToday": 1565
-    },
-    {
-      "repo": "DietrichGebert/ponytail",
-      "starsToday": 1208
-    },
-    {
-      "repo": "Comfy-Org/ComfyUI",
-      "starsToday": 1206
-    },
-    {
-      "repo": "ruvnet/ruflo",
-      "starsToday": 684
-    },
-    {
-      "repo": "Graphify-Labs/graphify",
-      "starsToday": 802
-    },
-    {
-      "repo": "anomalyco/opencode",
-      "starsToday": 1240
-    },
-    {
-      "repo": "msitarzewski/agency-agents",
-      "starsToday": 562
+      "starsToday": 1543
     },
     {
       "repo": "headroomlabs-ai/headroom",
-      "starsToday": 549
+      "starsToday": 477
     },
     {
-      "repo": "anthropics/knowledge-work-plugins",
-      "starsToday": 267
+      "repo": "DietrichGebert/ponytail",
+      "starsToday": 2051
     },
     {
-      "repo": "wshobson/agents",
-      "starsToday": 93
+      "repo": "Comfy-Org/ComfyUI",
+      "starsToday": 914
+    },
+    {
+      "repo": "supabase/supabase",
+      "starsToday": 509
+    },
+    {
+      "repo": "twentyhq/twenty",
+      "starsToday": 105
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "starsToday": 570
+    },
+    {
+      "repo": "strelov1/freehire",
+      "starsToday": 405
+    },
+    {
+      "repo": "akitaonrails/ai-memory",
+      "starsToday": 303
     }
   ],
   "monitored": [
@@ -687,12 +687,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 100305,
-      "forks": 8835,
-      "issues": 231,
+      "stars": 100542,
+      "forks": 8855,
+      "issues": 234,
       "language": "Python",
       "pushedAt": "2026-10-20T11:24:28Z",
-      "pushedLabel": "push há 14h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -763,12 +763,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29704,
-      "forks": 2891,
-      "issues": 781,
+      "stars": 29739,
+      "forks": 2881,
+      "issues": 766,
       "language": "TypeScript",
-      "pushedAt": "2026-10-20T14:27:24Z",
-      "pushedLabel": "push há 11h",
+      "pushedAt": "2026-10-21T02:59:43Z",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
