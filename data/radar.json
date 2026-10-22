@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T15:42:31.593Z",
-  "generatedLabel": "22 de out. de 2026 · 12:42",
+  "generatedAt": "2026-10-22T20:25:00.100Z",
+  "generatedLabel": "22 de out. de 2026 · 17:24",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,12 +85,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Graphify-Labs/graphify",
-      "stars": 132529,
-      "forks": 12696,
-      "issues": 1628,
+      "stars": 132794,
+      "forks": 12712,
+      "issues": 1595,
       "language": "Python",
-      "pushedAt": "2026-10-21T15:23:36Z",
-      "pushedLabel": "push há 1d",
+      "pushedAt": "2026-10-22T16:19:38Z",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": 1407,
       "score": 78,
       "social": [],
@@ -138,12 +138,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/supabase/supabase",
-      "stars": 113342,
+      "stars": 113423,
       "forks": 16993,
-      "issues": 1189,
+      "issues": 1193,
       "language": "TypeScript",
-      "pushedAt": "2026-10-22T15:38:10Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-10-22T19:30:54Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 683,
       "score": 73,
       "social": [],
@@ -191,9 +191,9 @@
         "antes e depois do código"
       ],
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 172905,
-      "forks": 9408,
-      "issues": 86,
+      "stars": 173230,
+      "forks": 9428,
+      "issues": 88,
       "language": "JavaScript",
       "pushedAt": "2026-10-18T01:55:14Z",
       "pushedLabel": "push há 5d",
@@ -283,8 +283,8 @@
         "post técnico da Cloudflare"
       ],
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 38571,
-      "forks": 2406,
+      "stars": 39172,
+      "forks": 2440,
       "issues": 80,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T19:29:02Z",
@@ -351,12 +351,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars": 31389,
-      "forks": 3517,
+      "stars": 31502,
+      "forks": 3527,
       "issues": 131,
       "language": "Python",
       "pushedAt": "2026-10-22T07:39:25Z",
-      "pushedLabel": "push há 8h",
+      "pushedLabel": "push há 13h",
       "trendingStarsToday": 303,
       "score": 65,
       "social": [
@@ -409,7 +409,7 @@
       "title": "claude-howto",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 428 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 370 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "broll": [
         "GitHub Trending",
@@ -418,14 +418,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/luongnv89/claude-howto",
-      "stars": 42806,
-      "forks": 5364,
-      "issues": 34,
+      "stars": 43023,
+      "forks": 5377,
+      "issues": 35,
       "language": "Python",
       "pushedAt": "2026-10-20T12:23:14Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 428,
-      "score": 61,
+      "trendingStarsToday": 370,
+      "score": 60,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -435,7 +435,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 428 stars hoje",
+          "label": "GitHub Trending · 370 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -470,8 +470,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29800,
-      "forks": 2890,
+      "stars": 29811,
+      "forks": 2892,
       "issues": 860,
       "language": "TypeScript",
       "pushedAt": "2026-10-21T02:59:43Z",
@@ -517,9 +517,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 100908,
-      "forks": 8890,
-      "issues": 237,
+      "stars": 100987,
+      "forks": 8902,
+      "issues": 238,
       "language": "Python",
       "pushedAt": "2026-10-20T11:24:28Z",
       "pushedLabel": "push há 2d",
@@ -583,30 +583,48 @@
   ],
   "news": [
     {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://news.ycombinator.com/item?id=50180752",
-      "relatedUrl": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "points": 151,
-      "comments": 100,
-      "publishedAt": "2026-10-21T13:37:00Z",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://news.ycombinator.com/item?id=50198675",
+      "relatedUrl": "https://github.com/NVIDIA/OpenShell",
+      "points": 139,
+      "comments": 67,
+      "publishedAt": "2026-10-22T17:44:06Z",
       "source": "Hacker News official API"
     },
     {
-      "title": "LayerFS: The filesystem for AI coding agents",
-      "url": "https://news.ycombinator.com/item?id=50179857",
-      "relatedUrl": "https://layerfs.ai/",
-      "points": 72,
-      "comments": 45,
-      "publishedAt": "2026-10-21T12:34:46Z",
+      "title": "Unvetted AI agents are accessing U.S. bank accounts",
+      "url": "https://news.ycombinator.com/item?id=50195390",
+      "relatedUrl": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+      "points": 9,
+      "comments": 2,
+      "publishedAt": "2026-10-22T13:55:48Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://news.ycombinator.com/item?id=50180752",
+      "relatedUrl": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "points": 153,
+      "comments": 103,
+      "publishedAt": "2026-10-21T13:37:00Z",
       "source": "Hacker News official API"
     },
     {
       "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
       "url": "https://news.ycombinator.com/item?id=50183892",
       "relatedUrl": "https://github.com/omnara-ai/omnara",
-      "points": 99,
-      "comments": 28,
+      "points": 107,
+      "comments": 32,
       "publishedAt": "2026-10-21T16:44:53Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "LayerFS: The filesystem for AI coding agents",
+      "url": "https://news.ycombinator.com/item?id=50179857",
+      "relatedUrl": "https://layerfs.ai/",
+      "points": 74,
+      "comments": 47,
+      "publishedAt": "2026-10-21T12:34:46Z",
       "source": "Hacker News official API"
     },
     {
@@ -617,30 +635,12 @@
       "comments": 6,
       "publishedAt": "2026-10-21T16:03:32Z",
       "source": "Hacker News official API"
-    },
-    {
-      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-      "url": "https://news.ycombinator.com/item?id=50169506",
-      "relatedUrl": "https://research.poh.org/bot-benchmarking-2026/",
-      "points": 48,
-      "comments": 8,
-      "publishedAt": "2026-10-20T17:10:31Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://news.ycombinator.com/item?id=50171379",
-      "relatedUrl": "https://danielball.com/notes/ai_image_generation.html",
-      "points": 9,
-      "comments": 4,
-      "publishedAt": "2026-10-20T19:22:39Z",
-      "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "php/php-src",
-      "starsToday": 110
+      "starsToday": 423
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
@@ -668,7 +668,7 @@
     },
     {
       "repo": "luongnv89/claude-howto",
-      "starsToday": 428
+      "starsToday": 370
     },
     {
       "repo": "Meloong-Git/PCL",
@@ -689,8 +689,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29800,
-      "forks": 2890,
+      "stars": 29811,
+      "forks": 2892,
       "issues": 860,
       "language": "TypeScript",
       "pushedAt": "2026-10-21T02:59:43Z",
@@ -736,9 +736,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 100908,
-      "forks": 8890,
-      "issues": 237,
+      "stars": 100987,
+      "forks": 8902,
+      "issues": 238,
       "language": "Python",
       "pushedAt": "2026-10-20T11:24:28Z",
       "pushedLabel": "push há 2d",
