@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T20:25:00.100Z",
-  "generatedLabel": "22 de out. de 2026 · 17:24",
+  "generatedAt": "2026-10-23T01:22:06.151Z",
+  "generatedLabel": "22 de out. de 2026 · 22:22",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Graphify-Labs/graphify",
-      "stars": 132794,
-      "forks": 12712,
-      "issues": 1595,
+      "stars": 132981,
+      "forks": 12725,
+      "issues": 1604,
       "language": "Python",
       "pushedAt": "2026-10-22T16:19:38Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 1407,
+      "pushedLabel": "push há 9h",
+      "trendingStarsToday": 1408,
       "score": 78,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -129,7 +129,7 @@
       "title": "supabase",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 683 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 693 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "broll": [
         "GitHub Trending",
@@ -138,13 +138,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/supabase/supabase",
-      "stars": 113423,
-      "forks": 16993,
-      "issues": 1193,
+      "stars": 113495,
+      "forks": 17001,
+      "issues": 1198,
       "language": "TypeScript",
-      "pushedAt": "2026-10-22T19:30:54Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 683,
+      "pushedAt": "2026-10-23T01:15:48Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 693,
       "score": 73,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -155,7 +155,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 683 stars hoje",
+          "label": "GitHub Trending · 693 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -191,13 +191,13 @@
         "antes e depois do código"
       ],
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 173230,
-      "forks": 9428,
-      "issues": 88,
+      "stars": 173522,
+      "forks": 9440,
+      "issues": 92,
       "language": "JavaScript",
       "pushedAt": "2026-10-18T01:55:14Z",
       "pushedLabel": "push há 5d",
-      "trendingStarsToday": 1949,
+      "trendingStarsToday": 1948,
       "score": 72,
       "social": [
         {
@@ -283,8 +283,8 @@
         "post técnico da Cloudflare"
       ],
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 39172,
-      "forks": 2440,
+      "stars": 39615,
+      "forks": 2469,
       "issues": 80,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T19:29:02Z",
@@ -351,12 +351,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars": 31502,
-      "forks": 3527,
+      "stars": 31626,
+      "forks": 3533,
       "issues": 131,
       "language": "Python",
       "pushedAt": "2026-10-22T07:39:25Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 18h",
       "trendingStarsToday": 303,
       "score": 65,
       "social": [
@@ -409,7 +409,7 @@
       "title": "claude-howto",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 370 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 177 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "broll": [
         "GitHub Trending",
@@ -418,14 +418,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/luongnv89/claude-howto",
-      "stars": 43023,
-      "forks": 5377,
+      "stars": 43238,
+      "forks": 5391,
       "issues": 35,
       "language": "Python",
       "pushedAt": "2026-10-20T12:23:14Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 370,
-      "score": 60,
+      "pushedLabel": "push há 3d",
+      "trendingStarsToday": 177,
+      "score": 55,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -435,7 +435,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 370 stars hoje",
+          "label": "GitHub Trending · 177 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -470,7 +470,7 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29811,
+      "stars": 29815,
       "forks": 2892,
       "issues": 860,
       "language": "TypeScript",
@@ -517,12 +517,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 100987,
-      "forks": 8902,
+      "stars": 101033,
+      "forks": 8906,
       "issues": 238,
       "language": "Python",
       "pushedAt": "2026-10-20T11:24:28Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -586,26 +586,26 @@
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "url": "https://news.ycombinator.com/item?id=50198675",
       "relatedUrl": "https://github.com/NVIDIA/OpenShell",
-      "points": 139,
-      "comments": 67,
+      "points": 293,
+      "comments": 152,
       "publishedAt": "2026-10-22T17:44:06Z",
       "source": "Hacker News official API"
     },
     {
-      "title": "Unvetted AI agents are accessing U.S. bank accounts",
-      "url": "https://news.ycombinator.com/item?id=50195390",
-      "relatedUrl": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+      "title": "US banks are blocking third-party AI agents access to customer accounts",
+      "url": "https://news.ycombinator.com/item?id=50201469",
+      "relatedUrl": "https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/",
       "points": 9,
-      "comments": 2,
-      "publishedAt": "2026-10-22T13:55:48Z",
+      "comments": 4,
+      "publishedAt": "2026-10-22T21:43:46Z",
       "source": "Hacker News official API"
     },
     {
       "title": "Using thousands of AI agents to uncover new leads in biological data",
       "url": "https://news.ycombinator.com/item?id=50180752",
       "relatedUrl": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "points": 153,
-      "comments": 103,
+      "points": 155,
+      "comments": 104,
       "publishedAt": "2026-10-21T13:37:00Z",
       "source": "Hacker News official API"
     },
@@ -613,13 +613,13 @@
       "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
       "url": "https://news.ycombinator.com/item?id=50183892",
       "relatedUrl": "https://github.com/omnara-ai/omnara",
-      "points": 107,
-      "comments": 32,
+      "points": 108,
+      "comments": 33,
       "publishedAt": "2026-10-21T16:44:53Z",
       "source": "Hacker News official API"
     },
     {
-      "title": "LayerFS: The filesystem for AI coding agents",
+      "title": "LayerFS: A filesystem for AI coding agents",
       "url": "https://news.ycombinator.com/item?id=50179857",
       "relatedUrl": "https://layerfs.ai/",
       "points": 74,
@@ -640,7 +640,7 @@
   "trending": [
     {
       "repo": "php/php-src",
-      "starsToday": 423
+      "starsToday": 287
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
@@ -648,7 +648,7 @@
     },
     {
       "repo": "DietrichGebert/ponytail",
-      "starsToday": 1949
+      "starsToday": 1948
     },
     {
       "repo": "cloudflare/security-audit-skill",
@@ -656,23 +656,23 @@
     },
     {
       "repo": "Graphify-Labs/graphify",
-      "starsToday": 1407
+      "starsToday": 1408
     },
     {
       "repo": "supabase/supabase",
-      "starsToday": 683
+      "starsToday": 693
     },
     {
       "repo": "fastapi/fastapi",
-      "starsToday": 96
+      "starsToday": 101
     },
     {
       "repo": "luongnv89/claude-howto",
-      "starsToday": 370
+      "starsToday": 177
     },
     {
       "repo": "Meloong-Git/PCL",
-      "starsToday": 115
+      "starsToday": 119
     }
   ],
   "monitored": [
@@ -689,7 +689,7 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29811,
+      "stars": 29815,
       "forks": 2892,
       "issues": 860,
       "language": "TypeScript",
@@ -736,12 +736,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 100987,
-      "forks": 8902,
+      "stars": 101033,
+      "forks": 8906,
       "issues": 238,
       "language": "Python",
       "pushedAt": "2026-10-20T11:24:28Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
