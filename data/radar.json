@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T14:08:52.340Z",
-  "generatedLabel": "24 de out. de 2026 · 11:08",
+  "generatedAt": "2026-10-24T19:14:06.251Z",
+  "generatedLabel": "24 de out. de 2026 · 16:14",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -72,6 +72,72 @@
   ],
   "repos": [
     {
+      "repo": "pbakaus/impeccable",
+      "title": "impeccable",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 733 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "The design language that makes your AI harness better at design.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/pbakaus/impeccable",
+      "stars": 86215,
+      "forks": 5147,
+      "issues": 38,
+      "language": "Rust",
+      "pushedAt": "2026-10-24T06:29:27Z",
+      "pushedLabel": "push há 13h",
+      "trendingStarsToday": 733,
+      "score": 73,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/BestGitHubRepos · discussão nova sobre design de interfaces geradas por IA · votos não visíveis na checagem",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wvg3vz/impeccable_is_a_design_language_that_actually/",
+          "publishedAt": "2026-10-02",
+          "verifiedAt": "03 OUT 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/pbakaus/impeccable",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 733 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/BestGitHubRepos · discussão nova sobre design de interfaces geradas por IA · votos não visíveis na checagem",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wvg3vz/impeccable_is_a_design_language_that_actually/",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=pbakaus%20impeccable%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=impeccable%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=impeccable%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "repo": "NVIDIA/OpenShell",
       "title": "NVIDIA OpenShell",
       "type": "Sandbox de segurança para agentes",
@@ -85,12 +151,12 @@
         "limitação: Windows via WSL 2 ainda experimental"
       ],
       "url": "https://github.com/NVIDIA/OpenShell",
-      "stars": 19184,
-      "forks": 1910,
+      "stars": 19350,
+      "forks": 1924,
       "issues": 576,
       "language": "Rust",
       "pushedAt": "2026-10-24T02:12:45Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 17h",
       "trendingStarsToday": 893,
       "score": 71,
       "social": [
@@ -169,72 +235,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 1
-    },
-    {
-      "repo": "pbakaus/impeccable",
-      "title": "impeccable",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 541 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "The design language that makes your AI harness better at design.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/pbakaus/impeccable",
-      "stars": 85949,
-      "forks": 5140,
-      "issues": 39,
-      "language": "Rust",
-      "pushedAt": "2026-10-24T06:29:27Z",
-      "pushedLabel": "push há 8h",
-      "trendingStarsToday": 541,
-      "score": 71,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/BestGitHubRepos · discussão nova sobre design de interfaces geradas por IA · votos não visíveis na checagem",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wvg3vz/impeccable_is_a_design_language_that_actually/",
-          "publishedAt": "2026-10-02",
-          "verifiedAt": "03 OUT 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/pbakaus/impeccable",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 541 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Reddit · r/BestGitHubRepos · discussão nova sobre design de interfaces geradas por IA · votos não visíveis na checagem",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wvg3vz/impeccable_is_a_design_language_that_actually/",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=pbakaus%20impeccable%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=impeccable%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=impeccable%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 2
     },
     {
@@ -251,8 +251,8 @@
         "post técnico da Cloudflare"
       ],
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 43237,
-      "forks": 2699,
+      "stars": 43970,
+      "forks": 2739,
       "issues": 85,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T19:29:02Z",
@@ -310,7 +310,7 @@
       "title": "hallmark",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 567 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 570 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "broll": [
         "GitHub Trending",
@@ -319,14 +319,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Nutlope/hallmark",
-      "stars": 31612,
-      "forks": 1631,
-      "issues": 48,
+      "stars": 31919,
+      "forks": 1640,
+      "issues": 49,
       "language": "CSS",
       "pushedAt": "2026-10-22T17:20:32Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 567,
-      "score": 69,
+      "trendingStarsToday": 570,
+      "score": 62,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -336,7 +336,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 567 stars hoje",
+          "label": "GitHub Trending · 570 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -362,8 +362,8 @@
       "repo": "luongnv89/claude-howto",
       "title": "claude-howto",
       "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 442 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "broll": [
         "GitHub Trending",
@@ -372,14 +372,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/luongnv89/claude-howto",
-      "stars": 44220,
-      "forks": 5473,
+      "stars": 44393,
+      "forks": 5485,
       "issues": 40,
       "language": "Python",
       "pushedAt": "2026-10-20T12:23:14Z",
       "pushedLabel": "push há 4d",
-      "trendingStarsToday": 1053,
-      "score": 67,
+      "trendingStarsToday": 442,
+      "score": 61,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -389,7 +389,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,1 mil stars hoje",
+          "label": "GitHub Trending · 442 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -424,12 +424,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 101543,
-      "forks": 8961,
+      "stars": 101678,
+      "forks": 8976,
       "issues": 230,
       "language": "Python",
       "pushedAt": "2026-10-23T06:44:33Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -501,12 +501,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "stars": 2995,
-      "forks": 393,
+      "stars": 3064,
+      "forks": 395,
       "issues": 64,
       "language": "Python",
       "pushedAt": "2026-10-23T15:00:22Z",
-      "pushedLabel": "push há 23h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": 11,
       "score": 40,
       "social": [],
@@ -553,12 +553,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29887,
+      "stars": 29890,
       "forks": 2898,
-      "issues": 871,
+      "issues": 873,
       "language": "TypeScript",
       "pushedAt": "2026-10-21T02:59:43Z",
-      "pushedLabel": "push há 3d",
+      "pushedLabel": "push há 4d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
@@ -599,15 +599,6 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://news.ycombinator.com/item?id=50198675",
-      "relatedUrl": "https://github.com/NVIDIA/OpenShell",
-      "points": 495,
-      "comments": 217,
-      "publishedAt": "2026-10-22T17:44:06Z",
-      "source": "Hacker News official API"
-    },
-    {
       "title": "US banks are blocking third-party AI agents access to customer accounts",
       "url": "https://news.ycombinator.com/item?id=50201469",
       "relatedUrl": "https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/",
@@ -626,21 +617,30 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "Show HN: Halv – open-source agent coding software that reduces your usage",
-      "url": "https://news.ycombinator.com/item?id=50198250",
-      "relatedUrl": "https://halv.ai/",
-      "points": 6,
-      "comments": 2,
-      "publishedAt": "2026-10-22T17:13:59Z",
-      "source": "Hacker News official API"
-    },
-    {
       "title": "1Password adds browser login feature for AI agents",
       "url": "https://news.ycombinator.com/item?id=50201231",
       "relatedUrl": "https://1password.com/personal-ai-agent-integrations",
       "points": 1,
       "comments": 3,
       "publishedAt": "2026-10-22T21:21:55Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: Secure your AI agents on Mac",
+      "url": "https://news.ycombinator.com/item?id=50200396",
+      "relatedUrl": "https://installplango.com/",
+      "points": 2,
+      "comments": 2,
+      "publishedAt": "2026-10-22T20:15:37Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Banks Are Struggling to Protect Customers from Their Own AI Agents",
+      "url": "https://news.ycombinator.com/item?id=50199846",
+      "relatedUrl": "https://www.motherjones.com/politics/2026/10/banks-ai-axios-agents-rogue-financial-decisions-security/",
+      "points": 5,
+      "comments": 0,
+      "publishedAt": "2026-10-22T19:23:44Z",
       "source": "Hacker News official API"
     }
   ],
@@ -659,19 +659,19 @@
     },
     {
       "repo": "Nutlope/hallmark",
-      "starsToday": 567
+      "starsToday": 570
     },
     {
       "repo": "luongnv89/claude-howto",
-      "starsToday": 1053
+      "starsToday": 442
     },
     {
       "repo": "pbakaus/impeccable",
-      "starsToday": 541
+      "starsToday": 733
     },
     {
       "repo": "pollen-robotics/microduck",
-      "starsToday": 421
+      "starsToday": 381
     },
     {
       "repo": "google-gemini/gemini-cli",
@@ -700,12 +700,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 101543,
-      "forks": 8961,
+      "stars": 101678,
+      "forks": 8976,
       "issues": 230,
       "language": "Python",
       "pushedAt": "2026-10-23T06:44:33Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -776,12 +776,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29887,
+      "stars": 29890,
       "forks": 2898,
-      "issues": 871,
+      "issues": 873,
       "language": "TypeScript",
       "pushedAt": "2026-10-21T02:59:43Z",
-      "pushedLabel": "push há 3d",
+      "pushedLabel": "push há 4d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
