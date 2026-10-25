@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T14:36:55.608Z",
-  "generatedLabel": "25 de out. de 2026 · 11:36",
+  "generatedAt": "2026-10-25T19:26:22.310Z",
+  "generatedLabel": "25 de out. de 2026 · 16:26",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,11 +85,11 @@
         "comparação local versus nuvem"
       ],
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 85956,
-      "forks": 9530,
-      "issues": 217,
+      "stars": 86422,
+      "forks": 9578,
+      "issues": 191,
       "language": "Python",
-      "pushedAt": "2026-10-25T14:32:49Z",
+      "pushedAt": "2026-10-25T19:16:09Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 1588,
       "score": 78,
@@ -179,12 +179,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 87162,
-      "forks": 5210,
-      "issues": 39,
+      "stars": 87478,
+      "forks": 5221,
+      "issues": 38,
       "language": "Rust",
-      "pushedAt": "2026-10-25T14:28:14Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-10-25T18:04:24Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 1113,
       "score": 75,
       "social": [
@@ -245,9 +245,9 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Nutlope/hallmark",
-      "stars": 33079,
-      "forks": 1719,
-      "issues": 49,
+      "stars": 33454,
+      "forks": 1741,
+      "issues": 57,
       "language": "CSS",
       "pushedAt": "2026-10-22T17:20:32Z",
       "pushedLabel": "push há 3d",
@@ -298,11 +298,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/makecindy/cindy",
-      "stars": 4540,
-      "forks": 640,
+      "stars": 4724,
+      "forks": 650,
       "issues": 1911,
       "language": "TypeScript",
-      "pushedAt": "2026-10-25T13:33:55Z",
+      "pushedAt": "2026-10-25T18:42:06Z",
       "pushedLabel": "push há 1h",
       "trendingStarsToday": 677,
       "score": 67,
@@ -341,8 +341,8 @@
       "repo": "TauricResearch/TradingAgents",
       "title": "TradingAgents",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 309 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 636 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "broll": [
         "GitHub Trending",
@@ -351,14 +351,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "stars": 114080,
-      "forks": 22082,
-      "issues": 126,
+      "stars": 114365,
+      "forks": 22117,
+      "issues": 148,
       "language": "Python",
       "pushedAt": "2026-10-16T21:38:46Z",
       "pushedLabel": "push há 9d",
-      "trendingStarsToday": 309,
-      "score": 61,
+      "trendingStarsToday": 636,
+      "score": 65,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -368,7 +368,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 309 stars hoje",
+          "label": "GitHub Trending · 636 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -404,12 +404,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/JetBrains/thinkrail",
-      "stars": 1195,
-      "forks": 85,
-      "issues": 195,
+      "stars": 1310,
+      "forks": 91,
+      "issues": 196,
       "language": "TypeScript",
-      "pushedAt": "2026-10-25T13:50:40Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-10-25T16:07:27Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": 52,
       "score": 48,
       "social": [],
@@ -456,12 +456,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 102271,
-      "forks": 9050,
-      "issues": 233,
+      "stars": 102408,
+      "forks": 9068,
+      "issues": 234,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
-      "pushedLabel": "push há 10h",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -532,8 +532,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29911,
-      "forks": 2904,
+      "stars": 29916,
+      "forks": 2905,
       "issues": 873,
       "language": "TypeScript",
       "pushedAt": "2026-10-21T02:59:43Z",
@@ -569,48 +569,48 @@
   ],
   "news": [
     {
-      "title": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
-      "url": "https://news.ycombinator.com/item?id=50231486",
-      "relatedUrl": "https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42",
-      "points": 15,
-      "comments": 3,
-      "publishedAt": "2026-10-25T13:41:19Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Tokens aren't valuable: No more AI",
-      "url": "https://news.ycombinator.com/item?id=50227985",
-      "relatedUrl": "https://www.reddit.com/r/opensource/s/Vmk5Fd1N8H",
-      "points": 3,
-      "comments": 2,
-      "publishedAt": "2026-10-25T03:25:18Z",
-      "source": "Hacker News official API"
-    },
-    {
       "title": "R/open source bans all solo projects and projects using LLMs",
       "url": "https://news.ycombinator.com/item?id=50231722",
       "relatedUrl": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
-      "points": 4,
-      "comments": 1,
+      "points": 73,
+      "comments": 100,
       "publishedAt": "2026-10-25T14:05:03Z",
       "source": "Hacker News official API"
     },
     {
-      "title": "Kevin Kelly – We don't want the best AI, we want the only AI",
-      "url": "https://news.ycombinator.com/item?id=50228150",
-      "relatedUrl": "https://kevinkelly.substack.com/p/most-improbable-agent-of-you",
-      "points": 2,
-      "comments": 1,
-      "publishedAt": "2026-10-25T03:53:52Z",
+      "title": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
+      "url": "https://news.ycombinator.com/item?id=50231486",
+      "relatedUrl": "https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42",
+      "points": 15,
+      "comments": 4,
+      "publishedAt": "2026-10-25T13:41:19Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
+      "url": "https://news.ycombinator.com/item?id=50233325",
+      "relatedUrl": "https://github.com/socrates6969/jukebox-os",
+      "points": 10,
+      "comments": 0,
+      "publishedAt": "2026-10-25T16:29:46Z",
       "source": "Hacker News official API"
     },
     {
       "title": "Making My Blog Readable by AI Agents",
       "url": "https://news.ycombinator.com/item?id=50225443",
       "relatedUrl": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
-      "points": 24,
-      "comments": 3,
+      "points": 33,
+      "comments": 8,
       "publishedAt": "2026-10-24T21:21:33Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Your tokens aren't valuable: No more AI",
+      "url": "https://news.ycombinator.com/item?id=50226554",
+      "relatedUrl": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai/",
+      "points": 5,
+      "comments": 2,
+      "publishedAt": "2026-10-24T23:30:45Z",
       "source": "Hacker News official API"
     },
     {
@@ -646,11 +646,11 @@
     },
     {
       "repo": "TauricResearch/TradingAgents",
-      "starsToday": 309
+      "starsToday": 636
     },
     {
       "repo": "Renhuai123/ziwei-doushu",
-      "starsToday": 489
+      "starsToday": 255
     },
     {
       "repo": "JetBrains/thinkrail",
@@ -683,12 +683,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 102271,
-      "forks": 9050,
-      "issues": 233,
+      "stars": 102408,
+      "forks": 9068,
+      "issues": 234,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
-      "pushedLabel": "push há 10h",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -759,8 +759,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29911,
-      "forks": 2904,
+      "stars": 29916,
+      "forks": 2905,
       "issues": 873,
       "language": "TypeScript",
       "pushedAt": "2026-10-21T02:59:43Z",
