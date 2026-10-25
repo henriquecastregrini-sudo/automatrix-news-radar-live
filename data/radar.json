@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T19:14:06.251Z",
-  "generatedLabel": "24 de out. de 2026 · 16:14",
+  "generatedAt": "2026-10-25T00:58:22.936Z",
+  "generatedLabel": "24 de out. de 2026 · 21:58",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -76,7 +76,7 @@
       "title": "impeccable",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 733 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 619 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "The design language that makes your AI harness better at design.",
       "broll": [
         "GitHub Trending",
@@ -85,14 +85,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 86215,
-      "forks": 5147,
-      "issues": 38,
+      "stars": 86422,
+      "forks": 5155,
+      "issues": 39,
       "language": "Rust",
       "pushedAt": "2026-10-24T06:29:27Z",
-      "pushedLabel": "push há 13h",
-      "trendingStarsToday": 733,
-      "score": 73,
+      "pushedLabel": "push há 18h",
+      "trendingStarsToday": 619,
+      "score": 72,
       "social": [
         {
           "platform": "Reddit",
@@ -110,7 +110,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 733 stars hoje",
+          "label": "GitHub Trending · 619 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -151,13 +151,13 @@
         "limitação: Windows via WSL 2 ainda experimental"
       ],
       "url": "https://github.com/NVIDIA/OpenShell",
-      "stars": 19350,
-      "forks": 1924,
-      "issues": 576,
+      "stars": 19480,
+      "forks": 1932,
+      "issues": 577,
       "language": "Rust",
-      "pushedAt": "2026-10-24T02:12:45Z",
-      "pushedLabel": "push há 17h",
-      "trendingStarsToday": 893,
+      "pushedAt": "2026-10-24T23:55:12Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 896,
       "score": 71,
       "social": [
         {
@@ -185,7 +185,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 893 stars hoje",
+          "label": "GitHub Trending · 896 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -251,13 +251,13 @@
         "post técnico da Cloudflare"
       ],
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 43970,
-      "forks": 2739,
-      "issues": 85,
+      "stars": 44571,
+      "forks": 2769,
+      "issues": 86,
       "language": "JavaScript",
       "pushedAt": "2026-09-14T19:29:02Z",
       "pushedLabel": "push há 40d",
-      "trendingStarsToday": 2271,
+      "trendingStarsToday": 2264,
       "score": 70,
       "social": [
         {
@@ -309,8 +309,8 @@
       "repo": "Nutlope/hallmark",
       "title": "hallmark",
       "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 570 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 455 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "broll": [
         "GitHub Trending",
@@ -319,14 +319,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Nutlope/hallmark",
-      "stars": 31919,
-      "forks": 1640,
+      "stars": 32153,
+      "forks": 1652,
       "issues": 49,
       "language": "CSS",
       "pushedAt": "2026-10-22T17:20:32Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 570,
-      "score": 62,
+      "trendingStarsToday": 455,
+      "score": 61,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -336,7 +336,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 570 stars hoje",
+          "label": "GitHub Trending · 455 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -363,7 +363,7 @@
       "title": "claude-howto",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 442 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 392 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "broll": [
         "GitHub Trending",
@@ -372,13 +372,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/luongnv89/claude-howto",
-      "stars": 44393,
-      "forks": 5485,
+      "stars": 44569,
+      "forks": 5493,
       "issues": 40,
       "language": "Python",
       "pushedAt": "2026-10-20T12:23:14Z",
-      "pushedLabel": "push há 4d",
-      "trendingStarsToday": 442,
+      "pushedLabel": "push há 5d",
+      "trendingStarsToday": 392,
       "score": 61,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -389,7 +389,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 442 stars hoje",
+          "label": "GitHub Trending · 392 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -424,8 +424,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 101678,
-      "forks": 8976,
+      "stars": 101771,
+      "forks": 8991,
       "issues": 230,
       "language": "Python",
       "pushedAt": "2026-10-23T06:44:33Z",
@@ -492,7 +492,7 @@
       "title": "agent-toolkit-for-aws",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 11 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 13 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "broll": [
         "GitHub Trending",
@@ -501,14 +501,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "stars": 3064,
-      "forks": 395,
-      "issues": 64,
+      "stars": 3131,
+      "forks": 399,
+      "issues": 62,
       "language": "Python",
       "pushedAt": "2026-10-23T15:00:22Z",
       "pushedLabel": "push há 1d",
-      "trendingStarsToday": 11,
-      "score": 40,
+      "trendingStarsToday": 13,
+      "score": 41,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -518,7 +518,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 11 stars hoje",
+          "label": "GitHub Trending · 13 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -553,8 +553,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29890,
-      "forks": 2898,
+      "stars": 29889,
+      "forks": 2899,
       "issues": 873,
       "language": "TypeScript",
       "pushedAt": "2026-10-21T02:59:43Z",
@@ -590,6 +590,24 @@
   ],
   "news": [
     {
+      "title": "Making My Blog Readable by AI Agents",
+      "url": "https://news.ycombinator.com/item?id=50225443",
+      "relatedUrl": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+      "points": 4,
+      "comments": 0,
+      "publishedAt": "2026-10-24T21:21:33Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Mace AI founders warn of AI double agents amid banks detecting unauthorized AI",
+      "url": "https://news.ycombinator.com/item?id=50219381",
+      "relatedUrl": "https://www.thestreet.com/crypto/artificial-intelligence/mace-ai-founders-warn-of-ai-double-agents-amid-banks-detecting-unauthorized-ai-agents-",
+      "points": 2,
+      "comments": 1,
+      "publishedAt": "2026-10-24T08:54:54Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "Unauthorized AI agents are reportedly accessing US bank accounts",
       "url": "https://news.ycombinator.com/item?id=50205590",
       "relatedUrl": "https://www.msn.com/en-us/news/other/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/ar-AA2fQDti",
@@ -599,91 +617,73 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "US banks are blocking third-party AI agents access to customer accounts",
-      "url": "https://news.ycombinator.com/item?id=50201469",
-      "relatedUrl": "https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/",
-      "points": 11,
-      "comments": 5,
-      "publishedAt": "2026-10-22T21:43:46Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
-      "url": "https://news.ycombinator.com/item?id=50201860",
-      "relatedUrl": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
-      "points": 9,
-      "comments": 2,
-      "publishedAt": "2026-10-22T22:18:40Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "1Password adds browser login feature for AI agents",
-      "url": "https://news.ycombinator.com/item?id=50201231",
-      "relatedUrl": "https://1password.com/personal-ai-agent-integrations",
+      "title": "AgentProbe – test AI agents by making the systems around them fail",
+      "url": "https://news.ycombinator.com/item?id=50216636",
+      "relatedUrl": "https://sampact.com/",
       "points": 1,
-      "comments": 3,
-      "publishedAt": "2026-10-22T21:21:55Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: Secure your AI agents on Mac",
-      "url": "https://news.ycombinator.com/item?id=50200396",
-      "relatedUrl": "https://installplango.com/",
-      "points": 2,
       "comments": 2,
-      "publishedAt": "2026-10-22T20:15:37Z",
+      "publishedAt": "2026-10-23T23:10:48Z",
       "source": "Hacker News official API"
     },
     {
-      "title": "Banks Are Struggling to Protect Customers from Their Own AI Agents",
-      "url": "https://news.ycombinator.com/item?id=50199846",
-      "relatedUrl": "https://www.motherjones.com/politics/2026/10/banks-ai-axios-agents-rogue-financial-decisions-security/",
-      "points": 5,
-      "comments": 0,
-      "publishedAt": "2026-10-22T19:23:44Z",
+      "title": "Why have coding agents not brought easter-egg utopia?",
+      "url": "https://news.ycombinator.com/item?id=50215934",
+      "relatedUrl": "https://rallywith.ai/blog/bring-back-easter-eggs/",
+      "points": 2,
+      "comments": 1,
+      "publishedAt": "2026-10-23T21:58:27Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: Argus – Run AI agents unattended on a VPS, controlled from Web & Tlgrm",
+      "url": "https://news.ycombinator.com/item?id=50214205",
+      "relatedUrl": "https://github.com/rla-labs/argus",
+      "points": 2,
+      "comments": 1,
+      "publishedAt": "2026-10-23T19:33:30Z",
       "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "cloudflare/security-audit-skill",
-      "starsToday": 2271
+      "starsToday": 2264
     },
     {
       "repo": "NVIDIA/OpenShell",
-      "starsToday": 893
+      "starsToday": 896
     },
     {
       "repo": "aws/agent-toolkit-for-aws",
-      "starsToday": 11
+      "starsToday": 13
     },
     {
       "repo": "Nutlope/hallmark",
-      "starsToday": 570
+      "starsToday": 455
     },
     {
       "repo": "luongnv89/claude-howto",
-      "starsToday": 442
+      "starsToday": 392
     },
     {
       "repo": "pbakaus/impeccable",
-      "starsToday": 733
+      "starsToday": 619
     },
     {
       "repo": "pollen-robotics/microduck",
-      "starsToday": 381
+      "starsToday": 319
     },
     {
       "repo": "google-gemini/gemini-cli",
-      "starsToday": 38
+      "starsToday": 44
     },
     {
       "repo": "jbiaojerry/ebook-treasure-chest",
-      "starsToday": 220
+      "starsToday": 227
     },
     {
       "repo": "makecindy/cindy",
-      "starsToday": 471
+      "starsToday": 477
     }
   ],
   "monitored": [
@@ -700,8 +700,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 101678,
-      "forks": 8976,
+      "stars": 101771,
+      "forks": 8991,
       "issues": 230,
       "language": "Python",
       "pushedAt": "2026-10-23T06:44:33Z",
@@ -776,8 +776,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29890,
-      "forks": 2898,
+      "stars": 29889,
+      "forks": 2899,
       "issues": 873,
       "language": "TypeScript",
       "pushedAt": "2026-10-21T02:59:43Z",
