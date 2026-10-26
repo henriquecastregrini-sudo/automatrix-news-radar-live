@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T01:04:58.419Z",
-  "generatedLabel": "25 de out. de 2026 · 22:04",
+  "generatedAt": "2026-10-26T17:02:13.924Z",
+  "generatedLabel": "26 de out. de 2026 · 14:02",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -72,105 +72,11 @@
   ],
   "repos": [
     {
-      "repo": "debpalash/VoiceStudio",
-      "title": "VoiceStudio",
-      "type": "Voz e dublagem local",
-      "status": "Gravar agora",
-      "hook": "Esta alternativa aberta ao ElevenLabs clona vozes, dubla vídeos e roda localmente sem assinatura.",
-      "thesis": "Voz generativa está virando infraestrutura local: privacidade, custo zero por uso e centenas de idiomas criam uma narrativa forte contra plataformas fechadas.",
-      "broll": [
-        "galeria de vozes",
-        "clonagem com amostra curta",
-        "editor de dublagem",
-        "comparação local versus nuvem"
-      ],
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": 86422,
-      "forks": 9578,
-      "issues": 191,
-      "language": "Python",
-      "pushedAt": "2026-10-25T19:16:09Z",
-      "pushedLabel": "push há 6h",
-      "trendingStarsToday": 1592,
-      "score": 78,
-      "social": [
-        {
-          "platform": "X · menções indexadas pelo Trendshift",
-          "label": "5 posts indexados em 14 OUT; perfis @Chris480096, @limuvibecoding, @maga_musk, @a89eef9371 e @wanmeiyinshen. Repetem alegações sobre execução local/646 idiomas; métricas nativas e validação independente não visíveis",
-          "url": "https://trendshift.io/repositories/28176",
-          "publishedAt": "2026-10-14",
-          "verifiedAt": "14 OUT 2026"
-        },
-        {
-          "platform": "Instagram",
-          "label": "@niyi.tech · alternativa local ao ElevenLabs · 1,9k likes públicos · observado 21 AGO",
-          "url": "https://www.instagram.com/reel/DYg7o7Um4Qb/",
-          "likes": 1900,
-          "publishedAt": "2026-08-21",
-          "verifiedAt": "14 SET 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "AiThatSpeaks · clonagem e dublagem local · 7,8k views · 158 likes · publicado 17 JUL",
-          "url": "https://www.youtube.com/watch?v=xkFkvxYKe1Q",
-          "views": 7823,
-          "likes": 158,
-          "comments": 58,
-          "publishedAt": "2026-07-17",
-          "verifiedAt": "15 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente; Varredura de 14 OUT: Trendshift indexa 5 posts de X hoje, mas repetem alegações promocionais sem métricas nativas. YouTube/Instagram encontrados são históricos; LinkedIn tem menções sem permalink/data/engajamento verificáveis. Sem referência atual atribuível de Shorts, Reels ou TikTok.",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/debpalash/VoiceStudio",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,6 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "X · menções indexadas pelo Trendshift · 5 posts indexados em 14 OUT; perfis @Chris480096, @limuvibecoding, @maga_musk, @a89eef9371 e @wanmeiyinshen. Repetem alegações sobre execução local/646 idiomas; métricas nativas e validação independente não visíveis",
-          "url": "https://trendshift.io/repositories/28176",
-          "kind": "social"
-        },
-        {
-          "label": "Instagram · @niyi.tech · alternativa local ao ElevenLabs · 1,9k likes públicos · observado 21 AGO",
-          "url": "https://www.instagram.com/reel/DYg7o7Um4Qb/",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · AiThatSpeaks · clonagem e dublagem local · 7,8k views · 158 likes · publicado 17 JUL",
-          "url": "https://www.youtube.com/watch?v=xkFkvxYKe1Q",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=debpalash%20VoiceStudio%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=VoiceStudio%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=VoiceStudio%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 1
-    },
-    {
       "repo": "pbakaus/impeccable",
       "title": "impeccable",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 1,6 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "The design language that makes your AI harness better at design.",
       "broll": [
         "GitHub Trending",
@@ -179,14 +85,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 87712,
-      "forks": 5243,
-      "issues": 40,
+      "stars": 88798,
+      "forks": 5295,
+      "issues": 44,
       "language": "Rust",
-      "pushedAt": "2026-10-25T18:04:24Z",
-      "pushedLabel": "push há 7h",
-      "trendingStarsToday": 1092,
-      "score": 75,
+      "pushedAt": "2026-10-26T16:36:31Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1551,
+      "score": 78,
       "social": [
         {
           "platform": "Reddit",
@@ -204,7 +110,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,1 mil stars hoje",
+          "label": "GitHub Trending · 1,6 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -229,219 +135,74 @@
           "kind": "busca"
         }
       ],
+      "rank": 1
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "title": "ECC",
+      "type": "Otimização de agentes",
+      "status": "Gravar agora",
+      "hook": "Este sistema promete deixar Claude, Codex e outros agentes mais rápidos, seguros e consistentes.",
+      "thesis": "O próximo salto dos agentes pode vir do harness ao redor do modelo, não de um modelo maior.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "skills e memória",
+        "comparação de agentes"
+      ],
+      "url": "https://github.com/affaan-m/ECC",
+      "stars": 289517,
+      "forks": 42888,
+      "issues": 242,
+      "language": "JavaScript",
+      "pushedAt": "2026-10-26T04:56:56Z",
+      "pushedLabel": "push há 12h",
+      "trendingStarsToday": 853,
+      "score": 76,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO",
+          "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
+          "views": 1139,
+          "publishedAt": "2026-08-27",
+          "verifiedAt": "08 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/affaan-m/ECC",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 853 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO",
+          "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=affaan-m%20ECC%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=ECC%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=ECC%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 2
-    },
-    {
-      "repo": "Nutlope/hallmark",
-      "title": "hallmark",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,3 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/Nutlope/hallmark",
-      "stars": 33454,
-      "forks": 1741,
-      "issues": 57,
-      "language": "CSS",
-      "pushedAt": "2026-10-22T17:20:32Z",
-      "pushedLabel": "push há 3d",
-      "trendingStarsToday": 1317,
-      "score": 68,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/Nutlope/hallmark",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,3 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=Nutlope%20hallmark%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=hallmark%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=hallmark%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "repo": "makecindy/cindy",
-      "title": "cindy",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 675 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/makecindy/cindy",
-      "stars": 4880,
-      "forks": 666,
-      "issues": 1918,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-25T20:26:51Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 675,
-      "score": 67,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/makecindy/cindy",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 675 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=makecindy%20cindy%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=cindy%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=cindy%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "repo": "TauricResearch/TradingAgents",
-      "title": "TradingAgents",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 381 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "stars": 114625,
-      "forks": 22128,
-      "issues": 151,
-      "language": "Python",
-      "pushedAt": "2026-10-16T21:38:46Z",
-      "pushedLabel": "push há 9d",
-      "trendingStarsToday": 381,
-      "score": 62,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TauricResearch/TradingAgents",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 381 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TauricResearch%20TradingAgents%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TradingAgents%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TradingAgents%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "repo": "JetBrains/thinkrail",
-      "title": "thinkrail",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 51 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/JetBrains/thinkrail",
-      "stars": 1750,
-      "forks": 102,
-      "issues": 201,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-26T00:43:27Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 51,
-      "score": 49,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/JetBrains/thinkrail",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 51 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=JetBrains%20thinkrail%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=thinkrail%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=thinkrail%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 6
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -456,14 +217,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 102408,
-      "forks": 9068,
-      "issues": 234,
+      "stars": 103201,
+      "forks": 9153,
+      "issues": 246,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
-      "pushedLabel": "push há 20h",
-      "trendingStarsToday": null,
-      "score": 42,
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 723,
+      "score": 73,
       "social": [
         {
           "platform": "Reddit",
@@ -492,6 +253,11 @@
           "kind": "oficial"
         },
         {
+          "label": "GitHub Trending · 723 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
           "label": "Reddit · r/BestGitHubRepos · post novo explica acesso a web, YouTube e redes para agentes · 22 votos públicos no momento da checagem · publicado 03 OUT; inclui ressalva sobre risco de bloqueio em serviços com login",
           "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wwip3m/agentreach_give_your_ai_coding_agent_access_to/",
           "kind": "social"
@@ -517,6 +283,218 @@
           "kind": "busca"
         }
       ],
+      "rank": 3
+    },
+    {
+      "repo": "makecindy/cindy",
+      "title": "cindy",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 1,3 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/makecindy/cindy",
+      "stars": 6094,
+      "forks": 760,
+      "issues": 2012,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-26T17:01:56Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1268,
+      "score": 72,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/makecindy/cindy",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,3 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=makecindy%20cindy%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=cindy%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=cindy%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "title": "TradingAgents",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "stars": 115661,
+      "forks": 22224,
+      "issues": 153,
+      "language": "Python",
+      "pushedAt": "2026-10-16T21:38:46Z",
+      "pushedLabel": "push há 10d",
+      "trendingStarsToday": 1376,
+      "score": 70,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,4 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TauricResearch%20TradingAgents%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TradingAgents%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TradingAgents%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "repo": "JetBrains/thinkrail",
+      "title": "thinkrail",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 1,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/JetBrains/thinkrail",
+      "stars": 2553,
+      "forks": 141,
+      "issues": 222,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-26T16:27:37Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 1156,
+      "score": 70,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,2 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=JetBrains%20thinkrail%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=thinkrail%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=thinkrail%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "title": "hallmark",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 2,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars": 35648,
+      "forks": 1856,
+      "issues": 62,
+      "language": "CSS",
+      "pushedAt": "2026-10-22T17:20:32Z",
+      "pushedLabel": "push há 4d",
+      "trendingStarsToday": 2235,
+      "score": 69,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Nutlope/hallmark",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 2,2 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=Nutlope%20hallmark%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=hallmark%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=hallmark%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 7
     },
     {
@@ -532,14 +510,14 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29916,
-      "forks": 2905,
-      "issues": 873,
+      "stars": 29980,
+      "forks": 2911,
+      "issues": 905,
       "language": "TypeScript",
-      "pushedAt": "2026-10-21T02:59:43Z",
-      "pushedLabel": "push há 5d",
+      "pushedAt": "2026-10-26T14:09:03Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": null,
-      "score": 33,
+      "score": 40,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -572,8 +550,8 @@
       "title": "R/open source bans all solo projects and projects using LLMs",
       "url": "https://news.ycombinator.com/item?id=50231722",
       "relatedUrl": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
-      "points": 79,
-      "comments": 106,
+      "points": 90,
+      "comments": 121,
       "publishedAt": "2026-10-25T14:05:03Z",
       "source": "Hacker News official API"
     },
@@ -587,6 +565,15 @@
       "source": "Hacker News official API"
     },
     {
+      "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
+      "url": "https://news.ycombinator.com/item?id=50235909",
+      "relatedUrl": "https://github.com/SRN0129/Agenttrust",
+      "points": 12,
+      "comments": 1,
+      "publishedAt": "2026-10-25T20:46:50Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
       "url": "https://news.ycombinator.com/item?id=50233325",
       "relatedUrl": "https://github.com/socrates6969/jukebox-os",
@@ -596,19 +583,10 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-      "url": "https://news.ycombinator.com/item?id=50234725",
-      "relatedUrl": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-      "points": 3,
-      "comments": 1,
-      "publishedAt": "2026-10-25T18:44:11Z",
-      "source": "Hacker News official API"
-    },
-    {
       "title": "Making My Blog Readable by AI Agents",
       "url": "https://news.ycombinator.com/item?id=50225443",
       "relatedUrl": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
-      "points": 34,
+      "points": 36,
       "comments": 9,
       "publishedAt": "2026-10-24T21:21:33Z",
       "source": "Hacker News official API"
@@ -625,48 +603,52 @@
   ],
   "trending": [
     {
-      "repo": "makecindy/cindy",
-      "starsToday": 675
-    },
-    {
       "repo": "Nutlope/hallmark",
-      "starsToday": 1317
-    },
-    {
-      "repo": "debpalash/VoiceStudio",
-      "starsToday": 1592
-    },
-    {
-      "repo": "pbakaus/impeccable",
-      "starsToday": 1092
-    },
-    {
-      "repo": "pollen-robotics/microduck",
-      "starsToday": 647
+      "starsToday": 2235
     },
     {
       "repo": "TauricResearch/TradingAgents",
-      "starsToday": 381
-    },
-    {
-      "repo": "Renhuai123/ziwei-doushu",
-      "starsToday": 199
+      "starsToday": 1376
     },
     {
       "repo": "JetBrains/thinkrail",
-      "starsToday": 51
+      "starsToday": 1156
     },
     {
-      "repo": "coollabsio/coolify",
-      "starsToday": 152
+      "repo": "makecindy/cindy",
+      "starsToday": 1268
     },
     {
-      "repo": "cloudflare/security-audit-skill",
-      "starsToday": 2878
+      "repo": "affaan-m/ECC",
+      "starsToday": 853
     },
     {
-      "repo": "AgriciDaniel/claude-seo",
-      "starsToday": 197
+      "repo": "pbakaus/impeccable",
+      "starsToday": 1551
+    },
+    {
+      "repo": "NVIDIA/SkillSpector",
+      "starsToday": 203
+    },
+    {
+      "repo": "pollen-robotics/microduck",
+      "starsToday": 844
+    },
+    {
+      "repo": "nightly-labs/openbot",
+      "starsToday": 312
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "starsToday": 723
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "starsToday": 2292
+    },
+    {
+      "repo": "gitroomhq/postiz-app",
+      "starsToday": 146
     }
   ],
   "monitored": [
@@ -683,14 +665,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 102408,
-      "forks": 9068,
-      "issues": 234,
+      "stars": 103201,
+      "forks": 9153,
+      "issues": 246,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
-      "pushedLabel": "push há 20h",
-      "trendingStarsToday": null,
-      "score": 42,
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 723,
+      "score": 73,
       "social": [
         {
           "platform": "Reddit",
@@ -719,6 +701,11 @@
           "kind": "oficial"
         },
         {
+          "label": "GitHub Trending · 723 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
           "label": "Reddit · r/BestGitHubRepos · post novo explica acesso a web, YouTube e redes para agentes · 22 votos públicos no momento da checagem · publicado 03 OUT; inclui ressalva sobre risco de bloqueio em serviços com login",
           "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wwip3m/agentreach_give_your_ai_coding_agent_access_to/",
           "kind": "social"
@@ -744,7 +731,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 3
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -759,14 +746,14 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29916,
-      "forks": 2905,
-      "issues": 873,
+      "stars": 29980,
+      "forks": 2911,
+      "issues": 905,
       "language": "TypeScript",
-      "pushedAt": "2026-10-21T02:59:43Z",
-      "pushedLabel": "push há 5d",
+      "pushedAt": "2026-10-26T14:09:03Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": null,
-      "score": 33,
+      "score": 40,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
