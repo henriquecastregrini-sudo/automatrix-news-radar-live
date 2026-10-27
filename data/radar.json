@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T16:04:49.937Z",
-  "generatedLabel": "27 de out. de 2026 · 13:04",
+  "generatedAt": "2026-10-27T21:07:02.327Z",
+  "generatedLabel": "27 de out. de 2026 · 18:07",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,12 +85,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 90153,
-      "forks": 5358,
-      "issues": 43,
+      "stars": 90371,
+      "forks": 5371,
+      "issues": 44,
       "language": "Rust",
-      "pushedAt": "2026-10-27T15:58:49Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-10-27T16:28:34Z",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": 1458,
       "score": 77,
       "social": [
@@ -151,12 +151,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Nutlope/hallmark",
-      "stars": 38366,
-      "forks": 2003,
-      "issues": 60,
+      "stars": 38791,
+      "forks": 2017,
+      "issues": 64,
       "language": "CSS",
       "pushedAt": "2026-10-27T15:05:53Z",
-      "pushedLabel": "push há 1h",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": 2859,
       "score": 76,
       "social": [],
@@ -204,12 +204,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/makecindy/cindy",
-      "stars": 7271,
-      "forks": 866,
-      "issues": 2083,
+      "stars": 7393,
+      "forks": 877,
+      "issues": 2079,
       "language": "TypeScript",
-      "pushedAt": "2026-10-27T15:45:13Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-10-27T18:14:15Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": 1446,
       "score": 73,
       "social": [],
@@ -244,6 +244,59 @@
       "rank": 3
     },
     {
+      "repo": "elayadesign/ai-design-skills",
+      "title": "ai-design-skills",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Tendência técnica recente que precisa de validação editorial.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "stars": 9094,
+      "forks": 656,
+      "issues": 5,
+      "language": "—",
+      "pushedAt": "2026-10-27T16:02:10Z",
+      "pushedLabel": "push há 5h",
+      "trendingStarsToday": 1395,
+      "score": 73,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/elayadesign/ai-design-skills",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,4 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=elayadesign%20ai-design-skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=ai-design-skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=ai-design-skills%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
       "repo": "nightly-labs/openbot",
       "title": "openbot",
       "type": "Novo no GitHub Trending",
@@ -257,12 +310,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/nightly-labs/openbot",
-      "stars": 2094,
-      "forks": 224,
-      "issues": 216,
+      "stars": 2322,
+      "forks": 243,
+      "issues": 208,
       "language": "TypeScript",
-      "pushedAt": "2026-10-27T16:02:25Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-10-27T20:07:46Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 794,
       "score": 67,
       "social": [],
@@ -294,7 +347,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "repo": "obra/superpowers",
@@ -310,9 +363,9 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 306128,
-      "forks": 27256,
-      "issues": 367,
+      "stars": 306331,
+      "forks": 27275,
+      "issues": 364,
       "language": "Shell",
       "pushedAt": "2026-10-23T03:48:57Z",
       "pushedLabel": "push há 5d",
@@ -374,59 +427,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
-    },
-    {
-      "repo": "gitroomhq/postiz-app",
-      "title": "postiz-app",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 953 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "📨 The ultimate agentic social media scheduling tool 🤖",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "stars": 39048,
-      "forks": 7478,
-      "issues": 222,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-24T18:27:21Z",
-      "pushedLabel": "push há 3d",
-      "trendingStarsToday": 953,
-      "score": 66,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/gitroomhq/postiz-app",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 953 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=gitroomhq%20postiz-app%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=postiz-app%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=postiz-app%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 6
     },
     {
@@ -442,9 +442,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30021,
+      "stars": 30024,
       "forks": 2914,
-      "issues": 904,
+      "issues": 905,
       "language": "TypeScript",
       "pushedAt": "2026-10-26T14:09:03Z",
       "pushedLabel": "push há 1d",
@@ -489,12 +489,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 104692,
-      "forks": 9280,
-      "issues": 256,
+      "stars": 104835,
+      "forks": 9300,
+      "issues": 257,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -555,6 +555,15 @@
   ],
   "news": [
     {
+      "title": "We let our cloud agents query prod (with OIDC, not secrets)",
+      "url": "https://news.ycombinator.com/item?id=50261584",
+      "relatedUrl": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
+      "points": 14,
+      "comments": 12,
+      "publishedAt": "2026-10-27T16:25:12Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "Show HN: I built a tool to audit Shopify stores for AI agent and Google Shopping",
       "url": "https://news.ycombinator.com/item?id=50257657",
       "relatedUrl": "https://catalogaudit.app/",
@@ -570,6 +579,15 @@
       "points": 3,
       "comments": 2,
       "publishedAt": "2026-10-27T08:21:11Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: Shop via CLI; for agents and software engineers",
+      "url": "https://news.ycombinator.com/item?id=50264240",
+      "relatedUrl": "https://storerouter.ai/playground",
+      "points": 5,
+      "comments": 0,
+      "publishedAt": "2026-10-27T19:12:20Z",
       "source": "Hacker News official API"
     },
     {
@@ -589,27 +607,13 @@
       "comments": 2,
       "publishedAt": "2026-10-26T17:32:24Z",
       "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
-      "url": "https://news.ycombinator.com/item?id=50235909",
-      "relatedUrl": "https://github.com/SRN0129/Agenttrust",
-      "points": 15,
-      "comments": 1,
-      "publishedAt": "2026-10-25T20:46:50Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
-      "url": "https://news.ycombinator.com/item?id=50233325",
-      "relatedUrl": "https://github.com/socrates6969/jukebox-os",
-      "points": 11,
-      "comments": 0,
-      "publishedAt": "2026-10-25T16:29:46Z",
-      "source": "Hacker News official API"
     }
   ],
   "trending": [
+    {
+      "repo": "elayadesign/ai-design-skills",
+      "starsToday": 1395
+    },
     {
       "repo": "Nutlope/hallmark",
       "starsToday": 2859
@@ -665,9 +669,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30021,
+      "stars": 30024,
       "forks": 2914,
-      "issues": 904,
+      "issues": 905,
       "language": "TypeScript",
       "pushedAt": "2026-10-26T14:09:03Z",
       "pushedLabel": "push há 1d",
@@ -712,12 +716,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 104692,
-      "forks": 9280,
-      "issues": 256,
+      "stars": 104835,
+      "forks": 9300,
+      "issues": 257,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
