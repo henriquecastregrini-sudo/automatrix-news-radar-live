@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T21:20:03.334Z",
-  "generatedLabel": "26 de out. de 2026 · 18:20",
+  "generatedAt": "2026-10-27T01:57:03.202Z",
+  "generatedLabel": "26 de out. de 2026 · 22:57",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -76,7 +76,7 @@
       "title": "impeccable",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,6 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 1,5 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "The design language that makes your AI harness better at design.",
       "broll": [
         "GitHub Trending",
@@ -85,14 +85,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 89038,
-      "forks": 5304,
-      "issues": 42,
+      "stars": 89271,
+      "forks": 5313,
+      "issues": 45,
       "language": "Rust",
-      "pushedAt": "2026-10-26T20:19:43Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 1551,
-      "score": 78,
+      "pushedAt": "2026-10-27T01:40:11Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1506,
+      "score": 77,
       "social": [
         {
           "platform": "Reddit",
@@ -110,7 +110,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,6 mil stars hoje",
+          "label": "GitHub Trending · 1,5 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -151,14 +151,14 @@
         "comparação de agentes"
       ],
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 289724,
-      "forks": 42926,
+      "stars": 289892,
+      "forks": 42956,
       "issues": 248,
       "language": "JavaScript",
       "pushedAt": "2026-10-26T04:56:56Z",
-      "pushedLabel": "push há 16h",
-      "trendingStarsToday": 987,
-      "score": 77,
+      "pushedLabel": "push há 21h",
+      "trendingStarsToday": 896,
+      "score": 76,
       "social": [
         {
           "platform": "YouTube",
@@ -177,7 +177,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 987 stars hoje",
+          "label": "GitHub Trending · 896 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -217,13 +217,13 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 103412,
-      "forks": 9172,
-      "issues": 246,
+      "stars": 103686,
+      "forks": 9193,
+      "issues": 253,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 723,
+      "trendingStarsToday": 746,
       "score": 73,
       "social": [
         {
@@ -253,7 +253,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 723 stars hoje",
+          "label": "GitHub Trending · 746 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -299,13 +299,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/makecindy/cindy",
-      "stars": 6328,
-      "forks": 777,
-      "issues": 2016,
+      "stars": 6550,
+      "forks": 798,
+      "issues": 2025,
       "language": "TypeScript",
-      "pushedAt": "2026-10-26T17:17:47Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 1268,
+      "pushedAt": "2026-10-27T01:54:35Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1296,
       "score": 72,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -352,13 +352,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "stars": 115907,
-      "forks": 22254,
+      "stars": 116184,
+      "forks": 22291,
       "issues": 154,
       "language": "Python",
       "pushedAt": "2026-10-16T21:38:46Z",
       "pushedLabel": "push há 10d",
-      "trendingStarsToday": 1376,
+      "trendingStarsToday": 1395,
       "score": 70,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -405,13 +405,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/JetBrains/thinkrail",
-      "stars": 2769,
-      "forks": 147,
-      "issues": 228,
+      "stars": 2967,
+      "forks": 160,
+      "issues": 223,
       "language": "TypeScript",
-      "pushedAt": "2026-10-26T21:01:40Z",
+      "pushedAt": "2026-10-27T01:55:25Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1156,
+      "trendingStarsToday": 1173,
       "score": 70,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -458,13 +458,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Nutlope/hallmark",
-      "stars": 35999,
-      "forks": 1880,
+      "stars": 36476,
+      "forks": 1902,
       "issues": 62,
       "language": "CSS",
       "pushedAt": "2026-10-22T17:20:32Z",
       "pushedLabel": "push há 4d",
-      "trendingStarsToday": 2235,
+      "trendingStarsToday": 2244,
       "score": 69,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -510,12 +510,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29983,
+      "stars": 29988,
       "forks": 2912,
       "issues": 906,
       "language": "TypeScript",
       "pushedAt": "2026-10-26T14:09:03Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 12h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -546,6 +546,15 @@
     }
   ],
   "news": [
+    {
+      "title": "OpenAI's agents talked to each other through the CPU Cache",
+      "url": "https://news.ycombinator.com/item?id=50251200",
+      "relatedUrl": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "points": 17,
+      "comments": 1,
+      "publishedAt": "2026-10-26T21:24:18Z",
+      "source": "Hacker News official API"
+    },
     {
       "title": "R/open source bans all solo projects and projects using LLMs",
       "url": "https://news.ycombinator.com/item?id=50231722",
@@ -583,72 +592,63 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "Making My Blog Readable by AI Agents",
-      "url": "https://news.ycombinator.com/item?id=50225443",
-      "relatedUrl": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
-      "points": 36,
-      "comments": 9,
-      "publishedAt": "2026-10-24T21:21:33Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Your tokens aren't valuable: No more AI",
-      "url": "https://news.ycombinator.com/item?id=50226554",
-      "relatedUrl": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai/",
-      "points": 5,
+      "title": "Tokens aren't valuable: No more AI",
+      "url": "https://news.ycombinator.com/item?id=50227985",
+      "relatedUrl": "https://www.reddit.com/r/opensource/s/Vmk5Fd1N8H",
+      "points": 3,
       "comments": 2,
-      "publishedAt": "2026-10-24T23:30:45Z",
+      "publishedAt": "2026-10-25T03:25:18Z",
       "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "Nutlope/hallmark",
-      "starsToday": 2235
+      "starsToday": 2244
     },
     {
       "repo": "TauricResearch/TradingAgents",
-      "starsToday": 1376
+      "starsToday": 1395
     },
     {
       "repo": "JetBrains/thinkrail",
-      "starsToday": 1156
+      "starsToday": 1173
     },
     {
       "repo": "makecindy/cindy",
-      "starsToday": 1268
+      "starsToday": 1296
     },
     {
       "repo": "affaan-m/ECC",
-      "starsToday": 987
+      "starsToday": 896
     },
     {
       "repo": "pbakaus/impeccable",
-      "starsToday": 1551
+      "starsToday": 1506
     },
     {
       "repo": "NVIDIA/SkillSpector",
-      "starsToday": 203
+      "starsToday": 214
     },
     {
       "repo": "pollen-robotics/microduck",
-      "starsToday": 844
+      "starsToday": 843
     },
     {
       "repo": "nightly-labs/openbot",
-      "starsToday": 312
+      "starsToday": 176
     },
     {
       "repo": "Panniantong/Agent-Reach",
-      "starsToday": 723
+      "starsToday": 746
     },
     {
       "repo": "debpalash/VoiceStudio",
-      "starsToday": 2292
+      "starsToday": 2297
     },
     {
       "repo": "gitroomhq/postiz-app",
-      "starsToday": 146
+      "starsToday": 188
     }
   ],
   "monitored": [
@@ -665,13 +665,13 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 103412,
-      "forks": 9172,
-      "issues": 246,
+      "stars": 103686,
+      "forks": 9193,
+      "issues": 253,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 723,
+      "trendingStarsToday": 746,
       "score": 73,
       "social": [
         {
@@ -701,7 +701,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 723 stars hoje",
+          "label": "GitHub Trending · 746 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -746,12 +746,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29983,
+      "stars": 29988,
       "forks": 2912,
       "issues": 906,
       "language": "TypeScript",
       "pushedAt": "2026-10-26T14:09:03Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 12h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
