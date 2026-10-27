@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T01:57:03.202Z",
-  "generatedLabel": "26 de out. de 2026 · 22:57",
+  "generatedAt": "2026-10-27T16:04:49.937Z",
+  "generatedLabel": "27 de out. de 2026 · 13:04",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 89271,
-      "forks": 5313,
-      "issues": 45,
+      "stars": 90153,
+      "forks": 5358,
+      "issues": 43,
       "language": "Rust",
-      "pushedAt": "2026-10-27T01:40:11Z",
+      "pushedAt": "2026-10-27T15:58:49Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1506,
+      "trendingStarsToday": 1458,
       "score": 77,
       "social": [
         {
@@ -138,318 +138,11 @@
       "rank": 1
     },
     {
-      "repo": "affaan-m/ECC",
-      "title": "ECC",
-      "type": "Otimização de agentes",
-      "status": "Gravar agora",
-      "hook": "Este sistema promete deixar Claude, Codex e outros agentes mais rápidos, seguros e consistentes.",
-      "thesis": "O próximo salto dos agentes pode vir do harness ao redor do modelo, não de um modelo maior.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "skills e memória",
-        "comparação de agentes"
-      ],
-      "url": "https://github.com/affaan-m/ECC",
-      "stars": 289892,
-      "forks": 42956,
-      "issues": 248,
-      "language": "JavaScript",
-      "pushedAt": "2026-10-26T04:56:56Z",
-      "pushedLabel": "push há 21h",
-      "trendingStarsToday": 896,
-      "score": 76,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO",
-          "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
-          "views": 1139,
-          "publishedAt": "2026-08-27",
-          "verifiedAt": "08 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/affaan-m/ECC",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 896 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · DevsKingdom · ECC Agent Harness · 1,1k views · publicado 27 AGO",
-          "url": "https://www.youtube.com/watch?v=5ZgBoOBhHzo",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=affaan-m%20ECC%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=ECC%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=ECC%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "repo": "Panniantong/Agent-Reach",
-      "type": "Repo monitorado",
-      "status": "Monitorar hoje",
-      "hook": "O agente que não navega está cego.",
-      "thesis": "Agentes com acesso à web ampliam pesquisa e automação.",
-      "broll": [
-        "README",
-        "lista de plataformas",
-        "exemplos web"
-      ],
-      "title": "Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 103686,
-      "forks": 9193,
-      "issues": 253,
-      "language": "Python",
-      "pushedAt": "2026-10-25T04:37:26Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 746,
-      "score": 73,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/BestGitHubRepos · post novo explica acesso a web, YouTube e redes para agentes · 22 votos públicos no momento da checagem · publicado 03 OUT; inclui ressalva sobre risco de bloqueio em serviços com login",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wwip3m/agentreach_give_your_ai_coding_agent_access_to/",
-          "engagement": 22,
-          "publishedAt": "2026-10-03",
-          "verifiedAt": "03 OUT 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN · referência histórica",
-          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
-          "views": 17073,
-          "likes": 445,
-          "comments": 27,
-          "publishedAt": "2026-06-18",
-          "verifiedAt": "14 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/Panniantong/Agent-Reach",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 746 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Reddit · r/BestGitHubRepos · post novo explica acesso a web, YouTube e redes para agentes · 22 votos públicos no momento da checagem · publicado 03 OUT; inclui ressalva sobre risco de bloqueio em serviços com login",
-          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wwip3m/agentreach_give_your_ai_coding_agent_access_to/",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN · referência histórica",
-          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=Panniantong%20Agent-Reach%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Reach%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "repo": "makecindy/cindy",
-      "title": "cindy",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,3 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/makecindy/cindy",
-      "stars": 6550,
-      "forks": 798,
-      "issues": 2025,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-27T01:54:35Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1296,
-      "score": 72,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/makecindy/cindy",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,3 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=makecindy%20cindy%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=cindy%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=cindy%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "repo": "TauricResearch/TradingAgents",
-      "title": "TradingAgents",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "stars": 116184,
-      "forks": 22291,
-      "issues": 154,
-      "language": "Python",
-      "pushedAt": "2026-10-16T21:38:46Z",
-      "pushedLabel": "push há 10d",
-      "trendingStarsToday": 1395,
-      "score": 70,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TauricResearch/TradingAgents",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,4 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TauricResearch%20TradingAgents%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TradingAgents%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TradingAgents%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "repo": "JetBrains/thinkrail",
-      "title": "thinkrail",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/JetBrains/thinkrail",
-      "stars": 2967,
-      "forks": 160,
-      "issues": 223,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-27T01:55:25Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1173,
-      "score": 70,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/JetBrains/thinkrail",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,2 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=JetBrains%20thinkrail%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=thinkrail%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=thinkrail%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 6
-    },
-    {
       "repo": "Nutlope/hallmark",
       "title": "hallmark",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 2,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 2,9 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "broll": [
         "GitHub Trending",
@@ -458,14 +151,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Nutlope/hallmark",
-      "stars": 36476,
-      "forks": 1902,
-      "issues": 62,
+      "stars": 38366,
+      "forks": 2003,
+      "issues": 60,
       "language": "CSS",
-      "pushedAt": "2026-10-22T17:20:32Z",
-      "pushedLabel": "push há 4d",
-      "trendingStarsToday": 2244,
-      "score": 69,
+      "pushedAt": "2026-10-27T15:05:53Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 2859,
+      "score": 76,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -475,7 +168,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,2 mil stars hoje",
+          "label": "GitHub Trending · 2,9 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -495,7 +188,246 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 2
+    },
+    {
+      "repo": "makecindy/cindy",
+      "title": "cindy",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/makecindy/cindy",
+      "stars": 7271,
+      "forks": 866,
+      "issues": 2083,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-27T15:45:13Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1446,
+      "score": 73,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/makecindy/cindy",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,4 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=makecindy%20cindy%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=cindy%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=cindy%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "repo": "nightly-labs/openbot",
+      "title": "openbot",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 794 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/nightly-labs/openbot",
+      "stars": 2094,
+      "forks": 224,
+      "issues": 216,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-27T16:02:25Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 794,
+      "score": 67,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/nightly-labs/openbot",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 794 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=nightly-labs%20openbot%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=openbot%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=openbot%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "repo": "obra/superpowers",
+      "title": "Superpowers",
+      "type": "Metodologia para agentes",
+      "status": "Gravar agora",
+      "hook": "Este projeto tenta acabar com o vibe coding: o agente precisa planejar, testar e revisar antes de dizer que terminou.",
+      "thesis": "Skills em Markdown estão virando uma camada de engenharia reutilizável entre Claude, Codex, Cursor e outros agentes.",
+      "broll": [
+        "fluxo brainstorming → plano → TDD",
+        "lista de skills",
+        "README",
+        "vídeo demonstrativo"
+      ],
+      "url": "https://github.com/obra/superpowers",
+      "stars": 306128,
+      "forks": 27256,
+      "issues": 367,
+      "language": "Shell",
+      "pushedAt": "2026-10-23T03:48:57Z",
+      "pushedLabel": "push há 5d",
+      "trendingStarsToday": 608,
+      "score": 67,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
+          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
+          "engagement": 324,
+          "publishedAt": "2026-09-26",
+          "verifiedAt": "01 OUT 2026"
+        },
+        {
+          "platform": "Bilibili",
+          "label": "Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "views": 17000,
+          "publishedAt": "2026-03-04",
+          "verifiedAt": "09 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/obra/superpowers",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 608 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
+          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
+          "kind": "social"
+        },
+        {
+          "label": "Bilibili · Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=obra%20superpowers%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Superpowers%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Superpowers%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "repo": "gitroomhq/postiz-app",
+      "title": "postiz-app",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 953 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "stars": 39048,
+      "forks": 7478,
+      "issues": 222,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-24T18:27:21Z",
+      "pushedLabel": "push há 3d",
+      "trendingStarsToday": 953,
+      "score": 66,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/gitroomhq/postiz-app",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 953 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=gitroomhq%20postiz-app%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=postiz-app%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=postiz-app%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 6
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -510,12 +442,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29988,
-      "forks": 2912,
-      "issues": 906,
+      "stars": 30021,
+      "forks": 2914,
+      "issues": 904,
       "language": "TypeScript",
       "pushedAt": "2026-10-26T14:09:03Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -542,116 +474,8 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
-    }
-  ],
-  "news": [
-    {
-      "title": "OpenAI's agents talked to each other through the CPU Cache",
-      "url": "https://news.ycombinator.com/item?id=50251200",
-      "relatedUrl": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-      "points": 17,
-      "comments": 1,
-      "publishedAt": "2026-10-26T21:24:18Z",
-      "source": "Hacker News official API"
+      "rank": 7
     },
-    {
-      "title": "R/open source bans all solo projects and projects using LLMs",
-      "url": "https://news.ycombinator.com/item?id=50231722",
-      "relatedUrl": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
-      "points": 90,
-      "comments": 128,
-      "publishedAt": "2026-10-25T14:05:03Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
-      "url": "https://news.ycombinator.com/item?id=50231486",
-      "relatedUrl": "https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42",
-      "points": 15,
-      "comments": 4,
-      "publishedAt": "2026-10-25T13:41:19Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
-      "url": "https://news.ycombinator.com/item?id=50235909",
-      "relatedUrl": "https://github.com/SRN0129/Agenttrust",
-      "points": 13,
-      "comments": 1,
-      "publishedAt": "2026-10-25T20:46:50Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
-      "url": "https://news.ycombinator.com/item?id=50233325",
-      "relatedUrl": "https://github.com/socrates6969/jukebox-os",
-      "points": 11,
-      "comments": 0,
-      "publishedAt": "2026-10-25T16:29:46Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Tokens aren't valuable: No more AI",
-      "url": "https://news.ycombinator.com/item?id=50227985",
-      "relatedUrl": "https://www.reddit.com/r/opensource/s/Vmk5Fd1N8H",
-      "points": 3,
-      "comments": 2,
-      "publishedAt": "2026-10-25T03:25:18Z",
-      "source": "Hacker News official API"
-    }
-  ],
-  "trending": [
-    {
-      "repo": "Nutlope/hallmark",
-      "starsToday": 2244
-    },
-    {
-      "repo": "TauricResearch/TradingAgents",
-      "starsToday": 1395
-    },
-    {
-      "repo": "JetBrains/thinkrail",
-      "starsToday": 1173
-    },
-    {
-      "repo": "makecindy/cindy",
-      "starsToday": 1296
-    },
-    {
-      "repo": "affaan-m/ECC",
-      "starsToday": 896
-    },
-    {
-      "repo": "pbakaus/impeccable",
-      "starsToday": 1506
-    },
-    {
-      "repo": "NVIDIA/SkillSpector",
-      "starsToday": 214
-    },
-    {
-      "repo": "pollen-robotics/microduck",
-      "starsToday": 843
-    },
-    {
-      "repo": "nightly-labs/openbot",
-      "starsToday": 176
-    },
-    {
-      "repo": "Panniantong/Agent-Reach",
-      "starsToday": 746
-    },
-    {
-      "repo": "debpalash/VoiceStudio",
-      "starsToday": 2297
-    },
-    {
-      "repo": "gitroomhq/postiz-app",
-      "starsToday": 188
-    }
-  ],
-  "monitored": [
     {
       "repo": "Panniantong/Agent-Reach",
       "type": "Repo monitorado",
@@ -665,14 +489,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 103686,
-      "forks": 9193,
-      "issues": 253,
+      "stars": 104692,
+      "forks": 9280,
+      "issues": 256,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 746,
-      "score": 73,
+      "trendingStarsToday": null,
+      "score": 35,
       "social": [
         {
           "platform": "Reddit",
@@ -701,11 +525,6 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 746 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
           "label": "Reddit · r/BestGitHubRepos · post novo explica acesso a web, YouTube e redes para agentes · 22 votos públicos no momento da checagem · publicado 03 OUT; inclui ressalva sobre risco de bloqueio em serviços com login",
           "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wwip3m/agentreach_give_your_ai_coding_agent_access_to/",
           "kind": "social"
@@ -731,8 +550,108 @@
           "kind": "busca"
         }
       ],
-      "rank": 3
+      "rank": 8
+    }
+  ],
+  "news": [
+    {
+      "title": "Show HN: I built a tool to audit Shopify stores for AI agent and Google Shopping",
+      "url": "https://news.ycombinator.com/item?id=50257657",
+      "relatedUrl": "https://catalogaudit.app/",
+      "points": 1,
+      "comments": 3,
+      "publishedAt": "2026-10-27T11:41:44Z",
+      "source": "Hacker News official API"
     },
+    {
+      "title": "We sent 23 AI agents to our website. Most looked human",
+      "url": "https://news.ycombinator.com/item?id=50256017",
+      "relatedUrl": "https://privatrak.com/blog/ai-agents-in-analytics",
+      "points": 3,
+      "comments": 2,
+      "publishedAt": "2026-10-27T08:21:11Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "OpenAI's agents talked to each other through the CPU Cache",
+      "url": "https://news.ycombinator.com/item?id=50251200",
+      "relatedUrl": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "points": 18,
+      "comments": 1,
+      "publishedAt": "2026-10-26T21:24:18Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: Portable, signed agreements for AI agents",
+      "url": "https://news.ycombinator.com/item?id=50247633",
+      "relatedUrl": "https://covenant-common.github.io/covenant-docs/",
+      "points": 6,
+      "comments": 2,
+      "publishedAt": "2026-10-26T17:32:24Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
+      "url": "https://news.ycombinator.com/item?id=50235909",
+      "relatedUrl": "https://github.com/SRN0129/Agenttrust",
+      "points": 15,
+      "comments": 1,
+      "publishedAt": "2026-10-25T20:46:50Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
+      "url": "https://news.ycombinator.com/item?id=50233325",
+      "relatedUrl": "https://github.com/socrates6969/jukebox-os",
+      "points": 11,
+      "comments": 0,
+      "publishedAt": "2026-10-25T16:29:46Z",
+      "source": "Hacker News official API"
+    }
+  ],
+  "trending": [
+    {
+      "repo": "Nutlope/hallmark",
+      "starsToday": 2859
+    },
+    {
+      "repo": "nightly-labs/openbot",
+      "starsToday": 794
+    },
+    {
+      "repo": "obra/superpowers",
+      "starsToday": 608
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "starsToday": 1458
+    },
+    {
+      "repo": "makecindy/cindy",
+      "starsToday": 1446
+    },
+    {
+      "repo": "gitroomhq/postiz-app",
+      "starsToday": 953
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "starsToday": 1183
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "starsToday": 1587
+    },
+    {
+      "repo": "JetBrains/thinkrail",
+      "starsToday": 1211
+    },
+    {
+      "repo": "togg53192-cmd/jailbreaks",
+      "starsToday": 890
+    }
+  ],
+  "monitored": [
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
       "type": "Memória de agentes",
@@ -746,12 +665,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 29988,
-      "forks": 2912,
-      "issues": 906,
+      "stars": 30021,
+      "forks": 2914,
+      "issues": 904,
       "language": "TypeScript",
       "pushedAt": "2026-10-26T14:09:03Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -775,6 +694,82 @@
         {
           "label": "Buscar TikTok",
           "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "type": "Repo monitorado",
+      "status": "Monitorar hoje",
+      "hook": "O agente que não navega está cego.",
+      "thesis": "Agentes com acesso à web ampliam pesquisa e automação.",
+      "broll": [
+        "README",
+        "lista de plataformas",
+        "exemplos web"
+      ],
+      "title": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars": 104692,
+      "forks": 9280,
+      "issues": 256,
+      "language": "Python",
+      "pushedAt": "2026-10-25T04:37:26Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": null,
+      "score": 35,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/BestGitHubRepos · post novo explica acesso a web, YouTube e redes para agentes · 22 votos públicos no momento da checagem · publicado 03 OUT; inclui ressalva sobre risco de bloqueio em serviços com login",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wwip3m/agentreach_give_your_ai_coding_agent_access_to/",
+          "engagement": 22,
+          "publishedAt": "2026-10-03",
+          "verifiedAt": "03 OUT 2026"
+        },
+        {
+          "platform": "YouTube",
+          "label": "Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN · referência histórica",
+          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
+          "views": 17073,
+          "likes": 445,
+          "comments": 27,
+          "publishedAt": "2026-06-18",
+          "verifiedAt": "14 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "kind": "oficial"
+        },
+        {
+          "label": "Reddit · r/BestGitHubRepos · post novo explica acesso a web, YouTube e redes para agentes · 22 votos públicos no momento da checagem · publicado 03 OUT; inclui ressalva sobre risco de bloqueio em serviços com login",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wwip3m/agentreach_give_your_ai_coding_agent_access_to/",
+          "kind": "social"
+        },
+        {
+          "label": "YouTube · Better Stack · agente com acesso web · 17,1k views · 445 likes · publicado 18 JUN · referência histórica",
+          "url": "https://www.youtube.com/watch?v=aanqEqQwjNU",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=Panniantong%20Agent-Reach%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Agent-Reach%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
           "kind": "busca"
         }
       ],
