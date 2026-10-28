@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T21:07:02.327Z",
-  "generatedLabel": "27 de out. de 2026 · 18:07",
+  "generatedAt": "2026-10-28T02:05:45.923Z",
+  "generatedLabel": "27 de out. de 2026 · 23:05",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -76,7 +76,7 @@
       "title": "impeccable",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,5 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "The design language that makes your AI harness better at design.",
       "broll": [
         "GitHub Trending",
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 90371,
-      "forks": 5371,
-      "issues": 44,
+      "stars": 90638,
+      "forks": 5378,
+      "issues": 45,
       "language": "Rust",
       "pushedAt": "2026-10-27T16:28:34Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 1458,
+      "pushedLabel": "push há 10h",
+      "trendingStarsToday": 1449,
       "score": 77,
       "social": [
         {
@@ -110,7 +110,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,5 mil stars hoje",
+          "label": "GitHub Trending · 1,4 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -142,7 +142,7 @@
       "title": "hallmark",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 2,9 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 2,8 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "broll": [
         "GitHub Trending",
@@ -151,13 +151,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Nutlope/hallmark",
-      "stars": 38791,
-      "forks": 2017,
+      "stars": 39105,
+      "forks": 2041,
       "issues": 64,
       "language": "CSS",
       "pushedAt": "2026-10-27T15:05:53Z",
-      "pushedLabel": "push há 6h",
-      "trendingStarsToday": 2859,
+      "pushedLabel": "push há 11h",
+      "trendingStarsToday": 2830,
       "score": 76,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -168,7 +168,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,9 mil stars hoje",
+          "label": "GitHub Trending · 2,8 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -195,7 +195,7 @@
       "title": "cindy",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 1,5 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "broll": [
         "GitHub Trending",
@@ -204,13 +204,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/makecindy/cindy",
-      "stars": 7393,
-      "forks": 877,
-      "issues": 2079,
+      "stars": 7514,
+      "forks": 891,
+      "issues": 2089,
       "language": "TypeScript",
-      "pushedAt": "2026-10-27T18:14:15Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 1446,
+      "pushedAt": "2026-10-28T01:57:56Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1465,
       "score": 73,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -221,7 +221,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,4 mil stars hoje",
+          "label": "GitHub Trending · 1,5 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -257,12 +257,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/elayadesign/ai-design-skills",
-      "stars": 9094,
-      "forks": 656,
+      "stars": 9489,
+      "forks": 679,
       "issues": 5,
       "language": "—",
       "pushedAt": "2026-10-27T16:02:10Z",
-      "pushedLabel": "push há 5h",
+      "pushedLabel": "push há 10h",
       "trendingStarsToday": 1395,
       "score": 73,
       "social": [],
@@ -301,7 +301,7 @@
       "title": "openbot",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 794 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 777 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "broll": [
         "GitHub Trending",
@@ -310,13 +310,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/nightly-labs/openbot",
-      "stars": 2322,
-      "forks": 243,
-      "issues": 208,
+      "stars": 2503,
+      "forks": 253,
+      "issues": 231,
       "language": "TypeScript",
-      "pushedAt": "2026-10-27T20:07:46Z",
+      "pushedAt": "2026-10-28T01:19:22Z",
       "pushedLabel": "push há 1h",
-      "trendingStarsToday": 794,
+      "trendingStarsToday": 777,
       "score": 67,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -327,7 +327,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 794 stars hoje",
+          "label": "GitHub Trending · 777 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -363,13 +363,13 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 306331,
-      "forks": 27275,
+      "stars": 306482,
+      "forks": 27280,
       "issues": 364,
       "language": "Shell",
       "pushedAt": "2026-10-23T03:48:57Z",
       "pushedLabel": "push há 5d",
-      "trendingStarsToday": 608,
+      "trendingStarsToday": 617,
       "score": 67,
       "social": [
         {
@@ -397,7 +397,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 608 stars hoje",
+          "label": "GitHub Trending · 617 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -442,12 +442,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30024,
+      "stars": 30031,
       "forks": 2914,
       "issues": 905,
       "language": "TypeScript",
       "pushedAt": "2026-10-26T14:09:03Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -489,8 +489,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 104835,
-      "forks": 9300,
+      "stars": 104972,
+      "forks": 9306,
       "issues": 257,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
@@ -558,7 +558,7 @@
       "title": "We let our cloud agents query prod (with OIDC, not secrets)",
       "url": "https://news.ycombinator.com/item?id=50261584",
       "relatedUrl": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
-      "points": 14,
+      "points": 16,
       "comments": 12,
       "publishedAt": "2026-10-27T16:25:12Z",
       "source": "Hacker News official API"
@@ -616,43 +616,43 @@
     },
     {
       "repo": "Nutlope/hallmark",
-      "starsToday": 2859
+      "starsToday": 2830
     },
     {
       "repo": "nightly-labs/openbot",
-      "starsToday": 794
+      "starsToday": 777
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 608
+      "starsToday": 617
     },
     {
       "repo": "pbakaus/impeccable",
-      "starsToday": 1458
+      "starsToday": 1449
     },
     {
       "repo": "makecindy/cindy",
-      "starsToday": 1446
+      "starsToday": 1465
     },
     {
       "repo": "gitroomhq/postiz-app",
-      "starsToday": 953
+      "starsToday": 951
     },
     {
       "repo": "affaan-m/ECC",
-      "starsToday": 1183
+      "starsToday": 1165
     },
     {
       "repo": "HKUDS/DeepTutor",
-      "starsToday": 1587
+      "starsToday": 1598
     },
     {
       "repo": "JetBrains/thinkrail",
-      "starsToday": 1211
+      "starsToday": 1204
     },
     {
       "repo": "togg53192-cmd/jailbreaks",
-      "starsToday": 890
+      "starsToday": 902
     }
   ],
   "monitored": [
@@ -669,12 +669,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30024,
+      "stars": 30031,
       "forks": 2914,
       "issues": 905,
       "language": "TypeScript",
       "pushedAt": "2026-10-26T14:09:03Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -716,8 +716,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 104835,
-      "forks": 9300,
+      "stars": 104972,
+      "forks": 9306,
       "issues": 257,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
