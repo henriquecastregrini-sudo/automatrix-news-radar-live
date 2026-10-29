@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T21:29:57.377Z",
-  "generatedLabel": "28 de out. de 2026 · 18:29",
+  "generatedAt": "2026-10-29T02:15:54.685Z",
+  "generatedLabel": "28 de out. de 2026 · 23:15",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/HKUDS/DeepTutor",
-      "stars": 47826,
-      "forks": 5939,
-      "issues": 199,
+      "stars": 48133,
+      "forks": 5968,
+      "issues": 210,
       "language": "Python",
       "pushedAt": "2026-10-28T18:01:08Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 2376,
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 2371,
       "score": 77,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -138,13 +138,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Nutlope/hallmark",
-      "stars": 40574,
-      "forks": 2105,
+      "stars": 40812,
+      "forks": 2116,
       "issues": 67,
       "language": "CSS",
       "pushedAt": "2026-10-28T14:52:03Z",
-      "pushedLabel": "push há 7h",
-      "trendingStarsToday": 2109,
+      "pushedLabel": "push há 11h",
+      "trendingStarsToday": 2110,
       "score": 76,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -182,7 +182,7 @@
       "title": "ai-design-skills",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,9 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 2,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Tendência técnica recente que precisa de validação editorial.",
       "broll": [
         "GitHub Trending",
@@ -191,13 +191,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/elayadesign/ai-design-skills",
-      "stars": 11001,
-      "forks": 786,
+      "stars": 11216,
+      "forks": 807,
       "issues": 7,
       "language": "—",
       "pushedAt": "2026-10-27T16:02:10Z",
       "pushedLabel": "push há 1d",
-      "trendingStarsToday": 1938,
+      "trendingStarsToday": 2139,
       "score": 74,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -208,7 +208,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,9 mil stars hoje",
+          "label": "GitHub Trending · 2,1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -244,13 +244,13 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 307352,
-      "forks": 27344,
+      "stars": 307509,
+      "forks": 27351,
       "issues": 369,
       "language": "Shell",
       "pushedAt": "2026-10-23T03:48:57Z",
       "pushedLabel": "push há 6d",
-      "trendingStarsToday": 1096,
+      "trendingStarsToday": 1095,
       "score": 71,
       "social": [
         {
@@ -324,13 +324,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/JetBrains/thinkrail",
-      "stars": 4953,
-      "forks": 255,
-      "issues": 240,
+      "stars": 5143,
+      "forks": 267,
+      "issues": 243,
       "language": "TypeScript",
-      "pushedAt": "2026-10-28T20:06:59Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 1075,
+      "pushedAt": "2026-10-29T00:41:34Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 1068,
       "score": 70,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -368,7 +368,7 @@
       "title": "macro",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 106 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 117 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "broll": [
         "GitHub Trending",
@@ -377,14 +377,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/macro-inc/macro",
-      "stars": 5367,
-      "forks": 517,
-      "issues": 412,
+      "stars": 5454,
+      "forks": 520,
+      "issues": 339,
       "language": "Rust",
-      "pushedAt": "2026-10-28T21:29:22Z",
+      "pushedAt": "2026-10-29T02:14:13Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 106,
-      "score": 55,
+      "trendingStarsToday": 117,
+      "score": 56,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -394,7 +394,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 106 stars hoje",
+          "label": "GitHub Trending · 117 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -429,12 +429,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30058,
-      "forks": 2917,
+      "stars": 30066,
+      "forks": 2918,
       "issues": 883,
       "language": "TypeScript",
       "pushedAt": "2026-10-28T14:33:21Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 12h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -476,8 +476,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 105553,
-      "forks": 9361,
+      "stars": 105671,
+      "forks": 9369,
       "issues": 258,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
@@ -542,11 +542,20 @@
   ],
   "news": [
     {
+      "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+      "url": "https://news.ycombinator.com/item?id=50282766",
+      "relatedUrl": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+      "points": 40,
+      "comments": 62,
+      "publishedAt": "2026-10-29T00:16:08Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
       "url": "https://news.ycombinator.com/item?id=50275626",
       "relatedUrl": "https://surgehq.ai/blog/dayjob-tax",
-      "points": 157,
-      "comments": 83,
+      "points": 204,
+      "comments": 128,
       "publishedAt": "2026-10-28T15:46:30Z",
       "source": "Hacker News official API"
     },
@@ -581,69 +590,60 @@
       "title": "We let our cloud agents query prod (with OIDC, not secrets)",
       "url": "https://news.ycombinator.com/item?id=50261584",
       "relatedUrl": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
-      "points": 18,
+      "points": 19,
       "comments": 15,
       "publishedAt": "2026-10-27T16:25:12Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: I built a tool to audit Shopify stores for AI agent and Google Shopping",
-      "url": "https://news.ycombinator.com/item?id=50257657",
-      "relatedUrl": "https://catalogaudit.app/",
-      "points": 1,
-      "comments": 3,
-      "publishedAt": "2026-10-27T11:41:44Z",
       "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "JetBrains/thinkrail",
-      "starsToday": 1075
+      "starsToday": 1068
     },
     {
       "repo": "elayadesign/ai-design-skills",
-      "starsToday": 1938
+      "starsToday": 2139
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 1096
+      "starsToday": 1095
     },
     {
       "repo": "HKUDS/DeepTutor",
-      "starsToday": 2376
+      "starsToday": 2371
     },
     {
       "repo": "macro-inc/macro",
-      "starsToday": 106
+      "starsToday": 117
     },
     {
       "repo": "Nutlope/hallmark",
-      "starsToday": 2109
+      "starsToday": 2110
     },
     {
       "repo": "pbakaus/impeccable",
-      "starsToday": 1471
+      "starsToday": 1472
     },
     {
       "repo": "makecindy/cindy",
-      "starsToday": 740
+      "starsToday": 728
     },
     {
       "repo": "nightly-labs/openbot",
-      "starsToday": 1053
+      "starsToday": 1054
     },
     {
       "repo": "togg53192-cmd/jailbreaks",
-      "starsToday": 1478
+      "starsToday": 1477
     },
     {
       "repo": "hmjz100/LinkSwift",
-      "starsToday": 1380
+      "starsToday": 1616
     },
     {
       "repo": "expo/skills",
-      "starsToday": 216
+      "starsToday": 90
     }
   ],
   "monitored": [
@@ -660,12 +660,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30058,
-      "forks": 2917,
+      "stars": 30066,
+      "forks": 2918,
       "issues": 883,
       "language": "TypeScript",
       "pushedAt": "2026-10-28T14:33:21Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 12h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -707,8 +707,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 105553,
-      "forks": 9361,
+      "stars": 105671,
+      "forks": 9369,
       "issues": 258,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
