@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T02:15:54.685Z",
-  "generatedLabel": "28 de out. de 2026 · 23:15",
+  "generatedAt": "2026-10-29T17:07:19.776Z",
+  "generatedLabel": "29 de out. de 2026 · 14:07",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -72,11 +72,77 @@
   ],
   "repos": [
     {
+      "repo": "pbakaus/impeccable",
+      "title": "impeccable",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 2,9 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/pbakaus/impeccable",
+      "stars": 94812,
+      "forks": 5592,
+      "issues": 49,
+      "language": "Rust",
+      "pushedAt": "2026-10-29T17:05:38Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 2881,
+      "score": 78,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/BestGitHubRepos · discussão nova sobre design de interfaces geradas por IA · votos não visíveis na checagem",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wvg3vz/impeccable_is_a_design_language_that_actually/",
+          "publishedAt": "2026-10-02",
+          "verifiedAt": "03 OUT 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/pbakaus/impeccable",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 2,9 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/BestGitHubRepos · discussão nova sobre design de interfaces geradas por IA · votos não visíveis na checagem",
+          "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1wvg3vz/impeccable_is_a_design_language_that_actually/",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=pbakaus%20impeccable%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=impeccable%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=impeccable%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "repo": "HKUDS/DeepTutor",
       "title": "DeepTutor",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 2,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 1,9 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "broll": [
         "GitHub Trending",
@@ -85,13 +151,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/HKUDS/DeepTutor",
-      "stars": 48133,
-      "forks": 5968,
-      "issues": 210,
+      "stars": 49546,
+      "forks": 6103,
+      "issues": 230,
       "language": "Python",
-      "pushedAt": "2026-10-28T18:01:08Z",
-      "pushedLabel": "push há 8h",
-      "trendingStarsToday": 2371,
+      "pushedAt": "2026-10-29T16:40:07Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1926,
       "score": 77,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -102,7 +168,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,4 mil stars hoje",
+          "label": "GitHub Trending · 1,9 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -122,193 +188,60 @@
           "kind": "busca"
         }
       ],
-      "rank": 1
-    },
-    {
-      "repo": "Nutlope/hallmark",
-      "title": "hallmark",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 2,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/Nutlope/hallmark",
-      "stars": 40812,
-      "forks": 2116,
-      "issues": 67,
-      "language": "CSS",
-      "pushedAt": "2026-10-28T14:52:03Z",
-      "pushedLabel": "push há 11h",
-      "trendingStarsToday": 2110,
-      "score": 76,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/Nutlope/hallmark",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 2,1 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=Nutlope%20hallmark%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=hallmark%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=hallmark%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 2
     },
     {
-      "repo": "elayadesign/ai-design-skills",
-      "title": "ai-design-skills",
+      "repo": "milind-soni/OpenMausBot",
+      "title": "OpenMausBot",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 2,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Tendência técnica recente que precisa de validação editorial.",
+      "hook": "Este repositório ganhou 1,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/elayadesign/ai-design-skills",
-      "stars": 11216,
-      "forks": 807,
-      "issues": 7,
-      "language": "—",
-      "pushedAt": "2026-10-27T16:02:10Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 2139,
-      "score": 74,
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "stars": 7260,
+      "forks": 1093,
+      "issues": 538,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-29T16:46:16Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1190,
+      "score": 72,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/elayadesign/ai-design-skills",
+          "url": "https://github.com/milind-soni/OpenMausBot",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,1 mil stars hoje",
+          "label": "GitHub Trending · 1,2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=elayadesign%20ai-design-skills%20AI",
+          "url": "https://www.youtube.com/results?search_query=milind-soni%20OpenMausBot%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=ai-design-skills%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=OpenMausBot%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=ai-design-skills%20AI",
+          "url": "https://www.tiktok.com/search?q=OpenMausBot%20AI",
           "kind": "busca"
         }
       ],
       "rank": 3
-    },
-    {
-      "repo": "obra/superpowers",
-      "title": "Superpowers",
-      "type": "Metodologia para agentes",
-      "status": "Gravar agora",
-      "hook": "Este projeto tenta acabar com o vibe coding: o agente precisa planejar, testar e revisar antes de dizer que terminou.",
-      "thesis": "Skills em Markdown estão virando uma camada de engenharia reutilizável entre Claude, Codex, Cursor e outros agentes.",
-      "broll": [
-        "fluxo brainstorming → plano → TDD",
-        "lista de skills",
-        "README",
-        "vídeo demonstrativo"
-      ],
-      "url": "https://github.com/obra/superpowers",
-      "stars": 307509,
-      "forks": 27351,
-      "issues": 369,
-      "language": "Shell",
-      "pushedAt": "2026-10-23T03:48:57Z",
-      "pushedLabel": "push há 6d",
-      "trendingStarsToday": 1095,
-      "score": 71,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
-          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
-          "engagement": 324,
-          "publishedAt": "2026-09-26",
-          "verifiedAt": "01 OUT 2026"
-        },
-        {
-          "platform": "Bilibili",
-          "label": "Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
-          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
-          "views": 17000,
-          "publishedAt": "2026-03-04",
-          "verifiedAt": "09 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/obra/superpowers",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,1 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Reddit · r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
-          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
-          "kind": "social"
-        },
-        {
-          "label": "Bilibili · Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
-          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=obra%20superpowers%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Superpowers%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Superpowers%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
     },
     {
       "repo": "JetBrains/thinkrail",
@@ -324,14 +257,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/JetBrains/thinkrail",
-      "stars": 5143,
-      "forks": 267,
-      "issues": 243,
+      "stars": 5833,
+      "forks": 308,
+      "issues": 272,
       "language": "TypeScript",
-      "pushedAt": "2026-10-29T00:41:34Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 1068,
-      "score": 70,
+      "pushedAt": "2026-10-29T16:59:59Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1116,
+      "score": 71,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -361,56 +294,136 @@
           "kind": "busca"
         }
       ],
+      "rank": 4
+    },
+    {
+      "repo": "obra/superpowers",
+      "title": "Superpowers",
+      "type": "Metodologia para agentes",
+      "status": "Gravar agora",
+      "hook": "Este projeto tenta acabar com o vibe coding: o agente precisa planejar, testar e revisar antes de dizer que terminou.",
+      "thesis": "Skills em Markdown estão virando uma camada de engenharia reutilizável entre Claude, Codex, Cursor e outros agentes.",
+      "broll": [
+        "fluxo brainstorming → plano → TDD",
+        "lista de skills",
+        "README",
+        "vídeo demonstrativo"
+      ],
+      "url": "https://github.com/obra/superpowers",
+      "stars": 308208,
+      "forks": 27415,
+      "issues": 369,
+      "language": "Shell",
+      "pushedAt": "2026-10-23T03:48:57Z",
+      "pushedLabel": "push há 7d",
+      "trendingStarsToday": 1037,
+      "score": 70,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
+          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
+          "engagement": 324,
+          "publishedAt": "2026-09-26",
+          "verifiedAt": "01 OUT 2026"
+        },
+        {
+          "platform": "Bilibili",
+          "label": "Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "views": 17000,
+          "publishedAt": "2026-03-04",
+          "verifiedAt": "09 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/obra/superpowers",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
+          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
+          "kind": "social"
+        },
+        {
+          "label": "Bilibili · Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=obra%20superpowers%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Superpowers%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Superpowers%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 5
     },
     {
-      "repo": "macro-inc/macro",
-      "title": "macro",
+      "repo": "nightly-labs/openbot",
+      "title": "openbot",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 117 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 705 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/macro-inc/macro",
-      "stars": 5454,
-      "forks": 520,
+      "url": "https://github.com/nightly-labs/openbot",
+      "stars": 3721,
+      "forks": 347,
       "issues": 339,
-      "language": "Rust",
-      "pushedAt": "2026-10-29T02:14:13Z",
+      "language": "TypeScript",
+      "pushedAt": "2026-10-29T17:06:43Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 117,
-      "score": 56,
+      "trendingStarsToday": 705,
+      "score": 67,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/macro-inc/macro",
+          "url": "https://github.com/nightly-labs/openbot",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 117 stars hoje",
+          "label": "GitHub Trending · 705 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=macro-inc%20macro%20AI",
+          "url": "https://www.youtube.com/results?search_query=nightly-labs%20openbot%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=macro%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=openbot%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=macro%20AI",
+          "url": "https://www.tiktok.com/search?q=openbot%20AI",
           "kind": "busca"
         }
       ],
@@ -429,12 +442,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30066,
-      "forks": 2918,
-      "issues": 883,
+      "stars": 30099,
+      "forks": 2922,
+      "issues": 886,
       "language": "TypeScript",
       "pushedAt": "2026-10-28T14:33:21Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -476,12 +489,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 105671,
-      "forks": 9369,
-      "issues": 258,
+      "stars": 106146,
+      "forks": 9417,
+      "issues": 261,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
-      "pushedLabel": "push há 4d",
+      "pushedLabel": "push há 5d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -542,20 +555,38 @@
   ],
   "news": [
     {
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "url": "https://news.ycombinator.com/item?id=50284255",
+      "relatedUrl": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "points": 527,
+      "comments": 214,
+      "publishedAt": "2026-10-29T03:33:42Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
       "url": "https://news.ycombinator.com/item?id=50282766",
       "relatedUrl": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
-      "points": 40,
-      "comments": 62,
+      "points": 56,
+      "comments": 104,
       "publishedAt": "2026-10-29T00:16:08Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: Pidgeon – Email inboxes for AI agents",
+      "url": "https://news.ycombinator.com/item?id=50288172",
+      "relatedUrl": "https://pidgeon.ai",
+      "points": 10,
+      "comments": 2,
+      "publishedAt": "2026-10-29T12:55:12Z",
       "source": "Hacker News official API"
     },
     {
       "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
       "url": "https://news.ycombinator.com/item?id=50275626",
       "relatedUrl": "https://surgehq.ai/blog/dayjob-tax",
-      "points": 204,
-      "comments": 128,
+      "points": 248,
+      "comments": 164,
       "publishedAt": "2026-10-28T15:46:30Z",
       "source": "Hacker News official API"
     },
@@ -576,74 +607,52 @@
       "comments": 3,
       "publishedAt": "2026-10-28T03:09:03Z",
       "source": "Hacker News official API"
-    },
-    {
-      "title": "Writing AI agents in YAML instead of Python",
-      "url": "https://news.ycombinator.com/item?id=50268662",
-      "relatedUrl": "https://codecut.ai/build-ai-agents-yaml-docker-agent/",
-      "points": 5,
-      "comments": 1,
-      "publishedAt": "2026-10-28T02:30:09Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "We let our cloud agents query prod (with OIDC, not secrets)",
-      "url": "https://news.ycombinator.com/item?id=50261584",
-      "relatedUrl": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
-      "points": 19,
-      "comments": 15,
-      "publishedAt": "2026-10-27T16:25:12Z",
-      "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
-      "repo": "JetBrains/thinkrail",
-      "starsToday": 1068
-    },
-    {
-      "repo": "elayadesign/ai-design-skills",
-      "starsToday": 2139
+      "repo": "HKUDS/DeepTutor",
+      "starsToday": 1926
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 1095
-    },
-    {
-      "repo": "HKUDS/DeepTutor",
-      "starsToday": 2371
-    },
-    {
-      "repo": "macro-inc/macro",
-      "starsToday": 117
-    },
-    {
-      "repo": "Nutlope/hallmark",
-      "starsToday": 2110
+      "starsToday": 1037
     },
     {
       "repo": "pbakaus/impeccable",
-      "starsToday": 1472
+      "starsToday": 2881
     },
     {
-      "repo": "makecindy/cindy",
-      "starsToday": 728
+      "repo": "JetBrains/thinkrail",
+      "starsToday": 1116
+    },
+    {
+      "repo": "milind-soni/OpenMausBot",
+      "starsToday": 1190
     },
     {
       "repo": "nightly-labs/openbot",
-      "starsToday": 1054
+      "starsToday": 705
+    },
+    {
+      "repo": "elayadesign/ai-design-skills",
+      "starsToday": 1178
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "starsToday": 459
+    },
+    {
+      "repo": "CopilotKit/OpenBot",
+      "starsToday": 240
     },
     {
       "repo": "togg53192-cmd/jailbreaks",
-      "starsToday": 1477
+      "starsToday": 1610
     },
     {
-      "repo": "hmjz100/LinkSwift",
-      "starsToday": 1616
-    },
-    {
-      "repo": "expo/skills",
-      "starsToday": 90
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "starsToday": 538
     }
   ],
   "monitored": [
@@ -660,12 +669,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30066,
-      "forks": 2918,
-      "issues": 883,
+      "stars": 30099,
+      "forks": 2922,
+      "issues": 886,
       "language": "TypeScript",
       "pushedAt": "2026-10-28T14:33:21Z",
-      "pushedLabel": "push há 12h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -707,12 +716,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 105671,
-      "forks": 9369,
-      "issues": 258,
+      "stars": 106146,
+      "forks": 9417,
+      "issues": 261,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
-      "pushedLabel": "push há 4d",
+      "pushedLabel": "push há 5d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
