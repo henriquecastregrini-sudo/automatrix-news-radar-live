@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T16:50:23.110Z",
-  "generatedLabel": "30 de out. de 2026 · 13:50",
+  "generatedAt": "2026-10-30T21:22:16.709Z",
+  "generatedLabel": "30 de out. de 2026 · 18:22",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,12 +85,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 96698,
-      "forks": 5697,
-      "issues": 52,
+      "stars": 96908,
+      "forks": 5708,
+      "issues": 53,
       "language": "Rust",
-      "pushedAt": "2026-10-30T10:16:27Z",
-      "pushedLabel": "push há 7h",
+      "pushedAt": "2026-10-30T17:36:40Z",
+      "pushedLabel": "push há 4h",
       "trendingStarsToday": 2299,
       "score": 78,
       "social": [
@@ -151,12 +151,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 105737,
-      "forks": 9316,
-      "issues": 133,
+      "stars": 106068,
+      "forks": 9341,
+      "issues": 136,
       "language": "TypeScript",
-      "pushedAt": "2026-10-30T03:07:33Z",
-      "pushedLabel": "push há 14h",
+      "pushedAt": "2026-10-30T19:01:44Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": 1145,
       "score": 76,
       "social": [
@@ -218,13 +218,13 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 307228,
-      "forks": 25849,
+      "stars": 307389,
+      "forks": 25866,
       "issues": 191,
       "language": "Shell",
       "pushedAt": "2026-10-30T14:00:30Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 882,
+      "pushedLabel": "push há 7h",
+      "trendingStarsToday": 889,
       "score": 76,
       "social": [
         {
@@ -277,7 +277,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 882 stars hoje",
+          "label": "GitHub Trending · 889 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -338,11 +338,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/milind-soni/OpenMausBot",
-      "stars": 8237,
-      "forks": 1175,
-      "issues": 592,
+      "stars": 8496,
+      "forks": 1191,
+      "issues": 613,
       "language": "TypeScript",
-      "pushedAt": "2026-10-30T16:45:10Z",
+      "pushedAt": "2026-10-30T21:21:29Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 899,
       "score": 70,
@@ -391,14 +391,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/CopilotKit/OpenBot",
-      "stars": 8586,
-      "forks": 1088,
-      "issues": 62,
+      "stars": 8706,
+      "forks": 1100,
+      "issues": 67,
       "language": "TypeScript",
-      "pushedAt": "2026-10-30T16:17:17Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-10-30T20:52:53Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 707,
-      "score": 68,
+      "score": 69,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -431,59 +431,6 @@
       "rank": 5
     },
     {
-      "repo": "expo/skills",
-      "title": "skills",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 233 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/expo/skills",
-      "stars": 3824,
-      "forks": 243,
-      "issues": 102,
-      "language": "Shell",
-      "pushedAt": "2026-10-29T10:37:46Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 233,
-      "score": 60,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/expo/skills",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 233 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=expo%20skills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=skills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=skills%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 6
-    },
-    {
       "repo": "macro-inc/macro",
       "title": "macro",
       "type": "Novo no GitHub Trending",
@@ -497,11 +444,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/macro-inc/macro",
-      "stars": 5766,
+      "stars": 5830,
       "forks": 537,
-      "issues": 292,
+      "issues": 281,
       "language": "Rust",
-      "pushedAt": "2026-10-30T16:45:11Z",
+      "pushedAt": "2026-10-30T21:21:17Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 117,
       "score": 56,
@@ -534,6 +481,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 6
+    },
+    {
+      "repo": "expo/skills",
+      "title": "skills",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 108 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/expo/skills",
+      "stars": 3863,
+      "forks": 245,
+      "issues": 103,
+      "language": "Shell",
+      "pushedAt": "2026-10-30T20:29:57Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 108,
+      "score": 55,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/expo/skills",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 108 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=expo%20skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=skills%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=skills%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 7
     },
     {
@@ -549,8 +549,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 106694,
-      "forks": 9474,
+      "stars": 106769,
+      "forks": 9490,
       "issues": 271,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
@@ -625,9 +625,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30259,
-      "forks": 2932,
-      "issues": 887,
+      "stars": 30260,
+      "forks": 2935,
+      "issues": 888,
       "language": "TypeScript",
       "pushedAt": "2026-10-28T14:33:21Z",
       "pushedLabel": "push há 2d",
@@ -662,11 +662,20 @@
   ],
   "news": [
     {
+      "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+      "url": "https://news.ycombinator.com/item?id=50305218",
+      "relatedUrl": "https://sketch.wakeshift.ai/games/q5ucru",
+      "points": 14,
+      "comments": 6,
+      "publishedAt": "2026-10-30T15:23:11Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "Claude Code regularly sends each background agent’s transcript to its model",
       "url": "https://news.ycombinator.com/item?id=50284255",
       "relatedUrl": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "points": 573,
-      "comments": 233,
+      "points": 575,
+      "comments": 234,
       "publishedAt": "2026-10-29T03:33:42Z",
       "source": "Hacker News official API"
     },
@@ -674,8 +683,8 @@
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://news.ycombinator.com/item?id=50296486",
       "relatedUrl": "https://labs.ycombinator.com/projects/games/index.html",
-      "points": 371,
-      "comments": 152,
+      "points": 389,
+      "comments": 162,
       "publishedAt": "2026-10-29T21:40:28Z",
       "source": "Hacker News official API"
     },
@@ -705,15 +714,6 @@
       "comments": 4,
       "publishedAt": "2026-10-29T18:06:22Z",
       "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: Pidgeon – Email inboxes for AI agents",
-      "url": "https://news.ycombinator.com/item?id=50288172",
-      "relatedUrl": "https://pidgeon.ai",
-      "points": 10,
-      "comments": 2,
-      "publishedAt": "2026-10-29T12:55:12Z",
-      "source": "Hacker News official API"
     }
   ],
   "trending": [
@@ -739,7 +739,7 @@
     },
     {
       "repo": "expo/skills",
-      "starsToday": 233
+      "starsToday": 108
     },
     {
       "repo": "macro-inc/macro",
@@ -747,7 +747,7 @@
     },
     {
       "repo": "mattpocock/skills",
-      "starsToday": 882
+      "starsToday": 889
     },
     {
       "repo": "pingdotgg/t3code",
@@ -780,8 +780,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 106694,
-      "forks": 9474,
+      "stars": 106769,
+      "forks": 9490,
       "issues": 271,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
@@ -856,9 +856,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30259,
-      "forks": 2932,
-      "issues": 887,
+      "stars": 30260,
+      "forks": 2935,
+      "issues": 888,
       "language": "TypeScript",
       "pushedAt": "2026-10-28T14:33:21Z",
       "pushedLabel": "push há 2d",
