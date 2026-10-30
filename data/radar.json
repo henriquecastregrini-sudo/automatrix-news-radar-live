@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T21:30:36.090Z",
-  "generatedLabel": "29 de out. de 2026 · 18:30",
+  "generatedAt": "2026-10-30T02:29:22.180Z",
+  "generatedLabel": "29 de out. de 2026 · 23:29",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 95132,
-      "forks": 5605,
-      "issues": 45,
+      "stars": 95502,
+      "forks": 5629,
+      "issues": 47,
       "language": "Rust",
       "pushedAt": "2026-10-29T18:41:45Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 2881,
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 2870,
       "score": 78,
       "social": [
         {
@@ -151,13 +151,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/HKUDS/DeepTutor",
-      "stars": 49831,
-      "forks": 6137,
-      "issues": 233,
+      "stars": 50266,
+      "forks": 6190,
+      "issues": 242,
       "language": "Python",
-      "pushedAt": "2026-10-29T16:40:07Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 1926,
+      "pushedAt": "2026-10-29T23:51:51Z",
+      "pushedLabel": "push há 3h",
+      "trendingStarsToday": 1930,
       "score": 77,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -191,112 +191,6 @@
       "rank": 2
     },
     {
-      "repo": "milind-soni/OpenMausBot",
-      "title": "OpenMausBot",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "stars": 7382,
-      "forks": 1099,
-      "issues": 547,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-29T21:22:50Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1190,
-      "score": 72,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/milind-soni/OpenMausBot",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,2 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=milind-soni%20OpenMausBot%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=OpenMausBot%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=OpenMausBot%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "repo": "JetBrains/thinkrail",
-      "title": "thinkrail",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/JetBrains/thinkrail",
-      "stars": 5939,
-      "forks": 320,
-      "issues": 275,
-      "language": "TypeScript",
-      "pushedAt": "2026-10-29T20:47:33Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 1116,
-      "score": 71,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/JetBrains/thinkrail",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,1 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=JetBrains%20thinkrail%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=thinkrail%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=thinkrail%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
-    },
-    {
       "repo": "obra/superpowers",
       "title": "Superpowers",
       "type": "Metodologia para agentes",
@@ -310,14 +204,14 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 308431,
-      "forks": 27431,
-      "issues": 371,
+      "stars": 308637,
+      "forks": 27451,
+      "issues": 372,
       "language": "Shell",
-      "pushedAt": "2026-10-23T03:48:57Z",
-      "pushedLabel": "push há 7d",
-      "trendingStarsToday": 1037,
-      "score": 70,
+      "pushedAt": "2026-10-29T23:35:34Z",
+      "pushedLabel": "push há 3h",
+      "trendingStarsToday": 1034,
+      "score": 77,
       "social": [
         {
           "platform": "Reddit",
@@ -374,6 +268,112 @@
           "kind": "busca"
         }
       ],
+      "rank": 3
+    },
+    {
+      "repo": "milind-soni/OpenMausBot",
+      "title": "OpenMausBot",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 1,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "stars": 7547,
+      "forks": 1121,
+      "issues": 551,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-30T00:37:07Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 1199,
+      "score": 72,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,2 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=milind-soni%20OpenMausBot%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=OpenMausBot%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=OpenMausBot%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "repo": "JetBrains/thinkrail",
+      "title": "thinkrail",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 1,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/JetBrains/thinkrail",
+      "stars": 6064,
+      "forks": 328,
+      "issues": 279,
+      "language": "TypeScript",
+      "pushedAt": "2026-10-29T22:08:45Z",
+      "pushedLabel": "push há 4h",
+      "trendingStarsToday": 1117,
+      "score": 71,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,1 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=JetBrains%20thinkrail%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=thinkrail%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=thinkrail%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 5
     },
     {
@@ -381,7 +381,7 @@
       "title": "openbot",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 705 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 709 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "broll": [
         "GitHub Trending",
@@ -390,13 +390,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/nightly-labs/openbot",
-      "stars": 3815,
-      "forks": 353,
-      "issues": 354,
+      "stars": 3924,
+      "forks": 363,
+      "issues": 372,
       "language": "TypeScript",
-      "pushedAt": "2026-10-29T21:29:53Z",
+      "pushedAt": "2026-10-30T02:27:53Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 705,
+      "trendingStarsToday": 709,
       "score": 67,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -407,7 +407,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 705 stars hoje",
+          "label": "GitHub Trending · 709 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -442,12 +442,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30110,
-      "forks": 2922,
+      "stars": 30125,
+      "forks": 2923,
       "issues": 888,
       "language": "TypeScript",
       "pushedAt": "2026-10-28T14:33:21Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -489,9 +489,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 106240,
-      "forks": 9425,
-      "issues": 260,
+      "stars": 106326,
+      "forks": 9433,
+      "issues": 261,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
       "pushedLabel": "push há 5d",
@@ -558,16 +558,25 @@
       "title": "Claude Code regularly sends each background agent’s transcript to its model",
       "url": "https://news.ycombinator.com/item?id=50284255",
       "relatedUrl": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "points": 553,
-      "comments": 223,
+      "points": 561,
+      "comments": 226,
       "publishedAt": "2026-10-29T03:33:42Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://news.ycombinator.com/item?id=50296486",
+      "relatedUrl": "https://labs.ycombinator.com/projects/games/index.html",
+      "points": 174,
+      "comments": 64,
+      "publishedAt": "2026-10-29T21:40:28Z",
       "source": "Hacker News official API"
     },
     {
       "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
       "url": "https://news.ycombinator.com/item?id=50282766",
       "relatedUrl": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
-      "points": 56,
+      "points": 57,
       "comments": 108,
       "publishedAt": "2026-10-29T00:16:08Z",
       "source": "Hacker News official API"
@@ -576,8 +585,8 @@
       "title": "A Defense Contractor Gave Their AI Agent Access to a Secure Pentagon System",
       "url": "https://news.ycombinator.com/item?id=50293979",
       "relatedUrl": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "points": 13,
-      "comments": 5,
+      "points": 19,
+      "comments": 6,
       "publishedAt": "2026-10-29T18:47:56Z",
       "source": "Hacker News official API"
     },
@@ -586,25 +595,16 @@
       "url": "https://news.ycombinator.com/item?id=50293361",
       "relatedUrl": "https://github.com/phpclaw-php/phpclaw-monorepo",
       "points": 11,
-      "comments": 3,
+      "comments": 4,
       "publishedAt": "2026-10-29T18:06:22Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: Pidgeon – Email inboxes for AI agents",
-      "url": "https://news.ycombinator.com/item?id=50288172",
-      "relatedUrl": "https://pidgeon.ai",
-      "points": 10,
-      "comments": 2,
-      "publishedAt": "2026-10-29T12:55:12Z",
       "source": "Hacker News official API"
     },
     {
       "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
       "url": "https://news.ycombinator.com/item?id=50275626",
       "relatedUrl": "https://surgehq.ai/blog/dayjob-tax",
-      "points": 253,
-      "comments": 171,
+      "points": 254,
+      "comments": 172,
       "publishedAt": "2026-10-28T15:46:30Z",
       "source": "Hacker News official API"
     }
@@ -612,47 +612,47 @@
   "trending": [
     {
       "repo": "HKUDS/DeepTutor",
-      "starsToday": 1926
+      "starsToday": 1930
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 1037
+      "starsToday": 1034
     },
     {
       "repo": "pbakaus/impeccable",
-      "starsToday": 2881
+      "starsToday": 2870
     },
     {
       "repo": "JetBrains/thinkrail",
-      "starsToday": 1116
+      "starsToday": 1117
     },
     {
       "repo": "milind-soni/OpenMausBot",
-      "starsToday": 1190
+      "starsToday": 1199
     },
     {
       "repo": "nightly-labs/openbot",
-      "starsToday": 705
+      "starsToday": 709
     },
     {
       "repo": "elayadesign/ai-design-skills",
-      "starsToday": 1178
+      "starsToday": 1187
     },
     {
       "repo": "thedotmack/claude-mem",
-      "starsToday": 459
+      "starsToday": 336
     },
     {
       "repo": "CopilotKit/OpenBot",
-      "starsToday": 240
+      "starsToday": 247
     },
     {
       "repo": "togg53192-cmd/jailbreaks",
-      "starsToday": 1610
+      "starsToday": 1594
     },
     {
       "repo": "Donchitos/Claude-Code-Game-Studios",
-      "starsToday": 538
+      "starsToday": 353
     }
   ],
   "monitored": [
@@ -669,12 +669,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30110,
-      "forks": 2922,
+      "stars": 30125,
+      "forks": 2923,
       "issues": 888,
       "language": "TypeScript",
       "pushedAt": "2026-10-28T14:33:21Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -716,9 +716,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 106240,
-      "forks": 9425,
-      "issues": 260,
+      "stars": 106326,
+      "forks": 9433,
+      "issues": 261,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
       "pushedLabel": "push há 5d",
