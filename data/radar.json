@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T21:22:16.709Z",
-  "generatedLabel": "30 de out. de 2026 · 18:22",
+  "generatedAt": "2026-10-31T02:12:30.874Z",
+  "generatedLabel": "30 de out. de 2026 · 23:12",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 96908,
-      "forks": 5708,
-      "issues": 53,
+      "stars": 97142,
+      "forks": 5718,
+      "issues": 64,
       "language": "Rust",
       "pushedAt": "2026-10-30T17:36:40Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 2299,
+      "pushedLabel": "push há 9h",
+      "trendingStarsToday": 2300,
       "score": 78,
       "social": [
         {
@@ -151,13 +151,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 106068,
-      "forks": 9341,
-      "issues": 136,
+      "stars": 106339,
+      "forks": 9359,
+      "issues": 139,
       "language": "TypeScript",
-      "pushedAt": "2026-10-30T19:01:44Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 1145,
+      "pushedAt": "2026-10-31T02:09:54Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1140,
       "score": 76,
       "social": [
         {
@@ -218,13 +218,13 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 307389,
-      "forks": 25866,
-      "issues": 191,
+      "stars": 307521,
+      "forks": 25886,
+      "issues": 193,
       "language": "Shell",
       "pushedAt": "2026-10-30T14:00:30Z",
-      "pushedLabel": "push há 7h",
-      "trendingStarsToday": 889,
+      "pushedLabel": "push há 12h",
+      "trendingStarsToday": 876,
       "score": 76,
       "social": [
         {
@@ -277,7 +277,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 889 stars hoje",
+          "label": "GitHub Trending · 876 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -329,7 +329,7 @@
       "title": "OpenMausBot",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 899 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 895 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "broll": [
         "GitHub Trending",
@@ -338,13 +338,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/milind-soni/OpenMausBot",
-      "stars": 8496,
-      "forks": 1191,
-      "issues": 613,
+      "stars": 8711,
+      "forks": 1203,
+      "issues": 614,
       "language": "TypeScript",
-      "pushedAt": "2026-10-30T21:21:29Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 899,
+      "pushedAt": "2026-10-30T22:54:18Z",
+      "pushedLabel": "push há 3h",
+      "trendingStarsToday": 895,
       "score": 70,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -355,7 +355,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 899 stars hoje",
+          "label": "GitHub Trending · 895 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -382,7 +382,7 @@
       "title": "OpenBot",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 707 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 706 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "broll": [
         "GitHub Trending",
@@ -391,13 +391,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/CopilotKit/OpenBot",
-      "stars": 8706,
-      "forks": 1100,
-      "issues": 67,
+      "stars": 8829,
+      "forks": 1110,
+      "issues": 70,
       "language": "TypeScript",
-      "pushedAt": "2026-10-30T20:52:53Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 707,
+      "pushedAt": "2026-10-30T22:06:51Z",
+      "pushedLabel": "push há 4h",
+      "trendingStarsToday": 706,
       "score": 69,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -408,7 +408,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 707 stars hoje",
+          "label": "GitHub Trending · 706 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -435,7 +435,7 @@
       "title": "macro",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 117 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 57 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "broll": [
         "GitHub Trending",
@@ -444,14 +444,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/macro-inc/macro",
-      "stars": 5830,
-      "forks": 537,
-      "issues": 281,
+      "stars": 5887,
+      "forks": 539,
+      "issues": 284,
       "language": "Rust",
-      "pushedAt": "2026-10-30T21:21:17Z",
+      "pushedAt": "2026-10-31T02:11:28Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 117,
-      "score": 56,
+      "trendingStarsToday": 57,
+      "score": 52,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -461,7 +461,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 117 stars hoje",
+          "label": "GitHub Trending · 57 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -488,7 +488,7 @@
       "title": "skills",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 108 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 38 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "broll": [
         "GitHub Trending",
@@ -497,14 +497,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/expo/skills",
-      "stars": 3863,
-      "forks": 245,
+      "stars": 3908,
+      "forks": 247,
       "issues": 103,
       "language": "Shell",
       "pushedAt": "2026-10-30T20:29:57Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 108,
-      "score": 55,
+      "pushedLabel": "push há 6h",
+      "trendingStarsToday": 38,
+      "score": 48,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -514,7 +514,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 108 stars hoje",
+          "label": "GitHub Trending · 38 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -549,9 +549,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 106769,
-      "forks": 9490,
-      "issues": 271,
+      "stars": 106843,
+      "forks": 9499,
+      "issues": 273,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
       "pushedLabel": "push há 6d",
@@ -625,12 +625,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30260,
+      "stars": 30278,
       "forks": 2935,
-      "issues": 888,
+      "issues": 887,
       "language": "TypeScript",
       "pushedAt": "2026-10-28T14:33:21Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
@@ -665,8 +665,8 @@
       "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
       "url": "https://news.ycombinator.com/item?id=50305218",
       "relatedUrl": "https://sketch.wakeshift.ai/games/q5ucru",
-      "points": 14,
-      "comments": 6,
+      "points": 25,
+      "comments": 8,
       "publishedAt": "2026-10-30T15:23:11Z",
       "source": "Hacker News official API"
     },
@@ -674,8 +674,8 @@
       "title": "Claude Code regularly sends each background agent’s transcript to its model",
       "url": "https://news.ycombinator.com/item?id=50284255",
       "relatedUrl": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "points": 575,
-      "comments": 234,
+      "points": 581,
+      "comments": 235,
       "publishedAt": "2026-10-29T03:33:42Z",
       "source": "Hacker News official API"
     },
@@ -683,25 +683,16 @@
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://news.ycombinator.com/item?id=50296486",
       "relatedUrl": "https://labs.ycombinator.com/projects/games/index.html",
-      "points": 389,
-      "comments": 162,
+      "points": 397,
+      "comments": 163,
       "publishedAt": "2026-10-29T21:40:28Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
-      "url": "https://news.ycombinator.com/item?id=50282766",
-      "relatedUrl": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
-      "points": 57,
-      "comments": 108,
-      "publishedAt": "2026-10-29T00:16:08Z",
       "source": "Hacker News official API"
     },
     {
       "title": "A Defense Contractor Gave Their AI Agent Access to a Secure Pentagon System",
       "url": "https://news.ycombinator.com/item?id=50293979",
       "relatedUrl": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "points": 20,
+      "points": 21,
       "comments": 6,
       "publishedAt": "2026-10-29T18:47:56Z",
       "source": "Hacker News official API"
@@ -710,48 +701,57 @@
       "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
       "url": "https://news.ycombinator.com/item?id=50293361",
       "relatedUrl": "https://github.com/phpclaw-php/phpclaw-monorepo",
-      "points": 12,
+      "points": 13,
       "comments": 4,
       "publishedAt": "2026-10-29T18:06:22Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: Pidgeon – Email inboxes for AI agents",
+      "url": "https://news.ycombinator.com/item?id=50288172",
+      "relatedUrl": "https://pidgeon.ai",
+      "points": 10,
+      "comments": 2,
+      "publishedAt": "2026-10-29T12:55:12Z",
       "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "thedotmack/claude-mem",
-      "starsToday": 1145
+      "starsToday": 1140
     },
     {
       "repo": "milind-soni/OpenMausBot",
-      "starsToday": 899
+      "starsToday": 895
     },
     {
       "repo": "pbakaus/impeccable",
-      "starsToday": 2299
+      "starsToday": 2300
     },
     {
       "repo": "CopilotKit/OpenBot",
-      "starsToday": 707
+      "starsToday": 706
     },
     {
       "repo": "Renhuai123/ziwei-doushu",
-      "starsToday": 1146
+      "starsToday": 1126
     },
     {
       "repo": "expo/skills",
-      "starsToday": 108
+      "starsToday": 38
     },
     {
       "repo": "macro-inc/macro",
-      "starsToday": 117
+      "starsToday": 57
     },
     {
       "repo": "mattpocock/skills",
-      "starsToday": 889
+      "starsToday": 876
     },
     {
       "repo": "pingdotgg/t3code",
-      "starsToday": 920
+      "starsToday": 930
     },
     {
       "repo": "HKUDS/DeepTutor",
@@ -759,11 +759,11 @@
     },
     {
       "repo": "anthropics/skills",
-      "starsToday": 287
+      "starsToday": 295
     },
     {
       "repo": "JetBrains/thinkrail",
-      "starsToday": 717
+      "starsToday": 722
     }
   ],
   "monitored": [
@@ -780,9 +780,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 106769,
-      "forks": 9490,
-      "issues": 271,
+      "stars": 106843,
+      "forks": 9499,
+      "issues": 273,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
       "pushedLabel": "push há 6d",
@@ -856,12 +856,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30260,
+      "stars": 30278,
       "forks": 2935,
-      "issues": 888,
+      "issues": 887,
       "language": "TypeScript",
       "pushedAt": "2026-10-28T14:33:21Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
