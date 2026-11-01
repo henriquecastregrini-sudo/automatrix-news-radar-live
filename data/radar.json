@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T16:55:55.211Z",
-  "generatedLabel": "1 de nov. de 2026 · 13:55",
+  "generatedAt": "2026-11-01T20:57:09.976Z",
+  "generatedLabel": "1 de nov. de 2026 · 17:57",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,12 +85,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 108809,
-      "forks": 9535,
-      "issues": 167,
+      "stars": 109047,
+      "forks": 9552,
+      "issues": 170,
       "language": "TypeScript",
-      "pushedAt": "2026-11-01T05:21:17Z",
-      "pushedLabel": "push há 12h",
+      "pushedAt": "2026-11-01T20:51:28Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 1527,
       "score": 78,
       "social": [
@@ -152,12 +152,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/lightpanda-io/browser",
-      "stars": 39846,
-      "forks": 1946,
-      "issues": 101,
+      "stars": 39989,
+      "forks": 1956,
+      "issues": 102,
       "language": "Zig",
       "pushedAt": "2026-11-01T09:35:11Z",
-      "pushedLabel": "push há 7h",
+      "pushedLabel": "push há 11h",
       "trendingStarsToday": 827,
       "score": 72,
       "social": [],
@@ -205,12 +205,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/milind-soni/OpenMausBot",
-      "stars": 10323,
-      "forks": 1426,
-      "issues": 622,
+      "stars": 10420,
+      "forks": 1443,
+      "issues": 632,
       "language": "TypeScript",
-      "pushedAt": "2026-11-01T12:20:36Z",
-      "pushedLabel": "push há 5h",
+      "pushedAt": "2026-11-01T19:48:30Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 919,
       "score": 71,
       "social": [],
@@ -245,6 +245,59 @@
       "rank": 3
     },
     {
+      "repo": "public-apis/public-apis",
+      "title": "public-apis",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 298 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "A collective list of free APIs",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/public-apis/public-apis",
+      "stars": 494448,
+      "forks": 55190,
+      "issues": 2503,
+      "language": "Python",
+      "pushedAt": "2026-11-01T18:22:08Z",
+      "pushedLabel": "push há 3h",
+      "trendingStarsToday": 298,
+      "score": 69,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/public-apis/public-apis",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 298 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=public-apis%20public-apis%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=public-apis%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=public-apis%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
       "repo": "Donchitos/Claude-Code-Game-Studios",
       "title": "Claude-Code-Game-Studios",
       "type": "Novo no GitHub Trending",
@@ -258,8 +311,8 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "stars": 31923,
-      "forks": 4359,
+      "stars": 32112,
+      "forks": 4375,
       "issues": 73,
       "language": "Shell",
       "pushedAt": "2026-10-19T02:43:42Z",
@@ -295,59 +348,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
-    },
-    {
-      "repo": "public-apis/public-apis",
-      "title": "public-apis",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 298 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "A collective list of free APIs",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/public-apis/public-apis",
-      "stars": 494260,
-      "forks": 55174,
-      "issues": 2528,
-      "language": "Python",
-      "pushedAt": "2026-10-30T16:40:39Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 298,
-      "score": 62,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/public-apis/public-apis",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 298 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=public-apis%20public-apis%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=public-apis%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=public-apis%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 5
     },
     {
@@ -364,12 +364,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/kornia/kornia",
-      "stars": 11670,
-      "forks": 1461,
-      "issues": 141,
+      "stars": 11735,
+      "forks": 1464,
+      "issues": 132,
       "language": "Python",
-      "pushedAt": "2026-11-01T05:07:12Z",
-      "pushedLabel": "push há 12h",
+      "pushedAt": "2026-11-01T18:28:07Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": 88,
       "score": 56,
       "social": [],
@@ -416,12 +416,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 107518,
-      "forks": 9585,
+      "stars": 107569,
+      "forks": 9590,
       "issues": 265,
       "language": "Python",
       "pushedAt": "2026-11-01T07:23:13Z",
-      "pushedLabel": "push há 10h",
+      "pushedLabel": "push há 14h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -492,7 +492,7 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30318,
+      "stars": 30325,
       "forks": 2940,
       "issues": 888,
       "language": "TypeScript",
@@ -532,8 +532,8 @@
       "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
       "url": "https://news.ycombinator.com/item?id=50325662",
       "relatedUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-      "points": 73,
-      "comments": 31,
+      "points": 129,
+      "comments": 60,
       "publishedAt": "2026-11-01T13:47:24Z",
       "source": "Hacker News official API"
     },
@@ -541,9 +541,18 @@
       "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
       "url": "https://news.ycombinator.com/item?id=50325253",
       "relatedUrl": "https://github.com/ivankovic/omnidiff",
-      "points": 17,
-      "comments": 14,
+      "points": 77,
+      "comments": 30,
       "publishedAt": "2026-11-01T13:02:30Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
+      "url": "https://news.ycombinator.com/item?id=50328293",
+      "relatedUrl": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
+      "points": 6,
+      "comments": 2,
+      "publishedAt": "2026-11-01T18:33:02Z",
       "source": "Hacker News official API"
     },
     {
@@ -553,15 +562,6 @@
       "points": 11,
       "comments": 0,
       "publishedAt": "2026-10-31T13:41:11Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Defense Contractor Gave Their Personal AI Agent Access to Secure Pentagon System",
-      "url": "https://news.ycombinator.com/item?id=50309730",
-      "relatedUrl": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "points": 16,
-      "comments": 2,
-      "publishedAt": "2026-10-30T20:30:06Z",
       "source": "Hacker News official API"
     },
     {
@@ -647,12 +647,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 107518,
-      "forks": 9585,
+      "stars": 107569,
+      "forks": 9590,
       "issues": 265,
       "language": "Python",
       "pushedAt": "2026-11-01T07:23:13Z",
-      "pushedLabel": "push há 10h",
+      "pushedLabel": "push há 14h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -723,7 +723,7 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30318,
+      "stars": 30325,
       "forks": 2940,
       "issues": 888,
       "language": "TypeScript",
