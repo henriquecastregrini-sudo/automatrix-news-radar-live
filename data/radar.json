@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T20:23:29.210Z",
-  "generatedLabel": "31 de out. de 2026 · 17:23",
+  "generatedAt": "2026-11-01T02:02:04.951Z",
+  "generatedLabel": "31 de out. de 2026 · 23:02",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,12 +85,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 107636,
-      "forks": 9453,
-      "issues": 156,
+      "stars": 107937,
+      "forks": 9476,
+      "issues": 158,
       "language": "TypeScript",
-      "pushedAt": "2026-10-31T08:56:15Z",
-      "pushedLabel": "push há 11h",
+      "pushedAt": "2026-11-01T01:50:04Z",
+      "pushedLabel": "push há 0h",
       "trendingStarsToday": 1723,
       "score": 78,
       "social": [
@@ -152,13 +152,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 98111,
-      "forks": 5785,
-      "issues": 64,
+      "stars": 98330,
+      "forks": 5800,
+      "issues": 63,
       "language": "Rust",
       "pushedAt": "2026-10-31T18:59:12Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 1339,
+      "pushedLabel": "push há 7h",
+      "trendingStarsToday": 1338,
       "score": 77,
       "social": [
         {
@@ -218,13 +218,13 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 308229,
-      "forks": 25934,
+      "stars": 308440,
+      "forks": 25957,
       "issues": 195,
       "language": "Shell",
       "pushedAt": "2026-10-31T14:23:44Z",
-      "pushedLabel": "push há 6h",
-      "trendingStarsToday": 882,
+      "pushedLabel": "push há 12h",
+      "trendingStarsToday": 883,
       "score": 76,
       "social": [
         {
@@ -277,7 +277,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 882 stars hoje",
+          "label": "GitHub Trending · 883 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -325,86 +325,6 @@
       "rank": 3
     },
     {
-      "repo": "obra/superpowers",
-      "title": "Superpowers",
-      "type": "Metodologia para agentes",
-      "status": "Gravar agora",
-      "hook": "Este projeto tenta acabar com o vibe coding: o agente precisa planejar, testar e revisar antes de dizer que terminou.",
-      "thesis": "Skills em Markdown estão virando uma camada de engenharia reutilizável entre Claude, Codex, Cursor e outros agentes.",
-      "broll": [
-        "fluxo brainstorming → plano → TDD",
-        "lista de skills",
-        "README",
-        "vídeo demonstrativo"
-      ],
-      "url": "https://github.com/obra/superpowers",
-      "stars": 309955,
-      "forks": 27572,
-      "issues": 375,
-      "language": "Shell",
-      "pushedAt": "2026-10-29T23:35:34Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 663,
-      "score": 74,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
-          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
-          "engagement": 324,
-          "publishedAt": "2026-09-26",
-          "verifiedAt": "01 OUT 2026"
-        },
-        {
-          "platform": "Bilibili",
-          "label": "Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
-          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
-          "views": 17000,
-          "publishedAt": "2026-03-04",
-          "verifiedAt": "09 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/obra/superpowers",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 663 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Reddit · r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
-          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
-          "kind": "social"
-        },
-        {
-          "label": "Bilibili · Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
-          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=obra%20superpowers%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Superpowers%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Superpowers%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
-    },
-    {
       "repo": "milind-soni/OpenMausBot",
       "title": "OpenMausBot",
       "type": "Novo no GitHub Trending",
@@ -418,13 +338,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/milind-soni/OpenMausBot",
-      "stars": 9472,
-      "forks": 1315,
-      "issues": 611,
+      "stars": 9674,
+      "forks": 1343,
+      "issues": 614,
       "language": "TypeScript",
-      "pushedAt": "2026-10-31T18:59:33Z",
+      "pushedAt": "2026-11-01T00:37:57Z",
       "pushedLabel": "push há 1h",
-      "trendingStarsToday": 1304,
+      "trendingStarsToday": 1303,
       "score": 73,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -455,7 +375,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "repo": "lightpanda-io/browser",
@@ -471,12 +391,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/lightpanda-io/browser",
-      "stars": 39114,
-      "forks": 1903,
-      "issues": 103,
+      "stars": 39279,
+      "forks": 1909,
+      "issues": 94,
       "language": "Zig",
-      "pushedAt": "2026-10-31T18:10:40Z",
-      "pushedLabel": "push há 2h",
+      "pushedAt": "2026-11-01T01:05:43Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 929,
       "score": 73,
       "social": [],
@@ -508,6 +428,86 @@
           "kind": "busca"
         }
       ],
+      "rank": 5
+    },
+    {
+      "repo": "obra/superpowers",
+      "title": "Superpowers",
+      "type": "Metodologia para agentes",
+      "status": "Gravar agora",
+      "hook": "Este projeto tenta acabar com o vibe coding: o agente precisa planejar, testar e revisar antes de dizer que terminou.",
+      "thesis": "Skills em Markdown estão virando uma camada de engenharia reutilizável entre Claude, Codex, Cursor e outros agentes.",
+      "broll": [
+        "fluxo brainstorming → plano → TDD",
+        "lista de skills",
+        "README",
+        "vídeo demonstrativo"
+      ],
+      "url": "https://github.com/obra/superpowers",
+      "stars": 310090,
+      "forks": 27589,
+      "issues": 375,
+      "language": "Shell",
+      "pushedAt": "2026-10-29T23:35:34Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 665,
+      "score": 67,
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
+          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
+          "engagement": 324,
+          "publishedAt": "2026-09-26",
+          "verifiedAt": "01 OUT 2026"
+        },
+        {
+          "platform": "Bilibili",
+          "label": "Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "views": 17000,
+          "publishedAt": "2026-03-04",
+          "verifiedAt": "09 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/obra/superpowers",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 665 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Reddit · r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
+          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
+          "kind": "social"
+        },
+        {
+          "label": "Bilibili · Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=obra%20superpowers%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Superpowers%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Superpowers%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 6
     },
     {
@@ -515,7 +515,7 @@
       "title": "Claude-Code-Game-Studios",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,3 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 742 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "broll": [
         "GitHub Trending",
@@ -524,14 +524,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "stars": 31046,
-      "forks": 4254,
+      "stars": 31216,
+      "forks": 4277,
       "issues": 71,
       "language": "Shell",
       "pushedAt": "2026-10-19T02:43:42Z",
       "pushedLabel": "push há 13d",
-      "trendingStarsToday": 1347,
-      "score": 68,
+      "trendingStarsToday": 742,
+      "score": 64,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -541,7 +541,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,3 mil stars hoje",
+          "label": "GitHub Trending · 742 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -576,9 +576,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 107189,
-      "forks": 9536,
-      "issues": 278,
+      "stars": 107236,
+      "forks": 9548,
+      "issues": 281,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
       "pushedLabel": "push há 7d",
@@ -652,7 +652,7 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30309,
+      "stars": 30314,
       "forks": 2941,
       "issues": 887,
       "language": "TypeScript",
@@ -698,6 +698,15 @@
       "source": "Hacker News official API"
     },
     {
+      "title": "Where AI agents' social boundaries break: 5 LLMs try to form a government",
+      "url": "https://news.ycombinator.com/item?id=50311801",
+      "relatedUrl": "https://judgementlabs.app/blog/the-coalition-room",
+      "points": 2,
+      "comments": 2,
+      "publishedAt": "2026-10-31T00:06:00Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
       "url": "https://news.ycombinator.com/item?id=50305218",
       "relatedUrl": "https://sketch.wakeshift.ai/games/q5ucru",
@@ -716,30 +725,21 @@
       "source": "Hacker News official API"
     },
     {
+      "title": "Show HN: Fastbrowse, Browser agent that picks clicks with a System One model",
+      "url": "https://news.ycombinator.com/item?id=50311029",
+      "relatedUrl": "https://www.fastbrowse.ai/",
+      "points": 4,
+      "comments": 2,
+      "publishedAt": "2026-10-30T22:37:34Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "Why my AI agents keep lie-ing? How do we trust?",
       "url": "https://news.ycombinator.com/item?id=50310584",
       "relatedUrl": "https://dotpals.vercel.app/",
       "points": 2,
       "comments": 3,
       "publishedAt": "2026-10-30T21:47:31Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: Fastbrowse, Browser agent that picks clicks with a System One model",
-      "url": "https://news.ycombinator.com/item?id=50311029",
-      "relatedUrl": "https://www.fastbrowse.ai/",
-      "points": 3,
-      "comments": 2,
-      "publishedAt": "2026-10-30T22:37:34Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://news.ycombinator.com/item?id=50296486",
-      "relatedUrl": "https://labs.ycombinator.com/projects/games/index.html",
-      "points": 411,
-      "comments": 167,
-      "publishedAt": "2026-10-29T21:40:28Z",
       "source": "Hacker News official API"
     }
   ],
@@ -750,11 +750,11 @@
     },
     {
       "repo": "mattpocock/skills",
-      "starsToday": 882
+      "starsToday": 883
     },
     {
       "repo": "Donchitos/Claude-Code-Game-Studios",
-      "starsToday": 1347
+      "starsToday": 742
     },
     {
       "repo": "pingdotgg/t3code",
@@ -762,19 +762,19 @@
     },
     {
       "repo": "Renhuai123/ziwei-doushu",
-      "starsToday": 1093
+      "starsToday": 1092
     },
     {
       "repo": "milind-soni/OpenMausBot",
-      "starsToday": 1304
+      "starsToday": 1303
     },
     {
       "repo": "pbakaus/impeccable",
-      "starsToday": 1339
+      "starsToday": 1338
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 663
+      "starsToday": 665
     },
     {
       "repo": "lightpanda-io/browser",
@@ -782,15 +782,15 @@
     },
     {
       "repo": "HKUDS/DeepTutor",
-      "starsToday": 1035
+      "starsToday": 1034
     },
     {
       "repo": "Orkas-AI/Orkas",
-      "starsToday": 1118
+      "starsToday": 1044
     },
     {
       "repo": "THU-MAIC/OpenMAIC",
-      "starsToday": 115
+      "starsToday": 116
     }
   ],
   "monitored": [
@@ -807,9 +807,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 107189,
-      "forks": 9536,
-      "issues": 278,
+      "stars": 107236,
+      "forks": 9548,
+      "issues": 281,
       "language": "Python",
       "pushedAt": "2026-10-25T04:37:26Z",
       "pushedLabel": "push há 7d",
@@ -883,7 +883,7 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30309,
+      "stars": 30314,
       "forks": 2941,
       "issues": 887,
       "language": "TypeScript",
