@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T20:57:09.976Z",
-  "generatedLabel": "1 de nov. de 2026 · 17:57",
+  "generatedAt": "2026-11-02T02:16:16.966Z",
+  "generatedLabel": "1 de nov. de 2026 · 23:16",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 109047,
-      "forks": 9552,
-      "issues": 170,
+      "stars": 109395,
+      "forks": 9570,
+      "issues": 176,
       "language": "TypeScript",
-      "pushedAt": "2026-11-01T20:51:28Z",
+      "pushedAt": "2026-11-02T02:01:56Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1527,
+      "trendingStarsToday": 1526,
       "score": 78,
       "social": [
         {
@@ -143,7 +143,7 @@
       "title": "browser",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 827 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 825 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Lightpanda: the headless browser designed for AI and automation",
       "broll": [
         "GitHub Trending",
@@ -152,13 +152,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/lightpanda-io/browser",
-      "stars": 39989,
-      "forks": 1956,
+      "stars": 40235,
+      "forks": 1968,
       "issues": 102,
       "language": "Zig",
-      "pushedAt": "2026-11-01T09:35:11Z",
-      "pushedLabel": "push há 11h",
-      "trendingStarsToday": 827,
+      "pushedAt": "2026-11-02T02:12:39Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 825,
       "score": 72,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -169,7 +169,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 827 stars hoje",
+          "label": "GitHub Trending · 825 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -196,7 +196,7 @@
       "title": "OpenMausBot",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 919 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 922 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "broll": [
         "GitHub Trending",
@@ -205,13 +205,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/milind-soni/OpenMausBot",
-      "stars": 10420,
-      "forks": 1443,
-      "issues": 632,
+      "stars": 10608,
+      "forks": 1464,
+      "issues": 640,
       "language": "TypeScript",
       "pushedAt": "2026-11-01T19:48:30Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 919,
+      "pushedLabel": "push há 6h",
+      "trendingStarsToday": 922,
       "score": 71,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -222,7 +222,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 919 stars hoje",
+          "label": "GitHub Trending · 922 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -249,7 +249,7 @@
       "title": "public-apis",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 298 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 324 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A collective list of free APIs",
       "broll": [
         "GitHub Trending",
@@ -258,14 +258,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/public-apis/public-apis",
-      "stars": 494448,
-      "forks": 55190,
-      "issues": 2503,
+      "stars": 494689,
+      "forks": 55211,
+      "issues": 2508,
       "language": "Python",
       "pushedAt": "2026-11-01T18:22:08Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 298,
-      "score": 69,
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 324,
+      "score": 70,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -275,7 +275,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 298 stars hoje",
+          "label": "GitHub Trending · 324 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -302,7 +302,7 @@
       "title": "Claude-Code-Game-Studios",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 970 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 967 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "broll": [
         "GitHub Trending",
@@ -311,13 +311,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "stars": 32112,
-      "forks": 4375,
+      "stars": 32378,
+      "forks": 4410,
       "issues": 73,
       "language": "Shell",
       "pushedAt": "2026-10-19T02:43:42Z",
       "pushedLabel": "push há 14d",
-      "trendingStarsToday": 970,
+      "trendingStarsToday": 967,
       "score": 66,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -328,7 +328,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 970 stars hoje",
+          "label": "GitHub Trending · 967 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -355,7 +355,7 @@
       "title": "kornia",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 88 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 101 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "🐍 Geometric Computer Vision Library for Spatial AI",
       "broll": [
         "GitHub Trending",
@@ -364,13 +364,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/kornia/kornia",
-      "stars": 11735,
-      "forks": 1464,
-      "issues": 132,
+      "stars": 11826,
+      "forks": 1468,
+      "issues": 134,
       "language": "Python",
       "pushedAt": "2026-11-01T18:28:07Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 88,
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 101,
       "score": 56,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -381,7 +381,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 88 stars hoje",
+          "label": "GitHub Trending · 101 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -416,12 +416,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 107569,
-      "forks": 9590,
+      "stars": 107643,
+      "forks": 9599,
       "issues": 265,
       "language": "Python",
       "pushedAt": "2026-11-01T07:23:13Z",
-      "pushedLabel": "push há 14h",
+      "pushedLabel": "push há 19h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -492,12 +492,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30325,
+      "stars": 30332,
       "forks": 2940,
-      "issues": 888,
+      "issues": 889,
       "language": "TypeScript",
       "pushedAt": "2026-10-28T14:33:21Z",
-      "pushedLabel": "push há 4d",
+      "pushedLabel": "push há 5d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
@@ -532,8 +532,8 @@
       "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
       "url": "https://news.ycombinator.com/item?id=50325662",
       "relatedUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-      "points": 129,
-      "comments": 60,
+      "points": 152,
+      "comments": 74,
       "publishedAt": "2026-11-01T13:47:24Z",
       "source": "Hacker News official API"
     },
@@ -541,8 +541,8 @@
       "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
       "url": "https://news.ycombinator.com/item?id=50325253",
       "relatedUrl": "https://github.com/ivankovic/omnidiff",
-      "points": 77,
-      "comments": 30,
+      "points": 170,
+      "comments": 42,
       "publishedAt": "2026-11-01T13:02:30Z",
       "source": "Hacker News official API"
     },
@@ -550,9 +550,18 @@
       "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
       "url": "https://news.ycombinator.com/item?id=50328293",
       "relatedUrl": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
-      "points": 6,
-      "comments": 2,
+      "points": 36,
+      "comments": 6,
       "publishedAt": "2026-11-01T18:33:02Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Will Agent Resource Registries ever have their moment, the way AI gateways did?",
+      "url": "https://news.ycombinator.com/item?id=50324679",
+      "relatedUrl": "https://agenticresourcediscovery.org/",
+      "points": 3,
+      "comments": 2,
+      "publishedAt": "2026-11-01T11:39:35Z",
       "source": "Hacker News official API"
     },
     {
@@ -565,72 +574,63 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "Show HN: Fastbrowse, Browser agent that picks clicks with a System One model",
-      "url": "https://news.ycombinator.com/item?id=50311029",
-      "relatedUrl": "https://www.fastbrowse.ai/",
-      "points": 4,
-      "comments": 2,
-      "publishedAt": "2026-10-30T22:37:34Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Why my AI agents keep lie-ing? How do we trust?",
-      "url": "https://news.ycombinator.com/item?id=50310584",
-      "relatedUrl": "https://dotpals.vercel.app/",
-      "points": 2,
-      "comments": 3,
-      "publishedAt": "2026-10-30T21:47:31Z",
+      "title": "DeepSeek put the architecture for their always-on autonomous agent on GitHub",
+      "url": "https://news.ycombinator.com/item?id=50321277",
+      "relatedUrl": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "points": 7,
+      "comments": 0,
+      "publishedAt": "2026-10-31T23:31:26Z",
       "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "thedotmack/claude-mem",
-      "starsToday": 1527
+      "starsToday": 1526
     },
     {
       "repo": "lightpanda-io/browser",
-      "starsToday": 827
+      "starsToday": 825
     },
     {
       "repo": "shiyu-coder/Kronos",
-      "starsToday": 611
+      "starsToday": 630
     },
     {
       "repo": "pingdotgg/t3code",
-      "starsToday": 3100
+      "starsToday": 3094
     },
     {
       "repo": "milind-soni/OpenMausBot",
-      "starsToday": 919
+      "starsToday": 922
     },
     {
       "repo": "public-apis/public-apis",
-      "starsToday": 298
+      "starsToday": 324
     },
     {
       "repo": "cjpais/Handy",
-      "starsToday": 383
+      "starsToday": 339
     },
     {
       "repo": "Donchitos/Claude-Code-Game-Studios",
-      "starsToday": 970
+      "starsToday": 967
     },
     {
       "repo": "kornia/kornia",
-      "starsToday": 88
+      "starsToday": 101
     },
     {
       "repo": "beenuar/AiSOC",
-      "starsToday": 436
+      "starsToday": 446
     },
     {
       "repo": "Renhuai123/ziwei-doushu",
-      "starsToday": 953
+      "starsToday": 941
     },
     {
       "repo": "anomalyco/hex",
-      "starsToday": 1329
+      "starsToday": 1179
     }
   ],
   "monitored": [
@@ -647,12 +647,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 107569,
-      "forks": 9590,
+      "stars": 107643,
+      "forks": 9599,
       "issues": 265,
       "language": "Python",
       "pushedAt": "2026-11-01T07:23:13Z",
-      "pushedLabel": "push há 14h",
+      "pushedLabel": "push há 19h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -723,12 +723,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30325,
+      "stars": 30332,
       "forks": 2940,
-      "issues": 888,
+      "issues": 889,
       "language": "TypeScript",
       "pushedAt": "2026-10-28T14:33:21Z",
-      "pushedLabel": "push há 4d",
+      "pushedLabel": "push há 5d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
