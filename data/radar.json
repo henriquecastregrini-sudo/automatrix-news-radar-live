@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T23:46:49.887Z",
-  "generatedLabel": "2 de nov. de 2026 · 20:46",
+  "generatedAt": "2026-11-03T03:53:14.192Z",
+  "generatedLabel": "3 de nov. de 2026 · 00:53",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 110716,
-      "forks": 9651,
-      "issues": 120,
+      "stars": 110906,
+      "forks": 9667,
+      "issues": 126,
       "language": "TypeScript",
-      "pushedAt": "2026-11-02T20:37:31Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 1799,
+      "pushedAt": "2026-11-03T03:52:52Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1803,
       "score": 78,
       "social": [
         {
@@ -152,14 +152,14 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 310201,
-      "forks": 26093,
+      "stars": 310378,
+      "forks": 26107,
       "issues": 204,
       "language": "Shell",
       "pushedAt": "2026-11-01T11:42:33Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 968,
-      "score": 77,
+      "trendingStarsToday": 858,
+      "score": 76,
       "social": [
         {
           "platform": "YouTube · métrica via espelho",
@@ -211,7 +211,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 968 stars hoje",
+          "label": "GitHub Trending · 858 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -263,7 +263,7 @@
       "title": "agent-desktop",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 2,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 2,3 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Computer use CLI for AI agents",
       "broll": [
         "GitHub Trending",
@@ -272,13 +272,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/vercel-labs/agent-desktop",
-      "stars": 9541,
-      "forks": 646,
-      "issues": 122,
+      "stars": 10297,
+      "forks": 690,
+      "issues": 127,
       "language": "Rust",
-      "pushedAt": "2026-11-02T23:27:57Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 2243,
+      "pushedAt": "2026-11-03T02:40:27Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 2275,
       "score": 74,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -289,7 +289,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,2 mil stars hoje",
+          "label": "GitHub Trending · 2,3 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -316,7 +316,7 @@
       "title": "Scrapling",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 858 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 706 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "broll": [
         "GitHub Trending",
@@ -325,14 +325,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/D4Vinci/Scrapling",
-      "stars": 92796,
-      "forks": 9777,
+      "stars": 93144,
+      "forks": 9798,
       "issues": 9,
       "language": "Python",
       "pushedAt": "2026-11-02T20:16:23Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 858,
-      "score": 74,
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 706,
+      "score": 73,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -342,7 +342,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 858 stars hoje",
+          "label": "GitHub Trending · 706 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -378,13 +378,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "stars": 33518,
-      "forks": 4514,
-      "issues": 88,
+      "stars": 33732,
+      "forks": 4530,
+      "issues": 91,
       "language": "Shell",
       "pushedAt": "2026-10-19T02:43:42Z",
       "pushedLabel": "push há 15d",
-      "trendingStarsToday": 1380,
+      "trendingStarsToday": 1379,
       "score": 68,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -431,12 +431,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/kornia/kornia",
-      "stars": 12120,
-      "forks": 1486,
-      "issues": 142,
+      "stars": 12176,
+      "forks": 1493,
+      "issues": 144,
       "language": "Python",
       "pushedAt": "2026-11-02T21:45:17Z",
-      "pushedLabel": "push há 2h",
+      "pushedLabel": "push há 6h",
       "trendingStarsToday": 412,
       "score": 66,
       "social": [],
@@ -475,7 +475,7 @@
       "title": "worktrunk",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 136 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 77 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "broll": [
         "GitHub Trending",
@@ -484,14 +484,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/max-sixty/worktrunk",
-      "stars": 10016,
-      "forks": 360,
-      "issues": 67,
+      "stars": 10102,
+      "forks": 366,
+      "issues": 68,
       "language": "Rust",
-      "pushedAt": "2026-11-02T10:03:56Z",
-      "pushedLabel": "push há 14h",
-      "trendingStarsToday": 136,
-      "score": 58,
+      "pushedAt": "2026-11-03T03:34:59Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 77,
+      "score": 54,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -501,7 +501,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 136 stars hoje",
+          "label": "GitHub Trending · 77 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -536,8 +536,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 108075,
-      "forks": 9641,
+      "stars": 108138,
+      "forks": 9650,
       "issues": 267,
       "language": "Python",
       "pushedAt": "2026-11-01T07:23:13Z",
@@ -612,12 +612,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30357,
+      "stars": 30363,
       "forks": 2946,
       "issues": 891,
       "language": "TypeScript",
       "pushedAt": "2026-10-28T14:33:21Z",
-      "pushedLabel": "push há 5d",
+      "pushedLabel": "push há 6d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
@@ -652,8 +652,8 @@
       "title": "Last night an AI agent performed brain surgery on a mouse",
       "url": "https://news.ycombinator.com/item?id=50336138",
       "relatedUrl": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-      "points": 118,
-      "comments": 98,
+      "points": 125,
+      "comments": 100,
       "publishedAt": "2026-11-02T12:50:59Z",
       "source": "Hacker News official API"
     },
@@ -661,8 +661,8 @@
       "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
       "url": "https://news.ycombinator.com/item?id=50339913",
       "relatedUrl": "https://momentic.ai/",
-      "points": 110,
-      "comments": 72,
+      "points": 133,
+      "comments": 88,
       "publishedAt": "2026-11-02T17:05:25Z",
       "source": "Hacker News official API"
     },
@@ -670,8 +670,8 @@
       "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
       "url": "https://news.ycombinator.com/item?id=50337716",
       "relatedUrl": "https://longcat.ai/blog/longcat-2.5/",
-      "points": 74,
-      "comments": 21,
+      "points": 79,
+      "comments": 22,
       "publishedAt": "2026-11-02T15:00:26Z",
       "source": "Hacker News official API"
     },
@@ -679,7 +679,7 @@
       "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
       "url": "https://news.ycombinator.com/item?id=50325253",
       "relatedUrl": "https://github.com/ivankovic/omnidiff",
-      "points": 310,
+      "points": 311,
       "comments": 94,
       "publishedAt": "2026-11-01T13:02:30Z",
       "source": "Hacker News official API"
@@ -697,7 +697,7 @@
       "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
       "url": "https://news.ycombinator.com/item?id=50328293",
       "relatedUrl": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
-      "points": 58,
+      "points": 60,
       "comments": 6,
       "publishedAt": "2026-11-01T18:33:02Z",
       "source": "Hacker News official API"
@@ -706,35 +706,35 @@
   "trending": [
     {
       "repo": "vercel-labs/agent-desktop",
-      "starsToday": 2243
+      "starsToday": 2275
     },
     {
       "repo": "thedotmack/claude-mem",
-      "starsToday": 1799
+      "starsToday": 1803
     },
     {
       "repo": "D4Vinci/Scrapling",
-      "starsToday": 858
+      "starsToday": 706
     },
     {
       "repo": "hyprwm/Hyprland",
-      "starsToday": 508
+      "starsToday": 509
     },
     {
       "repo": "Donchitos/Claude-Code-Game-Studios",
-      "starsToday": 1380
+      "starsToday": 1379
     },
     {
       "repo": "FlashML-org/FreeToken",
-      "starsToday": 654
+      "starsToday": 653
     },
     {
       "repo": "pingdotgg/t3code",
-      "starsToday": 3216
+      "starsToday": 3229
     },
     {
       "repo": "shiyu-coder/Kronos",
-      "starsToday": 855
+      "starsToday": 857
     },
     {
       "repo": "kornia/kornia",
@@ -742,15 +742,15 @@
     },
     {
       "repo": "JustVugg/colibri",
-      "starsToday": 655
+      "starsToday": 675
     },
     {
       "repo": "mattpocock/skills",
-      "starsToday": 968
+      "starsToday": 858
     },
     {
       "repo": "max-sixty/worktrunk",
-      "starsToday": 136
+      "starsToday": 77
     }
   ],
   "monitored": [
@@ -767,8 +767,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 108075,
-      "forks": 9641,
+      "stars": 108138,
+      "forks": 9650,
       "issues": 267,
       "language": "Python",
       "pushedAt": "2026-11-01T07:23:13Z",
@@ -843,12 +843,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30357,
+      "stars": 30363,
       "forks": 2946,
       "issues": 891,
       "language": "TypeScript",
       "pushedAt": "2026-10-28T14:33:21Z",
-      "pushedLabel": "push há 5d",
+      "pushedLabel": "push há 6d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
