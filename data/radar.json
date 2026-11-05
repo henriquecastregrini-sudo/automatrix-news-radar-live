@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T22:23:51.927Z",
-  "generatedLabel": "4 de nov. de 2026 · 19:23",
+  "generatedAt": "2026-11-05T03:22:35.609Z",
+  "generatedLabel": "5 de nov. de 2026 · 00:22",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 313200,
-      "forks": 26277,
+      "stars": 313497,
+      "forks": 26293,
       "issues": 210,
       "language": "Shell",
       "pushedAt": "2026-11-04T11:45:30Z",
-      "pushedLabel": "push há 11h",
-      "trendingStarsToday": 1376,
+      "pushedLabel": "push há 16h",
+      "trendingStarsToday": 1379,
       "score": 79,
       "social": [
         {
@@ -205,13 +205,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 112768,
-      "forks": 9797,
-      "issues": 142,
+      "stars": 112960,
+      "forks": 9807,
+      "issues": 152,
       "language": "TypeScript",
-      "pushedAt": "2026-11-04T21:32:24Z",
+      "pushedAt": "2026-11-05T02:03:51Z",
       "pushedLabel": "push há 1h",
-      "trendingStarsToday": 1165,
+      "trendingStarsToday": 1172,
       "score": 76,
       "social": [
         {
@@ -272,13 +272,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/vercel-labs/agent-desktop",
-      "stars": 14896,
-      "forks": 1029,
-      "issues": 162,
+      "stars": 15388,
+      "forks": 1068,
+      "issues": 166,
       "language": "Rust",
-      "pushedAt": "2026-11-04T19:44:11Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 2463,
+      "pushedAt": "2026-11-05T02:49:01Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 2470,
       "score": 75,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -316,7 +316,7 @@
       "title": "spec-kit",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 810 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 808 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "💫 Toolkit to help you get started with SDD or any other process!",
       "broll": [
         "GitHub Trending",
@@ -325,13 +325,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/github/spec-kit",
-      "stars": 147244,
-      "forks": 13213,
-      "issues": 193,
+      "stars": 147387,
+      "forks": 13226,
+      "issues": 192,
       "language": "Python",
-      "pushedAt": "2026-11-04T21:56:18Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 810,
+      "pushedAt": "2026-11-04T22:34:18Z",
+      "pushedLabel": "push há 5h",
+      "trendingStarsToday": 808,
       "score": 74,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -342,7 +342,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 810 stars hoje",
+          "label": "GitHub Trending · 808 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -378,13 +378,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/NVIDIA/auto-ontology",
-      "stars": 4772,
-      "forks": 382,
-      "issues": 42,
+      "stars": 5354,
+      "forks": 415,
+      "issues": 43,
       "language": "Python",
       "pushedAt": "2026-11-04T19:31:19Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 2053,
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 2050,
       "score": 73,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -422,7 +422,7 @@
       "title": "worktrunk",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 524 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 531 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "broll": [
         "GitHub Trending",
@@ -431,13 +431,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/max-sixty/worktrunk",
-      "stars": 10989,
-      "forks": 410,
+      "stars": 11106,
+      "forks": 417,
       "issues": 72,
       "language": "Rust",
       "pushedAt": "2026-11-04T14:07:58Z",
-      "pushedLabel": "push há 8h",
-      "trendingStarsToday": 524,
+      "pushedLabel": "push há 13h",
+      "trendingStarsToday": 531,
       "score": 67,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -448,7 +448,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 524 stars hoje",
+          "label": "GitHub Trending · 531 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -475,7 +475,7 @@
       "title": "pr-agent",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 279 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 280 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
       "broll": [
         "GitHub Trending",
@@ -484,13 +484,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/The-PR-Agent/pr-agent",
-      "stars": 14705,
-      "forks": 2092,
-      "issues": 72,
+      "stars": 14831,
+      "forks": 2098,
+      "issues": 61,
       "language": "Python",
-      "pushedAt": "2026-11-04T22:23:05Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 279,
+      "pushedAt": "2026-11-05T00:12:31Z",
+      "pushedLabel": "push há 3h",
+      "trendingStarsToday": 280,
       "score": 63,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -501,7 +501,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 279 stars hoje",
+          "label": "GitHub Trending · 280 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -536,12 +536,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 108782,
-      "forks": 9716,
+      "stars": 108870,
+      "forks": 9724,
       "issues": 275,
       "language": "Python",
       "pushedAt": "2026-11-04T09:06:48Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 18h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -612,12 +612,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30447,
-      "forks": 2963,
-      "issues": 892,
+      "stars": 30462,
+      "forks": 2967,
+      "issues": 894,
       "language": "TypeScript",
       "pushedAt": "2026-11-04T11:33:40Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 16h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -649,30 +649,39 @@
   ],
   "news": [
     {
+      "title": "You'll need nerves of steel to work with AI agents",
+      "url": "https://news.ycombinator.com/item?id=50373149",
+      "relatedUrl": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+      "points": 41,
+      "comments": 52,
+      "publishedAt": "2026-11-05T00:01:30Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
       "url": "https://news.ycombinator.com/item?id=50366971",
       "relatedUrl": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "points": 53,
-      "comments": 71,
+      "points": 69,
+      "comments": 82,
       "publishedAt": "2026-11-04T15:28:31Z",
       "source": "Hacker News official API"
     },
     {
-      "title": "We Tested Coding Agent Harnesses. Thinking Harder Beat All of Them",
-      "url": "https://news.ycombinator.com/item?id=50371340",
-      "relatedUrl": "https://surgehq.ai/blog/benchmarking-coding-agent-harnesses",
-      "points": 4,
-      "comments": 6,
-      "publishedAt": "2026-11-04T20:52:13Z",
+      "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+      "url": "https://news.ycombinator.com/item?id=50371090",
+      "relatedUrl": "https://github.com/gauge-sh/gauge-cli",
+      "points": 22,
+      "comments": 4,
+      "publishedAt": "2026-11-04T20:31:30Z",
       "source": "Hacker News official API"
     },
     {
-      "title": "MCP vs. API vs. CLI: How should AI agents connect to your app?",
-      "url": "https://news.ycombinator.com/item?id=50365513",
-      "relatedUrl": "https://wasp.sh/blog/2026/11/03/mcp-vs-api-vs-cli-connect-ai-agents-to-your-app",
-      "points": 5,
-      "comments": 3,
-      "publishedAt": "2026-11-04T13:51:48Z",
+      "title": "Yassamin Ansari: Top of the Democratic agenda on day 1 pause on advanced AI dev",
+      "url": "https://news.ycombinator.com/item?id=50372911",
+      "relatedUrl": "https://twitter.com/RepYassAnsari/status/2118054336077127797",
+      "points": 3,
+      "comments": 7,
+      "publishedAt": "2026-11-04T23:31:00Z",
       "source": "Hacker News official API"
     },
     {
@@ -680,7 +689,7 @@
       "url": "https://news.ycombinator.com/item?id=50358314",
       "relatedUrl": "https://github.com/finic-ai/kairos",
       "points": 104,
-      "comments": 30,
+      "comments": 31,
       "publishedAt": "2026-11-03T21:16:48Z",
       "source": "Hacker News official API"
     },
@@ -692,57 +701,48 @@
       "comments": 4,
       "publishedAt": "2026-11-03T07:46:36Z",
       "source": "Hacker News official API"
-    },
-    {
-      "title": "AI agents hallucinate prices: LLM grounding with live data",
-      "url": "https://news.ycombinator.com/item?id=50350302",
-      "relatedUrl": "https://blog.apify.com/llm-grounding-with-live-data/",
-      "points": 15,
-      "comments": 0,
-      "publishedAt": "2026-11-03T10:41:28Z",
-      "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "NVIDIA/auto-ontology",
-      "starsToday": 2053
+      "starsToday": 2050
     },
     {
       "repo": "max-sixty/worktrunk",
-      "starsToday": 524
+      "starsToday": 531
     },
     {
       "repo": "mattpocock/skills",
-      "starsToday": 1376
+      "starsToday": 1379
     },
     {
       "repo": "floci-io/floci",
-      "starsToday": 1082
+      "starsToday": 1090
     },
     {
       "repo": "thedotmack/claude-mem",
-      "starsToday": 1165
+      "starsToday": 1172
     },
     {
       "repo": "vercel-labs/agent-desktop",
-      "starsToday": 2463
+      "starsToday": 2470
     },
     {
       "repo": "github/spec-kit",
-      "starsToday": 810
+      "starsToday": 808
     },
     {
       "repo": "The-PR-Agent/pr-agent",
-      "starsToday": 279
+      "starsToday": 280
     },
     {
       "repo": "harry0703/MoneyPrinterTurbo",
-      "starsToday": 615
+      "starsToday": 617
     },
     {
       "repo": "garrytan/gstack",
-      "starsToday": 285
+      "starsToday": 290
     },
     {
       "repo": "FareedKhan-dev/kimi-k3-in-c",
@@ -750,7 +750,7 @@
     },
     {
       "repo": "JiaFeiMiao-K-Cat/DiscImageStudio",
-      "starsToday": 1792
+      "starsToday": 1778
     }
   ],
   "monitored": [
@@ -767,12 +767,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 108782,
-      "forks": 9716,
+      "stars": 108870,
+      "forks": 9724,
       "issues": 275,
       "language": "Python",
       "pushedAt": "2026-11-04T09:06:48Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 18h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -843,12 +843,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30447,
-      "forks": 2963,
-      "issues": 892,
+      "stars": 30462,
+      "forks": 2967,
+      "issues": 894,
       "language": "TypeScript",
       "pushedAt": "2026-11-04T11:33:40Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 16h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
