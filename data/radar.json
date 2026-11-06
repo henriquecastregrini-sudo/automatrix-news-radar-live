@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T22:31:46.742Z",
-  "generatedLabel": "5 de nov. de 2026 · 19:31",
+  "generatedAt": "2026-11-06T03:19:50.809Z",
+  "generatedLabel": "6 de nov. de 2026 · 00:19",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 315103,
-      "forks": 26389,
+      "stars": 315441,
+      "forks": 26410,
       "issues": 216,
       "language": "Shell",
       "pushedAt": "2026-11-05T10:40:01Z",
-      "pushedLabel": "push há 12h",
-      "trendingStarsToday": 2053,
+      "pushedLabel": "push há 17h",
+      "trendingStarsToday": 2071,
       "score": 80,
       "social": [
         {
@@ -205,13 +205,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/D4Vinci/Scrapling",
-      "stars": 97888,
-      "forks": 10251,
+      "stars": 98129,
+      "forks": 10281,
       "issues": 14,
       "language": "Python",
       "pushedAt": "2026-11-05T18:01:47Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 1661,
+      "pushedLabel": "push há 9h",
+      "trendingStarsToday": 1655,
       "score": 78,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -258,12 +258,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/vercel-labs/agent-desktop",
-      "stars": 16745,
-      "forks": 1174,
-      "issues": 167,
+      "stars": 17051,
+      "forks": 1204,
+      "issues": 170,
       "language": "Rust",
-      "pushedAt": "2026-11-05T06:31:12Z",
-      "pushedLabel": "push há 16h",
+      "pushedAt": "2026-11-06T01:21:24Z",
+      "pushedLabel": "push há 2h",
       "trendingStarsToday": 2173,
       "score": 75,
       "social": [],
@@ -311,14 +311,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/NVIDIA/auto-ontology",
-      "stars": 7203,
-      "forks": 567,
+      "stars": 7571,
+      "forks": 603,
       "issues": 57,
       "language": "Python",
       "pushedAt": "2026-11-05T14:45:30Z",
-      "pushedLabel": "push há 8h",
-      "trendingStarsToday": 2707,
-      "score": 73,
+      "pushedLabel": "push há 13h",
+      "trendingStarsToday": 2679,
+      "score": 74,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -355,7 +355,7 @@
       "title": "gstack",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 608 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 612 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "broll": [
         "GitHub Trending",
@@ -364,13 +364,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/garrytan/gstack",
-      "stars": 139906,
-      "forks": 20690,
-      "issues": 70,
+      "stars": 140023,
+      "forks": 20700,
+      "issues": 72,
       "language": "TypeScript",
-      "pushedAt": "2026-11-05T22:23:32Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 608,
+      "pushedAt": "2026-11-06T02:08:26Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 612,
       "score": 72,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -381,7 +381,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 608 stars hoje",
+          "label": "GitHub Trending · 612 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -417,12 +417,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/max-sixty/worktrunk",
-      "stars": 11479,
-      "forks": 435,
-      "issues": 51,
+      "stars": 11572,
+      "forks": 440,
+      "issues": 48,
       "language": "Rust",
-      "pushedAt": "2026-11-05T08:57:29Z",
-      "pushedLabel": "push há 14h",
+      "pushedAt": "2026-11-06T00:31:20Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": 546,
       "score": 67,
       "social": [],
@@ -461,7 +461,7 @@
       "title": "ai-goofish-monitor",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 242 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 240 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
       "broll": [
         "GitHub Trending",
@@ -470,13 +470,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Usagi-org/ai-goofish-monitor",
-      "stars": 17489,
-      "forks": 2940,
-      "issues": 47,
+      "stars": 17724,
+      "forks": 2964,
+      "issues": 48,
       "language": "Python",
       "pushedAt": "2026-10-10T07:39:16Z",
       "pushedLabel": "push há 27d",
-      "trendingStarsToday": 242,
+      "trendingStarsToday": 240,
       "score": 56,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -487,7 +487,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 242 stars hoje",
+          "label": "GitHub Trending · 240 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -522,12 +522,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 109192,
-      "forks": 9762,
+      "stars": 109297,
+      "forks": 9770,
       "issues": 279,
       "language": "Python",
       "pushedAt": "2026-11-05T11:07:58Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 16h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -598,12 +598,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30531,
-      "forks": 2978,
-      "issues": 888,
+      "stars": 30539,
+      "forks": 2979,
+      "issues": 886,
       "language": "TypeScript",
       "pushedAt": "2026-11-04T11:33:40Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -639,7 +639,7 @@
       "url": "https://news.ycombinator.com/item?id=50373149",
       "relatedUrl": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
       "points": 56,
-      "comments": 80,
+      "comments": 81,
       "publishedAt": "2026-11-05T00:01:30Z",
       "source": "Hacker News official API"
     },
@@ -647,8 +647,8 @@
       "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
       "url": "https://news.ycombinator.com/item?id=50381687",
       "relatedUrl": "https://github.com/rivet-dev/rivet",
-      "points": 63,
-      "comments": 30,
+      "points": 77,
+      "comments": 43,
       "publishedAt": "2026-11-05T17:17:42Z",
       "source": "Hacker News official API"
     },
@@ -656,8 +656,8 @@
       "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
       "url": "https://news.ycombinator.com/item?id=50366971",
       "relatedUrl": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "points": 101,
-      "comments": 166,
+      "points": 102,
+      "comments": 169,
       "publishedAt": "2026-11-04T15:28:31Z",
       "source": "Hacker News official API"
     },
@@ -666,7 +666,7 @@
       "url": "https://news.ycombinator.com/item?id=50371090",
       "relatedUrl": "https://github.com/gauge-sh/gauge-cli",
       "points": 40,
-      "comments": 9,
+      "comments": 10,
       "publishedAt": "2026-11-04T20:31:30Z",
       "source": "Hacker News official API"
     },
@@ -675,7 +675,7 @@
       "url": "https://news.ycombinator.com/item?id=50372911",
       "relatedUrl": "https://twitter.com/RepYassAnsari/status/2118054336077127797",
       "points": 4,
-      "comments": 10,
+      "comments": 11,
       "publishedAt": "2026-11-04T23:31:00Z",
       "source": "Hacker News official API"
     },
@@ -692,23 +692,23 @@
   "trending": [
     {
       "repo": "NVIDIA/auto-ontology",
-      "starsToday": 2707
+      "starsToday": 2679
     },
     {
       "repo": "mattpocock/skills",
-      "starsToday": 2053
+      "starsToday": 2071
     },
     {
       "repo": "garrytan/gstack",
-      "starsToday": 608
+      "starsToday": 612
     },
     {
       "repo": "Usagi-org/ai-goofish-monitor",
-      "starsToday": 242
+      "starsToday": 240
     },
     {
       "repo": "D4Vinci/Scrapling",
-      "starsToday": 1661
+      "starsToday": 1655
     },
     {
       "repo": "vercel-labs/agent-desktop",
@@ -720,23 +720,23 @@
     },
     {
       "repo": "lz4/lz4",
-      "starsToday": 16
+      "starsToday": 23
     },
     {
       "repo": "google/skills",
-      "starsToday": 199
+      "starsToday": 211
     },
     {
       "repo": "vercel-labs/agent-browser",
-      "starsToday": 181
+      "starsToday": 150
     },
     {
       "repo": "scenario-labs/skills",
-      "starsToday": 674
+      "starsToday": 667
     },
     {
       "repo": "ConardLi/garden-skills",
-      "starsToday": 241
+      "starsToday": 175
     }
   ],
   "monitored": [
@@ -753,12 +753,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 109192,
-      "forks": 9762,
+      "stars": 109297,
+      "forks": 9770,
       "issues": 279,
       "language": "Python",
       "pushedAt": "2026-11-05T11:07:58Z",
-      "pushedLabel": "push há 11h",
+      "pushedLabel": "push há 16h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -829,12 +829,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30531,
-      "forks": 2978,
-      "issues": 888,
+      "stars": 30539,
+      "forks": 2979,
+      "issues": 886,
       "language": "TypeScript",
       "pushedAt": "2026-11-04T11:33:40Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
