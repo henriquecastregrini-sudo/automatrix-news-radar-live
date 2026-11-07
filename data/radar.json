@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T21:56:00.750Z",
-  "generatedLabel": "6 de nov. de 2026 · 18:55",
+  "generatedAt": "2026-11-07T02:39:16.547Z",
+  "generatedLabel": "6 de nov. de 2026 · 23:39",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 316615,
-      "forks": 26485,
+      "stars": 316792,
+      "forks": 26504,
       "issues": 217,
       "language": "Shell",
       "pushedAt": "2026-11-05T10:40:01Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 2058,
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 2070,
       "score": 80,
       "social": [
         {
@@ -205,13 +205,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/NVIDIA/auto-ontology",
-      "stars": 8894,
-      "forks": 716,
-      "issues": 61,
+      "stars": 9133,
+      "forks": 729,
+      "issues": 63,
       "language": "Python",
-      "pushedAt": "2026-11-06T20:57:20Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 2005,
+      "pushedAt": "2026-11-06T23:03:36Z",
+      "pushedLabel": "push há 4h",
+      "trendingStarsToday": 2015,
       "score": 74,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -249,7 +249,7 @@
       "title": "skills",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 532 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 534 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Agent Skills for Google products and technologies",
       "broll": [
         "GitHub Trending",
@@ -258,13 +258,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/google/skills",
-      "stars": 22799,
-      "forks": 1919,
+      "stars": 22868,
+      "forks": 1922,
       "issues": 26,
       "language": "Python",
-      "pushedAt": "2026-11-06T21:21:47Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 532,
+      "pushedAt": "2026-11-06T22:01:22Z",
+      "pushedLabel": "push há 5h",
+      "trendingStarsToday": 534,
       "score": 68,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -275,7 +275,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 532 stars hoje",
+          "label": "GitHub Trending · 534 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -302,7 +302,7 @@
       "title": "rust",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 186 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 192 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Empowering everyone to build reliable and efficient software.",
       "broll": [
         "GitHub Trending",
@@ -311,14 +311,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/rust-lang/rust",
-      "stars": 121381,
-      "forks": 17363,
-      "issues": 12619,
+      "stars": 121475,
+      "forks": 17367,
+      "issues": 12616,
       "language": "Rust",
-      "pushedAt": "2026-11-06T21:22:32Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 186,
-      "score": 64,
+      "pushedAt": "2026-11-07T00:47:39Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 192,
+      "score": 65,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -328,7 +328,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 186 stars hoje",
+          "label": "GitHub Trending · 192 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -363,12 +363,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 109658,
-      "forks": 9799,
+      "stars": 109714,
+      "forks": 9809,
       "issues": 281,
       "language": "Python",
       "pushedAt": "2026-11-06T12:57:05Z",
-      "pushedLabel": "push há 9h",
+      "pushedLabel": "push há 14h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -439,12 +439,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30575,
+      "stars": 30581,
       "forks": 2982,
       "issues": 887,
       "language": "TypeScript",
       "pushedAt": "2026-11-04T11:33:40Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
@@ -479,36 +479,45 @@
       "title": "Perplexity launches AI agents for work",
       "url": "https://news.ycombinator.com/item?id=50395866",
       "relatedUrl": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-      "points": 57,
-      "comments": 48,
+      "points": 59,
+      "comments": 51,
       "publishedAt": "2026-11-06T17:59:41Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+      "url": "https://news.ycombinator.com/item?id=50397325",
+      "relatedUrl": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+      "points": 25,
+      "comments": 1,
+      "publishedAt": "2026-11-06T19:41:20Z",
       "source": "Hacker News official API"
     },
     {
       "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
       "url": "https://news.ycombinator.com/item?id=50393235",
       "relatedUrl": "https://github.com/zalando-incubator/agentic-identity-broker",
-      "points": 18,
+      "points": 21,
       "comments": 3,
       "publishedAt": "2026-11-06T15:07:47Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Stop running everything through LLMs: How I fixed my research agent",
-      "url": "https://news.ycombinator.com/item?id=50389479",
-      "relatedUrl": "https://www.tinyfish.ai/blog/inside-tinyresearch",
-      "points": 19,
-      "comments": 0,
-      "publishedAt": "2026-11-06T08:04:58Z",
       "source": "Hacker News official API"
     },
     {
       "title": "AI coding agent setups from 663 Hacker News comments",
       "url": "https://news.ycombinator.com/item?id=50394444",
       "relatedUrl": "https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html",
-      "points": 12,
+      "points": 18,
       "comments": 3,
       "publishedAt": "2026-11-06T16:23:51Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Stop running everything through LLMs: How I fixed my research agent",
+      "url": "https://news.ycombinator.com/item?id=50389479",
+      "relatedUrl": "https://www.tinyfish.ai/blog/inside-tinyresearch",
+      "points": 21,
+      "comments": 0,
+      "publishedAt": "2026-11-06T08:04:58Z",
       "source": "Hacker News official API"
     },
     {
@@ -519,65 +528,56 @@
       "comments": 58,
       "publishedAt": "2026-11-05T17:17:42Z",
       "source": "Hacker News official API"
-    },
-    {
-      "title": "You'll need nerves of steel to work with AI agents",
-      "url": "https://news.ycombinator.com/item?id=50373149",
-      "relatedUrl": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
-      "points": 57,
-      "comments": 82,
-      "publishedAt": "2026-11-05T00:01:30Z",
-      "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "zed-industries/zed",
-      "starsToday": 292
+      "starsToday": 306
     },
     {
       "repo": "NVIDIA/auto-ontology",
-      "starsToday": 2005
+      "starsToday": 2015
     },
     {
       "repo": "rails/rails",
-      "starsToday": 152
+      "starsToday": 142
     },
     {
       "repo": "mpv-player/mpv",
-      "starsToday": 36
+      "starsToday": 37
     },
     {
       "repo": "rust-lang/rust",
-      "starsToday": 186
+      "starsToday": 192
     },
     {
       "repo": "react/react",
-      "starsToday": 244
+      "starsToday": 248
     },
     {
       "repo": "angular/angular",
-      "starsToday": 128
+      "starsToday": 135
     },
     {
       "repo": "symfony/symfony",
-      "starsToday": 89
+      "starsToday": 128
     },
     {
       "repo": "prometheus/prometheus",
-      "starsToday": 140
+      "starsToday": 148
     },
     {
       "repo": "google/skills",
-      "starsToday": 532
+      "starsToday": 534
     },
     {
       "repo": "microsoft/vscode",
-      "starsToday": 295
+      "starsToday": 301
     },
     {
-      "repo": "lz4/lz4",
-      "starsToday": 313
+      "repo": "nushell/nushell",
+      "starsToday": 131
     }
   ],
   "monitored": [
@@ -594,12 +594,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 109658,
-      "forks": 9799,
+      "stars": 109714,
+      "forks": 9809,
       "issues": 281,
       "language": "Python",
       "pushedAt": "2026-11-06T12:57:05Z",
-      "pushedLabel": "push há 9h",
+      "pushedLabel": "push há 14h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -670,12 +670,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30575,
+      "stars": 30581,
       "forks": 2982,
       "issues": 887,
       "language": "TypeScript",
       "pushedAt": "2026-11-04T11:33:40Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
