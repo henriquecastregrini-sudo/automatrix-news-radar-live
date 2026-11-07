@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T02:39:16.547Z",
-  "generatedLabel": "6 de nov. de 2026 · 23:39",
+  "generatedAt": "2026-11-07T16:39:58.838Z",
+  "generatedLabel": "7 de nov. de 2026 · 13:39",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -72,6 +72,59 @@
   ],
   "repos": [
     {
+      "repo": "sherlock-project/sherlock",
+      "title": "sherlock",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 1,8 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Hunt down social media accounts by username across social networks",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/sherlock-project/sherlock",
+      "stars": 99906,
+      "forks": 11820,
+      "issues": 362,
+      "language": "Python",
+      "pushedAt": "2026-11-07T05:13:07Z",
+      "pushedLabel": "push há 11h",
+      "trendingStarsToday": 1819,
+      "score": 78,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,8 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=sherlock-project%20sherlock%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=sherlock%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=sherlock%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "repo": "mattpocock/skills",
       "title": "Skills para agentes",
       "type": "Skills para agentes",
@@ -85,14 +138,14 @@
         "vídeo do criador"
       ],
       "url": "https://github.com/mattpocock/skills",
-      "stars": 316792,
-      "forks": 26504,
-      "issues": 217,
+      "stars": 317399,
+      "forks": 26560,
+      "issues": 219,
       "language": "Shell",
       "pushedAt": "2026-11-05T10:40:01Z",
       "pushedLabel": "push há 2d",
-      "trendingStarsToday": 2070,
-      "score": 80,
+      "trendingStarsToday": 1111,
+      "score": 71,
       "social": [
         {
           "platform": "YouTube · métrica via espelho",
@@ -144,7 +197,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,1 mil stars hoje",
+          "label": "GitHub Trending · 1,1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -189,67 +242,135 @@
           "kind": "busca"
         }
       ],
-      "rank": 1
+      "rank": 2
     },
     {
-      "repo": "NVIDIA/auto-ontology",
-      "title": "auto-ontology",
-      "type": "Novo no GitHub Trending",
+      "repo": "cloudflare/security-audit-skill",
+      "title": "Security Audit Skill",
+      "type": "Auditoria de segurança por agentes",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "hook": "A Cloudflare publicou uma skill que obriga agentes independentes a encontrar, contestar e verificar vulnerabilidades.",
+      "thesis": "Auditoria com IA fica mais confiável quando descoberta e validação são separadas, com evidências estruturadas e verificadores adversariais.",
+      "broll": [
+        "seis fases da auditoria",
+        "coverage ledger",
+        "findings.json",
+        "post técnico da Cloudflare"
+      ],
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "stars": 65198,
+      "forks": 4230,
+      "issues": 116,
+      "language": "JavaScript",
+      "pushedAt": "2026-09-14T19:29:02Z",
+      "pushedLabel": "push há 54d",
+      "trendingStarsToday": 2088,
+      "score": 70,
+      "social": [
+        {
+          "platform": "YouTube",
+          "label": "Signal Coders · Security Audit Skill · 648 views · 12 likes · sinal inicial de 17 SET",
+          "url": "https://www.youtube.com/watch?v=D6Iw15EHPfA",
+          "views": 648,
+          "likes": 12,
+          "publishedAt": "2026-09-17",
+          "verifiedAt": "19 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 2,1 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "YouTube · Signal Coders · Security Audit Skill · 648 views · 12 likes · sinal inicial de 17 SET",
+          "url": "https://www.youtube.com/watch?v=D6Iw15EHPfA",
+          "kind": "social"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=cloudflare%20security-audit-skill%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Security%20Audit%20Skill%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Security%20Audit%20Skill%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "repo": "anthropics/skills",
+      "title": "skills",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 386 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Public repository for Agent Skills",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "stars": 9133,
-      "forks": 729,
-      "issues": 63,
+      "url": "https://github.com/anthropics/skills",
+      "stars": 188510,
+      "forks": 22227,
+      "issues": 1491,
       "language": "Python",
-      "pushedAt": "2026-11-06T23:03:36Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 2015,
-      "score": 74,
+      "pushedAt": "2026-11-06T22:32:32Z",
+      "pushedLabel": "push há 18h",
+      "trendingStarsToday": 386,
+      "score": 70,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/NVIDIA/auto-ontology",
+          "url": "https://github.com/anthropics/skills",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2 mil stars hoje",
+          "label": "GitHub Trending · 386 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=NVIDIA%20auto-ontology%20AI",
+          "url": "https://www.youtube.com/results?search_query=anthropics%20skills%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=auto-ontology%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=skills%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=auto-ontology%20AI",
+          "url": "https://www.tiktok.com/search?q=skills%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 2
+      "rank": 4
     },
     {
       "repo": "google/skills",
       "title": "skills",
       "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 534 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 449 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Agent Skills for Google products and technologies",
       "broll": [
         "GitHub Trending",
@@ -258,14 +379,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/google/skills",
-      "stars": 22868,
-      "forks": 1922,
+      "stars": 23183,
+      "forks": 1944,
       "issues": 26,
       "language": "Python",
-      "pushedAt": "2026-11-06T22:01:22Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 534,
-      "score": 68,
+      "pushedAt": "2026-11-07T14:41:39Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 449,
+      "score": 67,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -275,7 +396,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 534 stars hoje",
+          "label": "GitHub Trending · 449 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -295,60 +416,113 @@
           "kind": "busca"
         }
       ],
-      "rank": 3
+      "rank": 5
     },
     {
-      "repo": "rust-lang/rust",
-      "title": "rust",
+      "repo": "vercel-labs/agent-browser",
+      "title": "agent-browser",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 192 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Empowering everyone to build reliable and efficient software.",
+      "hook": "Este repositório ganhou 180 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Browser automation CLI for AI agents",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/rust-lang/rust",
-      "stars": 121475,
-      "forks": 17367,
-      "issues": 12616,
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "stars": 46588,
+      "forks": 3192,
+      "issues": 492,
       "language": "Rust",
-      "pushedAt": "2026-11-07T00:47:39Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 192,
-      "score": 65,
+      "pushedAt": "2026-11-07T05:27:47Z",
+      "pushedLabel": "push há 11h",
+      "trendingStarsToday": 180,
+      "score": 63,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/rust-lang/rust",
+          "url": "https://github.com/vercel-labs/agent-browser",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 192 stars hoje",
+          "label": "GitHub Trending · 180 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=rust-lang%20rust%20AI",
+          "url": "https://www.youtube.com/results?search_query=vercel-labs%20agent-browser%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=rust%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=agent-browser%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=rust%20AI",
+          "url": "https://www.tiktok.com/search?q=agent-browser%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 6
+    },
+    {
+      "repo": "meta/astryx",
+      "title": "astryx",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 185 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "An open source design system that's fully customizable and agent ready",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/meta/astryx",
+      "stars": 14251,
+      "forks": 1174,
+      "issues": 727,
+      "language": "TypeScript",
+      "pushedAt": "2026-11-07T16:38:18Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 185,
+      "score": 61,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/meta/astryx",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 185 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=meta%20astryx%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=astryx%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=astryx%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 7
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -363,12 +537,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 109714,
-      "forks": 9809,
-      "issues": 281,
+      "stars": 109922,
+      "forks": 9830,
+      "issues": 285,
       "language": "Python",
       "pushedAt": "2026-11-06T12:57:05Z",
-      "pushedLabel": "push há 14h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -424,7 +598,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 8
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -439,9 +613,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30581,
-      "forks": 2982,
-      "issues": 887,
+      "stars": 30613,
+      "forks": 2984,
+      "issues": 888,
       "language": "TypeScript",
       "pushedAt": "2026-11-04T11:33:40Z",
       "pushedLabel": "push há 3d",
@@ -471,7 +645,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 9
     }
   ],
   "news": [
@@ -479,8 +653,8 @@
       "title": "Perplexity launches AI agents for work",
       "url": "https://news.ycombinator.com/item?id=50395866",
       "relatedUrl": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-      "points": 59,
-      "comments": 51,
+      "points": 61,
+      "comments": 54,
       "publishedAt": "2026-11-06T17:59:41Z",
       "source": "Hacker News official API"
     },
@@ -488,35 +662,35 @@
       "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
       "url": "https://news.ycombinator.com/item?id=50397325",
       "relatedUrl": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
-      "points": 25,
+      "points": 30,
       "comments": 1,
       "publishedAt": "2026-11-06T19:41:20Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-      "url": "https://news.ycombinator.com/item?id=50393235",
-      "relatedUrl": "https://github.com/zalando-incubator/agentic-identity-broker",
-      "points": 21,
-      "comments": 3,
-      "publishedAt": "2026-11-06T15:07:47Z",
       "source": "Hacker News official API"
     },
     {
       "title": "AI coding agent setups from 663 Hacker News comments",
       "url": "https://news.ycombinator.com/item?id=50394444",
       "relatedUrl": "https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html",
-      "points": 18,
+      "points": 24,
       "comments": 3,
       "publishedAt": "2026-11-06T16:23:51Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+      "url": "https://news.ycombinator.com/item?id=50393235",
+      "relatedUrl": "https://github.com/zalando-incubator/agentic-identity-broker",
+      "points": 22,
+      "comments": 3,
+      "publishedAt": "2026-11-06T15:07:47Z",
       "source": "Hacker News official API"
     },
     {
       "title": "Stop running everything through LLMs: How I fixed my research agent",
       "url": "https://news.ycombinator.com/item?id=50389479",
       "relatedUrl": "https://www.tinyfish.ai/blog/inside-tinyresearch",
-      "points": 21,
-      "comments": 0,
+      "points": 22,
+      "comments": 1,
       "publishedAt": "2026-11-06T08:04:58Z",
       "source": "Hacker News official API"
     },
@@ -524,60 +698,60 @@
       "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
       "url": "https://news.ycombinator.com/item?id=50381687",
       "relatedUrl": "https://github.com/rivet-dev/rivet",
-      "points": 118,
-      "comments": 58,
+      "points": 119,
+      "comments": 59,
       "publishedAt": "2026-11-05T17:17:42Z",
       "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
-      "repo": "zed-industries/zed",
-      "starsToday": 306
+      "repo": "vercel-labs/agent-browser",
+      "starsToday": 180
     },
     {
-      "repo": "NVIDIA/auto-ontology",
-      "starsToday": 2015
-    },
-    {
-      "repo": "rails/rails",
-      "starsToday": 142
-    },
-    {
-      "repo": "mpv-player/mpv",
-      "starsToday": 37
-    },
-    {
-      "repo": "rust-lang/rust",
-      "starsToday": 192
-    },
-    {
-      "repo": "react/react",
-      "starsToday": 248
-    },
-    {
-      "repo": "angular/angular",
-      "starsToday": 135
-    },
-    {
-      "repo": "symfony/symfony",
-      "starsToday": 128
-    },
-    {
-      "repo": "prometheus/prometheus",
-      "starsToday": 148
+      "repo": "cloudflare/security-audit-skill",
+      "starsToday": 2088
     },
     {
       "repo": "google/skills",
-      "starsToday": 534
+      "starsToday": 449
     },
     {
-      "repo": "microsoft/vscode",
-      "starsToday": 301
+      "repo": "mattpocock/skills",
+      "starsToday": 1111
     },
     {
-      "repo": "nushell/nushell",
-      "starsToday": 131
+      "repo": "anthropics/skills",
+      "starsToday": 386
+    },
+    {
+      "repo": "meta/astryx",
+      "starsToday": 185
+    },
+    {
+      "repo": "prometheus/prometheus",
+      "starsToday": 325
+    },
+    {
+      "repo": "sherlock-project/sherlock",
+      "starsToday": 1819
+    },
+    {
+      "repo": "milind-soni/OpenMausBot",
+      "starsToday": 1986
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "starsToday": 350
+    },
+    {
+      "repo": "tailwindlabs/tailwindcss",
+      "starsToday": 181
+    },
+    {
+      "repo": "mbillow/localthings",
+      "starsToday": 184
     }
   ],
   "monitored": [
@@ -594,12 +768,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 109714,
-      "forks": 9809,
-      "issues": 281,
+      "stars": 109922,
+      "forks": 9830,
+      "issues": 285,
       "language": "Python",
       "pushedAt": "2026-11-06T12:57:05Z",
-      "pushedLabel": "push há 14h",
+      "pushedLabel": "push há 1d",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -655,7 +829,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 8
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -670,9 +844,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30581,
-      "forks": 2982,
-      "issues": 887,
+      "stars": 30613,
+      "forks": 2984,
+      "issues": 888,
       "language": "TypeScript",
       "pushedAt": "2026-11-04T11:33:40Z",
       "pushedLabel": "push há 3d",
@@ -702,7 +876,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 9
     }
   ]
 }
