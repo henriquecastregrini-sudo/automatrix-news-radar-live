@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T02:14:23.559Z",
-  "generatedLabel": "7 de nov. de 2026 · 23:14",
+  "generatedAt": "2026-11-08T16:48:29.424Z",
+  "generatedLabel": "8 de nov. de 2026 · 13:48",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -76,7 +76,7 @@
       "title": "sherlock",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,8 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 2,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Hunt down social media accounts by username across social networks",
       "broll": [
         "GitHub Trending",
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/sherlock-project/sherlock",
-      "stars": 100596,
-      "forks": 11883,
-      "issues": 365,
+      "stars": 102618,
+      "forks": 12072,
+      "issues": 371,
       "language": "Python",
-      "pushedAt": "2026-11-07T05:13:07Z",
-      "pushedLabel": "push há 21h",
-      "trendingStarsToday": 1766,
+      "pushedAt": "2026-11-08T05:13:22Z",
+      "pushedLabel": "push há 12h",
+      "trendingStarsToday": 2372,
       "score": 78,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -102,7 +102,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,8 mil stars hoje",
+          "label": "GitHub Trending · 2,4 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -125,199 +125,11 @@
       "rank": 1
     },
     {
-      "repo": "mattpocock/skills",
-      "title": "Skills para agentes",
-      "type": "Skills para agentes",
-      "status": "Gravar agora",
-      "hook": "O jeito de programar com IA mudou: quem ainda usa só prompt está ficando para trás.",
-      "thesis": "Conhecimento de engenharia virou infraestrutura reutilizável para agentes.",
-      "broll": [
-        "README",
-        "diretório .agents",
-        "GitHub Trending",
-        "vídeo do criador"
-      ],
-      "url": "https://github.com/mattpocock/skills",
-      "stars": 317764,
-      "forks": 26583,
-      "issues": 219,
-      "language": "Shell",
-      "pushedAt": "2026-11-05T10:40:01Z",
-      "pushedLabel": "push há 3d",
-      "trendingStarsToday": 1100,
-      "score": 71,
-      "social": [
-        {
-          "platform": "YouTube · métrica via espelho",
-          "label": "Matt Pocock · lançamento skills v1.3 (/pr, /implement-spec, /retro) · 214,1k views e 3,6k likes exibidos por espelho em 08 OUT; página nativa do YouTube limitou a verificação",
-          "url": "https://www.youtube.com/watch?v=BsJGo1wFTvQ",
-          "views": 214144,
-          "likes": 3600,
-          "publishedAt": "2026-10-05",
-          "verifiedAt": "08 OUT 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/claudeskills · usuários comparam Matt Pocock, Superpowers e OpenSpec; discussão sobre utilidade vs. custo de contexto · 85 votos públicos · publicado 03 OUT",
-          "url": "https://www.reddit.com/r/claudeskills/comments/1wwqyom/matt_pocock_superpowers_openspec_do_you_pick_one/",
-          "engagement": 85,
-          "publishedAt": "2026-10-03",
-          "verifiedAt": "07 OUT 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/AgentSkills · comparação de packs de skills que inclui mattpocock/skills · 105 votos públicos · publicado 05 SET",
-          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
-          "engagement": 105,
-          "publishedAt": "2026-09-05",
-          "verifiedAt": "01 OUT 2026"
-        },
-        {
-          "platform": "Reddit",
-          "label": "r/ClaudeAI · skills com subagentes especialistas · 3 votos públicos · publicado 23 SET",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnszxk/matt_pococks_skills_my_own_specialist_subagents/",
-          "engagement": 3,
-          "publishedAt": "2026-09-23",
-          "verifiedAt": "25 SET 2026"
-        },
-        {
-          "platform": "YouTube",
-          "label": "Matt Pocock · workflow completo · 424k views · publicado 16 JUL",
-          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
-          "views": 424060,
-          "publishedAt": "2026-07-16",
-          "verifiedAt": "07 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/mattpocock/skills",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,1 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · métrica via espelho · Matt Pocock · lançamento skills v1.3 (/pr, /implement-spec, /retro) · 214,1k views e 3,6k likes exibidos por espelho em 08 OUT; página nativa do YouTube limitou a verificação",
-          "url": "https://www.youtube.com/watch?v=BsJGo1wFTvQ",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/claudeskills · usuários comparam Matt Pocock, Superpowers e OpenSpec; discussão sobre utilidade vs. custo de contexto · 85 votos públicos · publicado 03 OUT",
-          "url": "https://www.reddit.com/r/claudeskills/comments/1wwqyom/matt_pocock_superpowers_openspec_do_you_pick_one/",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/AgentSkills · comparação de packs de skills que inclui mattpocock/skills · 105 votos públicos · publicado 05 SET",
-          "url": "https://www.reddit.com/r/AgentSkills/comments/1w7zmqf/superpowers_vs_agent_skills_vs_matt_pocock_which/",
-          "kind": "social"
-        },
-        {
-          "label": "Reddit · r/ClaudeAI · skills com subagentes especialistas · 3 votos públicos · publicado 23 SET",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnszxk/matt_pococks_skills_my_own_specialist_subagents/",
-          "kind": "social"
-        },
-        {
-          "label": "YouTube · Matt Pocock · workflow completo · 424k views · publicado 16 JUL",
-          "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=mattpocock%20skills%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Skills%20para%20agentes%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Skills%20para%20agentes%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "repo": "cloudflare/security-audit-skill",
-      "title": "Security Audit Skill",
-      "type": "Auditoria de segurança por agentes",
-      "status": "Gravar agora",
-      "hook": "A Cloudflare publicou uma skill que obriga agentes independentes a encontrar, contestar e verificar vulnerabilidades.",
-      "thesis": "Auditoria com IA fica mais confiável quando descoberta e validação são separadas, com evidências estruturadas e verificadores adversariais.",
-      "broll": [
-        "seis fases da auditoria",
-        "coverage ledger",
-        "findings.json",
-        "post técnico da Cloudflare"
-      ],
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": 65805,
-      "forks": 4274,
-      "issues": 119,
-      "language": "JavaScript",
-      "pushedAt": "2026-09-14T19:29:02Z",
-      "pushedLabel": "push há 54d",
-      "trendingStarsToday": 2085,
-      "score": 70,
-      "social": [
-        {
-          "platform": "YouTube",
-          "label": "Signal Coders · Security Audit Skill · 648 views · 12 likes · sinal inicial de 17 SET",
-          "url": "https://www.youtube.com/watch?v=D6Iw15EHPfA",
-          "views": 648,
-          "likes": 12,
-          "publishedAt": "2026-09-17",
-          "verifiedAt": "19 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/cloudflare/security-audit-skill",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 2,1 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "YouTube · Signal Coders · Security Audit Skill · 648 views · 12 likes · sinal inicial de 17 SET",
-          "url": "https://www.youtube.com/watch?v=D6Iw15EHPfA",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=cloudflare%20security-audit-skill%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Security%20Audit%20Skill%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Security%20Audit%20Skill%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "repo": "anthropics/skills",
       "title": "skills",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 390 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 793 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Public repository for Agent Skills",
       "broll": [
         "GitHub Trending",
@@ -326,14 +138,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/skills",
-      "stars": 188832,
-      "forks": 22258,
-      "issues": 1492,
+      "stars": 189329,
+      "forks": 22314,
+      "issues": 1495,
       "language": "Python",
       "pushedAt": "2026-11-06T22:32:32Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 390,
-      "score": 70,
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 793,
+      "score": 75,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -343,7 +155,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 390 stars hoje",
+          "label": "GitHub Trending · 793 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -363,67 +175,67 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 2
     },
     {
-      "repo": "google/skills",
-      "title": "skills",
+      "repo": "milind-soni/OpenMausBot",
+      "title": "OpenMausBot",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 443 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Agent Skills for Google products and technologies",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/google/skills",
-      "stars": 23441,
-      "forks": 1958,
-      "issues": 26,
-      "language": "Python",
-      "pushedAt": "2026-11-07T14:41:39Z",
-      "pushedLabel": "push há 12h",
-      "trendingStarsToday": 443,
-      "score": 67,
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "stars": 17934,
+      "forks": 2503,
+      "issues": 808,
+      "language": "TypeScript",
+      "pushedAt": "2026-11-08T15:45:20Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 1437,
+      "score": 74,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/google/skills",
+          "url": "https://github.com/milind-soni/OpenMausBot",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 443 stars hoje",
+          "label": "GitHub Trending · 1,4 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=google%20skills%20AI",
+          "url": "https://www.youtube.com/results?search_query=milind-soni%20OpenMausBot%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=skills%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=OpenMausBot%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=skills%20AI",
+          "url": "https://www.tiktok.com/search?q=OpenMausBot%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 3
     },
     {
       "repo": "vercel-labs/agent-browser",
       "title": "agent-browser",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 190 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 812 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Browser automation CLI for AI agents",
       "broll": [
         "GitHub Trending",
@@ -432,14 +244,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/vercel-labs/agent-browser",
-      "stars": 46877,
-      "forks": 3211,
-      "issues": 501,
+      "stars": 47388,
+      "forks": 3244,
+      "issues": 512,
       "language": "Rust",
-      "pushedAt": "2026-11-08T01:58:39Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 190,
-      "score": 63,
+      "pushedAt": "2026-11-08T10:03:53Z",
+      "pushedLabel": "push há 7h",
+      "trendingStarsToday": 812,
+      "score": 72,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -449,7 +261,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 190 stars hoje",
+          "label": "GitHub Trending · 812 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -469,14 +281,14 @@
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 4
     },
     {
       "repo": "meta/astryx",
       "title": "astryx",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 96 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 863 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "An open source design system that's fully customizable and agent ready",
       "broll": [
         "GitHub Trending",
@@ -485,14 +297,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/meta/astryx",
-      "stars": 14586,
-      "forks": 1194,
-      "issues": 727,
+      "stars": 15748,
+      "forks": 1265,
+      "issues": 691,
       "language": "TypeScript",
-      "pushedAt": "2026-11-08T02:10:50Z",
+      "pushedAt": "2026-11-08T16:43:11Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 96,
-      "score": 56,
+      "trendingStarsToday": 863,
+      "score": 71,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -502,7 +314,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 96 stars hoje",
+          "label": "GitHub Trending · 863 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -522,7 +334,60 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
+      "rank": 5
+    },
+    {
+      "repo": "anthropics/claude-quickstarts",
+      "title": "claude-quickstarts",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 28 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "stars": 19273,
+      "forks": 3269,
+      "issues": 231,
+      "language": "Python",
+      "pushedAt": "2026-11-06T19:37:57Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 28,
+      "score": 49,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 28 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=anthropics%20claude-quickstarts%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-quickstarts%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=claude-quickstarts%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 6
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -537,12 +402,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 110022,
-      "forks": 9840,
-      "issues": 76,
+      "stars": 110226,
+      "forks": 9870,
+      "issues": 84,
       "language": "Python",
-      "pushedAt": "2026-11-08T01:43:02Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-11-08T02:17:48Z",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -598,7 +463,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 7
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -613,8 +478,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30619,
-      "forks": 2985,
+      "stars": 30642,
+      "forks": 2990,
       "issues": 888,
       "language": "TypeScript",
       "pushedAt": "2026-11-04T11:33:40Z",
@@ -645,10 +510,37 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 8
     }
   ],
   "news": [
+    {
+      "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+      "url": "https://news.ycombinator.com/item?id=50414021",
+      "relatedUrl": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+      "points": 25,
+      "comments": 37,
+      "publishedAt": "2026-11-08T15:19:51Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "AI agents stole 190k gaming credentials for under $400 in model costs",
+      "url": "https://news.ycombinator.com/item?id=50409687",
+      "relatedUrl": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
+      "points": 2,
+      "comments": 3,
+      "publishedAt": "2026-11-08T01:24:19Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Using AI should be joyful",
+      "url": "https://news.ycombinator.com/item?id=50405439",
+      "relatedUrl": "https://12gramsofcarbon.com/p/agentics-using-ai-should-be-joyful",
+      "points": 2,
+      "comments": 5,
+      "publishedAt": "2026-11-07T15:37:42Z",
+      "source": "Hacker News official API"
+    },
     {
       "title": "Perplexity launches AI agents for work",
       "url": "https://news.ycombinator.com/item?id=50395866",
@@ -659,39 +551,12 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "AI coding agent setups from 663 Hacker News comments",
-      "url": "https://news.ycombinator.com/item?id=50394444",
-      "relatedUrl": "https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html",
-      "points": 29,
-      "comments": 4,
-      "publishedAt": "2026-11-06T16:23:51Z",
-      "source": "Hacker News official API"
-    },
-    {
       "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
       "url": "https://news.ycombinator.com/item?id=50397325",
       "relatedUrl": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
-      "points": 30,
+      "points": 31,
       "comments": 2,
       "publishedAt": "2026-11-06T19:41:20Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-      "url": "https://news.ycombinator.com/item?id=50393235",
-      "relatedUrl": "https://github.com/zalando-incubator/agentic-identity-broker",
-      "points": 23,
-      "comments": 3,
-      "publishedAt": "2026-11-06T15:07:47Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Stop running everything through LLMs: How I fixed my research agent",
-      "url": "https://news.ycombinator.com/item?id=50389479",
-      "relatedUrl": "https://www.tinyfish.ai/blog/inside-tinyresearch",
-      "points": 22,
-      "comments": 1,
-      "publishedAt": "2026-11-06T08:04:58Z",
       "source": "Hacker News official API"
     },
     {
@@ -706,52 +571,40 @@
   ],
   "trending": [
     {
-      "repo": "vercel-labs/agent-browser",
-      "starsToday": 190
-    },
-    {
-      "repo": "cloudflare/security-audit-skill",
-      "starsToday": 2085
-    },
-    {
-      "repo": "google/skills",
-      "starsToday": 443
-    },
-    {
-      "repo": "mattpocock/skills",
-      "starsToday": 1100
-    },
-    {
-      "repo": "anthropics/skills",
-      "starsToday": 390
-    },
-    {
-      "repo": "meta/astryx",
-      "starsToday": 96
-    },
-    {
-      "repo": "prometheus/prometheus",
-      "starsToday": 322
-    },
-    {
       "repo": "sherlock-project/sherlock",
-      "starsToday": 1766
+      "starsToday": 2372
+    },
+    {
+      "repo": "dsx-ai-factory/nvke",
+      "starsToday": 345
     },
     {
       "repo": "milind-soni/OpenMausBot",
-      "starsToday": 1955
+      "starsToday": 1437
     },
     {
-      "repo": "astral-sh/ruff",
-      "starsToday": 350
+      "repo": "anthropics/claude-quickstarts",
+      "starsToday": 28
     },
     {
-      "repo": "tailwindlabs/tailwindcss",
-      "starsToday": 122
+      "repo": "vercel-labs/agent-browser",
+      "starsToday": 812
     },
     {
-      "repo": "mbillow/localthings",
-      "starsToday": 186
+      "repo": "meta/astryx",
+      "starsToday": 863
+    },
+    {
+      "repo": "anthropics/skills",
+      "starsToday": 793
+    },
+    {
+      "repo": "google-deepmind/mujoco",
+      "starsToday": 26
+    },
+    {
+      "repo": "ranxianglei/billion-context",
+      "starsToday": 460
     }
   ],
   "monitored": [
@@ -768,12 +621,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 110022,
-      "forks": 9840,
-      "issues": 76,
+      "stars": 110226,
+      "forks": 9870,
+      "issues": 84,
       "language": "Python",
-      "pushedAt": "2026-11-08T01:43:02Z",
-      "pushedLabel": "push há 1h",
+      "pushedAt": "2026-11-08T02:17:48Z",
+      "pushedLabel": "push há 15h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -829,7 +682,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 8
+      "rank": 7
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
@@ -844,8 +697,8 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30619,
-      "forks": 2985,
+      "stars": 30642,
+      "forks": 2990,
       "issues": 888,
       "language": "TypeScript",
       "pushedAt": "2026-11-04T11:33:40Z",
@@ -876,7 +729,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 9
+      "rank": 8
     }
   ]
 }
