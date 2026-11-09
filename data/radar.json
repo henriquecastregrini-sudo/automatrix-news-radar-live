@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T02:30:58.122Z",
-  "generatedLabel": "8 de nov. de 2026 · 23:30",
+  "generatedAt": "2026-11-09T21:08:59.764Z",
+  "generatedLabel": "9 de nov. de 2026 · 18:08",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -76,7 +76,7 @@
       "title": "sherlock",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 2,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 4,3 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Hunt down social media accounts by username across social networks",
       "broll": [
         "GitHub Trending",
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/sherlock-project/sherlock",
-      "stars": 103904,
-      "forks": 12150,
-      "issues": 382,
+      "stars": 106812,
+      "forks": 12368,
+      "issues": 400,
       "language": "Python",
-      "pushedAt": "2026-11-08T05:13:22Z",
-      "pushedLabel": "push há 21h",
-      "trendingStarsToday": 2373,
+      "pushedAt": "2026-11-09T05:14:34Z",
+      "pushedLabel": "push há 16h",
+      "trendingStarsToday": 4294,
       "score": 78,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -102,7 +102,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,4 mil stars hoje",
+          "label": "GitHub Trending · 4,3 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -125,53 +125,53 @@
       "rank": 1
     },
     {
-      "repo": "milind-soni/OpenMausBot",
-      "title": "OpenMausBot",
+      "repo": "meta/astryx",
+      "title": "astryx",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,4 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "hook": "Este repositório ganhou 3,3 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "An open source design system that's fully customizable and agent ready",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "stars": 18403,
-      "forks": 2547,
-      "issues": 830,
+      "url": "https://github.com/meta/astryx",
+      "stars": 19656,
+      "forks": 1499,
+      "issues": 674,
       "language": "TypeScript",
-      "pushedAt": "2026-11-08T21:59:04Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 1439,
-      "score": 74,
+      "pushedAt": "2026-11-09T21:06:37Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 3324,
+      "score": 75,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/milind-soni/OpenMausBot",
+          "url": "https://github.com/meta/astryx",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,4 mil stars hoje",
+          "label": "GitHub Trending · 3,3 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=milind-soni%20OpenMausBot%20AI",
+          "url": "https://www.youtube.com/results?search_query=meta%20astryx%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=OpenMausBot%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=astryx%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=OpenMausBot%20AI",
+          "url": "https://www.tiktok.com/search?q=astryx%20AI",
           "kind": "busca"
         }
       ],
@@ -182,7 +182,7 @@
       "title": "agent-browser",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 815 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 914 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Browser automation CLI for AI agents",
       "broll": [
         "GitHub Trending",
@@ -191,14 +191,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/vercel-labs/agent-browser",
-      "stars": 47700,
-      "forks": 3264,
-      "issues": 526,
+      "stars": 48386,
+      "forks": 3296,
+      "issues": 540,
       "language": "Rust",
-      "pushedAt": "2026-11-08T10:03:53Z",
-      "pushedLabel": "push há 16h",
-      "trendingStarsToday": 815,
-      "score": 72,
+      "pushedAt": "2026-11-09T19:30:52Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 914,
+      "score": 73,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -208,7 +208,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 815 stars hoje",
+          "label": "GitHub Trending · 914 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -231,64 +231,11 @@
       "rank": 3
     },
     {
-      "repo": "meta/astryx",
-      "title": "astryx",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 875 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "An open source design system that's fully customizable and agent ready",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/meta/astryx",
-      "stars": 17045,
-      "forks": 1343,
-      "issues": 658,
-      "language": "TypeScript",
-      "pushedAt": "2026-11-09T02:27:54Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 875,
-      "score": 71,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/meta/astryx",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 875 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=meta%20astryx%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=astryx%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=astryx%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
-    },
-    {
       "repo": "anthropics/skills",
       "title": "skills",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 792 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 1,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Public repository for Agent Skills",
       "broll": [
         "GitHub Trending",
@@ -297,14 +244,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/skills",
-      "stars": 189734,
-      "forks": 22353,
-      "issues": 1500,
+      "stars": 190797,
+      "forks": 22433,
+      "issues": 1505,
       "language": "Python",
       "pushedAt": "2026-11-06T22:32:32Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 792,
-      "score": 68,
+      "pushedLabel": "push há 3d",
+      "trendingStarsToday": 1052,
+      "score": 69,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -314,7 +261,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 792 stars hoje",
+          "label": "GitHub Trending · 1,1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -334,14 +281,67 @@
           "kind": "busca"
         }
       ],
+      "rank": 4
+    },
+    {
+      "repo": "garrytan/gbrain",
+      "title": "gbrain",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 215 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/garrytan/gbrain",
+      "stars": 32086,
+      "forks": 4761,
+      "issues": 775,
+      "language": "TypeScript",
+      "pushedAt": "2026-11-09T21:08:56Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 215,
+      "score": 63,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/garrytan/gbrain",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 215 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=garrytan%20gbrain%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=gbrain%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=gbrain%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 5
     },
     {
       "repo": "anthropics/claude-quickstarts",
       "title": "claude-quickstarts",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 32 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 560 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "broll": [
         "GitHub Trending",
@@ -350,14 +350,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/claude-quickstarts",
-      "stars": 19477,
-      "forks": 3281,
-      "issues": 234,
+      "stars": 19957,
+      "forks": 3307,
+      "issues": 238,
       "language": "Python",
       "pushedAt": "2026-11-06T19:37:57Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 32,
-      "score": 43,
+      "pushedLabel": "push há 3d",
+      "trendingStarsToday": 560,
+      "score": 61,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -367,7 +367,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 32 stars hoje",
+          "label": "GitHub Trending · 560 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -402,12 +402,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 110338,
-      "forks": 9877,
-      "issues": 85,
+      "stars": 110597,
+      "forks": 9904,
+      "issues": 88,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -478,14 +478,14 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30650,
-      "forks": 2990,
-      "issues": 888,
+      "stars": 30693,
+      "forks": 2999,
+      "issues": 899,
       "language": "TypeScript",
-      "pushedAt": "2026-11-04T11:33:40Z",
-      "pushedLabel": "push há 5d",
+      "pushedAt": "2026-11-09T10:14:01Z",
+      "pushedLabel": "push há 11h",
       "trendingStarsToday": null,
-      "score": 33,
+      "score": 40,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -515,11 +515,38 @@
   ],
   "news": [
     {
+      "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+      "url": "https://news.ycombinator.com/item?id=50425018",
+      "relatedUrl": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "points": 7,
+      "comments": 4,
+      "publishedAt": "2026-11-09T13:02:50Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: Askaboard – A canvas your AI agent can draw on",
+      "url": "https://news.ycombinator.com/item?id=50425494",
+      "relatedUrl": "https://askaboard.com",
+      "points": 1,
+      "comments": 4,
+      "publishedAt": "2026-11-09T13:43:21Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "An agent skill for $80 (not derogatory, it's a good skill)",
+      "url": "https://news.ycombinator.com/item?id=50425210",
+      "relatedUrl": "https://sefirot.it/edito-deck/ai",
+      "points": 2,
+      "comments": 3,
+      "publishedAt": "2026-11-09T13:19:18Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
       "url": "https://news.ycombinator.com/item?id=50415817",
       "relatedUrl": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-      "points": 89,
-      "comments": 109,
+      "points": 98,
+      "comments": 126,
       "publishedAt": "2026-11-08T18:43:07Z",
       "source": "Hacker News official API"
     },
@@ -527,18 +554,9 @@
       "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
       "url": "https://news.ycombinator.com/item?id=50414021",
       "relatedUrl": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-      "points": 35,
-      "comments": 59,
+      "points": 37,
+      "comments": 61,
       "publishedAt": "2026-11-08T15:19:51Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: Email-like interface to review, decide, and annotate agent work",
-      "url": "https://news.ycombinator.com/item?id=50415476",
-      "relatedUrl": "https://plannotator.ai/inbox/",
-      "points": 7,
-      "comments": 1,
-      "publishedAt": "2026-11-08T17:57:01Z",
       "source": "Hacker News official API"
     },
     {
@@ -549,62 +567,52 @@
       "comments": 3,
       "publishedAt": "2026-11-08T01:24:19Z",
       "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: psi, a 6.4 MB cross-platform portable coding agent in ANSI C & Lua",
-      "url": "https://news.ycombinator.com/item?id=50415406",
-      "relatedUrl": "https://psicode.ai/",
-      "points": 4,
-      "comments": 0,
-      "publishedAt": "2026-11-08T17:48:19Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Using AI should be joyful",
-      "url": "https://news.ycombinator.com/item?id=50405439",
-      "relatedUrl": "https://12gramsofcarbon.com/p/agentics-using-ai-should-be-joyful",
-      "points": 2,
-      "comments": 5,
-      "publishedAt": "2026-11-07T15:37:42Z",
-      "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
-      "repo": "sherlock-project/sherlock",
-      "starsToday": 2373
-    },
-    {
-      "repo": "dsx-ai-factory/nvke",
-      "starsToday": 345
-    },
-    {
-      "repo": "milind-soni/OpenMausBot",
-      "starsToday": 1439
-    },
-    {
-      "repo": "anthropics/claude-quickstarts",
-      "starsToday": 32
-    },
-    {
-      "repo": "vercel-labs/agent-browser",
-      "starsToday": 815
+      "repo": "anthropics/skills",
+      "starsToday": 1052
     },
     {
       "repo": "meta/astryx",
-      "starsToday": 875
+      "starsToday": 3324
     },
     {
-      "repo": "anthropics/skills",
-      "starsToday": 792
+      "repo": "sherlock-project/sherlock",
+      "starsToday": 4294
     },
     {
       "repo": "google-deepmind/mujoco",
-      "starsToday": 41
+      "starsToday": 579
     },
     {
-      "repo": "ranxianglei/billion-context",
-      "starsToday": 460
+      "repo": "anthropics/claude-quickstarts",
+      "starsToday": 560
+    },
+    {
+      "repo": "garrytan/gbrain",
+      "starsToday": 215
+    },
+    {
+      "repo": "vercel-labs/agent-browser",
+      "starsToday": 914
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "starsToday": 245
+    },
+    {
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "starsToday": 505
+    },
+    {
+      "repo": "homeassistant-ai/ha-mcp",
+      "starsToday": 31
+    },
+    {
+      "repo": "milind-soni/OpenMausBot",
+      "starsToday": 1589
     }
   ],
   "monitored": [
@@ -621,12 +629,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 110338,
-      "forks": 9877,
-      "issues": 85,
+      "stars": 110597,
+      "forks": 9904,
+      "issues": 88,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -697,14 +705,14 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30650,
-      "forks": 2990,
-      "issues": 888,
+      "stars": 30693,
+      "forks": 2999,
+      "issues": 899,
       "language": "TypeScript",
-      "pushedAt": "2026-11-04T11:33:40Z",
-      "pushedLabel": "push há 5d",
+      "pushedAt": "2026-11-09T10:14:01Z",
+      "pushedLabel": "push há 11h",
       "trendingStarsToday": null,
-      "score": 33,
+      "score": 40,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
