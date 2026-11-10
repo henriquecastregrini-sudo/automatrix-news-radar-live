@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T00:32:25.473Z",
-  "generatedLabel": "9 de nov. de 2026 · 21:32",
+  "generatedAt": "2026-11-10T04:33:25.368Z",
+  "generatedLabel": "10 de nov. de 2026 · 01:33",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,12 +85,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/sherlock-project/sherlock",
-      "stars": 107002,
-      "forks": 12378,
-      "issues": 400,
+      "stars": 107489,
+      "forks": 12437,
+      "issues": 402,
       "language": "Python",
       "pushedAt": "2026-11-09T05:14:34Z",
-      "pushedLabel": "push há 19h",
+      "pushedLabel": "push há 23h",
       "trendingStarsToday": 4267,
       "score": 78,
       "social": [],
@@ -138,11 +138,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/meta/astryx",
-      "stars": 20018,
-      "forks": 1524,
-      "issues": 677,
+      "stars": 20583,
+      "forks": 1560,
+      "issues": 661,
       "language": "TypeScript",
-      "pushedAt": "2026-11-10T00:31:29Z",
+      "pushedAt": "2026-11-10T04:33:08Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 3278,
       "score": 75,
@@ -191,12 +191,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/vercel-labs/agent-browser",
-      "stars": 48454,
-      "forks": 3301,
-      "issues": 543,
+      "stars": 48628,
+      "forks": 3311,
+      "issues": 537,
       "language": "Rust",
-      "pushedAt": "2026-11-09T22:48:08Z",
-      "pushedLabel": "push há 2h",
+      "pushedAt": "2026-11-10T01:45:24Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": 916,
       "score": 73,
       "social": [],
@@ -244,9 +244,9 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/skills",
-      "stars": 190953,
-      "forks": 22440,
-      "issues": 1506,
+      "stars": 191259,
+      "forks": 22463,
+      "issues": 1509,
       "language": "Python",
       "pushedAt": "2026-11-06T22:32:32Z",
       "pushedLabel": "push há 3d",
@@ -297,11 +297,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/garrytan/gbrain",
-      "stars": 32135,
-      "forks": 4764,
-      "issues": 794,
+      "stars": 32257,
+      "forks": 4775,
+      "issues": 806,
       "language": "TypeScript",
-      "pushedAt": "2026-11-10T00:31:42Z",
+      "pushedAt": "2026-11-10T04:31:00Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 216,
       "score": 63,
@@ -350,9 +350,9 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/anthropics/claude-quickstarts",
-      "stars": 20009,
-      "forks": 3310,
-      "issues": 239,
+      "stars": 20114,
+      "forks": 3322,
+      "issues": 240,
       "language": "Python",
       "pushedAt": "2026-11-06T19:37:57Z",
       "pushedLabel": "push há 3d",
@@ -390,6 +390,53 @@
       "rank": 6
     },
     {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 30717,
+      "forks": 2998,
+      "issues": 900,
+      "language": "TypeScript",
+      "pushedAt": "2026-11-09T10:14:01Z",
+      "pushedLabel": "push há 18h",
+      "trendingStarsToday": null,
+      "score": 40,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 7
+    },
+    {
       "repo": "Panniantong/Agent-Reach",
       "type": "Repo monitorado",
       "status": "Monitorar hoje",
@@ -402,14 +449,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 110619,
-      "forks": 9908,
+      "stars": 110675,
+      "forks": 9912,
       "issues": 88,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
-      "score": 42,
+      "score": 35,
       "social": [
         {
           "platform": "Reddit",
@@ -463,57 +510,19 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
-    },
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30694,
-      "forks": 2999,
-      "issues": 899,
-      "language": "TypeScript",
-      "pushedAt": "2026-11-09T10:14:01Z",
-      "pushedLabel": "push há 14h",
-      "trendingStarsToday": null,
-      "score": 40,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 8
     }
   ],
   "news": [
+    {
+      "title": "Show HN: I built a tool that babysits your agents",
+      "url": "https://news.ycombinator.com/item?id=50434751",
+      "relatedUrl": "https://www.physicsbase.ai/",
+      "points": 1,
+      "comments": 4,
+      "publishedAt": "2026-11-10T01:06:29Z",
+      "source": "Hacker News official API"
+    },
     {
       "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
       "url": "https://news.ycombinator.com/item?id=50425018",
@@ -557,15 +566,6 @@
       "points": 37,
       "comments": 61,
       "publishedAt": "2026-11-08T15:19:51Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "AI agents stole 190k gaming credentials for under $400 in model costs",
-      "url": "https://news.ycombinator.com/item?id=50409687",
-      "relatedUrl": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
-      "points": 2,
-      "comments": 3,
-      "publishedAt": "2026-11-08T01:24:19Z",
       "source": "Hacker News official API"
     }
   ],
@@ -617,6 +617,53 @@
   ],
   "monitored": [
     {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 30717,
+      "forks": 2998,
+      "issues": 900,
+      "language": "TypeScript",
+      "pushedAt": "2026-11-09T10:14:01Z",
+      "pushedLabel": "push há 18h",
+      "trendingStarsToday": null,
+      "score": 40,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 7
+    },
+    {
       "repo": "Panniantong/Agent-Reach",
       "type": "Repo monitorado",
       "status": "Monitorar hoje",
@@ -629,14 +676,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 110619,
-      "forks": 9908,
+      "stars": 110675,
+      "forks": 9912,
       "issues": 88,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
-      "score": 42,
+      "score": 35,
       "social": [
         {
           "platform": "Reddit",
@@ -687,53 +734,6 @@
         {
           "label": "Buscar TikTok",
           "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 7
-    },
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30694,
-      "forks": 2999,
-      "issues": 899,
-      "language": "TypeScript",
-      "pushedAt": "2026-11-09T10:14:01Z",
-      "pushedLabel": "push há 14h",
-      "trendingStarsToday": null,
-      "score": 40,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
           "kind": "busca"
         }
       ],
