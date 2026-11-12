@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T18:37:51.361Z",
-  "generatedLabel": "12 de nov. de 2026 · 15:37",
+  "generatedAt": "2026-11-12T22:34:01.475Z",
+  "generatedLabel": "12 de nov. de 2026 · 19:33",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,11 +85,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/meta/astryx",
-      "stars": 26281,
-      "forks": 2037,
-      "issues": 624,
+      "stars": 26439,
+      "forks": 2048,
+      "issues": 623,
       "language": "TypeScript",
-      "pushedAt": "2026-11-12T18:36:12Z",
+      "pushedAt": "2026-11-12T22:30:08Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 1789,
       "score": 76,
@@ -138,12 +138,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/openai/codex-security",
-      "stars": 12260,
-      "forks": 971,
-      "issues": 143,
+      "stars": 12360,
+      "forks": 974,
+      "issues": 142,
       "language": "TypeScript",
-      "pushedAt": "2026-11-12T10:06:19Z",
-      "pushedLabel": "push há 9h",
+      "pushedAt": "2026-11-12T21:10:11Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 663,
       "score": 69,
       "social": [],
@@ -191,8 +191,8 @@
         "vídeos técnicos sobre skill packs"
       ],
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars": 116539,
-      "forks": 12203,
+      "stars": 116623,
+      "forks": 12205,
       "issues": 137,
       "language": "JavaScript",
       "pushedAt": "2026-11-01T19:24:49Z",
@@ -260,53 +260,53 @@
       "rank": 3
     },
     {
-      "repo": "CopilotKit/OpenBot",
-      "title": "OpenBot",
+      "repo": "GoogleChrome/modern-web-guidance-src",
+      "title": "modern-web-guidance-src",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 291 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 799 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Keep your coding agent up to date with the latest web best practices",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "stars": 11433,
-      "forks": 1415,
-      "issues": 85,
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "stars": 2791,
+      "forks": 190,
+      "issues": 384,
       "language": "TypeScript",
-      "pushedAt": "2026-11-12T18:23:44Z",
+      "pushedAt": "2026-11-12T22:22:49Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 291,
-      "score": 63,
+      "trendingStarsToday": 799,
+      "score": 67,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/CopilotKit/OpenBot",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 291 stars hoje",
+          "label": "GitHub Trending · 799 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=CopilotKit%20OpenBot%20AI",
+          "url": "https://www.youtube.com/results?search_query=GoogleChrome%20modern-web-guidance-src%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=OpenBot%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=modern-web-guidance-src%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=OpenBot%20AI",
+          "url": "https://www.tiktok.com/search?q=modern-web-guidance-src%20AI",
           "kind": "busca"
         }
       ],
@@ -326,11 +326,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/QwenLM/qwen-code",
-      "stars": 29695,
-      "forks": 3389,
-      "issues": 2223,
+      "stars": 29767,
+      "forks": 3392,
+      "issues": 2225,
       "language": "TypeScript",
-      "pushedAt": "2026-11-12T18:36:09Z",
+      "pushedAt": "2026-11-12T22:29:24Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 151,
       "score": 61,
@@ -379,12 +379,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/ashhart/TensorFold",
-      "stars": 1889,
-      "forks": 390,
-      "issues": 516,
+      "stars": 1919,
+      "forks": 391,
+      "issues": 522,
       "language": "Zig",
       "pushedAt": "2026-11-12T17:49:33Z",
-      "pushedLabel": "push há 1h",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": 94,
       "score": 53,
       "social": [],
@@ -431,8 +431,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 111307,
-      "forks": 9979,
+      "stars": 111334,
+      "forks": 9982,
       "issues": 98,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
@@ -508,8 +508,8 @@
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "stars": 30822,
-      "forks": 3008,
-      "issues": 853,
+      "forks": 3010,
+      "issues": 854,
       "language": "TypeScript",
       "pushedAt": "2026-11-10T13:27:08Z",
       "pushedLabel": "push há 2d",
@@ -544,11 +544,29 @@
   ],
   "news": [
     {
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "url": "https://news.ycombinator.com/item?id=50471650",
+      "relatedUrl": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "points": 61,
+      "comments": 10,
+      "publishedAt": "2026-11-12T18:15:48Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Relate – the agent-native graph database",
+      "url": "https://news.ycombinator.com/item?id=50472738",
+      "relatedUrl": "https://relatedb.ai/",
+      "points": 13,
+      "comments": 5,
+      "publishedAt": "2026-11-12T19:21:00Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
       "url": "https://news.ycombinator.com/item?id=50458900",
       "relatedUrl": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "points": 646,
-      "comments": 670,
+      "points": 657,
+      "comments": 682,
       "publishedAt": "2026-11-11T21:24:35Z",
       "source": "Hacker News official API"
     },
@@ -556,8 +574,8 @@
       "title": "My AI agents found an unmapped Maya site?",
       "url": "https://news.ycombinator.com/item?id=50452455",
       "relatedUrl": "https://pietromiotti.com/latest/maya-site",
-      "points": 1023,
-      "comments": 385,
+      "points": 1026,
+      "comments": 389,
       "publishedAt": "2026-11-11T12:05:22Z",
       "source": "Hacker News official API"
     },
@@ -565,7 +583,7 @@
       "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
       "url": "https://news.ycombinator.com/item?id=50454951",
       "relatedUrl": "https://github.com/klad-app/klad",
-      "points": 82,
+      "points": 83,
       "comments": 32,
       "publishedAt": "2026-11-11T16:00:50Z",
       "source": "Hacker News official API"
@@ -575,26 +593,8 @@
       "url": "https://news.ycombinator.com/item?id=50452040",
       "relatedUrl": "https://github.com/Crokily/pi-durable-bot",
       "points": 7,
-      "comments": 2,
+      "comments": 3,
       "publishedAt": "2026-11-11T11:11:34Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "AWS Emulator: 100% built by agents",
-      "url": "https://news.ycombinator.com/item?id=50456319",
-      "relatedUrl": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator",
-      "points": 10,
-      "comments": 0,
-      "publishedAt": "2026-11-11T17:55:24Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: AI agents that barter your stuff for things you want",
-      "url": "https://news.ycombinator.com/item?id=50446649",
-      "relatedUrl": "https://barterpilot.com/",
-      "points": 7,
-      "comments": 4,
-      "publishedAt": "2026-11-10T21:36:17Z",
       "source": "Hacker News official API"
     }
   ],
@@ -613,7 +613,7 @@
     },
     {
       "repo": "pookjw/HermesEnabler",
-      "starsToday": 390
+      "starsToday": 300
     },
     {
       "repo": "we-promise/sure",
@@ -662,8 +662,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 111307,
-      "forks": 9979,
+      "stars": 111334,
+      "forks": 9982,
       "issues": 98,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
@@ -739,8 +739,8 @@
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "stars": 30822,
-      "forks": 3008,
-      "issues": 853,
+      "forks": 3010,
+      "issues": 854,
       "language": "TypeScript",
       "pushedAt": "2026-11-10T13:27:08Z",
       "pushedLabel": "push há 2d",
