@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T03:42:45.568Z",
-  "generatedLabel": "12 de nov. de 2026 · 00:42",
+  "generatedAt": "2026-11-12T18:37:51.361Z",
+  "generatedLabel": "12 de nov. de 2026 · 15:37",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -76,7 +76,7 @@
       "title": "astryx",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 2,8 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 1,8 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "An open source design system that's fully customizable and agent ready",
       "broll": [
         "GitHub Trending",
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/meta/astryx",
-      "stars": 24879,
-      "forks": 1943,
-      "issues": 680,
+      "stars": 26281,
+      "forks": 2037,
+      "issues": 624,
       "language": "TypeScript",
-      "pushedAt": "2026-11-11T23:13:39Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 2776,
+      "pushedAt": "2026-11-12T18:36:12Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1789,
       "score": 76,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -102,7 +102,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 2,8 mil stars hoje",
+          "label": "GitHub Trending · 1,8 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -125,110 +125,57 @@
       "rank": 1
     },
     {
-      "repo": "vercel-labs/agent-browser",
-      "title": "agent-browser",
+      "repo": "openai/codex-security",
+      "title": "codex-security",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 708 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Browser automation CLI for AI agents",
+      "hook": "Este repositório ganhou 663 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "stars": 49831,
-      "forks": 3485,
-      "issues": 588,
-      "language": "Rust",
-      "pushedAt": "2026-11-11T22:13:48Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 708,
-      "score": 72,
+      "url": "https://github.com/openai/codex-security",
+      "stars": 12260,
+      "forks": 971,
+      "issues": 143,
+      "language": "TypeScript",
+      "pushedAt": "2026-11-12T10:06:19Z",
+      "pushedLabel": "push há 9h",
+      "trendingStarsToday": 663,
+      "score": 69,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/vercel-labs/agent-browser",
+          "url": "https://github.com/openai/codex-security",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 708 stars hoje",
+          "label": "GitHub Trending · 663 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=vercel-labs%20agent-browser%20AI",
+          "url": "https://www.youtube.com/results?search_query=openai%20codex-security%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=agent-browser%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=codex-security%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=agent-browser%20AI",
+          "url": "https://www.tiktok.com/search?q=codex-security%20AI",
           "kind": "busca"
         }
       ],
       "rank": 2
-    },
-    {
-      "repo": "homeassistant-ai/ha-mcp",
-      "title": "ha-mcp",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 645 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "stars": 7323,
-      "forks": 452,
-      "issues": 17,
-      "language": "Python",
-      "pushedAt": "2026-11-11T22:58:32Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 645,
-      "score": 68,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/homeassistant-ai/ha-mcp",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 645 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=homeassistant-ai%20ha-mcp%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=ha-mcp%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=ha-mcp%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
     },
     {
       "repo": "addyosmani/agent-skills",
@@ -244,13 +191,13 @@
         "vídeos técnicos sobre skill packs"
       ],
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars": 115896,
-      "forks": 12157,
-      "issues": 136,
+      "stars": 116539,
+      "forks": 12203,
+      "issues": 137,
       "language": "JavaScript",
       "pushedAt": "2026-11-01T19:24:49Z",
-      "pushedLabel": "push há 10d",
-      "trendingStarsToday": 787,
+      "pushedLabel": "push há 11d",
+      "trendingStarsToday": 812,
       "score": 67,
       "social": [
         {
@@ -280,7 +227,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 787 stars hoje",
+          "label": "GitHub Trending · 812 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -310,160 +257,166 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
-      "repo": "ZhuLinsen/daily_stock_analysis",
-      "title": "daily_stock_analysis",
+      "repo": "CopilotKit/OpenBot",
+      "title": "OpenBot",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 278 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "hook": "Este repositório ganhou 291 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "stars": 70167,
-      "forks": 56824,
-      "issues": 48,
-      "language": "Python",
-      "pushedAt": "2026-11-10T11:51:09Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 278,
-      "score": 66,
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "stars": 11433,
+      "forks": 1415,
+      "issues": 85,
+      "language": "TypeScript",
+      "pushedAt": "2026-11-12T18:23:44Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 291,
+      "score": 63,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/CopilotKit/OpenBot",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 278 stars hoje",
+          "label": "GitHub Trending · 291 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=ZhuLinsen%20daily_stock_analysis%20AI",
+          "url": "https://www.youtube.com/results?search_query=CopilotKit%20OpenBot%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=daily_stock_analysis%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=OpenBot%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=daily_stock_analysis%20AI",
+          "url": "https://www.tiktok.com/search?q=OpenBot%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "repo": "QwenLM/qwen-code",
+      "title": "qwen-code",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 151 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "An open-source AI coding agent that lives in your terminal.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/QwenLM/qwen-code",
+      "stars": 29695,
+      "forks": 3389,
+      "issues": 2223,
+      "language": "TypeScript",
+      "pushedAt": "2026-11-12T18:36:09Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 151,
+      "score": 61,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 151 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=QwenLM%20qwen-code%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=qwen-code%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=qwen-code%20AI",
           "kind": "busca"
         }
       ],
       "rank": 5
     },
     {
-      "repo": "openai/codex-security",
-      "title": "codex-security",
+      "repo": "ashhart/TensorFold",
+      "title": "TensorFold",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 52 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "hook": "Este repositório ganhou 94 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "LLM Inference Engine for Metal, CUDA and Vulkan.",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/openai/codex-security",
-      "stars": 11684,
-      "forks": 933,
-      "issues": 138,
-      "language": "TypeScript",
-      "pushedAt": "2026-11-11T23:15:56Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 52,
-      "score": 52,
+      "url": "https://github.com/ashhart/TensorFold",
+      "stars": 1889,
+      "forks": 390,
+      "issues": 516,
+      "language": "Zig",
+      "pushedAt": "2026-11-12T17:49:33Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 94,
+      "score": 53,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/openai/codex-security",
+          "url": "https://github.com/ashhart/TensorFold",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 52 stars hoje",
+          "label": "GitHub Trending · 94 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=openai%20codex-security%20AI",
+          "url": "https://www.youtube.com/results?search_query=ashhart%20TensorFold%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=codex-security%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TensorFold%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=codex-security%20AI",
+          "url": "https://www.tiktok.com/search?q=TensorFold%20AI",
           "kind": "busca"
         }
       ],
       "rank": 6
-    },
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30792,
-      "forks": 3004,
-      "issues": 913,
-      "language": "TypeScript",
-      "pushedAt": "2026-11-10T13:27:08Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": null,
-      "score": 40,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 7
     },
     {
       "repo": "Panniantong/Agent-Reach",
@@ -478,12 +431,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 111124,
-      "forks": 9952,
-      "issues": 96,
+      "stars": 111307,
+      "forks": 9979,
+      "issues": 98,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
-      "pushedLabel": "push há 4d",
+      "pushedLabel": "push há 5d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -539,53 +492,100 @@
           "kind": "busca"
         }
       ],
+      "rank": 7
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 30822,
+      "forks": 3008,
+      "issues": 853,
+      "language": "TypeScript",
+      "pushedAt": "2026-11-10T13:27:08Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": null,
+      "score": 33,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 8
     }
   ],
   "news": [
     {
-      "title": "My AI agents found an unmapped Maya site?",
-      "url": "https://news.ycombinator.com/item?id=50452455",
-      "relatedUrl": "https://pietromiotti.com/latest/maya-site",
-      "points": 941,
-      "comments": 341,
-      "publishedAt": "2026-11-11T12:05:22Z",
-      "source": "Hacker News official API"
-    },
-    {
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
       "url": "https://news.ycombinator.com/item?id=50458900",
       "relatedUrl": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "points": 442,
-      "comments": 427,
+      "points": 646,
+      "comments": 670,
       "publishedAt": "2026-11-11T21:24:35Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://news.ycombinator.com/item?id=50452455",
+      "relatedUrl": "https://pietromiotti.com/latest/maya-site",
+      "points": 1023,
+      "comments": 385,
+      "publishedAt": "2026-11-11T12:05:22Z",
       "source": "Hacker News official API"
     },
     {
       "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
       "url": "https://news.ycombinator.com/item?id=50454951",
       "relatedUrl": "https://github.com/klad-app/klad",
-      "points": 74,
-      "comments": 30,
+      "points": 82,
+      "comments": 32,
       "publishedAt": "2026-11-11T16:00:50Z",
       "source": "Hacker News official API"
     },
     {
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "url": "https://news.ycombinator.com/item?id=50443812",
-      "relatedUrl": "https://github.com/GoogleChrome/modern-web-guidance",
-      "points": 425,
-      "comments": 142,
-      "publishedAt": "2026-11-10T18:01:15Z",
+      "title": "Show HN: Pots – Open-source Grok Bot alternative, used by 6 startups for a month",
+      "url": "https://news.ycombinator.com/item?id=50452040",
+      "relatedUrl": "https://github.com/Crokily/pi-durable-bot",
+      "points": 7,
+      "comments": 2,
+      "publishedAt": "2026-11-11T11:11:34Z",
       "source": "Hacker News official API"
     },
     {
-      "title": "Show HN: Cosh – An open-source AI agent orchestrator",
-      "url": "https://news.ycombinator.com/item?id=50439141",
-      "relatedUrl": "https://github.com/DiegoZaluski/co-sh",
+      "title": "AWS Emulator: 100% built by agents",
+      "url": "https://news.ycombinator.com/item?id=50456319",
+      "relatedUrl": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator",
       "points": 10,
-      "comments": 4,
-      "publishedAt": "2026-11-10T12:05:13Z",
+      "comments": 0,
+      "publishedAt": "2026-11-11T17:55:24Z",
       "source": "Hacker News official API"
     },
     {
@@ -600,94 +600,55 @@
   ],
   "trending": [
     {
-      "repo": "meta/astryx",
-      "starsToday": 2776
-    },
-    {
-      "repo": "ZhuLinsen/daily_stock_analysis",
-      "starsToday": 278
-    },
-    {
       "repo": "GoogleChrome/modern-web-guidance-src",
-      "starsToday": 159
-    },
-    {
-      "repo": "shadcn/improve",
-      "starsToday": 361
-    },
-    {
-      "repo": "addyosmani/agent-skills",
-      "starsToday": 787
-    },
-    {
-      "repo": "vercel-labs/agent-browser",
-      "starsToday": 708
-    },
-    {
-      "repo": "we-promise/sure",
-      "starsToday": 1078
-    },
-    {
-      "repo": "homeassistant-ai/ha-mcp",
-      "starsToday": 645
+      "starsToday": 799
     },
     {
       "repo": "openai/codex-security",
-      "starsToday": 52
+      "starsToday": 663
     },
     {
-      "repo": "TheAlgorithms/Java",
-      "starsToday": 51
+      "repo": "nvm-sh/nvm",
+      "starsToday": 107
+    },
+    {
+      "repo": "pookjw/HermesEnabler",
+      "starsToday": 390
+    },
+    {
+      "repo": "we-promise/sure",
+      "starsToday": 974
+    },
+    {
+      "repo": "QwenLM/qwen-code",
+      "starsToday": 151
+    },
+    {
+      "repo": "ashhart/TensorFold",
+      "starsToday": 94
+    },
+    {
+      "repo": "nodejs/node",
+      "starsToday": 133
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "starsToday": 812
+    },
+    {
+      "repo": "meta/astryx",
+      "starsToday": 1789
+    },
+    {
+      "repo": "CopilotKit/OpenBot",
+      "starsToday": 291
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "starsToday": 461
     }
   ],
   "monitored": [
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30792,
-      "forks": 3004,
-      "issues": 913,
-      "language": "TypeScript",
-      "pushedAt": "2026-11-10T13:27:08Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": null,
-      "score": 40,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 7
-    },
     {
       "repo": "Panniantong/Agent-Reach",
       "type": "Repo monitorado",
@@ -701,12 +662,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 111124,
-      "forks": 9952,
-      "issues": 96,
+      "stars": 111307,
+      "forks": 9979,
+      "issues": 98,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
-      "pushedLabel": "push há 4d",
+      "pushedLabel": "push há 5d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -759,6 +720,53 @@
         {
           "label": "Buscar TikTok",
           "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 30822,
+      "forks": 3008,
+      "issues": 853,
+      "language": "TypeScript",
+      "pushedAt": "2026-11-10T13:27:08Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": null,
+      "score": 33,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
           "kind": "busca"
         }
       ],
