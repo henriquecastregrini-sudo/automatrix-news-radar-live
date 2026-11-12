@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T23:16:39.671Z",
-  "generatedLabel": "11 de nov. de 2026 · 20:16",
+  "generatedAt": "2026-11-12T03:42:45.568Z",
+  "generatedLabel": "12 de nov. de 2026 · 00:42",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -90,8 +90,8 @@
       "issues": 680,
       "language": "TypeScript",
       "pushedAt": "2026-11-11T23:13:39Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 2842,
+      "pushedLabel": "push há 4h",
+      "trendingStarsToday": 2776,
       "score": 76,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -129,7 +129,7 @@
       "title": "agent-browser",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 712 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 708 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Browser automation CLI for AI agents",
       "broll": [
         "GitHub Trending",
@@ -143,8 +143,8 @@
       "issues": 588,
       "language": "Rust",
       "pushedAt": "2026-11-11T22:13:48Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 712,
+      "pushedLabel": "push há 5h",
+      "trendingStarsToday": 708,
       "score": 72,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -155,7 +155,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 712 stars hoje",
+          "label": "GitHub Trending · 708 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -178,64 +178,11 @@
       "rank": 2
     },
     {
-      "repo": "ZhuLinsen/daily_stock_analysis",
-      "title": "daily_stock_analysis",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 429 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "stars": 70167,
-      "forks": 56824,
-      "issues": 48,
-      "language": "Python",
-      "pushedAt": "2026-11-10T11:51:09Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 429,
-      "score": 69,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 429 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=ZhuLinsen%20daily_stock_analysis%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=daily_stock_analysis%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=daily_stock_analysis%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "repo": "homeassistant-ai/ha-mcp",
       "title": "ha-mcp",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 640 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 645 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "broll": [
         "GitHub Trending",
@@ -249,8 +196,8 @@
       "issues": 17,
       "language": "Python",
       "pushedAt": "2026-11-11T22:58:32Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 640,
+      "pushedLabel": "push há 5h",
+      "trendingStarsToday": 645,
       "score": 68,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -261,7 +208,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 640 stars hoje",
+          "label": "GitHub Trending · 645 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -281,7 +228,7 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "repo": "addyosmani/agent-skills",
@@ -303,7 +250,7 @@
       "language": "JavaScript",
       "pushedAt": "2026-11-01T19:24:49Z",
       "pushedLabel": "push há 10d",
-      "trendingStarsToday": 788,
+      "trendingStarsToday": 787,
       "score": 67,
       "social": [
         {
@@ -333,7 +280,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 788 stars hoje",
+          "label": "GitHub Trending · 787 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -363,6 +310,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 4
+    },
+    {
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "title": "daily_stock_analysis",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 278 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "stars": 70167,
+      "forks": 56824,
+      "issues": 48,
+      "language": "Python",
+      "pushedAt": "2026-11-10T11:51:09Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 278,
+      "score": 66,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 278 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=ZhuLinsen%20daily_stock_analysis%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=daily_stock_analysis%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=daily_stock_analysis%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 5
     },
     {
@@ -370,7 +370,7 @@
       "title": "codex-security",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 20 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 52 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "broll": [
         "GitHub Trending",
@@ -384,9 +384,9 @@
       "issues": 138,
       "language": "TypeScript",
       "pushedAt": "2026-11-11T23:15:56Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 20,
-      "score": 46,
+      "pushedLabel": "push há 4h",
+      "trendingStarsToday": 52,
+      "score": 52,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -396,7 +396,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 20 stars hoje",
+          "label": "GitHub Trending · 52 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -436,7 +436,7 @@
       "issues": 913,
       "language": "TypeScript",
       "pushedAt": "2026-11-10T13:27:08Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -544,11 +544,11 @@
   ],
   "news": [
     {
-      "title": "My AI agents found an unmapped Maya site",
+      "title": "My AI agents found an unmapped Maya site?",
       "url": "https://news.ycombinator.com/item?id=50452455",
       "relatedUrl": "https://pietromiotti.com/latest/maya-site",
-      "points": 900,
-      "comments": 329,
+      "points": 941,
+      "comments": 341,
       "publishedAt": "2026-11-11T12:05:22Z",
       "source": "Hacker News official API"
     },
@@ -556,8 +556,8 @@
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
       "url": "https://news.ycombinator.com/item?id=50458900",
       "relatedUrl": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "points": 209,
-      "comments": 211,
+      "points": 442,
+      "comments": 427,
       "publishedAt": "2026-11-11T21:24:35Z",
       "source": "Hacker News official API"
     },
@@ -565,8 +565,8 @@
       "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
       "url": "https://news.ycombinator.com/item?id=50454951",
       "relatedUrl": "https://github.com/klad-app/klad",
-      "points": 68,
-      "comments": 28,
+      "points": 74,
+      "comments": 30,
       "publishedAt": "2026-11-11T16:00:50Z",
       "source": "Hacker News official API"
     },
@@ -574,8 +574,8 @@
       "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
       "url": "https://news.ycombinator.com/item?id=50443812",
       "relatedUrl": "https://github.com/GoogleChrome/modern-web-guidance",
-      "points": 423,
-      "comments": 140,
+      "points": 425,
+      "comments": 142,
       "publishedAt": "2026-11-10T18:01:15Z",
       "source": "Hacker News official API"
     },
@@ -589,55 +589,55 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "Show HN: ZTHR – what replaces code review when AI agents write all the code",
-      "url": "https://news.ycombinator.com/item?id=50435672",
-      "relatedUrl": "https://zthr.ai/",
+      "title": "Show HN: AI agents that barter your stuff for things you want",
+      "url": "https://news.ycombinator.com/item?id=50446649",
+      "relatedUrl": "https://barterpilot.com/",
       "points": 7,
-      "comments": 5,
-      "publishedAt": "2026-11-10T03:21:56Z",
+      "comments": 4,
+      "publishedAt": "2026-11-10T21:36:17Z",
       "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "meta/astryx",
-      "starsToday": 2842
+      "starsToday": 2776
     },
     {
       "repo": "ZhuLinsen/daily_stock_analysis",
-      "starsToday": 429
+      "starsToday": 278
     },
     {
       "repo": "GoogleChrome/modern-web-guidance-src",
-      "starsToday": 133
+      "starsToday": 159
     },
     {
       "repo": "shadcn/improve",
-      "starsToday": 333
+      "starsToday": 361
     },
     {
       "repo": "addyosmani/agent-skills",
-      "starsToday": 788
+      "starsToday": 787
     },
     {
       "repo": "vercel-labs/agent-browser",
-      "starsToday": 712
+      "starsToday": 708
     },
     {
       "repo": "we-promise/sure",
-      "starsToday": 1079
+      "starsToday": 1078
     },
     {
       "repo": "homeassistant-ai/ha-mcp",
-      "starsToday": 640
+      "starsToday": 645
     },
     {
       "repo": "openai/codex-security",
-      "starsToday": 20
+      "starsToday": 52
     },
     {
       "repo": "TheAlgorithms/Java",
-      "starsToday": 108
+      "starsToday": 51
     }
   ],
   "monitored": [
@@ -659,7 +659,7 @@
       "issues": 913,
       "language": "TypeScript",
       "pushedAt": "2026-11-10T13:27:08Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
