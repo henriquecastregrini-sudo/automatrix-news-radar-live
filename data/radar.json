@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T22:34:01.475Z",
-  "generatedLabel": "12 de nov. de 2026 · 19:33",
+  "generatedAt": "2026-11-13T03:20:01.566Z",
+  "generatedLabel": "13 de nov. de 2026 · 00:20",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/meta/astryx",
-      "stars": 26439,
-      "forks": 2048,
-      "issues": 623,
+      "stars": 26704,
+      "forks": 2070,
+      "issues": 620,
       "language": "TypeScript",
-      "pushedAt": "2026-11-12T22:30:08Z",
+      "pushedAt": "2026-11-13T03:14:26Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1789,
+      "trendingStarsToday": 1830,
       "score": 76,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -129,7 +129,7 @@
       "title": "codex-security",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 663 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 643 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "broll": [
         "GitHub Trending",
@@ -138,13 +138,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/openai/codex-security",
-      "stars": 12360,
-      "forks": 974,
-      "issues": 142,
+      "stars": 12532,
+      "forks": 980,
+      "issues": 144,
       "language": "TypeScript",
-      "pushedAt": "2026-11-12T21:10:11Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 663,
+      "pushedAt": "2026-11-13T01:12:48Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 643,
       "score": 69,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -155,7 +155,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 663 stars hoje",
+          "label": "GitHub Trending · 643 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -191,13 +191,13 @@
         "vídeos técnicos sobre skill packs"
       ],
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars": 116623,
-      "forks": 12205,
+      "stars": 116753,
+      "forks": 12212,
       "issues": 137,
       "language": "JavaScript",
       "pushedAt": "2026-11-01T19:24:49Z",
       "pushedLabel": "push há 11d",
-      "trendingStarsToday": 812,
+      "trendingStarsToday": 816,
       "score": 67,
       "social": [
         {
@@ -227,7 +227,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 812 stars hoje",
+          "label": "GitHub Trending · 816 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -264,7 +264,7 @@
       "title": "modern-web-guidance-src",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 799 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 739 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Keep your coding agent up to date with the latest web best practices",
       "broll": [
         "GitHub Trending",
@@ -273,13 +273,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "stars": 2791,
-      "forks": 190,
-      "issues": 384,
+      "stars": 3263,
+      "forks": 208,
+      "issues": 385,
       "language": "TypeScript",
-      "pushedAt": "2026-11-12T22:22:49Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 799,
+      "pushedAt": "2026-11-13T02:33:51Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 739,
       "score": 67,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -290,7 +290,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 799 stars hoje",
+          "label": "GitHub Trending · 739 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -326,11 +326,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/QwenLM/qwen-code",
-      "stars": 29767,
-      "forks": 3392,
-      "issues": 2225,
+      "stars": 29879,
+      "forks": 3402,
+      "issues": 2226,
       "language": "TypeScript",
-      "pushedAt": "2026-11-12T22:29:24Z",
+      "pushedAt": "2026-11-13T03:13:07Z",
       "pushedLabel": "push há 0h",
       "trendingStarsToday": 151,
       "score": 61,
@@ -370,7 +370,7 @@
       "title": "TensorFold",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 94 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 54 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "LLM Inference Engine for Metal, CUDA and Vulkan.",
       "broll": [
         "GitHub Trending",
@@ -379,14 +379,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/ashhart/TensorFold",
-      "stars": 1919,
-      "forks": 391,
-      "issues": 522,
+      "stars": 1973,
+      "forks": 394,
+      "issues": 559,
       "language": "Zig",
-      "pushedAt": "2026-11-12T17:49:33Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 94,
-      "score": 53,
+      "pushedAt": "2026-11-13T03:17:28Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 54,
+      "score": 49,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -396,7 +396,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 94 stars hoje",
+          "label": "GitHub Trending · 54 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -431,9 +431,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 111334,
-      "forks": 9982,
-      "issues": 98,
+      "stars": 111383,
+      "forks": 9984,
+      "issues": 101,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
       "pushedLabel": "push há 5d",
@@ -507,12 +507,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30822,
-      "forks": 3010,
+      "stars": 30833,
+      "forks": 3012,
       "issues": 854,
       "language": "TypeScript",
       "pushedAt": "2026-11-10T13:27:08Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
@@ -547,8 +547,8 @@
       "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
       "url": "https://news.ycombinator.com/item?id=50471650",
       "relatedUrl": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-      "points": 61,
-      "comments": 10,
+      "points": 82,
+      "comments": 19,
       "publishedAt": "2026-11-12T18:15:48Z",
       "source": "Hacker News official API"
     },
@@ -556,8 +556,8 @@
       "title": "Relate – the agent-native graph database",
       "url": "https://news.ycombinator.com/item?id=50472738",
       "relatedUrl": "https://relatedb.ai/",
-      "points": 13,
-      "comments": 5,
+      "points": 21,
+      "comments": 9,
       "publishedAt": "2026-11-12T19:21:00Z",
       "source": "Hacker News official API"
     },
@@ -565,8 +565,8 @@
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
       "url": "https://news.ycombinator.com/item?id=50458900",
       "relatedUrl": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "points": 657,
-      "comments": 682,
+      "points": 662,
+      "comments": 689,
       "publishedAt": "2026-11-11T21:24:35Z",
       "source": "Hacker News official API"
     },
@@ -574,8 +574,8 @@
       "title": "My AI agents found an unmapped Maya site?",
       "url": "https://news.ycombinator.com/item?id=50452455",
       "relatedUrl": "https://pietromiotti.com/latest/maya-site",
-      "points": 1026,
-      "comments": 389,
+      "points": 1029,
+      "comments": 391,
       "publishedAt": "2026-11-11T12:05:22Z",
       "source": "Hacker News official API"
     },
@@ -601,23 +601,23 @@
   "trending": [
     {
       "repo": "GoogleChrome/modern-web-guidance-src",
-      "starsToday": 799
+      "starsToday": 739
     },
     {
       "repo": "openai/codex-security",
-      "starsToday": 663
+      "starsToday": 643
     },
     {
       "repo": "nvm-sh/nvm",
-      "starsToday": 107
+      "starsToday": 63
     },
     {
       "repo": "pookjw/HermesEnabler",
-      "starsToday": 300
+      "starsToday": 218
     },
     {
       "repo": "we-promise/sure",
-      "starsToday": 974
+      "starsToday": 967
     },
     {
       "repo": "QwenLM/qwen-code",
@@ -625,27 +625,27 @@
     },
     {
       "repo": "ashhart/TensorFold",
-      "starsToday": 94
+      "starsToday": 54
     },
     {
       "repo": "nodejs/node",
-      "starsToday": 133
+      "starsToday": 62
     },
     {
       "repo": "addyosmani/agent-skills",
-      "starsToday": 812
+      "starsToday": 816
     },
     {
       "repo": "meta/astryx",
-      "starsToday": 1789
+      "starsToday": 1830
     },
     {
       "repo": "CopilotKit/OpenBot",
-      "starsToday": 291
+      "starsToday": 298
     },
     {
       "repo": "Alishahryar1/free-claude-code",
-      "starsToday": 461
+      "starsToday": 415
     }
   ],
   "monitored": [
@@ -662,9 +662,9 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 111334,
-      "forks": 9982,
-      "issues": 98,
+      "stars": 111383,
+      "forks": 9984,
+      "issues": 101,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
       "pushedLabel": "push há 5d",
@@ -738,12 +738,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30822,
-      "forks": 3010,
+      "stars": 30833,
+      "forks": 3012,
       "issues": 854,
       "language": "TypeScript",
       "pushedAt": "2026-11-10T13:27:08Z",
-      "pushedLabel": "push há 2d",
+      "pushedLabel": "push há 3d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
