@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T02:59:17.717Z",
-  "generatedLabel": "13 de nov. de 2026 · 23:59",
+  "generatedAt": "2026-11-14T16:45:36.671Z",
+  "generatedLabel": "14 de nov. de 2026 · 13:45",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -72,165 +72,6 @@
   ],
   "repos": [
     {
-      "repo": "GoogleChrome/modern-web-guidance-src",
-      "title": "modern-web-guidance-src",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,9 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Keep your coding agent up to date with the latest web best practices",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "stars": 4945,
-      "forks": 273,
-      "issues": 389,
-      "language": "TypeScript",
-      "pushedAt": "2026-11-14T02:08:33Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 1925,
-      "score": 73,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,9 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=GoogleChrome%20modern-web-guidance-src%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=modern-web-guidance-src%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=modern-web-guidance-src%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "repo": "openai/codex-security",
-      "title": "codex-security",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 751 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/openai/codex-security",
-      "stars": 13176,
-      "forks": 1027,
-      "issues": 167,
-      "language": "TypeScript",
-      "pushedAt": "2026-11-14T02:59:03Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 751,
-      "score": 70,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/openai/codex-security",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 751 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=openai%20codex-security%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=codex-security%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=codex-security%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "repo": "ZhuLinsen/daily_stock_analysis",
-      "title": "daily_stock_analysis",
-      "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 256 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "stars": 71694,
-      "forks": 57317,
-      "issues": 58,
-      "language": "Python",
-      "pushedAt": "2026-11-14T02:54:33Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 256,
-      "score": 66,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 256 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=ZhuLinsen%20daily_stock_analysis%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=daily_stock_analysis%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=daily_stock_analysis%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "repo": "alibaba/open-code-review",
       "title": "Open Code Review",
       "type": "Revisão de código com IA",
@@ -245,14 +86,14 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 50709,
-      "forks": 3773,
-      "issues": 341,
+      "stars": 51221,
+      "forks": 3820,
+      "issues": 337,
       "language": "Go",
-      "pushedAt": "2026-11-14T01:29:46Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 215,
-      "score": 64,
+      "pushedAt": "2026-11-14T12:41:52Z",
+      "pushedLabel": "push há 4h",
+      "trendingStarsToday": 897,
+      "score": 73,
       "social": [
         {
           "platform": "YouTube",
@@ -282,7 +123,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 215 stars hoje",
+          "label": "GitHub Trending · 897 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -312,120 +153,178 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 1
     },
     {
-      "repo": "backnotprop/plannotator",
-      "title": "plannotator",
+      "repo": "GoogleChrome/modern-web-guidance-src",
+      "title": "modern-web-guidance-src",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 108 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 1,2 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Keep your coding agent up to date with the latest web best practices",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/backnotprop/plannotator",
-      "stars": 10501,
-      "forks": 790,
-      "issues": 213,
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "stars": 5615,
+      "forks": 298,
+      "issues": 390,
       "language": "TypeScript",
-      "pushedAt": "2026-11-14T02:39:27Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 108,
-      "score": 57,
+      "pushedAt": "2026-11-14T14:28:09Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 1225,
+      "score": 71,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/backnotprop/plannotator",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 108 stars hoje",
+          "label": "GitHub Trending · 1,2 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=backnotprop%20plannotator%20AI",
+          "url": "https://www.youtube.com/results?search_query=GoogleChrome%20modern-web-guidance-src%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=plannotator%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=modern-web-guidance-src%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=plannotator%20AI",
+          "url": "https://www.tiktok.com/search?q=modern-web-guidance-src%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 2
     },
     {
-      "repo": "Likely7/Veyra-NRVideo",
-      "title": "Veyra-NRVideo",
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "title": "chrome-devtools-mcp",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 256 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 673 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Chrome DevTools for coding agents",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/Likely7/Veyra-NRVideo",
-      "stars": 1647,
-      "forks": 73,
-      "issues": 61,
-      "language": "C++",
-      "pushedAt": "2026-11-11T16:43:44Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 256,
-      "score": 52,
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "stars": 56113,
+      "forks": 4651,
+      "issues": 123,
+      "language": "TypeScript",
+      "pushedAt": "2026-11-13T17:28:37Z",
+      "pushedLabel": "push há 23h",
+      "trendingStarsToday": 673,
+      "score": 71,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/Likely7/Veyra-NRVideo",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 256 stars hoje",
+          "label": "GitHub Trending · 673 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=Likely7%20Veyra-NRVideo%20AI",
+          "url": "https://www.youtube.com/results?search_query=ChromeDevTools%20chrome-devtools-mcp%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Veyra-NRVideo%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=chrome-devtools-mcp%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Veyra-NRVideo%20AI",
+          "url": "https://www.tiktok.com/search?q=chrome-devtools-mcp%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 6
+      "rank": 3
+    },
+    {
+      "repo": "dream-num/univer",
+      "title": "Univer",
+      "type": "Office para agentes",
+      "status": "Monitorar hoje",
+      "hook": "Este projeto dá aos agentes uma superfície local para criar e revisar planilhas, documentos e apresentações.",
+      "thesis": "Ferramentas de escritório estão virando runtimes programáveis nos quais agentes editam conteúdo estruturado e humanos revisam o resultado.",
+      "broll": [
+        "showcase oficial",
+        "planilha sendo editada",
+        "documentos e slides",
+        "fluxo com worktree"
+      ],
+      "url": "https://github.com/dream-num/univer",
+      "stars": 24328,
+      "forks": 2106,
+      "issues": 165,
+      "language": "TypeScript",
+      "pushedAt": "2026-11-14T12:44:53Z",
+      "pushedLabel": "push há 4h",
+      "trendingStarsToday": 495,
+      "score": 68,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/dream-num/univer",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 495 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Univer · showcase oficial",
+          "url": "https://docs.univer.ai/showcase",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=dream-num%20univer%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Univer%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Univer%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
     },
     {
       "repo": "tradermonty/claude-trading-skills",
       "title": "claude-trading-skills",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 69 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 556 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "broll": [
         "GitHub Trending",
@@ -434,14 +333,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/tradermonty/claude-trading-skills",
-      "stars": 4217,
-      "forks": 873,
-      "issues": 82,
+      "stars": 4573,
+      "forks": 900,
+      "issues": 62,
       "language": "Python",
-      "pushedAt": "2026-11-14T02:05:41Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 69,
-      "score": 52,
+      "pushedAt": "2026-11-14T14:33:41Z",
+      "pushedLabel": "push há 2h",
+      "trendingStarsToday": 556,
+      "score": 66,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -451,7 +350,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 69 stars hoje",
+          "label": "GitHub Trending · 556 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -471,6 +370,112 @@
           "kind": "busca"
         }
       ],
+      "rank": 5
+    },
+    {
+      "repo": "backnotprop/plannotator",
+      "title": "plannotator",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 412 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/backnotprop/plannotator",
+      "stars": 10850,
+      "forks": 807,
+      "issues": 227,
+      "language": "TypeScript",
+      "pushedAt": "2026-11-14T16:38:20Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 412,
+      "score": 65,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/backnotprop/plannotator",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 412 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=backnotprop%20plannotator%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=plannotator%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=plannotator%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "repo": "QwenLM/qwen-code",
+      "title": "qwen-code",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 116 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "An open-source AI coding agent that lives in your terminal.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/QwenLM/qwen-code",
+      "stars": 30214,
+      "forks": 3424,
+      "issues": 2277,
+      "language": "TypeScript",
+      "pushedAt": "2026-11-14T16:42:39Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 116,
+      "score": 59,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 116 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=QwenLM%20qwen-code%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=qwen-code%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=qwen-code%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 7
     },
     {
@@ -486,12 +491,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 111592,
-      "forks": 10004,
-      "issues": 105,
+      "stars": 111736,
+      "forks": 10017,
+      "issues": 106,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
-      "pushedLabel": "push há 6d",
+      "pushedLabel": "push há 7d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -562,9 +567,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30882,
-      "forks": 3022,
-      "issues": 855,
+      "stars": 30901,
+      "forks": 3024,
+      "issues": 852,
       "language": "TypeScript",
       "pushedAt": "2026-11-10T13:27:08Z",
       "pushedLabel": "push há 4d",
@@ -617,6 +622,15 @@
       "source": "Hacker News official API"
     },
     {
+      "title": "OpenAI launches ChatGPT Wallet, AI agents pay for purchase",
+      "url": "https://news.ycombinator.com/item?id=50487510",
+      "relatedUrl": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/",
+      "points": 9,
+      "comments": 1,
+      "publishedAt": "2026-11-13T18:17:27Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "Show HN: Langfuse AI Gateway, open source rust gateway to trace every LLM call",
       "url": "https://news.ycombinator.com/item?id=50484682",
       "relatedUrl": "https://github.com/langfuse/langfuse/tree/main/ai-gateway",
@@ -626,19 +640,10 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "OpenAI launches ChatGPT Wallet, AI agents pay for purchase",
-      "url": "https://news.ycombinator.com/item?id=50487510",
-      "relatedUrl": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/",
-      "points": 8,
-      "comments": 1,
-      "publishedAt": "2026-11-13T18:17:27Z",
-      "source": "Hacker News official API"
-    },
-    {
       "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
       "url": "https://news.ycombinator.com/item?id=50471650",
       "relatedUrl": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-      "points": 134,
+      "points": 135,
       "comments": 39,
       "publishedAt": "2026-11-12T18:15:48Z",
       "source": "Hacker News official API"
@@ -655,52 +660,52 @@
   ],
   "trending": [
     {
-      "repo": "alibaba/open-code-review",
-      "starsToday": 215
+      "repo": "backnotprop/plannotator",
+      "starsToday": 412
     },
     {
       "repo": "GoogleChrome/modern-web-guidance-src",
-      "starsToday": 1925
-    },
-    {
-      "repo": "openai/codex-security",
-      "starsToday": 751
-    },
-    {
-      "repo": "ZhuLinsen/daily_stock_analysis",
-      "starsToday": 256
-    },
-    {
-      "repo": "we-promise/sure",
-      "starsToday": 925
-    },
-    {
-      "repo": "backnotprop/plannotator",
-      "starsToday": 108
-    },
-    {
-      "repo": "louislam/uptime-kuma",
-      "starsToday": 71
-    },
-    {
-      "repo": "block/buzz",
-      "starsToday": 97
+      "starsToday": 1225
     },
     {
       "repo": "tradermonty/claude-trading-skills",
-      "starsToday": 69
-    },
-    {
-      "repo": "tailscale/tailcat",
-      "starsToday": 256
-    },
-    {
-      "repo": "Likely7/Veyra-NRVideo",
-      "starsToday": 256
+      "starsToday": 556
     },
     {
       "repo": "ChromeDevTools/chrome-devtools-mcp",
-      "starsToday": 67
+      "starsToday": 673
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "starsToday": 897
+    },
+    {
+      "repo": "QwenLM/qwen-code",
+      "starsToday": 116
+    },
+    {
+      "repo": "dream-num/univer",
+      "starsToday": 495
+    },
+    {
+      "repo": "ag-ui-protocol/ag-ui",
+      "starsToday": 9
+    },
+    {
+      "repo": "ashhart/TensorFold",
+      "starsToday": 188
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "starsToday": 227
+    },
+    {
+      "repo": "louislam/uptime-kuma",
+      "starsToday": 432
+    },
+    {
+      "repo": "we-promise/sure",
+      "starsToday": 659
     }
   ],
   "monitored": [
@@ -717,12 +722,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 111592,
-      "forks": 10004,
-      "issues": 105,
+      "stars": 111736,
+      "forks": 10017,
+      "issues": 106,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
-      "pushedLabel": "push há 6d",
+      "pushedLabel": "push há 7d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -793,9 +798,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30882,
-      "forks": 3022,
-      "issues": 855,
+      "stars": 30901,
+      "forks": 3024,
+      "issues": 852,
       "language": "TypeScript",
       "pushedAt": "2026-11-10T13:27:08Z",
       "pushedLabel": "push há 4d",
