@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T21:28:23.901Z",
-  "generatedLabel": "15 de nov. de 2026 · 18:28",
+  "generatedAt": "2026-11-16T02:39:27.584Z",
+  "generatedLabel": "15 de nov. de 2026 · 23:39",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "fluxo com worktree"
       ],
       "url": "https://github.com/dream-num/univer",
-      "stars": 25526,
-      "forks": 2332,
-      "issues": 171,
+      "stars": 26256,
+      "forks": 2368,
+      "issues": 176,
       "language": "TypeScript",
       "pushedAt": "2026-11-15T17:20:06Z",
-      "pushedLabel": "push há 4h",
-      "trendingStarsToday": 1041,
+      "pushedLabel": "push há 9h",
+      "trendingStarsToday": 988,
       "score": 73,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -102,7 +102,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1 mil stars hoje",
+          "label": "GitHub Trending · 988 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -134,7 +134,7 @@
       "title": "chrome-devtools-mcp",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 718 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 717 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Chrome DevTools for coding agents",
       "broll": [
         "GitHub Trending",
@@ -143,13 +143,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "stars": 56845,
-      "forks": 4804,
-      "issues": 133,
+      "stars": 57038,
+      "forks": 4813,
+      "issues": 135,
       "language": "TypeScript",
       "pushedAt": "2026-11-15T03:06:25Z",
-      "pushedLabel": "push há 18h",
-      "trendingStarsToday": 718,
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 717,
       "score": 72,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -160,7 +160,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 718 stars hoje",
+          "label": "GitHub Trending · 717 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -197,13 +197,13 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 51960,
-      "forks": 4098,
-      "issues": 348,
+      "stars": 52195,
+      "forks": 4121,
+      "issues": 349,
       "language": "Go",
-      "pushedAt": "2026-11-15T02:41:14Z",
-      "pushedLabel": "push há 19h",
-      "trendingStarsToday": 688,
+      "pushedAt": "2026-11-16T02:35:37Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 691,
       "score": 71,
       "social": [
         {
@@ -234,7 +234,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 688 stars hoje",
+          "label": "GitHub Trending · 691 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -271,7 +271,7 @@
       "title": "plannotator",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 860 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 866 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
       "broll": [
         "GitHub Trending",
@@ -280,13 +280,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/backnotprop/plannotator",
-      "stars": 11771,
-      "forks": 1080,
-      "issues": 223,
+      "stars": 11917,
+      "forks": 1087,
+      "issues": 186,
       "language": "TypeScript",
-      "pushedAt": "2026-11-15T21:22:59Z",
+      "pushedAt": "2026-11-16T02:38:21Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 860,
+      "trendingStarsToday": 866,
       "score": 70,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -297,7 +297,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 860 stars hoje",
+          "label": "GitHub Trending · 866 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -324,7 +324,7 @@
       "title": "ag-ui",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 393 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 355 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "broll": [
         "GitHub Trending",
@@ -333,14 +333,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "stars": 17782,
-      "forks": 1817,
+      "stars": 17970,
+      "forks": 1823,
       "issues": 593,
       "language": "TypeScript",
       "pushedAt": "2026-11-15T02:26:33Z",
-      "pushedLabel": "push há 19h",
-      "trendingStarsToday": 393,
-      "score": 66,
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 355,
+      "score": 65,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -350,7 +350,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 393 stars hoje",
+          "label": "GitHub Trending · 355 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -377,7 +377,7 @@
       "title": "LoopForge",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 484 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 423 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "broll": [
         "GitHub Trending",
@@ -386,14 +386,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Tencent/LoopForge",
-      "stars": 1411,
-      "forks": 262,
-      "issues": 83,
+      "stars": 1618,
+      "forks": 282,
+      "issues": 87,
       "language": "Go",
       "pushedAt": "2026-11-15T11:05:37Z",
-      "pushedLabel": "push há 10h",
-      "trendingStarsToday": 484,
-      "score": 63,
+      "pushedLabel": "push há 16h",
+      "trendingStarsToday": 423,
+      "score": 62,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -403,7 +403,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 484 stars hoje",
+          "label": "GitHub Trending · 423 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -430,7 +430,7 @@
       "title": "stitch-skills",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 248 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 247 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "broll": [
         "GitHub Trending",
@@ -439,13 +439,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/google-labs-code/stitch-skills",
-      "stars": 9237,
-      "forks": 1125,
+      "stars": 9357,
+      "forks": 1130,
       "issues": 19,
       "language": "TypeScript",
       "pushedAt": "2026-08-17T20:20:23Z",
       "pushedLabel": "push há 90d",
-      "trendingStarsToday": 248,
+      "trendingStarsToday": 247,
       "score": 55,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -456,7 +456,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 248 stars hoje",
+          "label": "GitHub Trending · 247 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -491,8 +491,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 112048,
-      "forks": 10040,
+      "stars": 112088,
+      "forks": 10043,
       "issues": 120,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
@@ -567,12 +567,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30924,
+      "stars": 30923,
       "forks": 3028,
       "issues": 852,
       "language": "TypeScript",
       "pushedAt": "2026-11-10T13:27:08Z",
-      "pushedLabel": "push há 5d",
+      "pushedLabel": "push há 6d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
@@ -607,8 +607,8 @@
       "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
       "url": "https://news.ycombinator.com/item?id=50506940",
       "relatedUrl": "https://github.com/db-branch/db-branch",
-      "points": 27,
-      "comments": 7,
+      "points": 33,
+      "comments": 10,
       "publishedAt": "2026-11-15T13:50:51Z",
       "source": "Hacker News official API"
     },
@@ -619,6 +619,15 @@
       "points": 10,
       "comments": 6,
       "publishedAt": "2026-11-15T16:16:26Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: Pizza – An event-driven AI agent, no while true",
+      "url": "https://news.ycombinator.com/item?id=50507971",
+      "relatedUrl": "https://pizza.hertzbeat.com/",
+      "points": 5,
+      "comments": 1,
+      "publishedAt": "2026-11-15T16:04:32Z",
       "source": "Hacker News official API"
     },
     {
@@ -647,65 +656,56 @@
       "comments": 0,
       "publishedAt": "2026-11-14T12:52:01Z",
       "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: Memro – Persistent Memory for Claude Code, Cursor and Codex",
-      "url": "https://news.ycombinator.com/item?id=50492093",
-      "relatedUrl": "https://github.com/memrohq/memro",
-      "points": 4,
-      "comments": 1,
-      "publishedAt": "2026-11-14T00:20:15Z",
-      "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "dream-num/univer",
-      "starsToday": 1041
+      "starsToday": 988
     },
     {
       "repo": "ag-ui-protocol/ag-ui",
-      "starsToday": 393
+      "starsToday": 355
     },
     {
       "repo": "google-labs-code/stitch-skills",
-      "starsToday": 248
+      "starsToday": 247
     },
     {
       "repo": "backnotprop/plannotator",
-      "starsToday": 860
+      "starsToday": 866
     },
     {
       "repo": "ChromeDevTools/chrome-devtools-mcp",
-      "starsToday": 718
+      "starsToday": 717
     },
     {
       "repo": "alibaba/open-code-review",
-      "starsToday": 688
+      "starsToday": 691
     },
     {
       "repo": "Tencent/LoopForge",
-      "starsToday": 484
+      "starsToday": 423
     },
     {
       "repo": "ggml-org/ggml",
-      "starsToday": 53
+      "starsToday": 43
     },
     {
       "repo": "elementalsouls/Claude-BugHunter",
-      "starsToday": 221
+      "starsToday": 98
     },
     {
       "repo": "GoogleChrome/modern-web-guidance-src",
-      "starsToday": 1220
+      "starsToday": 1219
     },
     {
       "repo": "tradermonty/claude-trading-skills",
-      "starsToday": 707
+      "starsToday": 706
     },
     {
       "repo": "NVIDIA/SkillEvaluator",
-      "starsToday": 205
+      "starsToday": 122
     }
   ],
   "monitored": [
@@ -722,8 +722,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 112048,
-      "forks": 10040,
+      "stars": 112088,
+      "forks": 10043,
       "issues": 120,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
@@ -798,12 +798,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30924,
+      "stars": 30923,
       "forks": 3028,
       "issues": 852,
       "language": "TypeScript",
       "pushedAt": "2026-11-10T13:27:08Z",
-      "pushedLabel": "push há 5d",
+      "pushedLabel": "push há 6d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
