@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T02:39:27.584Z",
-  "generatedLabel": "15 de nov. de 2026 · 23:39",
+  "generatedAt": "2026-11-16T20:42:05.589Z",
+  "generatedLabel": "16 de nov. de 2026 · 17:42",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,14 +85,14 @@
         "fluxo com worktree"
       ],
       "url": "https://github.com/dream-num/univer",
-      "stars": 26256,
-      "forks": 2368,
-      "issues": 176,
+      "stars": 27700,
+      "forks": 2521,
+      "issues": 180,
       "language": "TypeScript",
-      "pushedAt": "2026-11-15T17:20:06Z",
-      "pushedLabel": "push há 9h",
-      "trendingStarsToday": 988,
-      "score": 73,
+      "pushedAt": "2026-11-16T17:59:43Z",
+      "pushedLabel": "push há 3h",
+      "trendingStarsToday": 1878,
+      "score": 76,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -102,7 +102,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 988 stars hoje",
+          "label": "GitHub Trending · 1,9 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -130,59 +130,6 @@
       "rank": 1
     },
     {
-      "repo": "ChromeDevTools/chrome-devtools-mcp",
-      "title": "chrome-devtools-mcp",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 717 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Chrome DevTools for coding agents",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "stars": 57038,
-      "forks": 4813,
-      "issues": 135,
-      "language": "TypeScript",
-      "pushedAt": "2026-11-15T03:06:25Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 717,
-      "score": 72,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 717 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=ChromeDevTools%20chrome-devtools-mcp%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=chrome-devtools-mcp%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=chrome-devtools-mcp%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "repo": "alibaba/open-code-review",
       "title": "Open Code Review",
       "type": "Revisão de código com IA",
@@ -197,14 +144,14 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 52195,
-      "forks": 4121,
-      "issues": 349,
+      "stars": 52869,
+      "forks": 4290,
+      "issues": 335,
       "language": "Go",
-      "pushedAt": "2026-11-16T02:35:37Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 691,
-      "score": 71,
+      "pushedAt": "2026-11-16T12:12:40Z",
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 946,
+      "score": 74,
       "social": [
         {
           "platform": "YouTube",
@@ -234,7 +181,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 691 stars hoje",
+          "label": "GitHub Trending · 946 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -264,67 +211,67 @@
           "kind": "busca"
         }
       ],
-      "rank": 3
+      "rank": 2
     },
     {
-      "repo": "backnotprop/plannotator",
-      "title": "plannotator",
+      "repo": "elementalsouls/Claude-BugHunter",
+      "title": "Claude-BugHunter",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 866 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+      "hook": "Este repositório ganhou 1,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/backnotprop/plannotator",
-      "stars": 11917,
-      "forks": 1087,
-      "issues": 186,
-      "language": "TypeScript",
-      "pushedAt": "2026-11-16T02:38:21Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 866,
-      "score": 70,
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "stars": 7288,
+      "forks": 1128,
+      "issues": 18,
+      "language": "Python",
+      "pushedAt": "2026-11-16T13:10:53Z",
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 1057,
+      "score": 71,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/backnotprop/plannotator",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 866 stars hoje",
+          "label": "GitHub Trending · 1,1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=backnotprop%20plannotator%20AI",
+          "url": "https://www.youtube.com/results?search_query=elementalsouls%20Claude-BugHunter%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=plannotator%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Claude-BugHunter%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=plannotator%20AI",
+          "url": "https://www.tiktok.com/search?q=Claude-BugHunter%20AI",
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "repo": "ag-ui-protocol/ag-ui",
       "title": "ag-ui",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 355 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 790 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "broll": [
         "GitHub Trending",
@@ -333,14 +280,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "stars": 17970,
-      "forks": 1823,
-      "issues": 593,
+      "stars": 18821,
+      "forks": 1955,
+      "issues": 591,
       "language": "TypeScript",
-      "pushedAt": "2026-11-15T02:26:33Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 355,
-      "score": 65,
+      "pushedAt": "2026-11-16T19:12:15Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 790,
+      "score": 71,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -350,7 +297,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 355 stars hoje",
+          "label": "GitHub Trending · 790 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -370,56 +317,109 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
-      "repo": "Tencent/LoopForge",
-      "title": "LoopForge",
+      "repo": "tradermonty/claude-trading-skills",
+      "title": "claude-trading-skills",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 423 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 841 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "broll": [
         "GitHub Trending",
         "README",
         "demo oficial",
         "histórico do projeto"
       ],
-      "url": "https://github.com/Tencent/LoopForge",
-      "stars": 1618,
-      "forks": 282,
-      "issues": 87,
-      "language": "Go",
-      "pushedAt": "2026-11-15T11:05:37Z",
-      "pushedLabel": "push há 16h",
-      "trendingStarsToday": 423,
-      "score": 62,
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "stars": 6210,
+      "forks": 1318,
+      "issues": 51,
+      "language": "Python",
+      "pushedAt": "2026-11-16T20:10:27Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 841,
+      "score": 69,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/Tencent/LoopForge",
+          "url": "https://github.com/tradermonty/claude-trading-skills",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 423 stars hoje",
+          "label": "GitHub Trending · 841 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=Tencent%20LoopForge%20AI",
+          "url": "https://www.youtube.com/results?search_query=tradermonty%20claude-trading-skills%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=LoopForge%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=claude-trading-skills%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=LoopForge%20AI",
+          "url": "https://www.tiktok.com/search?q=claude-trading-skills%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "repo": "backnotprop/plannotator",
+      "title": "plannotator",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 689 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/backnotprop/plannotator",
+      "stars": 12459,
+      "forks": 1218,
+      "issues": 184,
+      "language": "TypeScript",
+      "pushedAt": "2026-11-16T20:37:58Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 689,
+      "score": 69,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/backnotprop/plannotator",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 689 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=backnotprop%20plannotator%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=plannotator%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=plannotator%20AI",
           "kind": "busca"
         }
       ],
@@ -429,8 +429,8 @@
       "repo": "google-labs-code/stitch-skills",
       "title": "stitch-skills",
       "type": "Novo no GitHub Trending",
-      "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 247 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 540 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "broll": [
         "GitHub Trending",
@@ -439,14 +439,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/google-labs-code/stitch-skills",
-      "stars": 9357,
-      "forks": 1130,
+      "stars": 9687,
+      "forks": 1236,
       "issues": 19,
       "language": "TypeScript",
       "pushedAt": "2026-08-17T20:20:23Z",
-      "pushedLabel": "push há 90d",
-      "trendingStarsToday": 247,
-      "score": 55,
+      "pushedLabel": "push há 91d",
+      "trendingStarsToday": 540,
+      "score": 60,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -456,7 +456,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 247 stars hoje",
+          "label": "GitHub Trending · 540 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -491,12 +491,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 112088,
-      "forks": 10043,
-      "issues": 120,
+      "stars": 112293,
+      "forks": 10068,
+      "issues": 131,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
-      "pushedLabel": "push há 8d",
+      "pushedLabel": "push há 9d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -567,9 +567,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30923,
-      "forks": 3028,
-      "issues": 852,
+      "stars": 30941,
+      "forks": 3030,
+      "issues": 853,
       "language": "TypeScript",
       "pushedAt": "2026-11-10T13:27:08Z",
       "pushedLabel": "push há 6d",
@@ -604,11 +604,47 @@
   ],
   "news": [
     {
+      "title": "Show HN: Coral – Open-source gateway where agents write their own tools",
+      "url": "https://news.ycombinator.com/item?id=50517803",
+      "relatedUrl": "https://github.com/withcoral/coral",
+      "points": 50,
+      "comments": 23,
+      "publishedAt": "2026-11-16T14:14:51Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Agentic AI Designs an Analog Synthesizer",
+      "url": "https://news.ycombinator.com/item?id=50512933",
+      "relatedUrl": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+      "points": 15,
+      "comments": 3,
+      "publishedAt": "2026-11-16T01:28:10Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: Cinnamon AI – an agent I built for friends and family",
+      "url": "https://news.ycombinator.com/item?id=50517221",
+      "relatedUrl": "https://getcinnamon.ai/",
+      "points": 3,
+      "comments": 6,
+      "publishedAt": "2026-11-16T13:08:24Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "Show HN: One cloud computer for all your agents",
+      "url": "https://news.ycombinator.com/item?id=50521067",
+      "relatedUrl": "https://box.simular.ai/",
+      "points": 4,
+      "comments": 5,
+      "publishedAt": "2026-11-16T18:32:36Z",
+      "source": "Hacker News official API"
+    },
+    {
       "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
       "url": "https://news.ycombinator.com/item?id=50506940",
       "relatedUrl": "https://github.com/db-branch/db-branch",
-      "points": 33,
-      "comments": 10,
+      "points": 45,
+      "comments": 16,
       "publishedAt": "2026-11-15T13:50:51Z",
       "source": "Hacker News official API"
     },
@@ -620,92 +656,56 @@
       "comments": 6,
       "publishedAt": "2026-11-15T16:16:26Z",
       "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: Pizza – An event-driven AI agent, no while true",
-      "url": "https://news.ycombinator.com/item?id=50507971",
-      "relatedUrl": "https://pizza.hertzbeat.com/",
-      "points": 5,
-      "comments": 1,
-      "publishedAt": "2026-11-15T16:04:32Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: Shotoku – Local-first action governance and budget caps for AI agents",
-      "url": "https://news.ycombinator.com/item?id=50496705",
-      "relatedUrl": "https://www.shotoku.dev/",
-      "points": 11,
-      "comments": 1,
-      "publishedAt": "2026-11-14T13:02:53Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "My agent org speedran a company",
-      "url": "https://news.ycombinator.com/item?id=50499972",
-      "relatedUrl": "https://perfloop.ai/blog/my-agent-org-speedran-a-company",
-      "points": 5,
-      "comments": 1,
-      "publishedAt": "2026-11-14T19:27:11Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: Timon, an open-source AI workstation for coordinating agents",
-      "url": "https://news.ycombinator.com/item?id=50496631",
-      "relatedUrl": "https://github.com/ai-timon/timon",
-      "points": 7,
-      "comments": 0,
-      "publishedAt": "2026-11-14T12:52:01Z",
-      "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
-      "repo": "dream-num/univer",
-      "starsToday": 988
-    },
-    {
       "repo": "ag-ui-protocol/ag-ui",
-      "starsToday": 355
-    },
-    {
-      "repo": "google-labs-code/stitch-skills",
-      "starsToday": 247
+      "starsToday": 790
     },
     {
       "repo": "backnotprop/plannotator",
-      "starsToday": 866
+      "starsToday": 689
     },
     {
-      "repo": "ChromeDevTools/chrome-devtools-mcp",
-      "starsToday": 717
-    },
-    {
-      "repo": "alibaba/open-code-review",
-      "starsToday": 691
-    },
-    {
-      "repo": "Tencent/LoopForge",
-      "starsToday": 423
-    },
-    {
-      "repo": "ggml-org/ggml",
-      "starsToday": 43
-    },
-    {
-      "repo": "elementalsouls/Claude-BugHunter",
-      "starsToday": 98
-    },
-    {
-      "repo": "GoogleChrome/modern-web-guidance-src",
-      "starsToday": 1219
+      "repo": "dream-num/univer",
+      "starsToday": 1878
     },
     {
       "repo": "tradermonty/claude-trading-skills",
-      "starsToday": 706
+      "starsToday": 841
+    },
+    {
+      "repo": "elementalsouls/Claude-BugHunter",
+      "starsToday": 1057
+    },
+    {
+      "repo": "getarcaneapp/arcane",
+      "starsToday": 31
+    },
+    {
+      "repo": "DeanChensj/jiangshan-map",
+      "starsToday": 285
+    },
+    {
+      "repo": "google-labs-code/stitch-skills",
+      "starsToday": 540
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "starsToday": 122
     },
     {
       "repo": "NVIDIA/SkillEvaluator",
-      "starsToday": 122
+      "starsToday": 953
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "starsToday": 946
+    },
+    {
+      "repo": "google-research/paper-orchestra",
+      "starsToday": 306
     }
   ],
   "monitored": [
@@ -722,12 +722,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 112088,
-      "forks": 10043,
-      "issues": 120,
+      "stars": 112293,
+      "forks": 10068,
+      "issues": 131,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
-      "pushedLabel": "push há 8d",
+      "pushedLabel": "push há 9d",
       "trendingStarsToday": null,
       "score": 35,
       "social": [
@@ -798,9 +798,9 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30923,
-      "forks": 3028,
-      "issues": 852,
+      "stars": 30941,
+      "forks": 3030,
+      "issues": 853,
       "language": "TypeScript",
       "pushedAt": "2026-11-10T13:27:08Z",
       "pushedLabel": "push há 6d",
