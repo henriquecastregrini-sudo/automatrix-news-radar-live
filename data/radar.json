@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T20:42:05.589Z",
-  "generatedLabel": "16 de nov. de 2026 · 17:42",
+  "generatedAt": "2026-11-17T00:38:33.726Z",
+  "generatedLabel": "16 de nov. de 2026 · 21:38",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "fluxo com worktree"
       ],
       "url": "https://github.com/dream-num/univer",
-      "stars": 27700,
-      "forks": 2521,
-      "issues": 180,
+      "stars": 27774,
+      "forks": 2524,
+      "issues": 184,
       "language": "TypeScript",
       "pushedAt": "2026-11-16T17:59:43Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": 1878,
+      "pushedLabel": "push há 7h",
+      "trendingStarsToday": 1828,
       "score": 76,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -102,7 +102,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,9 mil stars hoje",
+          "label": "GitHub Trending · 1,8 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -144,13 +144,13 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 52869,
-      "forks": 4290,
+      "stars": 52927,
+      "forks": 4295,
       "issues": 335,
       "language": "Go",
       "pushedAt": "2026-11-16T12:12:40Z",
-      "pushedLabel": "push há 8h",
-      "trendingStarsToday": 946,
+      "pushedLabel": "push há 12h",
+      "trendingStarsToday": 951,
       "score": 74,
       "social": [
         {
@@ -181,7 +181,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 946 stars hoje",
+          "label": "GitHub Trending · 951 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -214,64 +214,11 @@
       "rank": 2
     },
     {
-      "repo": "elementalsouls/Claude-BugHunter",
-      "title": "Claude-BugHunter",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "stars": 7288,
-      "forks": 1128,
-      "issues": 18,
-      "language": "Python",
-      "pushedAt": "2026-11-16T13:10:53Z",
-      "pushedLabel": "push há 8h",
-      "trendingStarsToday": 1057,
-      "score": 71,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/elementalsouls/Claude-BugHunter",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,1 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=elementalsouls%20Claude-BugHunter%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Claude-BugHunter%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Claude-BugHunter%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "repo": "ag-ui-protocol/ag-ui",
       "title": "ag-ui",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 790 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 791 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "broll": [
         "GitHub Trending",
@@ -280,13 +227,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "stars": 18821,
-      "forks": 1955,
+      "stars": 18962,
+      "forks": 1964,
       "issues": 591,
       "language": "TypeScript",
       "pushedAt": "2026-11-16T19:12:15Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 790,
+      "pushedLabel": "push há 5h",
+      "trendingStarsToday": 791,
       "score": 71,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -297,7 +244,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 790 stars hoje",
+          "label": "GitHub Trending · 791 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -317,14 +264,14 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "repo": "tradermonty/claude-trading-skills",
       "title": "claude-trading-skills",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 841 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 837 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "broll": [
         "GitHub Trending",
@@ -333,13 +280,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/tradermonty/claude-trading-skills",
-      "stars": 6210,
-      "forks": 1318,
-      "issues": 51,
+      "stars": 6309,
+      "forks": 1330,
+      "issues": 56,
       "language": "Python",
-      "pushedAt": "2026-11-16T20:10:27Z",
+      "pushedAt": "2026-11-16T23:23:52Z",
       "pushedLabel": "push há 1h",
-      "trendingStarsToday": 841,
+      "trendingStarsToday": 837,
       "score": 69,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -350,7 +297,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 841 stars hoje",
+          "label": "GitHub Trending · 837 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -370,14 +317,14 @@
           "kind": "busca"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "repo": "backnotprop/plannotator",
       "title": "plannotator",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 689 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 696 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
       "broll": [
         "GitHub Trending",
@@ -386,13 +333,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/backnotprop/plannotator",
-      "stars": 12459,
-      "forks": 1218,
+      "stars": 12554,
+      "forks": 1228,
       "issues": 184,
       "language": "TypeScript",
-      "pushedAt": "2026-11-16T20:37:58Z",
+      "pushedAt": "2026-11-17T00:32:41Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 689,
+      "trendingStarsToday": 696,
       "score": 69,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -403,7 +350,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 689 stars hoje",
+          "label": "GitHub Trending · 696 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -423,6 +370,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 5
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "title": "last30days-skill",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 135 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "stars": 68116,
+      "forks": 6037,
+      "issues": 31,
+      "language": "Python",
+      "pushedAt": "2026-11-16T23:56:25Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 135,
+      "score": 61,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 135 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=mvanhorn%20last30days-skill%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=last30days-skill%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=last30days-skill%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 6
     },
     {
@@ -430,7 +430,7 @@
       "title": "stitch-skills",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 540 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 529 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "broll": [
         "GitHub Trending",
@@ -439,13 +439,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/google-labs-code/stitch-skills",
-      "stars": 9687,
-      "forks": 1236,
+      "stars": 9733,
+      "forks": 1241,
       "issues": 19,
       "language": "TypeScript",
       "pushedAt": "2026-08-17T20:20:23Z",
       "pushedLabel": "push há 91d",
-      "trendingStarsToday": 540,
+      "trendingStarsToday": 529,
       "score": 60,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -456,7 +456,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 540 stars hoje",
+          "label": "GitHub Trending · 529 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -491,7 +491,7 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 112293,
+      "stars": 112344,
       "forks": 10068,
       "issues": 131,
       "language": "Python",
@@ -607,9 +607,18 @@
       "title": "Show HN: Coral – Open-source gateway where agents write their own tools",
       "url": "https://news.ycombinator.com/item?id=50517803",
       "relatedUrl": "https://github.com/withcoral/coral",
-      "points": 50,
-      "comments": 23,
+      "points": 51,
+      "comments": 24,
       "publishedAt": "2026-11-16T14:14:51Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
+      "url": "https://news.ycombinator.com/item?id=50523346",
+      "relatedUrl": "https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566",
+      "points": 18,
+      "comments": 7,
+      "publishedAt": "2026-11-16T21:12:02Z",
       "source": "Hacker News official API"
     },
     {
@@ -617,26 +626,17 @@
       "url": "https://news.ycombinator.com/item?id=50512933",
       "relatedUrl": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
       "points": 15,
-      "comments": 3,
+      "comments": 4,
       "publishedAt": "2026-11-16T01:28:10Z",
       "source": "Hacker News official API"
     },
     {
-      "title": "Show HN: Cinnamon AI – an agent I built for friends and family",
-      "url": "https://news.ycombinator.com/item?id=50517221",
-      "relatedUrl": "https://getcinnamon.ai/",
-      "points": 3,
-      "comments": 6,
-      "publishedAt": "2026-11-16T13:08:24Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: One cloud computer for all your agents",
-      "url": "https://news.ycombinator.com/item?id=50521067",
-      "relatedUrl": "https://box.simular.ai/",
-      "points": 4,
-      "comments": 5,
-      "publishedAt": "2026-11-16T18:32:36Z",
+      "title": "Google: AI agent turned a security patch into a exploit with no human help",
+      "url": "https://news.ycombinator.com/item?id=50517797",
+      "relatedUrl": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
+      "points": 12,
+      "comments": 3,
+      "publishedAt": "2026-11-16T14:14:09Z",
       "source": "Hacker News official API"
     },
     {
@@ -661,51 +661,51 @@
   "trending": [
     {
       "repo": "ag-ui-protocol/ag-ui",
-      "starsToday": 790
+      "starsToday": 791
     },
     {
       "repo": "backnotprop/plannotator",
-      "starsToday": 689
+      "starsToday": 696
     },
     {
       "repo": "dream-num/univer",
-      "starsToday": 1878
+      "starsToday": 1828
     },
     {
       "repo": "tradermonty/claude-trading-skills",
-      "starsToday": 841
-    },
-    {
-      "repo": "elementalsouls/Claude-BugHunter",
-      "starsToday": 1057
+      "starsToday": 837
     },
     {
       "repo": "getarcaneapp/arcane",
-      "starsToday": 31
+      "starsToday": 46
     },
     {
       "repo": "DeanChensj/jiangshan-map",
-      "starsToday": 285
+      "starsToday": 288
     },
     {
       "repo": "google-labs-code/stitch-skills",
-      "starsToday": 540
+      "starsToday": 529
     },
     {
       "repo": "mvanhorn/last30days-skill",
-      "starsToday": 122
+      "starsToday": 135
     },
     {
       "repo": "NVIDIA/SkillEvaluator",
-      "starsToday": 953
+      "starsToday": 873
     },
     {
       "repo": "alibaba/open-code-review",
-      "starsToday": 946
+      "starsToday": 951
     },
     {
       "repo": "google-research/paper-orchestra",
-      "starsToday": 306
+      "starsToday": 313
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "starsToday": 841
     }
   ],
   "monitored": [
@@ -722,7 +722,7 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 112293,
+      "stars": 112344,
       "forks": 10068,
       "issues": 131,
       "language": "Python",
