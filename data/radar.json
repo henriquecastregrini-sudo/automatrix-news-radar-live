@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T23:43:41.580Z",
-  "generatedLabel": "17 de nov. de 2026 · 20:43",
+  "generatedAt": "2026-11-18T04:05:57.129Z",
+  "generatedLabel": "18 de nov. de 2026 · 01:05",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "fluxo com worktree"
       ],
       "url": "https://github.com/dream-num/univer",
-      "stars": 28885,
-      "forks": 2616,
-      "issues": 206,
+      "stars": 28989,
+      "forks": 2622,
+      "issues": 205,
       "language": "TypeScript",
-      "pushedAt": "2026-11-17T18:24:56Z",
-      "pushedLabel": "push há 5h",
-      "trendingStarsToday": 1776,
+      "pushedAt": "2026-11-18T04:03:35Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 1774,
       "score": 76,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -130,53 +130,80 @@
       "rank": 1
     },
     {
-      "repo": "mvanhorn/last30days-skill",
-      "title": "last30days-skill",
-      "type": "Novo no GitHub Trending",
+      "repo": "obra/superpowers",
+      "title": "Superpowers",
+      "type": "Metodologia para agentes",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 772 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "hook": "Este projeto tenta acabar com o vibe coding: o agente precisa planejar, testar e revisar antes de dizer que terminou.",
+      "thesis": "Skills em Markdown estão virando uma camada de engenharia reutilizável entre Claude, Codex, Cursor e outros agentes.",
       "broll": [
-        "GitHub Trending",
+        "fluxo brainstorming → plano → TDD",
+        "lista de skills",
         "README",
-        "demo oficial",
-        "histórico do projeto"
+        "vídeo demonstrativo"
       ],
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "stars": 69014,
-      "forks": 6145,
-      "issues": 21,
-      "language": "Python",
-      "pushedAt": "2026-11-17T22:37:11Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 772,
+      "url": "https://github.com/obra/superpowers",
+      "stars": 319449,
+      "forks": 28484,
+      "issues": 359,
+      "language": "Shell",
+      "pushedAt": "2026-11-03T23:24:58Z",
+      "pushedLabel": "push há 14d",
+      "trendingStarsToday": 1917,
       "score": 73,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "social": [
+        {
+          "platform": "Reddit",
+          "label": "r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
+          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
+          "engagement": 324,
+          "publishedAt": "2026-09-26",
+          "verifiedAt": "01 OUT 2026"
+        },
+        {
+          "platform": "Bilibili",
+          "label": "Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "views": 17000,
+          "publishedAt": "2026-03-04",
+          "verifiedAt": "09 SET 2026"
+        }
+      ],
+      "socialStatus": "somente referência histórica — sem prova social recente",
       "sources": [
         {
           "label": "GitHub",
-          "url": "https://github.com/mvanhorn/last30days-skill",
+          "url": "https://github.com/obra/superpowers",
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 772 stars hoje",
+          "label": "GitHub Trending · 1,9 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
         {
+          "label": "Reddit · r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
+          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
+          "kind": "social"
+        },
+        {
+          "label": "Bilibili · Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
+          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
+          "kind": "social"
+        },
+        {
           "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=mvanhorn%20last30days-skill%20AI",
+          "url": "https://www.youtube.com/results?search_query=obra%20superpowers%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=last30days-skill%20AI",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Superpowers%20AI",
           "kind": "busca"
         },
         {
           "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=last30days-skill%20AI",
+          "url": "https://www.tiktok.com/search?q=Superpowers%20AI",
           "kind": "busca"
         }
       ],
@@ -197,13 +224,13 @@
         "diff com falhas encontradas"
       ],
       "url": "https://github.com/alibaba/open-code-review",
-      "stars": 53708,
-      "forks": 4429,
-      "issues": 358,
+      "stars": 53853,
+      "forks": 4437,
+      "issues": 345,
       "language": "Go",
-      "pushedAt": "2026-11-17T12:46:22Z",
-      "pushedLabel": "push há 11h",
-      "trendingStarsToday": 764,
+      "pushedAt": "2026-11-18T03:57:45Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 763,
       "score": 72,
       "social": [
         {
@@ -234,7 +261,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 764 stars hoje",
+          "label": "GitHub Trending · 763 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -267,6 +294,59 @@
       "rank": 3
     },
     {
+      "repo": "mvanhorn/last30days-skill",
+      "title": "last30days-skill",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 696 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "stars": 69232,
+      "forks": 6158,
+      "issues": 21,
+      "language": "Python",
+      "pushedAt": "2026-11-17T22:37:11Z",
+      "pushedLabel": "push há 5h",
+      "trendingStarsToday": 696,
+      "score": 72,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 696 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=mvanhorn%20last30days-skill%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=last30days-skill%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=last30days-skill%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 4
+    },
+    {
       "repo": "elementalsouls/Claude-BugHunter",
       "title": "Claude-BugHunter",
       "type": "Novo no GitHub Trending",
@@ -280,13 +360,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "stars": 9204,
-      "forks": 1353,
-      "issues": 11,
+      "stars": 9599,
+      "forks": 1382,
+      "issues": 12,
       "language": "Python",
       "pushedAt": "2026-11-17T13:33:22Z",
-      "pushedLabel": "push há 10h",
-      "trendingStarsToday": 1007,
+      "pushedLabel": "push há 15h",
+      "trendingStarsToday": 1005,
       "score": 71,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -317,86 +397,6 @@
           "kind": "busca"
         }
       ],
-      "rank": 4
-    },
-    {
-      "repo": "obra/superpowers",
-      "title": "Superpowers",
-      "type": "Metodologia para agentes",
-      "status": "Gravar agora",
-      "hook": "Este projeto tenta acabar com o vibe coding: o agente precisa planejar, testar e revisar antes de dizer que terminou.",
-      "thesis": "Skills em Markdown estão virando uma camada de engenharia reutilizável entre Claude, Codex, Cursor e outros agentes.",
-      "broll": [
-        "fluxo brainstorming → plano → TDD",
-        "lista de skills",
-        "README",
-        "vídeo demonstrativo"
-      ],
-      "url": "https://github.com/obra/superpowers",
-      "stars": 319308,
-      "forks": 28475,
-      "issues": 359,
-      "language": "Shell",
-      "pushedAt": "2026-11-03T23:24:58Z",
-      "pushedLabel": "push há 14d",
-      "trendingStarsToday": 598,
-      "score": 67,
-      "social": [
-        {
-          "platform": "Reddit",
-          "label": "r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
-          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
-          "engagement": 324,
-          "publishedAt": "2026-09-26",
-          "verifiedAt": "01 OUT 2026"
-        },
-        {
-          "platform": "Bilibili",
-          "label": "Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
-          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
-          "views": 17000,
-          "publishedAt": "2026-03-04",
-          "verifiedAt": "09 SET 2026"
-        }
-      ],
-      "socialStatus": "somente referência histórica — sem prova social recente",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/obra/superpowers",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 598 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Reddit · r/ClaudeSkills · discussão recente sobre skills subestimadas cita Superpowers · 324 votos públicos · publicado 26 SET",
-          "url": "https://www.reddit.com/r/claudeskills/comments/1wqz9se/in_this_big_2026_what_are_the_most_underrated/",
-          "kind": "social"
-        },
-        {
-          "label": "Bilibili · Guia completo do workflow Superpowers · 17k views · publicado 04 MAR · referência histórica",
-          "url": "https://www.bilibili.com/video/BV1w2PPzGENp/",
-          "kind": "social"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=obra%20superpowers%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Superpowers%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Superpowers%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 5
     },
     {
@@ -404,7 +404,7 @@
       "title": "LoopForge",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 590 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 591 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "broll": [
         "GitHub Trending",
@@ -413,13 +413,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/Tencent/LoopForge",
-      "stars": 3100,
-      "forks": 436,
-      "issues": 184,
+      "stars": 3389,
+      "forks": 458,
+      "issues": 191,
       "language": "Go",
-      "pushedAt": "2026-11-17T17:57:53Z",
-      "pushedLabel": "push há 6h",
-      "trendingStarsToday": 590,
+      "pushedAt": "2026-11-18T03:35:45Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 591,
       "score": 66,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -430,7 +430,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 590 stars hoje",
+          "label": "GitHub Trending · 591 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -466,8 +466,8 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/google-labs-code/stitch-skills",
-      "stars": 10084,
-      "forks": 1328,
+      "stars": 10159,
+      "forks": 1334,
       "issues": 21,
       "language": "TypeScript",
       "pushedAt": "2026-08-17T20:20:23Z",
@@ -518,8 +518,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 112780,
-      "forks": 10108,
+      "stars": 112829,
+      "forks": 10119,
       "issues": 133,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
@@ -594,12 +594,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30973,
-      "forks": 3030,
+      "stars": 30982,
+      "forks": 3031,
       "issues": 856,
       "language": "TypeScript",
       "pushedAt": "2026-11-10T13:27:08Z",
-      "pushedLabel": "push há 7d",
+      "pushedLabel": "push há 8d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
@@ -634,8 +634,8 @@
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
       "url": "https://news.ycombinator.com/item?id=50538303",
       "relatedUrl": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-      "points": 28,
-      "comments": 33,
+      "points": 89,
+      "comments": 137,
       "publishedAt": "2026-11-17T21:16:12Z",
       "source": "Hacker News official API"
     },
@@ -643,8 +643,8 @@
       "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
       "url": "https://news.ycombinator.com/item?id=50536468",
       "relatedUrl": "https://starsling.dev",
-      "points": 41,
-      "comments": 21,
+      "points": 62,
+      "comments": 35,
       "publishedAt": "2026-11-17T19:01:43Z",
       "source": "Hacker News official API"
     },
@@ -652,8 +652,8 @@
       "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
       "url": "https://news.ycombinator.com/item?id=50533270",
       "relatedUrl": "https://github.com/RunanywhereAI/trnrt",
-      "points": 40,
-      "comments": 5,
+      "points": 46,
+      "comments": 7,
       "publishedAt": "2026-11-17T16:01:04Z",
       "source": "Hacker News official API"
     },
@@ -661,7 +661,7 @@
       "title": "Show HN: Agav – an open-source terminal agent designed to waste fewer tokens",
       "url": "https://news.ycombinator.com/item?id=50531644",
       "relatedUrl": "https://github.com/prapaa-ai/agav",
-      "points": 25,
+      "points": 26,
       "comments": 8,
       "publishedAt": "2026-11-17T14:13:10Z",
       "source": "Hacker News official API"
@@ -688,27 +688,27 @@
   "trending": [
     {
       "repo": "elementalsouls/Claude-BugHunter",
-      "starsToday": 1007
+      "starsToday": 1005
     },
     {
       "repo": "mvanhorn/last30days-skill",
-      "starsToday": 772
+      "starsToday": 696
     },
     {
       "repo": "alibaba/open-code-review",
-      "starsToday": 764
+      "starsToday": 763
     },
     {
       "repo": "Tencent/LoopForge",
-      "starsToday": 590
+      "starsToday": 591
     },
     {
       "repo": "dream-num/univer",
-      "starsToday": 1776
+      "starsToday": 1774
     },
     {
       "repo": "getarcaneapp/arcane",
-      "starsToday": 654
+      "starsToday": 618
     },
     {
       "repo": "google-labs-code/stitch-skills",
@@ -716,15 +716,15 @@
     },
     {
       "repo": "cursor/plugins",
-      "starsToday": 196
+      "starsToday": 201
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 598
+      "starsToday": 1917
     },
     {
       "repo": "ag-ui-protocol/ag-ui",
-      "starsToday": 1444
+      "starsToday": 1445
     },
     {
       "repo": "backnotprop/plannotator",
@@ -732,7 +732,7 @@
     },
     {
       "repo": "sveltejs/svelte",
-      "starsToday": 533
+      "starsToday": 477
     }
   ],
   "monitored": [
@@ -749,8 +749,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 112780,
-      "forks": 10108,
+      "stars": 112829,
+      "forks": 10119,
       "issues": 133,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
@@ -825,12 +825,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 30973,
-      "forks": 3030,
+      "stars": 30982,
+      "forks": 3031,
       "issues": 856,
       "language": "TypeScript",
       "pushedAt": "2026-11-10T13:27:08Z",
-      "pushedLabel": "push há 7d",
+      "pushedLabel": "push há 8d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
