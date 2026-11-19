@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T23:15:10.622Z",
-  "generatedLabel": "18 de nov. de 2026 · 20:15",
+  "generatedAt": "2026-11-19T04:03:20.729Z",
+  "generatedLabel": "19 de nov. de 2026 · 01:03",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/mvanhorn/last30days-skill",
-      "stars": 69951,
-      "forks": 6240,
-      "issues": 22,
+      "stars": 70157,
+      "forks": 6252,
+      "issues": 23,
       "language": "Python",
       "pushedAt": "2026-11-17T22:37:11Z",
       "pushedLabel": "push há 1d",
-      "trendingStarsToday": 1062,
+      "trendingStarsToday": 1059,
       "score": 75,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -125,59 +125,6 @@
       "rank": 1
     },
     {
-      "repo": "elementalsouls/Claude-BugHunter",
-      "title": "Claude-BugHunter",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 2,3 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "stars": 11304,
-      "forks": 1506,
-      "issues": 15,
-      "language": "Python",
-      "pushedAt": "2026-11-18T13:09:42Z",
-      "pushedLabel": "push há 10h",
-      "trendingStarsToday": 2322,
-      "score": 74,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/elementalsouls/Claude-BugHunter",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 2,3 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=elementalsouls%20Claude-BugHunter%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Claude-BugHunter%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Claude-BugHunter%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "repo": "google-research/paper-orchestra",
       "title": "paper-orchestra",
       "type": "Novo no GitHub Trending",
@@ -191,13 +138,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/google-research/paper-orchestra",
-      "stars": 4230,
-      "forks": 529,
+      "stars": 4421,
+      "forks": 546,
       "issues": 41,
       "language": "Python",
       "pushedAt": "2026-11-15T18:08:08Z",
       "pushedLabel": "push há 3d",
-      "trendingStarsToday": 1529,
+      "trendingStarsToday": 1524,
       "score": 65,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -228,14 +175,14 @@
           "kind": "busca"
         }
       ],
-      "rank": 3
+      "rank": 2
     },
     {
       "repo": "google-labs-code/stitch-skills",
       "title": "stitch-skills",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 369 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 365 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "broll": [
         "GitHub Trending",
@@ -244,13 +191,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/google-labs-code/stitch-skills",
-      "stars": 10381,
-      "forks": 1365,
+      "stars": 10454,
+      "forks": 1370,
       "issues": 21,
       "language": "TypeScript",
       "pushedAt": "2026-11-18T05:00:25Z",
-      "pushedLabel": "push há 18h",
-      "trendingStarsToday": 369,
+      "pushedLabel": "push há 23h",
+      "trendingStarsToday": 365,
       "score": 65,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -261,7 +208,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 369 stars hoje",
+          "label": "GitHub Trending · 365 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -281,6 +228,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 3
+    },
+    {
+      "repo": "appwrite/appwrite",
+      "title": "appwrite",
+      "type": "Novo no GitHub Trending",
+      "status": "Monitorar hoje",
+      "hook": "Este repositório ganhou 232 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/appwrite/appwrite",
+      "stars": 58266,
+      "forks": 5884,
+      "issues": 735,
+      "language": "TypeScript",
+      "pushedAt": "2026-11-19T02:39:33Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 232,
+      "score": 65,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/appwrite/appwrite",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 232 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=appwrite%20appwrite%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=appwrite%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=appwrite%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 4
     },
     {
@@ -288,7 +288,7 @@
       "title": "SkillEvaluator",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 323 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 312 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
       "broll": [
         "GitHub Trending",
@@ -297,13 +297,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "stars": 3694,
-      "forks": 515,
+      "stars": 3808,
+      "forks": 523,
       "issues": 67,
       "language": "Python",
       "pushedAt": "2026-11-18T21:04:10Z",
-      "pushedLabel": "push há 2h",
-      "trendingStarsToday": 323,
+      "pushedLabel": "push há 7h",
+      "trendingStarsToday": 312,
       "score": 62,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -314,7 +314,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 323 stars hoje",
+          "label": "GitHub Trending · 312 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -341,7 +341,7 @@
       "title": "CLI-Anything",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 384 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 389 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "broll": [
         "GitHub Trending",
@@ -350,13 +350,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars": 59700,
-      "forks": 5423,
+      "stars": 59894,
+      "forks": 5437,
       "issues": 245,
       "language": "Python",
       "pushedAt": "2026-09-22T02:01:29Z",
       "pushedLabel": "push há 58d",
-      "trendingStarsToday": 384,
+      "trendingStarsToday": 389,
       "score": 61,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -367,7 +367,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 384 stars hoje",
+          "label": "GitHub Trending · 389 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -402,8 +402,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 113054,
-      "forks": 10143,
+      "stars": 113105,
+      "forks": 10145,
       "issues": 143,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
@@ -478,12 +478,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 31012,
-      "forks": 3033,
-      "issues": 862,
+      "stars": 31017,
+      "forks": 3034,
+      "issues": 863,
       "language": "TypeScript",
       "pushedAt": "2026-11-10T13:27:08Z",
-      "pushedLabel": "push há 8d",
+      "pushedLabel": "push há 9d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
@@ -518,8 +518,8 @@
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
       "url": "https://news.ycombinator.com/item?id=50547777",
       "relatedUrl": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "points": 302,
-      "comments": 136,
+      "points": 394,
+      "comments": 171,
       "publishedAt": "2026-11-18T15:49:34Z",
       "source": "Hacker News official API"
     },
@@ -536,8 +536,8 @@
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
       "url": "https://news.ycombinator.com/item?id=50538303",
       "relatedUrl": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-      "points": 313,
-      "comments": 427,
+      "points": 320,
+      "comments": 441,
       "publishedAt": "2026-11-17T21:16:12Z",
       "source": "Hacker News official API"
     },
@@ -571,20 +571,16 @@
   ],
   "trending": [
     {
-      "repo": "elementalsouls/Claude-BugHunter",
-      "starsToday": 2322
-    },
-    {
       "repo": "cursor/plugins",
-      "starsToday": 315
+      "starsToday": 314
     },
     {
       "repo": "HKUDS/CLI-Anything",
-      "starsToday": 384
+      "starsToday": 389
     },
     {
       "repo": "mvanhorn/last30days-skill",
-      "starsToday": 1062
+      "starsToday": 1059
     },
     {
       "repo": "getarcaneapp/arcane",
@@ -592,31 +588,35 @@
     },
     {
       "repo": "NVIDIA/SkillEvaluator",
-      "starsToday": 323
+      "starsToday": 312
     },
     {
       "repo": "nvm-sh/nvm",
-      "starsToday": 111
+      "starsToday": 237
     },
     {
       "repo": "astral-sh/uv",
-      "starsToday": 260
+      "starsToday": 258
     },
     {
       "repo": "google-research/paper-orchestra",
-      "starsToday": 1529
+      "starsToday": 1524
     },
     {
       "repo": "google-labs-code/stitch-skills",
-      "starsToday": 369
+      "starsToday": 365
     },
     {
       "repo": "sveltejs/svelte",
-      "starsToday": 694
+      "starsToday": 692
     },
     {
       "repo": "jquery/jquery",
-      "starsToday": 268
+      "starsToday": 266
+    },
+    {
+      "repo": "appwrite/appwrite",
+      "starsToday": 232
     }
   ],
   "monitored": [
@@ -633,8 +633,8 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 113054,
-      "forks": 10143,
+      "stars": 113105,
+      "forks": 10145,
       "issues": 143,
       "language": "Python",
       "pushedAt": "2026-11-08T02:17:48Z",
@@ -709,12 +709,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 31012,
-      "forks": 3033,
-      "issues": 862,
+      "stars": 31017,
+      "forks": 3034,
+      "issues": 863,
       "language": "TypeScript",
       "pushedAt": "2026-11-10T13:27:08Z",
-      "pushedLabel": "push há 8d",
+      "pushedLabel": "push há 9d",
       "trendingStarsToday": null,
       "score": 33,
       "social": [],
