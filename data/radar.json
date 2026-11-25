@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T01:15:03.613Z",
-  "generatedLabel": "24 de nov. de 2026 · 22:15",
+  "generatedAt": "2026-11-25T05:20:12.991Z",
+  "generatedLabel": "25 de nov. de 2026 · 02:20",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,12 +85,12 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 325824,
-      "forks": 28909,
+      "stars": 325956,
+      "forks": 28928,
       "issues": 370,
       "language": "Shell",
       "pushedAt": "2026-11-24T23:59:04Z",
-      "pushedLabel": "push há 1h",
+      "pushedLabel": "push há 5h",
       "trendingStarsToday": 1003,
       "score": 77,
       "social": [
@@ -165,12 +165,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/firecrawl/firecrawl",
-      "stars": 208949,
-      "forks": 10917,
-      "issues": 917,
+      "stars": 209125,
+      "forks": 10926,
+      "issues": 920,
       "language": "TypeScript",
-      "pushedAt": "2026-11-25T00:55:05Z",
-      "pushedLabel": "push há 0h",
+      "pushedAt": "2026-11-25T04:38:45Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 991,
       "score": 76,
       "social": [],
@@ -218,12 +218,12 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "stars": 21488,
-      "forks": 2234,
-      "issues": 13,
+      "stars": 21738,
+      "forks": 2259,
+      "issues": 14,
       "language": "Python",
-      "pushedAt": "2026-11-24T10:43:35Z",
-      "pushedLabel": "push há 15h",
+      "pushedAt": "2026-11-25T04:26:49Z",
+      "pushedLabel": "push há 1h",
       "trendingStarsToday": 1826,
       "score": 75,
       "social": [],
@@ -258,59 +258,6 @@
       "rank": 3
     },
     {
-      "repo": "jingyaogong/minimind",
-      "title": "minimind",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 727 estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/jingyaogong/minimind",
-      "stars": 70212,
-      "forks": 9138,
-      "issues": 63,
-      "language": "Python",
-      "pushedAt": "2026-11-23T04:01:07Z",
-      "pushedLabel": "push há 2d",
-      "trendingStarsToday": 727,
-      "score": 72,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/jingyaogong/minimind",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 727 stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=jingyaogong%20minimind%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=minimind%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=minimind%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
-    },
-    {
       "repo": "HKUDS/CLI-Anything",
       "title": "CLI-Anything",
       "type": "Novo no GitHub Trending",
@@ -324,9 +271,9 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars": 64802,
-      "forks": 5908,
-      "issues": 296,
+      "stars": 65017,
+      "forks": 5920,
+      "issues": 297,
       "language": "Python",
       "pushedAt": "2026-11-20T10:05:15Z",
       "pushedLabel": "push há 5d",
@@ -361,6 +308,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 4
+    },
+    {
+      "repo": "jingyaogong/minimind",
+      "title": "minimind",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 727 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/jingyaogong/minimind",
+      "stars": 70433,
+      "forks": 9158,
+      "issues": 63,
+      "language": "Python",
+      "pushedAt": "2026-11-23T04:01:07Z",
+      "pushedLabel": "push há 2d",
+      "trendingStarsToday": 727,
+      "score": 65,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/jingyaogong/minimind",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 727 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=jingyaogong%20minimind%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=minimind%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=minimind%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 5
     },
     {
@@ -377,11 +377,11 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/openvinotoolkit/openvino",
-      "stars": 12467,
-      "forks": 3693,
-      "issues": 1183,
+      "stars": 12500,
+      "forks": 3696,
+      "issues": 1185,
       "language": "C++",
-      "pushedAt": "2026-11-25T00:16:19Z",
+      "pushedAt": "2026-11-25T04:26:27Z",
       "pushedLabel": "push há 1h",
       "trendingStarsToday": 185,
       "score": 60,
@@ -429,12 +429,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 114523,
-      "forks": 10283,
+      "stars": 114566,
+      "forks": 10287,
       "issues": 160,
       "language": "Python",
       "pushedAt": "2026-11-24T12:25:18Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 17h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -505,12 +505,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 31145,
-      "forks": 3057,
+      "stars": 31153,
+      "forks": 3058,
       "issues": 842,
       "language": "TypeScript",
-      "pushedAt": "2026-11-24T14:08:55Z",
-      "pushedLabel": "push há 11h",
+      "pushedAt": "2026-11-25T02:12:19Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -545,8 +545,8 @@
       "title": "Compiling web applications into verified operations for AI agents",
       "url": "https://news.ycombinator.com/item?id=50632998",
       "relatedUrl": "https://protocolis.co/paper/",
-      "points": 33,
-      "comments": 11,
+      "points": 34,
+      "comments": 12,
       "publishedAt": "2026-11-24T19:12:02Z",
       "source": "Hacker News official API"
     },
@@ -660,12 +660,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 114523,
-      "forks": 10283,
+      "stars": 114566,
+      "forks": 10287,
       "issues": 160,
       "language": "Python",
       "pushedAt": "2026-11-24T12:25:18Z",
-      "pushedLabel": "push há 13h",
+      "pushedLabel": "push há 17h",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -736,12 +736,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 31145,
-      "forks": 3057,
+      "stars": 31153,
+      "forks": 3058,
       "issues": 842,
       "language": "TypeScript",
-      "pushedAt": "2026-11-24T14:08:55Z",
-      "pushedLabel": "push há 11h",
+      "pushedAt": "2026-11-25T02:12:19Z",
+      "pushedLabel": "push há 3h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
