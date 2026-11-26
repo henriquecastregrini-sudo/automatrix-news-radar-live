@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T04:51:17.344Z",
-  "generatedLabel": "26 de nov. de 2026 · 01:51",
+  "generatedAt": "2026-11-26T19:53:31.564Z",
+  "generatedLabel": "26 de nov. de 2026 · 16:53",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -76,7 +76,7 @@
       "title": "firecrawl",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "broll": [
         "GitHub Trending",
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/firecrawl/firecrawl",
-      "stars": 210212,
-      "forks": 10999,
-      "issues": 933,
+      "stars": 210803,
+      "forks": 11042,
+      "issues": 929,
       "language": "TypeScript",
-      "pushedAt": "2026-11-26T04:46:22Z",
+      "pushedAt": "2026-11-26T19:47:02Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1135,
+      "trendingStarsToday": 1042,
       "score": 77,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -102,7 +102,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,1 mil stars hoje",
+          "label": "GitHub Trending · 1 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -125,6 +125,59 @@
       "rank": 1
     },
     {
+      "repo": "elementalsouls/Claude-BugHunter",
+      "title": "Claude-BugHunter",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 1,6 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "stars": 24311,
+      "forks": 2474,
+      "issues": 30,
+      "language": "Python",
+      "pushedAt": "2026-11-26T04:27:01Z",
+      "pushedLabel": "push há 15h",
+      "trendingStarsToday": 1600,
+      "score": 76,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 1,6 mil stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=elementalsouls%20Claude-BugHunter%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=Claude-BugHunter%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=Claude-BugHunter%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "repo": "obra/superpowers",
       "title": "Superpowers",
       "type": "Metodologia para agentes",
@@ -138,13 +191,13 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 326766,
-      "forks": 28992,
-      "issues": 372,
+      "stars": 327341,
+      "forks": 29028,
+      "issues": 373,
       "language": "Shell",
-      "pushedAt": "2026-11-24T23:59:04Z",
-      "pushedLabel": "push há 1d",
-      "trendingStarsToday": 903,
+      "pushedAt": "2026-11-26T11:33:33Z",
+      "pushedLabel": "push há 8h",
+      "trendingStarsToday": 853,
       "score": 76,
       "social": [
         {
@@ -172,7 +225,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 903 stars hoje",
+          "label": "GitHub Trending · 853 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -202,120 +255,14 @@
           "kind": "busca"
         }
       ],
-      "rank": 2
-    },
-    {
-      "repo": "elementalsouls/Claude-BugHunter",
-      "title": "Claude-BugHunter",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,7 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "stars": 23256,
-      "forks": 2380,
-      "issues": 16,
-      "language": "Python",
-      "pushedAt": "2026-11-26T04:27:01Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1652,
-      "score": 75,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/elementalsouls/Claude-BugHunter",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,7 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=elementalsouls%20Claude-BugHunter%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=Claude-BugHunter%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=Claude-BugHunter%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 3
-    },
-    {
-      "repo": "HKUDS/CLI-Anything",
-      "title": "CLI-Anything",
-      "type": "Novo no GitHub Trending",
-      "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,1 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "broll": [
-        "GitHub Trending",
-        "README",
-        "demo oficial",
-        "histórico do projeto"
-      ],
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars": 65817,
-      "forks": 5990,
-      "issues": 320,
-      "language": "Python",
-      "pushedAt": "2026-11-20T10:05:15Z",
-      "pushedLabel": "push há 6d",
-      "trendingStarsToday": 1106,
-      "score": 68,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/HKUDS/CLI-Anything",
-          "kind": "oficial"
-        },
-        {
-          "label": "GitHub Trending · 1,1 mil stars hoje",
-          "url": "https://github.com/trending",
-          "kind": "tendência"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=HKUDS%20CLI-Anything%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=CLI-Anything%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=CLI-Anything%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 4
     },
     {
       "repo": "jingyaogong/minimind",
       "title": "minimind",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 826 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 701 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "broll": [
         "GitHub Trending",
@@ -324,14 +271,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/jingyaogong/minimind",
-      "stars": 71137,
-      "forks": 9236,
-      "issues": 64,
+      "stars": 71566,
+      "forks": 9289,
+      "issues": 66,
       "language": "Python",
-      "pushedAt": "2026-11-23T04:01:07Z",
-      "pushedLabel": "push há 3d",
-      "trendingStarsToday": 826,
-      "score": 66,
+      "pushedAt": "2026-11-26T08:55:11Z",
+      "pushedLabel": "push há 11h",
+      "trendingStarsToday": 701,
+      "score": 72,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -341,7 +288,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 826 stars hoje",
+          "label": "GitHub Trending · 701 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -361,6 +308,59 @@
           "kind": "busca"
         }
       ],
+      "rank": 4
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "title": "CLI-Anything",
+      "type": "Novo no GitHub Trending",
+      "status": "Gravar agora",
+      "hook": "Este repositório ganhou 744 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "broll": [
+        "GitHub Trending",
+        "README",
+        "demo oficial",
+        "histórico do projeto"
+      ],
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "stars": 66244,
+      "forks": 6021,
+      "issues": 327,
+      "language": "Python",
+      "pushedAt": "2026-11-20T10:05:15Z",
+      "pushedLabel": "push há 6d",
+      "trendingStarsToday": 744,
+      "score": 65,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "kind": "oficial"
+        },
+        {
+          "label": "GitHub Trending · 744 stars hoje",
+          "url": "https://github.com/trending",
+          "kind": "tendência"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=HKUDS%20CLI-Anything%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=CLI-Anything%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=CLI-Anything%20AI",
+          "kind": "busca"
+        }
+      ],
       "rank": 5
     },
     {
@@ -368,7 +368,7 @@
       "title": "openvino",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 191 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 176 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "broll": [
         "GitHub Trending",
@@ -377,14 +377,14 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/openvinotoolkit/openvino",
-      "stars": 12687,
-      "forks": 3716,
-      "issues": 1196,
+      "stars": 12790,
+      "forks": 3728,
+      "issues": 1201,
       "language": "C++",
-      "pushedAt": "2026-11-26T04:41:30Z",
-      "pushedLabel": "push há 0h",
-      "trendingStarsToday": 191,
-      "score": 61,
+      "pushedAt": "2026-11-26T19:18:09Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 176,
+      "score": 60,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
       "sources": [
@@ -394,7 +394,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 191 stars hoje",
+          "label": "GitHub Trending · 176 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -417,6 +417,53 @@
       "rank": 6
     },
     {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 31213,
+      "forks": 3062,
+      "issues": 848,
+      "language": "TypeScript",
+      "pushedAt": "2026-11-26T14:09:02Z",
+      "pushedLabel": "push há 6h",
+      "trendingStarsToday": null,
+      "score": 40,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 7
+    },
+    {
       "repo": "Panniantong/Agent-Reach",
       "type": "Repo monitorado",
       "status": "Monitorar hoje",
@@ -429,14 +476,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 114780,
-      "forks": 10308,
-      "issues": 163,
+      "stars": 115026,
+      "forks": 10342,
+      "issues": 162,
       "language": "Python",
       "pushedAt": "2026-11-24T12:25:18Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
-      "score": 42,
+      "score": 35,
       "social": [
         {
           "platform": "Reddit",
@@ -490,57 +537,37 @@
           "kind": "busca"
         }
       ],
-      "rank": 7
-    },
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 31190,
-      "forks": 3061,
-      "issues": 856,
-      "language": "TypeScript",
-      "pushedAt": "2026-11-26T02:11:47Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": null,
-      "score": 40,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        }
-      ],
       "rank": 8
     }
   ],
   "news": [
+    {
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://news.ycombinator.com/item?id=50653477",
+      "relatedUrl": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "points": 115,
+      "comments": 124,
+      "publishedAt": "2026-11-26T09:44:23Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "What broke in 27 days of running a team of AI agents on real work",
+      "url": "https://news.ycombinator.com/item?id=50654863",
+      "relatedUrl": "https://ethanflow.com/writing/what-broke-ai-agent-team/",
+      "points": 6,
+      "comments": 3,
+      "publishedAt": "2026-11-26T13:01:32Z",
+      "source": "Hacker News official API"
+    },
+    {
+      "title": "We built self-improving AI agents for customer service",
+      "url": "https://news.ycombinator.com/item?id=50655280",
+      "relatedUrl": "https://aide.app/blog/self-improving-ai-agents",
+      "points": 5,
+      "comments": 1,
+      "publishedAt": "2026-11-26T13:48:33Z",
+      "source": "Hacker News official API"
+    },
     {
       "title": "Show HN: Avva – Compress your expertise available to AI agent via MCP",
       "url": "https://news.ycombinator.com/item?id=50641710",
@@ -554,27 +581,9 @@
       "title": "Google mandates MCP for AI agents accessing Workspace and restricts direct API",
       "url": "https://news.ycombinator.com/item?id=50637725",
       "relatedUrl": "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html",
-      "points": 5,
+      "points": 6,
       "comments": 3,
       "publishedAt": "2026-11-25T02:40:48Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "url": "https://news.ycombinator.com/item?id=50642880",
-      "relatedUrl": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-      "points": 4,
-      "comments": 1,
-      "publishedAt": "2026-11-25T14:50:17Z",
-      "source": "Hacker News official API"
-    },
-    {
-      "title": "Compiling web applications into verified operations for AI agents",
-      "url": "https://news.ycombinator.com/item?id=50632998",
-      "relatedUrl": "https://protocolis.co/paper/",
-      "points": 34,
-      "comments": 14,
-      "publishedAt": "2026-11-24T19:12:02Z",
       "source": "Hacker News official API"
     },
     {
@@ -585,68 +594,106 @@
       "comments": 4,
       "publishedAt": "2026-11-24T20:17:32Z",
       "source": "Hacker News official API"
-    },
-    {
-      "title": "Show HN: Wakeshift – Open-Source MCP Events for Claude Code, Codex and More",
-      "url": "https://news.ycombinator.com/item?id=50634239",
-      "relatedUrl": "https://github.com/wakeshift/server",
-      "points": 4,
-      "comments": 1,
-      "publishedAt": "2026-11-24T20:27:48Z",
-      "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "elementalsouls/Claude-BugHunter",
-      "starsToday": 1652
+      "starsToday": 1600
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 903
+      "starsToday": 853
     },
     {
       "repo": "HKUDS/CLI-Anything",
-      "starsToday": 1106
+      "starsToday": 744
     },
     {
       "repo": "jingyaogong/minimind",
-      "starsToday": 826
+      "starsToday": 701
     },
     {
       "repo": "cursor/plugins",
-      "starsToday": 416
+      "starsToday": 268
     },
     {
       "repo": "firecrawl/firecrawl",
-      "starsToday": 1135
+      "starsToday": 1042
     },
     {
       "repo": "nginx/nginx",
-      "starsToday": 176
+      "starsToday": 150
     },
     {
       "repo": "openvinotoolkit/openvino",
-      "starsToday": 191
+      "starsToday": 176
     },
     {
       "repo": "cathrynlavery/diagram-design",
-      "starsToday": 1141
+      "starsToday": 951
     },
     {
       "repo": "mvanhorn/last30days-skill",
-      "starsToday": 945
+      "starsToday": 755
     },
     {
       "repo": "google-labs-code/stitch-skills",
-      "starsToday": 355
+      "starsToday": 308
     },
     {
       "repo": "mjmirza/app-store-compliance",
-      "starsToday": 858
+      "starsToday": 561
     }
   ],
   "monitored": [
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "type": "Memória de agentes",
+      "status": "Usar como comparação",
+      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
+      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
+      "broll": [
+        "README",
+        "arquitetura de memória",
+        "code graph"
+      ],
+      "title": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 31213,
+      "forks": 3062,
+      "issues": 848,
+      "language": "TypeScript",
+      "pushedAt": "2026-11-26T14:09:02Z",
+      "pushedLabel": "push há 6h",
+      "trendingStarsToday": null,
+      "score": 40,
+      "social": [],
+      "socialStatus": "sem post direto verificado — precisa varredura social",
+      "sources": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "kind": "oficial"
+        },
+        {
+          "label": "Buscar YouTube",
+          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar Instagram",
+          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        },
+        {
+          "label": "Buscar TikTok",
+          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
+          "kind": "busca"
+        }
+      ],
+      "rank": 7
+    },
     {
       "repo": "Panniantong/Agent-Reach",
       "type": "Repo monitorado",
@@ -660,14 +707,14 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 114780,
-      "forks": 10308,
-      "issues": 163,
+      "stars": 115026,
+      "forks": 10342,
+      "issues": 162,
       "language": "Python",
       "pushedAt": "2026-11-24T12:25:18Z",
       "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
-      "score": 42,
+      "score": 35,
       "social": [
         {
           "platform": "Reddit",
@@ -718,53 +765,6 @@
         {
           "label": "Buscar TikTok",
           "url": "https://www.tiktok.com/search?q=Agent-Reach%20AI",
-          "kind": "busca"
-        }
-      ],
-      "rank": 7
-    },
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "type": "Memória de agentes",
-      "status": "Usar como comparação",
-      "hook": "O próximo salto dos agentes não é pensar mais. É lembrar melhor.",
-      "thesis": "Memória compartilhada é a camada que torna agentes úteis por mais tempo.",
-      "broll": [
-        "README",
-        "arquitetura de memória",
-        "code graph"
-      ],
-      "title": "TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 31190,
-      "forks": 3061,
-      "issues": 856,
-      "language": "TypeScript",
-      "pushedAt": "2026-11-26T02:11:47Z",
-      "pushedLabel": "push há 3h",
-      "trendingStarsToday": null,
-      "score": 40,
-      "social": [],
-      "socialStatus": "sem post direto verificado — precisa varredura social",
-      "sources": [
-        {
-          "label": "GitHub",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "kind": "oficial"
-        },
-        {
-          "label": "Buscar YouTube",
-          "url": "https://www.youtube.com/results?search_query=TencentCloud%20TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar Instagram",
-          "url": "https://www.instagram.com/explore/search/keyword/?q=TencentDB-Agent-Memory%20AI",
-          "kind": "busca"
-        },
-        {
-          "label": "Buscar TikTok",
-          "url": "https://www.tiktok.com/search?q=TencentDB-Agent-Memory%20AI",
           "kind": "busca"
         }
       ],
