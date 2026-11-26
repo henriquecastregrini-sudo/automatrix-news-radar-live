@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T20:15:49.445Z",
-  "generatedLabel": "25 de nov. de 2026 · 17:15",
+  "generatedAt": "2026-11-26T00:49:49.612Z",
+  "generatedLabel": "25 de nov. de 2026 · 21:49",
   "dataPolicy": "Métricas GitHub e Hacker News são factuais quando a fonte responde. Score é editorial e combina tração, atualização, sinais sociais verificados e discussão independente no HN; post promocional não comprova alcance orgânico. Buscas não são prova social.",
   "sources": [
     {
@@ -85,13 +85,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/firecrawl/firecrawl",
-      "stars": 209888,
-      "forks": 10976,
-      "issues": 917,
+      "stars": 210040,
+      "forks": 10989,
+      "issues": 925,
       "language": "TypeScript",
-      "pushedAt": "2026-11-25T20:13:40Z",
+      "pushedAt": "2026-11-26T00:47:20Z",
       "pushedLabel": "push há 0h",
-      "trendingStarsToday": 1131,
+      "trendingStarsToday": 1135,
       "score": 77,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -138,13 +138,13 @@
         "vídeo demonstrativo"
       ],
       "url": "https://github.com/obra/superpowers",
-      "stars": 326502,
-      "forks": 28969,
+      "stars": 326613,
+      "forks": 28984,
       "issues": 372,
       "language": "Shell",
       "pushedAt": "2026-11-24T23:59:04Z",
-      "pushedLabel": "push há 20h",
-      "trendingStarsToday": 902,
+      "pushedLabel": "push há 1d",
+      "trendingStarsToday": 903,
       "score": 76,
       "social": [
         {
@@ -172,7 +172,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 902 stars hoje",
+          "label": "GitHub Trending · 903 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -209,8 +209,8 @@
       "title": "Claude-BugHunter",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 1,6 mil estrelas hoje e entrou no radar dos desenvolvedores.",
-      "thesis": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "hook": "Este repositório ganhou 1,7 mil estrelas hoje e entrou no radar dos desenvolvedores.",
+      "thesis": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "broll": [
         "GitHub Trending",
         "README",
@@ -218,13 +218,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "stars": 22769,
-      "forks": 2337,
-      "issues": 20,
+      "stars": 23001,
+      "forks": 2350,
+      "issues": 13,
       "language": "Python",
-      "pushedAt": "2026-11-25T04:26:49Z",
-      "pushedLabel": "push há 16h",
-      "trendingStarsToday": 1644,
+      "pushedAt": "2026-11-25T23:28:39Z",
+      "pushedLabel": "push há 1h",
+      "trendingStarsToday": 1652,
       "score": 75,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -235,7 +235,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 1,6 mil stars hoje",
+          "label": "GitHub Trending · 1,7 mil stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -271,13 +271,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars": 65575,
-      "forks": 5959,
-      "issues": 312,
+      "stars": 65674,
+      "forks": 5976,
+      "issues": 313,
       "language": "Python",
       "pushedAt": "2026-11-20T10:05:15Z",
-      "pushedLabel": "push há 5d",
-      "trendingStarsToday": 1094,
+      "pushedLabel": "push há 6d",
+      "trendingStarsToday": 1106,
       "score": 68,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -315,7 +315,7 @@
       "title": "minimind",
       "type": "Novo no GitHub Trending",
       "status": "Gravar agora",
-      "hook": "Este repositório ganhou 828 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 826 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "broll": [
         "GitHub Trending",
@@ -324,13 +324,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/jingyaogong/minimind",
-      "stars": 70880,
-      "forks": 9212,
+      "stars": 70940,
+      "forks": 9225,
       "issues": 64,
       "language": "Python",
       "pushedAt": "2026-11-23T04:01:07Z",
       "pushedLabel": "push há 3d",
-      "trendingStarsToday": 828,
+      "trendingStarsToday": 826,
       "score": 66,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -341,7 +341,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 828 stars hoje",
+          "label": "GitHub Trending · 826 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -368,7 +368,7 @@
       "title": "openvino",
       "type": "Novo no GitHub Trending",
       "status": "Monitorar hoje",
-      "hook": "Este repositório ganhou 188 estrelas hoje e entrou no radar dos desenvolvedores.",
+      "hook": "Este repositório ganhou 191 estrelas hoje e entrou no radar dos desenvolvedores.",
       "thesis": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "broll": [
         "GitHub Trending",
@@ -377,13 +377,13 @@
         "histórico do projeto"
       ],
       "url": "https://github.com/openvinotoolkit/openvino",
-      "stars": 12625,
-      "forks": 3707,
-      "issues": 1190,
+      "stars": 12652,
+      "forks": 3714,
+      "issues": 1189,
       "language": "C++",
-      "pushedAt": "2026-11-25T19:45:28Z",
-      "pushedLabel": "push há 1h",
-      "trendingStarsToday": 188,
+      "pushedAt": "2026-11-26T00:41:47Z",
+      "pushedLabel": "push há 0h",
+      "trendingStarsToday": 191,
       "score": 61,
       "social": [],
       "socialStatus": "sem post direto verificado — precisa varredura social",
@@ -394,7 +394,7 @@
           "kind": "oficial"
         },
         {
-          "label": "GitHub Trending · 188 stars hoje",
+          "label": "GitHub Trending · 191 stars hoje",
           "url": "https://github.com/trending",
           "kind": "tendência"
         },
@@ -429,12 +429,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 114690,
-      "forks": 10304,
-      "issues": 160,
+      "stars": 114737,
+      "forks": 10306,
+      "issues": 161,
       "language": "Python",
       "pushedAt": "2026-11-24T12:25:18Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -505,12 +505,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 31178,
+      "stars": 31185,
       "forks": 3061,
       "issues": 848,
       "language": "TypeScript",
       "pushedAt": "2026-11-25T14:09:04Z",
-      "pushedLabel": "push há 6h",
+      "pushedLabel": "push há 11h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
@@ -554,8 +554,8 @@
       "title": "Google mandates MCP for AI agents accessing Workspace and restricts direct API",
       "url": "https://news.ycombinator.com/item?id=50637725",
       "relatedUrl": "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html",
-      "points": 3,
-      "comments": 2,
+      "points": 5,
+      "comments": 3,
       "publishedAt": "2026-11-25T02:40:48Z",
       "source": "Hacker News official API"
     },
@@ -587,63 +587,63 @@
       "source": "Hacker News official API"
     },
     {
-      "title": "Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
-      "url": "https://news.ycombinator.com/item?id=50621162",
-      "relatedUrl": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "title": "Show HN: Wakeshift – Open-Source MCP Events for Claude Code, Codex and More",
+      "url": "https://news.ycombinator.com/item?id=50634239",
+      "relatedUrl": "https://github.com/wakeshift/server",
       "points": 4,
-      "comments": 3,
-      "publishedAt": "2026-11-23T23:39:44Z",
+      "comments": 1,
+      "publishedAt": "2026-11-24T20:27:48Z",
       "source": "Hacker News official API"
     }
   ],
   "trending": [
     {
       "repo": "elementalsouls/Claude-BugHunter",
-      "starsToday": 1644
+      "starsToday": 1652
     },
     {
       "repo": "obra/superpowers",
-      "starsToday": 902
+      "starsToday": 903
     },
     {
       "repo": "HKUDS/CLI-Anything",
-      "starsToday": 1094
+      "starsToday": 1106
     },
     {
       "repo": "jingyaogong/minimind",
-      "starsToday": 828
+      "starsToday": 826
     },
     {
       "repo": "cursor/plugins",
-      "starsToday": 408
+      "starsToday": 416
     },
     {
       "repo": "firecrawl/firecrawl",
-      "starsToday": 1131
+      "starsToday": 1135
     },
     {
       "repo": "nginx/nginx",
-      "starsToday": 174
+      "starsToday": 176
     },
     {
       "repo": "openvinotoolkit/openvino",
-      "starsToday": 188
+      "starsToday": 191
     },
     {
       "repo": "cathrynlavery/diagram-design",
-      "starsToday": 1133
+      "starsToday": 1141
     },
     {
       "repo": "mvanhorn/last30days-skill",
-      "starsToday": 950
+      "starsToday": 945
     },
     {
       "repo": "google-labs-code/stitch-skills",
-      "starsToday": 352
+      "starsToday": 355
     },
     {
       "repo": "mjmirza/app-store-compliance",
-      "starsToday": 853
+      "starsToday": 858
     }
   ],
   "monitored": [
@@ -660,12 +660,12 @@
       ],
       "title": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 114690,
-      "forks": 10304,
-      "issues": 160,
+      "stars": 114737,
+      "forks": 10306,
+      "issues": 161,
       "language": "Python",
       "pushedAt": "2026-11-24T12:25:18Z",
-      "pushedLabel": "push há 1d",
+      "pushedLabel": "push há 2d",
       "trendingStarsToday": null,
       "score": 42,
       "social": [
@@ -736,12 +736,12 @@
       ],
       "title": "TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": 31178,
+      "stars": 31185,
       "forks": 3061,
       "issues": 848,
       "language": "TypeScript",
       "pushedAt": "2026-11-25T14:09:04Z",
-      "pushedLabel": "push há 6h",
+      "pushedLabel": "push há 11h",
       "trendingStarsToday": null,
       "score": 40,
       "social": [],
